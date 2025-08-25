@@ -71,7 +71,7 @@
 2G;234;10;12210;21785;0;45;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];119
 2G;234;10;12356;null;0;19;52.13484918446945;-4.5524463057518005;Rhiw y Rofft, Aberporth, Ceredigion, Wales, UK;122
 2G;234;10;12492;null;0;31;51.86680796801164;-2.205882892012596;BizSpace Corinium House, Barnwood Point, 2 Corinium Avenue, Barnwood, Gloucester, Gloucestershire, England, UK;114
-2G;234;10;12554;21785;0;5;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;117
+2G;234;10;12554;21785;0;5;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;117
 2G;234;30;12628;2516;0;51;;;-;653
 2G;234;30;12634;2516;0;26;;;-;645
 2G;234;10;12649;null;0;20;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;116
@@ -199,7 +199,7 @@
 2G;234;10;22210;21785;0;17;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];122
 2G;234;10;22356;null;0;62;52.13484918446945;-4.5524463057518005;Rhiw y Rofft, Aberporth, Ceredigion, Wales, UK;124
 2G;234;10;22492;21785;0;3;51.86680796801164;-2.205882892012596;BizSpace Corinium House, Barnwood Point, 2 Corinium Avenue, Barnwood, Gloucester, Gloucestershire, England, UK;123
-2G;234;10;22554;21785;0;60;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;115
+2G;234;10;22554;21785;0;60;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;115
 2G;234;10;22649;null;0;48;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;120
 2G;234;10;22657;21785;0;34;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;116
 2G;234;10;22686;null;0;2;51.456397464847726;-2.6083994955243;Clifton Heights, Triangle West A4018, The Triangle, Spike Island, Bristol, West of England, England, UK;118
@@ -229,7 +229,7 @@
 2G;234;10;25279;null;0;1;51.43910709221704;-2.599548362195492;Malago Trade Park, Wesley Street, Southville, Bristol, West of England, England, UK;114
 2G;234;15;25291;289;0;52;;;-;4
 2G;234;10;25320;21400;0;34;51.357798402299665;-2.924320288002491;IMO Car Wash, New Bristol Road B3440, Worle, Weston-super-Mare, North Somerset, England, UK;114
-2G;234;10;25415;null;0;11;51.90273446850362;-2.1150847524404526;Evington Court, Edinburgh Pl, Cheltenham, Gloucestershire, England, UK;113
+2G;234;10;25415;null;0;11;51.90273446850362;-2.1150847524404526;Evington Court, Edinburgh Place, St Mark's, Cheltenham, Gloucestershire, England, UK;113
 2G;234;10;25758;21400;0;60;51.350188194508775;-2.971865125000477;23 Wooler Rd, Weston-super-mare, North Somerset, England, UK;121
 2G;234;15;26050;null;0;12;;;-;3
 2G;234;15;26072;289;0;3;;;-;2
@@ -304,7 +304,7 @@
 2G;234;10;32209;21400;0;35;51.4332631;-2.5867361;Wedmore Vale, Knowle, Bristol, West of England, England, UK;118
 2G;234;10;32210;21785;0;41;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];116
 2G;234;10;32492;21785;0;40;51.86680796801164;-2.205882892012596;BizSpace Corinium House, Barnwood Point, 2 Corinium Avenue, Barnwood, Gloucester, Gloucestershire, England, UK;122
-2G;234;10;32554;21785;0;60;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;119
+2G;234;10;32554;21785;0;60;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;119
 2G;234;10;32649;21785;0;32;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;122
 2G;234;10;32657;21785;0;63;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;122
 2G;234;10;32878;21785;0;62;51.83200039098511;-2.2452349215745926;The Fox & Elm, 2 Tuffley Lane, Stroud Road, A4173, Tuffley, Gloucester, Gloucestershire, England, UK;120
@@ -401,7 +401,7 @@
 2G;234;15;47178;null;0;2;;;-;22
 2G;234;15;47180;309;0;32;;;-;16
 2G;234;15;47263;null;0;25;;;-;4
-2G;234;15;47491;259;0;45;51.744872671911175;-2.2143955528736115;3b Nelson St, Stroud, Gloucestershire, England, UK;8
+2G;234;15;47491;259;0;45;51.744872671911175;-2.2143955528736115;The Co-operative Building, 3b Nelson Street, Stroud, Gloucestershire, England, UK;8
 2G;234;15;47882;133;0;18;;;-;4
 2G;234;30;49753;2302;0;53;;;-;647
 2G;234;30;49754;null;0;30;;;-;655
@@ -559,12 +559,12 @@
 4G;234;20;8;6495;1399;249;51.54252451371725;-2.5796034559607506;1340 Park Ave, Almondsbury, South Gloucestershire, West of England, England, UK;6175
 4G;234;20;0;3181;1412;438;53.56075645250557;-1.0408583655953407;Thorne Road A18, Dunsville, Doncaster, South Yorkshire, England, UK;1363
 4G;234;20;2;3166;1415;443;53.53041734621999;-1.1578968912363052;Wheatley Hills Rugby Training Ground, 3 Arkwright Road, Cusworth, Doncaster, South Yorkshire, England, UK;1363
-4G;234;20;0;2123;1422;123;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;1363
-4G;234;20;1;2123;1422;124;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;1363
-4G;234;20;2;2123;1422;284;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;1363
-4G;234;20;71;2123;1422;207;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;76
-4G;234;20;72;2123;1422;208;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;76
-4G;234;20;73;2123;1422;209;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;76
+4G;234;20;0;2123;1422;123;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;1363
+4G;234;20;1;2123;1422;124;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;1363
+4G;234;20;2;2123;1422;284;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;1363
+4G;234;20;71;2123;1422;207;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;76
+4G;234;20;72;2123;1422;208;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;76
+4G;234;20;73;2123;1422;209;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;76
 4G;234;20;0;2123;1423;24;51.85247111910595;-2.2141799703240395;St. Oswald's Parish Church Coney Hill, Coney Hill Road, Coney Hill, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;1;2123;1423;355;51.85247111910595;-2.2141799703240395;St. Oswald's Parish Church Coney Hill, Coney Hill Road, Coney Hill, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;2;2123;1423;401;51.85247111910595;-2.2141799703240395;St. Oswald's Parish Church Coney Hill, Coney Hill Road, Coney Hill, Gloucester, Gloucestershire, England, UK;1363
@@ -763,22 +763,22 @@
 4G;234;10;124;16625;2919;250;51.525200336762985;-2.619360499083996;4 Cavendish Wy, Patchway, Bristol, West of England, England, UK;199
 4G;234;10;130;16625;2919;249;51.525200336762985;-2.619360499083996;4 Cavendish Wy, Patchway, Bristol, West of England, England, UK;6400
 4G;234;10;134;16625;2919;249;51.525200336762985;-2.619360499083996;4 Cavendish Wy, Patchway, Bristol, West of England, England, UK;199
-4G;234;15;10;24610;2920;45;51.81476610625773;-2.7019795775413513;1 Hadnock Rd, Monmouth, Monmouthshire, Wales, UK [Cornerstone];6300
-4G;234;15;30;24610;2920;47;51.81476610625773;-2.7019795775413513;1 Hadnock Rd, Monmouth, Monmouthshire, Wales, UK [Cornerstone];6300
-4G;234;15;34;24610;2920;47;51.81476610625773;-2.7019795775413513;1 Hadnock Rd, Monmouth, Monmouthshire, Wales, UK [Cornerstone];323
-4G;234;10;110;16624;2920;45;51.81476610625773;-2.7019795775413513;1 Hadnock Rd, Monmouth, Monmouthshire, Wales, UK [Cornerstone];6400
-4G;234;10;114;16624;2920;45;51.81476610625773;-2.7019795775413513;1 Hadnock Rd, Monmouth, Monmouthshire, Wales, UK [Cornerstone];199
-4G;234;10;130;16624;2920;47;51.81476610625773;-2.7019795775413513;1 Hadnock Rd, Monmouth, Monmouthshire, Wales, UK [Cornerstone];6400
-4G;234;10;134;16624;2920;47;51.81476610625773;-2.7019795775413513;1 Hadnock Rd, Monmouth, Monmouthshire, Wales, UK [Cornerstone];199
+4G;234;15;10;24610;2920;45;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];6300
+4G;234;15;30;24610;2920;47;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];6300
+4G;234;15;34;24610;2920;47;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];323
+4G;234;10;110;16624;2920;45;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];6400
+4G;234;10;114;16624;2920;45;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];199
+4G;234;10;130;16624;2920;47;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];6400
+4G;234;10;134;16624;2920;47;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];199
 4G;234;15;10;24723;2928;363;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];6300
 4G;234;15;12;24723;2928;230;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];3501
 4G;234;15;14;24723;2928;189;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];323
 4G;234;15;20;24723;2928;364;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];6300
 4G;234;15;24;24723;2928;190;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];323
 4G;234;15;34;24723;2928;191;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];323
-4G;234;15;10;24723;2929;162;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;6300
-4G;234;15;20;24723;2929;163;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;6300
-4G;234;15;30;24723;2929;164;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;6300
+4G;234;15;10;24723;2929;162;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;6300
+4G;234;15;20;24723;2929;163;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;6300
+4G;234;15;30;24723;2929;164;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;6300
 4G;234;20;1;2244;2933;418;51.505096773680435;-3.1659960374236107;University Hall, Birchwood Rd, Cardiff, Wales, UK;1363
 4G;234;10;120;16608;2938;21;51.534867450784276;-3.2202598080039024;140 Wenallt Road, Pantmawr, Cardiff, Wales, UK;6400
 4G;234;10;130;16625;2939;7;51.53860542957992;-2.3901204764842987;Pearce Performance & Accident Repair Centre Unit 1 TT Trading Estate, Hatters Lane, Chipping Sodbury, South Gloucestershire, West of England, England, UK;6400
@@ -1517,6 +1517,15 @@
 4G;234;20;0;3166;6335;324;53.54273566176043;-1.1449039354920387;Bentley High Street Primary School, High Street, Bentley, Doncaster, South Yorkshire, England, UK;1363
 4G;234;20;0;2143;6350;228;51.36429244032763;-2.9188770800828934;100 The Poplars, St Marks Rd, Worle, Weston-super-mare, North Somerset, England, UK;1363
 4G;234;20;0;3124;6353;120;53.39279088797186;-1.4475268498063087;Don Valley House, Savile Street East A6109, Atlas, Sheffield, South Yorkshire, England, UK;1363
+4G;234;15;10;24626;6376;138;51.38788429856486;-2.3326414078474045;Golf Course Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];6300
+4G;234;15;12;24626;6376;138;51.38788429856486;-2.3326414078474045;Golf Course Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];3501
+4G;234;15;14;24626;6376;138;51.38788429856486;-2.3326414078474045;Golf Course Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];323
+4G;234;15;18;24626;6376;138;51.38788429856486;-2.3326414078474045;Golf Course Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];2850
+4G;234;15;20;24626;6376;139;51.38788429856486;-2.3326414078474045;Golf Course Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];6300
+4G;234;15;22;24626;6376;139;51.38788429856486;-2.3326414078474045;Golf Course Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];3501
+4G;234;15;24;24626;6376;139;51.38788429856486;-2.3326414078474045;Golf Course Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];323
+4G;234;15;28;24626;6376;139;51.38788429856486;-2.3326414078474045;Golf Course Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];2850
+4G;234;15;30;24626;6376;140;51.38788429856486;-2.3326414078474045;Golf Course Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];6300
 4G;234;10;110;16832;6376;138;51.38788429856486;-2.3326414078474045;Golf Course Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];6400
 4G;234;10;112;16832;6376;138;51.38788429856486;-2.3326414078474045;Golf Course Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];3725
 4G;234;10;122;16832;6376;139;51.38788429856486;-2.3326414078474045;Golf Course Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];3725
@@ -1770,17 +1779,17 @@
 4G;234;15;10;24611;8041;342;51.46071979887348;-2.589353956282139;Kenham House, 11 Wilder St, St Paul's, Bristol, West of England, England, UK;6300
 4G;234;10;114;16625;8041;342;51.46071979887348;-2.589353956282139;Kenham House, 11 Wilder St, St Paul's, Bristol, West of England, England, UK;199
 4G;234;10;116;16625;8041;342;51.46071979887348;-2.589353956282139;Kenham House, 11 Wilder St, St Paul's, Bristol, West of England, England, UK;1226
-4G;234;15;24;24611;8069;255;51.45293553081891;-2.5678205117583275;4 Jarvis St, Bristol, West of England, England, UK;323
-4G;234;15;34;24611;8069;257;51.45293553081891;-2.5678205117583275;4 Jarvis St, Bristol, West of England, England, UK;323
-4G;234;10;110;16625;8069;256;51.45293553081891;-2.5678205117583275;4 Jarvis St, Bristol, West of England, England, UK;6400
-4G;234;10;114;16625;8069;256;51.45293553081891;-2.5678205117583275;4 Jarvis St, Bristol, West of England, England, UK;199
-4G;234;10;120;16625;8069;255;51.45293553081891;-2.5678205117583275;4 Jarvis St, Bristol, West of England, England, UK;6400
-4G;234;10;122;16625;8069;255;51.45293553081891;-2.5678205117583275;4 Jarvis St, Bristol, West of England, England, UK;3725
-4G;234;10;124;16625;8069;255;51.45293553081891;-2.5678205117583275;4 Jarvis St, Bristol, West of England, England, UK;199
-4G;234;10;132;16625;8069;257;51.45293553081891;-2.5678205117583275;4 Jarvis St, Bristol, West of England, England, UK;3725
-4G;234;10;134;16625;8069;257;51.45293553081891;-2.5678205117583275;4 Jarvis St, Bristol, West of England, England, UK;199
-4G;234;15;24;24723;8073;265;51.90273446850362;-2.1150847524404526;Evington Court, Edinburgh Pl, Cheltenham, Gloucestershire, England, UK;323
-4G;234;15;34;24723;8073;265;51.90273446850362;-2.1150847524404526;Evington Court, Edinburgh Pl, Cheltenham, Gloucestershire, England, UK;323
+4G;234;15;24;24611;8069;255;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;323
+4G;234;15;34;24611;8069;257;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;323
+4G;234;10;110;16625;8069;256;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;6400
+4G;234;10;114;16625;8069;256;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;199
+4G;234;10;120;16625;8069;255;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;6400
+4G;234;10;122;16625;8069;255;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;3725
+4G;234;10;124;16625;8069;255;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;199
+4G;234;10;132;16625;8069;257;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;3725
+4G;234;10;134;16625;8069;257;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;199
+4G;234;15;24;24723;8073;265;51.90273446850362;-2.1150847524404526;Evington Court, Edinburgh Place, St Mark's, Cheltenham, Gloucestershire, England, UK;323
+4G;234;15;34;24723;8073;265;51.90273446850362;-2.1150847524404526;Evington Court, Edinburgh Place, St Mark's, Cheltenham, Gloucestershire, England, UK;323
 4G;234;20;0;2459;8091;309;51.841045000341126;-2.218226082623005;Evan's Walk Play Area, Matson Lane Roundabout, Matson, Gloucester, Gloucestershire, England, UK;1363
 4G;234;15;20;24723;8137;136;51.83562089738792;-2.033274360001087;Upper Coberley, Cheltenham, Gloucestershire, England, UK;6300
 4G;234;20;0;2464;8147;205;51.74026391702845;-2.2386853024363518;6 Dudbridge Rd, Dudbridge, Stroud, Gloucestershire, England, UK;1363
@@ -1862,8 +1871,8 @@
 4G;234;20;6;6003;8470;94;51.60832504288341;-2.4837325885891914;Green Lane, Milbury Heath, South Gloucestershire, West of England, England, UK;6175
 4G;234;20;7;6003;8470;26;51.60832504288341;-2.4837325885891914;Green Lane, Milbury Heath, South Gloucestershire, West of England, England, UK;6175
 4G;234;20;8;2245;8480;243;53.05808513793301;-1.476283147931099;9 Lynton Road, Ambergate, Derbyshire, England, UK;6175
-4G;234;15;14;24611;8501;106;51.50193416121119;-2.5355102866888046;GF38+2C, Bristol, Winterbourne, Bristol, West of England, England, UK;323
-4G;234;10;114;16625;8501;106;51.50193416121119;-2.5355102866888046;GF38+2C, Bristol, Winterbourne, Bristol, West of England, England, UK;199
+4G;234;15;14;24611;8501;106;51.50193416121119;-2.5355102866888046;Frenchay Cricket Club, Filton Road, Winterbourne, South Gloucestershire, West of England, England, UK;323
+4G;234;10;114;16625;8501;106;51.50193416121119;-2.5355102866888046;Frenchay Cricket Club, Filton Road, Winterbourne, South Gloucestershire, West of England, England, UK;199
 4G;234;15;38;6190;8629;401;51.4808043088957;-0.4851536080241204;Margaret Cassidy House, Bath Rd, Longford, West Drayton, Hillingdon, Greater London, England, UK;2850
 4G;234;20;6;6147;8635;376;51.68538135691467;-2.6165854185819626;Unnamed Road, Chepstow, UK;6175
 4G;234;15;10;24738;8638;453;52.06741748718743;-4.07647792249918;Mynydd Pencarreg, Pencarreg, Carmarthenshire, Wales, UK;6300
@@ -1964,10 +1973,10 @@
 4G;234;10;130;16609;9184;194;51.42100533601057;-2.744910679757595;Moorside Farm, Station Road, Backwell, North Somerset, England, UK;6400
 4G;234;20;6;6003;9214;325;51.57586956945023;-2.5205304846167564;Church Road, Alveston, UK;6175
 4G;234;20;7;6003;9214;136;51.57586956945023;-2.5205304846167564;Church Road, Alveston, UK;6175
-4G;234;20;0;2145;9232;22;51.76899369905004;-2.319139838218689;42 Grove Ln, Whitminster, Gloucester, UK;1363
-4G;234;20;1;2145;9232;29;51.76899369905004;-2.319139838218689;42 Grove Ln, Whitminster, Gloucester, UK;1363
-4G;234;20;6;6154;9232;234;51.76899369905004;-2.319139838218689;42 Grove Ln, Whitminster, Gloucester, UK;6175
-4G;234;20;7;6154;9232;466;51.76899369905004;-2.319139838218689;42 Grove Ln, Whitminster, Gloucester, UK;6175
+4G;234;20;0;2145;9232;22;51.76899369905004;-2.319139838218689;42 Grove Lane, Whitminster, Gloucestershire, England, UK;1363
+4G;234;20;1;2145;9232;29;51.76899369905004;-2.319139838218689;42 Grove Lane, Whitminster, Gloucestershire, England, UK;1363
+4G;234;20;6;2145;9232;234;51.76899369905004;-2.319139838218689;42 Grove Lane, Whitminster, Gloucestershire, England, UK;6175
+4G;234;20;7;2145;9232;466;51.76899369905004;-2.319139838218689;42 Grove Lane, Whitminster, Gloucestershire, England, UK;6175
 4G;234;15;24;6190;9234;8;51.46447117443179;-0.5069784075021744;22 Colne Reach, Staines-upon-Thames, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;323
 4G;234;20;2;2126;9236;5;51.60893345134038;-1.8329710140824316;1 Ilett Cres, Swindon, Wiltshire, England, UK [MBNL];1363
 4G;234;20;8;2126;9236;459;51.60893345134038;-1.8329710140824316;1 Ilett Cres, Swindon, Wiltshire, England, UK [MBNL];6175
@@ -1983,13 +1992,13 @@
 4G;234;20;8;2291;9292;384;52.31087593035955;-4.141976460814476;A487, Llanrhystud, UK;6175
 4G;234;20;0;2226;9304;5;52.135726476547376;-2.199513651430607;M5 North, Kempsey, Worcester, Worcestershire, England, UK;1363
 4G;234;20;1;2226;9304;3;52.135726476547376;-2.199513651430607;M5 North, Kempsey, Worcester, Worcestershire, England, UK;1363
-4G;234;15;24;24611;9307;20;51.46578749806549;-2.563820332288742;11 Roman Rd, Easton, Bristol, West of England, England, UK;323
-4G;234;15;30;24611;9307;304;51.46578749806549;-2.563820332288742;11 Roman Rd, Easton, Bristol, West of England, England, UK;6300
-4G;234;15;34;24611;9307;19;51.46578749806549;-2.563820332288742;11 Roman Rd, Easton, Bristol, West of England, England, UK;323
-4G;234;10;122;16625;9307;20;51.46578749806549;-2.563820332288742;11 Roman Rd, Easton, Bristol, West of England, England, UK;3725
-4G;234;10;124;16625;9307;20;51.46578749806549;-2.563820332288742;11 Roman Rd, Easton, Bristol, West of England, England, UK;199
-4G;234;10;132;16625;9307;19;51.46578749806549;-2.563820332288742;11 Roman Rd, Easton, Bristol, West of England, England, UK;3725
-4G;234;10;134;16625;9307;19;51.46578749806549;-2.563820332288742;11 Roman Rd, Easton, Bristol, West of England, England, UK;199
+4G;234;15;24;24611;9307;20;51.46578749806549;-2.563820332288742;Bristol Hawks Gymnastics Club, 11 Roman Road, Easton, Bristol, West of England, England, UK;323
+4G;234;15;30;24611;9307;304;51.46578749806549;-2.563820332288742;Bristol Hawks Gymnastics Club, 11 Roman Road, Easton, Bristol, West of England, England, UK;6300
+4G;234;15;34;24611;9307;19;51.46578749806549;-2.563820332288742;Bristol Hawks Gymnastics Club, 11 Roman Road, Easton, Bristol, West of England, England, UK;323
+4G;234;10;122;16625;9307;20;51.46578749806549;-2.563820332288742;Bristol Hawks Gymnastics Club, 11 Roman Road, Easton, Bristol, West of England, England, UK;3725
+4G;234;10;124;16625;9307;20;51.46578749806549;-2.563820332288742;Bristol Hawks Gymnastics Club, 11 Roman Road, Easton, Bristol, West of England, England, UK;199
+4G;234;10;132;16625;9307;19;51.46578749806549;-2.563820332288742;Bristol Hawks Gymnastics Club, 11 Roman Road, Easton, Bristol, West of England, England, UK;3725
+4G;234;10;134;16625;9307;19;51.46578749806549;-2.563820332288742;Bristol Hawks Gymnastics Club, 11 Roman Road, Easton, Bristol, West of England, England, UK;199
 4G;234;15;30;57414;9317;329;51.95003255892701;-3.8658001273870464;A4069, Llangadog, Carmarthenshire, Wales, UK;6300
 4G;234;15;32;57414;9317;329;51.95003255892701;-3.8658001273870464;A4069, Llangadog, Carmarthenshire, Wales, UK;3501
 4G;234;20;2;2484;9353;215;51.59405113223144;-1.7802304029464722;26 Cleverton Ct, Swindon, Wiltshire, England, UK;1363
@@ -2634,11 +2643,11 @@
 4G;234;15;32;8257;13494;304;52.896686;-1.472243;Osmaston Park Road, Peartree, Derby, East Midlands, England, UK [Vodafone];3501
 4G;234;15;14;24611;13499;192;51.5253544910666;-2.5264913588762283;Old Gloucester Rd, Winterbourne, Bristol, West of England, England, UK;323
 4G;234;10;130;49809;13506;450;52.41180474079801;-1.9432580843567846;GKN Aerospace Transparency Systems (Kings Norton) Limited, Catesby Park, Cotteridge, Birmingham, West Midlands, England, UK;6400
-4G;234;15;10;24611;13538;110;51.482141667329984;-2.576711028814316;797 Petherbridge Way, Bristol, West of England, England, UK;6300
-4G;234;15;18;24611;13538;19;51.482141667329984;-2.576711028814316;797 Petherbridge Way, Bristol, West of England, England, UK;2850
-4G;234;15;20;24611;13538;109;51.482141667329984;-2.576711028814316;797 Petherbridge Way, Bristol, West of England, England, UK;6300
-4G;234;15;22;24611;13538;109;51.482141667329984;-2.576711028814316;797 Petherbridge Way, Bristol, West of England, England, UK;3501
-4G;234;15;28;24611;13538;18;51.482141667329984;-2.576711028814316;797 Petherbridge Way, Bristol, West of England, England, UK;2850
+4G;234;15;10;24611;13538;110;51.482141667329984;-2.576711028814316;Home Bargains, Petherbridge Way, Ashley Down, Bristol, West of England, England, UK;6300
+4G;234;15;18;24611;13538;19;51.482141667329984;-2.576711028814316;Home Bargains, Petherbridge Way, Ashley Down, Bristol, West of England, England, UK;2850
+4G;234;15;20;24611;13538;109;51.482141667329984;-2.576711028814316;Home Bargains, Petherbridge Way, Ashley Down, Bristol, West of England, England, UK;6300
+4G;234;15;22;24611;13538;109;51.482141667329984;-2.576711028814316;Home Bargains, Petherbridge Way, Ashley Down, Bristol, West of England, England, UK;3501
+4G;234;15;28;24611;13538;18;51.482141667329984;-2.576711028814316;Home Bargains, Petherbridge Way, Ashley Down, Bristol, West of England, England, UK;2850
 4G;234;15;38;24611;13544;350;51.53102863332474;-2.5755415856838226;Patchway Fire Station, Highwood Road, Patchway, South Gloucestershire, West of England, England, UK;2850
 4G;234;15;10;24701;13547;256;51.460936003789556;-1.144746020436287;Ashampstead Road, M4, Reading, Berkshire, England, UK;6300
 4G;234;15;30;24701;13547;257;51.460936003789556;-1.144746020436287;Ashampstead Road, M4, Reading, Berkshire, England, UK;6300
@@ -3041,12 +3050,12 @@
 4G;234;10;110;16832;15870;232;51.403401732128394;-2.3523392155766487;Larkhall Athletic, 36 Charlcombe Lane, Charlcombe, Bath, Bath and North East Somerset, West of England, England, UK;6400
 4G;234;10;120;16832;15870;233;51.403401732128394;-2.3523392155766487;Larkhall Athletic, 36 Charlcombe Lane, Charlcombe, Bath, Bath and North East Somerset, West of England, England, UK;6400
 4G;234;15;30;41086;15899;395;53.782324490825886;-0.3775162249803543;267 Greenwood Avenue, Orchard Park, Hull, East Riding of Yorkshire, England, UK [Vodafone];6300
-4G;234;15;10;24610;15929;20;51.54111093810594;-2.4301256239414215;13 Station Rd, Yate, Bristol, West of England, England, UK;6300
-4G;234;15;12;24610;15929;140;51.54111093810594;-2.4301256239414215;13 Station Rd, Yate, Bristol, West of England, England, UK;9360
-4G;234;15;14;24610;15929;20;51.54111093810594;-2.4301256239414215;13 Station Rd, Yate, Bristol, West of England, England, UK;323
-4G;234;15;18;24610;15929;20;51.54111093810594;-2.4301256239414215;13 Station Rd, Yate, Bristol, West of England, England, UK;2850
-4G;234;15;32;24610;15929;19;51.54111093810594;-2.4301256239414215;13 Station Rd, Yate, Bristol, West of England, England, UK;3624
-4G;234;15;38;24610;15929;19;51.54111093810594;-2.4301256239414215;13 Station Rd, Yate, Bristol, West of England, England, UK;2850
+4G;234;15;10;24610;15929;20;51.54111093810594;-2.4301256239414215;Kelly Bros Road Marking, 13 Station Road, Yate, South Gloucestershire, West of England, England, UK;6300
+4G;234;15;12;24610;15929;140;51.54111093810594;-2.4301256239414215;Kelly Bros Road Marking, 13 Station Road, Yate, South Gloucestershire, West of England, England, UK;9360
+4G;234;15;14;24610;15929;20;51.54111093810594;-2.4301256239414215;Kelly Bros Road Marking, 13 Station Road, Yate, South Gloucestershire, West of England, England, UK;323
+4G;234;15;18;24610;15929;20;51.54111093810594;-2.4301256239414215;Kelly Bros Road Marking, 13 Station Road, Yate, South Gloucestershire, West of England, England, UK;2850
+4G;234;15;32;24610;15929;19;51.54111093810594;-2.4301256239414215;Kelly Bros Road Marking, 13 Station Road, Yate, South Gloucestershire, West of England, England, UK;3624
+4G;234;15;38;24610;15929;19;51.54111093810594;-2.4301256239414215;Kelly Bros Road Marking, 13 Station Road, Yate, South Gloucestershire, West of England, England, UK;2850
 4G;234;15;10;41086;15946;181;53.77200323159361;-0.3930911421775818;144 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [Vodafone];6300
 4G;234;15;12;41086;15946;496;53.77200323159361;-0.3930911421775818;144 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [Vodafone];3501
 4G;234;15;14;41086;15946;418;53.77200323159361;-0.3930911421775818;144 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [Vodafone];323
@@ -3117,12 +3126,12 @@
 4G;234;15;30;24611;16386;310;51.42794926309911;-2.6097524911165237;Ilchester Crescent Transmitter, 269 Ilchester Crescent, Bedminster Down, Bristol, West of England, England, UK;6300
 4G;234;15;38;24611;16386;310;51.42794926309911;-2.6097524911165237;Ilchester Crescent Transmitter, 269 Ilchester Crescent, Bedminster Down, Bristol, West of England, England, UK;2850
 4G;234;15;32;24610;16460;306;;;-;3501
-4G;234;15;12;24723;16484;368;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;3501
-4G;234;15;14;24723;16484;297;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;323
-4G;234;15;22;24723;16484;366;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;3501
-4G;234;15;24;24723;16484;298;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;323
-4G;234;15;32;24723;16484;367;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;3501
-4G;234;15;34;24723;16484;299;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;323
+4G;234;15;12;24723;16484;368;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;3501
+4G;234;15;14;24723;16484;297;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;323
+4G;234;15;22;24723;16484;366;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;3501
+4G;234;15;24;24723;16484;298;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;323
+4G;234;15;32;24723;16484;367;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;3501
+4G;234;15;34;24723;16484;299;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;323
 4G;234;15;14;24723;16517;309;51.81323995389681;-2.2696738690137863;FLI Structures, Waterwells Business Park, Waterwells Drive, Quedgeley, Gloucester, Gloucestershire, England, UK;323
 4G;234;15;22;24723;16517;108;51.81323995389681;-2.2696738690137863;FLI Structures, Waterwells Business Park, Waterwells Drive, Quedgeley, Gloucester, Gloucestershire, England, UK;3501
 4G;234;15;24;24723;16517;310;51.81323995389681;-2.2696738690137863;FLI Structures, Waterwells Business Park, Waterwells Drive, Quedgeley, Gloucester, Gloucestershire, England, UK;323
@@ -3331,17 +3340,17 @@
 4G;234;15;18;41086;18318;122;53.76515962711277;-0.33578574657440186;Bank Side, Stoneferry, Hull, East Riding of Yorkshire, England, UK;2850
 4G;234;15;28;41086;18318;55;53.76515962711277;-0.33578574657440186;Bank Side, Stoneferry, Hull, East Riding of Yorkshire, England, UK;6300
 4G;234;15;34;41086;18318;121;53.76515962711277;-0.33578574657440186;Bank Side, Stoneferry, Hull, East Riding of Yorkshire, England, UK;323
-4G;234;30;0;25331;18375;221;51.76899369905004;-2.319139838218689;42 Grove Ln, Whitminster, Gloucester, UK;1617
-4G;234;30;1;25331;18375;219;51.76899369905004;-2.319139838218689;42 Grove Ln, Whitminster, Gloucester, UK;1617
-4G;234;30;3;25331;18375;221;51.76899369905004;-2.319139838218689;42 Grove Ln, Whitminster, Gloucester, UK;1815
-4G;234;30;4;25331;18375;219;51.76899369905004;-2.319139838218689;42 Grove Ln, Whitminster, Gloucester, UK;1815
+4G;234;30;0;25331;18375;221;51.76899369905004;-2.319139838218689;42 Grove Lane, Whitminster, Gloucestershire, England, UK;1617
+4G;234;30;1;25331;18375;219;51.76899369905004;-2.319139838218689;42 Grove Lane, Whitminster, Gloucestershire, England, UK;1617
+4G;234;30;3;25331;18375;221;51.76899369905004;-2.319139838218689;42 Grove Lane, Whitminster, Gloucestershire, England, UK;1815
+4G;234;30;4;25331;18375;219;51.76899369905004;-2.319139838218689;42 Grove Lane, Whitminster, Gloucestershire, England, UK;1815
 4G;234;30;0;25331;18378;222;51.80337436971108;-2.0586225762963295;Granny's Pumps, Cheltenham, Gloucestershire, England, UK;1617
 4G;234;30;2;25331;18378;223;51.80337436971108;-2.0586225762963295;Granny's Pumps, Cheltenham, Gloucestershire, England, UK;1617
 4G;234;30;12;25330;18378;117;51.80337436971108;-2.0586225762963295;Granny's Pumps, Cheltenham, Gloucestershire, England, UK;6225
 4G;234;30;1;25331;18379;138;51.73026420910543;-2.14443851262331;2 Worly Villas, France Lynch, Chalford Hill, Stroud, Gloucestershire, England, UK;6400
 4G;234;30;13;25330;18379;498;51.73026420910543;-2.14443851262331;2 Worly Villas, France Lynch, Chalford Hill, Stroud, Gloucestershire, England, UK;6225
-4G;234;30;1;25331;18380;76;51.744872671911175;-2.2143955528736115;3b Nelson St, Stroud, Gloucestershire, England, UK;1617
-4G;234;30;2;25331;18380;75;51.744872671911175;-2.2143955528736115;3b Nelson St, Stroud, Gloucestershire, England, UK;1617
+4G;234;30;1;25331;18380;76;51.744872671911175;-2.2143955528736115;The Co-operative Building, 3b Nelson Street, Stroud, Gloucestershire, England, UK;1617
+4G;234;30;2;25331;18380;75;51.744872671911175;-2.2143955528736115;The Co-operative Building, 3b Nelson Street, Stroud, Gloucestershire, England, UK;1617
 4G;234;30;0;25331;18381;232;51.74026391702845;-2.2386853024363518;6 Dudbridge Rd, Dudbridge, Stroud, Gloucestershire, England, UK;1617
 4G;234;30;2;25331;18381;231;51.74026391702845;-2.2386853024363518;6 Dudbridge Rd, Dudbridge, Stroud, Gloucestershire, England, UK;1617
 4G;234;30;5;25331;18381;236;51.74026391702845;-2.2386853024363518;6 Dudbridge Rd, Dudbridge, Stroud, Gloucestershire, England, UK;1815
@@ -4143,23 +4152,23 @@
 4G;234;30;0;20271;29385;326;51.45197695101306;-0.7433058321475983;Weller's Ln, Warfield, Bracknell, Berkshire, England, UK;1617
 4G;234;30;3;20271;29385;303;51.45197695101306;-0.7433058321475983;Weller's Ln, Warfield, Bracknell, Berkshire, England, UK;1617
 4G;234;30;8;24363;29395;139;51.38977797601264;-2.39244494587183;Princess Anne Wing, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [MBNL];3350
-4G;234;30;0;25171;29409;81;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;1617
-4G;234;30;1;25171;29409;83;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;1617
-4G;234;30;2;25171;29409;82;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;1617
-4G;234;30;3;25171;29409;81;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;1815
-4G;234;30;4;25171;29409;83;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;1815
-4G;234;30;5;25171;29409;82;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;1815
-4G;234;30;6;25171;29409;81;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;3350
-4G;234;30;7;25171;29409;83;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;3350
-4G;234;30;8;25171;29409;82;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;3350
-4G;234;30;9;25171;29409;81;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;3179
-4G;234;30;10;25171;29409;429;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;3179
-4G;234;30;11;25171;29409;82;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;3179
-4G;234;30;12;25170;29409;123;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;6225
-4G;234;30;13;25170;29409;124;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;6225
-4G;234;30;14;25170;29409;125;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;6225
-4G;234;30;18;25171;29409;303;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;497
-4G;234;30;19;25171;29409;83;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;522
+4G;234;30;0;25171;29409;81;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;1617
+4G;234;30;1;25171;29409;83;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;1617
+4G;234;30;2;25171;29409;82;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;1617
+4G;234;30;3;25171;29409;81;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;1815
+4G;234;30;4;25171;29409;83;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;1815
+4G;234;30;5;25171;29409;82;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;1815
+4G;234;30;6;25171;29409;81;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;3350
+4G;234;30;7;25171;29409;83;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;3350
+4G;234;30;8;25171;29409;82;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;3350
+4G;234;30;9;25171;29409;81;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;3179
+4G;234;30;10;25171;29409;429;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;3179
+4G;234;30;11;25171;29409;82;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;3179
+4G;234;30;12;25170;29409;123;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;6225
+4G;234;30;13;25170;29409;124;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;6225
+4G;234;30;14;25170;29409;125;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;6225
+4G;234;30;18;25171;29409;303;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;497
+4G;234;30;19;25171;29409;83;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;522
 4G;234;30;1;24391;29411;143;51.47224198896835;-2.808692939579487;39 Charlcombe Park, Redcliffe Bay, Portishead, North Somerset, England, UK;1617
 4G;234;30;3;25171;29413;215;51.8944897357586;-2.0763687416911125;Montpellier House, Montpellier Dr, Cheltenham, Gloucestershire, England, UK;1761
 4G;234;30;6;25171;29413;215;51.8944897357586;-2.0763687416911125;Montpellier House, Montpellier Dr, Cheltenham, Gloucestershire, England, UK;3350
@@ -4698,7 +4707,7 @@
 4G;286;1;54;6144;47416;330;;;-;2850
 4G;286;1;57;6144;47416;330;;;-;100
 3G;234;20;3881;24;186;473;;;-;10564
-3G;234;20;5033;24;186;225;51.744872671911175;-2.2143955528736115;3b Nelson St, Stroud, Gloucestershire, England, UK;10564
+3G;234;20;5033;24;186;225;51.744872671911175;-2.2143955528736115;The Co-operative Building, 3b Nelson Street, Stroud, Gloucestershire, England, UK;10564
 3G;234;20;7572;24;186;373;;;-;10564
 3G;234;20;14859;24;186;138;;;-;10564
 3G;234;20;14890;24;186;136;;;-;10564
@@ -5183,15 +5192,15 @@
 4G;234;10;124;17072;102928;263;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];199
 4G;234;10;130;17072;102928;356;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];6400
 4G;234;10;134;17072;102928;262;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];199
-4G;234;10;110;17072;102929;396;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;6400
-4G;234;10;112;17072;102929;476;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;3725
-4G;234;10;114;17072;102929;133;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;199
-4G;234;10;120;17072;102929;397;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;6400
-4G;234;10;122;17072;102929;474;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;3725
-4G;234;10;124;17072;102929;134;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;199
-4G;234;10;130;17072;102929;398;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;6400
-4G;234;10;132;17072;102929;475;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;3725
-4G;234;10;134;17072;102929;132;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;199
+4G;234;10;110;17072;102929;396;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;6400
+4G;234;10;112;17072;102929;476;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;3725
+4G;234;10;114;17072;102929;133;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;199
+4G;234;10;120;17072;102929;397;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;6400
+4G;234;10;122;17072;102929;474;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;3725
+4G;234;10;124;17072;102929;134;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;199
+4G;234;10;130;17072;102929;398;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;6400
+4G;234;10;132;17072;102929;475;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;3725
+4G;234;10;134;17072;102929;132;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;199
 4G;234;10;110;16544;102980;123;51.56434543230909;-1.8177876994013786;Bridgemead Business Centre, Glenmore Business Park, Bridgemead Cl, Westmead, Swindon, Wiltshire, England, UK;6400
 4G;234;10;110;17072;102982;432;51.858060298215975;-2.233087532222271;1 St James Street, Barton, Gloucester, Gloucestershire, England, UK;6400
 4G;234;10;114;17072;102982;475;51.858060298215975;-2.233087532222271;1 St James Street, Barton, Gloucester, Gloucestershire, England, UK;199
@@ -5547,9 +5556,9 @@
 4G;234;10;130;16544;107943;95;51.74333045217643;-1.9606827199459078;White Way, Cirencester, Gloucestershire, England, UK;6400
 4G;234;10;110;17072;108012;240;52.00018889559687;-2.1105890348553658;Northway Trading Estate, Northway Lane, Northway, Tewkesbury, Gloucestershire, England, UK;6400
 4G;234;10;130;17072;108012;242;52.00018889559687;-2.1105890348553658;Northway Trading Estate, Northway Lane, Northway, Tewkesbury, Gloucestershire, England, UK;6400
-4G;234;10;110;17072;108073;243;51.90273446850362;-2.1150847524404526;Evington Court, Edinburgh Pl, Cheltenham, Gloucestershire, England, UK;6400
-4G;234;10;120;17072;108073;244;51.90273446850362;-2.1150847524404526;Evington Court, Edinburgh Pl, Cheltenham, Gloucestershire, England, UK;6400
-4G;234;10;130;17072;108073;245;51.90273446850362;-2.1150847524404526;Evington Court, Edinburgh Pl, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;110;17072;108073;243;51.90273446850362;-2.1150847524404526;Evington Court, Edinburgh Place, St Mark's, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;120;17072;108073;244;51.90273446850362;-2.1150847524404526;Evington Court, Edinburgh Place, St Mark's, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;130;17072;108073;245;51.90273446850362;-2.1150847524404526;Evington Court, Edinburgh Place, St Mark's, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;120;17072;108137;55;51.83562089738792;-2.033274360001087;Upper Coberley, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;130;16544;108183;332;51.56952727922704;-1.8977815657854082;Flaxlands Lane, Royal Wootton Bassett, Swindon, Wiltshire, England, UK;6400
 4G;234;10;130;17153;108184;395;51.41876984225579;-2.2424330189824104;Quarry Hill, Box, Wiltshire, England, UK;6400
@@ -5651,9 +5660,9 @@
 4G;234;10;120;17056;113434;106;51.45179517794268;-0.8470513299107552;4 Beech Ct, Hurst, Reading, Berkshire, England, UK;6400
 4G;234;10;112;16625;113499;328;51.5253544910666;-2.5264913588762283;Old Gloucester Rd, Winterbourne, Bristol, West of England, England, UK;3725
 4G;234;10;114;16625;113499;477;51.5253544910666;-2.5264913588762283;Old Gloucester Rd, Winterbourne, Bristol, West of England, England, UK;199
-4G;234;10;114;16625;113538;435;51.482141667329984;-2.576711028814316;797 Petherbridge Way, Bristol, West of England, England, UK;199
-4G;234;10;122;16625;113538;436;51.482141667329984;-2.576711028814316;797 Petherbridge Way, Bristol, West of England, England, UK;3725
-4G;234;10;124;16625;113538;436;51.482141667329984;-2.576711028814316;797 Petherbridge Way, Bristol, West of England, England, UK;199
+4G;234;10;114;16625;113538;435;51.482141667329984;-2.576711028814316;Home Bargains, Petherbridge Way, Ashley Down, Bristol, West of England, England, UK;199
+4G;234;10;122;16625;113538;436;51.482141667329984;-2.576711028814316;Home Bargains, Petherbridge Way, Ashley Down, Bristol, West of England, England, UK;3725
+4G;234;10;124;16625;113538;436;51.482141667329984;-2.576711028814316;Home Bargains, Petherbridge Way, Ashley Down, Bristol, West of England, England, UK;199
 4G;234;10;130;16625;113544;216;51.53102863332474;-2.5755415856838226;Patchway Fire Station, Highwood Road, Patchway, South Gloucestershire, West of England, England, UK;6400
 4G;234;10;132;16625;113544;216;51.53102863332474;-2.5755415856838226;Patchway Fire Station, Highwood Road, Patchway, South Gloucestershire, West of England, England, UK;3725
 4G;234;10;110;17056;113547;50;51.460936003789556;-1.144746020436287;Ashampstead Road, M4, Reading, Berkshire, England, UK;6400
@@ -5887,11 +5896,11 @@
 4G;234;10;132;16625;115757;476;51.50706635634019;-2.513536959886551;Marigold Court, Mill Ln, Hambrook, Winterbourne, Bristol, West of England, England, UK;3725
 4G;234;10;134;16625;115757;476;51.50706635634019;-2.513536959886551;Marigold Court, Mill Ln, Hambrook, Winterbourne, Bristol, West of England, England, UK;199
 4G;234;10;127;16625;115795;233;51.525953998241214;-2.56295632570982;Patchway Station, Little Stoke, South Gloucestershire, West of England, England, UK;39448
-4G;234;10;110;16625;115928;20;51.54111093810594;-2.4301256239414215;13 Station Rd, Yate, Bristol, West of England, England, UK;6400
-4G;234;10;112;16625;115928;20;51.54111093810594;-2.4301256239414215;13 Station Rd, Yate, Bristol, West of England, England, UK;3725
-4G;234;10;114;16625;115928;20;51.54111093810594;-2.4301256239414215;13 Station Rd, Yate, Bristol, West of England, England, UK;199
-4G;234;10;132;16625;115928;19;51.54111093810594;-2.4301256239414215;13 Station Rd, Yate, Bristol, West of England, England, UK;3725
-4G;234;10;134;16625;115928;19;51.54111093810594;-2.4301256239414215;13 Station Rd, Yate, Bristol, West of England, England, UK;199
+4G;234;10;110;16625;115928;20;51.54111093810594;-2.4301256239414215;Kelly Bros Road Marking, 13 Station Road, Yate, South Gloucestershire, West of England, England, UK;6400
+4G;234;10;112;16625;115928;20;51.54111093810594;-2.4301256239414215;Kelly Bros Road Marking, 13 Station Road, Yate, South Gloucestershire, West of England, England, UK;3725
+4G;234;10;114;16625;115928;20;51.54111093810594;-2.4301256239414215;Kelly Bros Road Marking, 13 Station Road, Yate, South Gloucestershire, West of England, England, UK;199
+4G;234;10;132;16625;115928;19;51.54111093810594;-2.4301256239414215;Kelly Bros Road Marking, 13 Station Road, Yate, South Gloucestershire, West of England, England, UK;3725
+4G;234;10;134;16625;115928;19;51.54111093810594;-2.4301256239414215;Kelly Bros Road Marking, 13 Station Road, Yate, South Gloucestershire, West of England, England, UK;199
 4G;234;10;110;16625;116015;219;51.43910709221704;-2.599548362195492;Malago Trade Park, Wesley Street, Southville, Bristol, West of England, England, UK;6400
 4G;234;10;120;16625;116015;220;51.43910709221704;-2.599548362195492;Malago Trade Park, Wesley Street, Southville, Bristol, West of England, England, UK;6400
 4G;234;10;110;16624;116039;243;51.89153465321185;-2.6409871503710747;Glewstone, Pencraig, Herefordshire, England, UK;6400
@@ -5925,11 +5934,11 @@
 4G;234;10;122;16624;117011;366;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;3725
 4G;234;10;130;16624;117011;367;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;6400
 4G;234;10;132;16624;117011;367;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;3725
-4G;234;10;120;16625;117046;233;51.50580443921175;-2.5519153475761414;Filton Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];6400
-4G;234;10;122;16625;117046;233;51.50580443921175;-2.5519153475761414;Filton Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];3725
-4G;234;10;124;16625;117046;233;51.50580443921175;-2.5519153475761414;Filton Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];199
-4G;234;10;130;16625;117046;231;51.50580443921175;-2.5519153475761414;Filton Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];6400
-4G;234;10;134;16625;117046;231;51.50580443921175;-2.5519153475761414;Filton Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];199
+4G;234;10;120;16625;117046;233;51.50580443921175;-2.5519153475761414;Filton Lane, Gifford Court, Harry Stoke, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];6400
+4G;234;10;122;16625;117046;233;51.50580443921175;-2.5519153475761414;Filton Lane, Gifford Court, Harry Stoke, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];3725
+4G;234;10;124;16625;117046;233;51.50580443921175;-2.5519153475761414;Filton Lane, Gifford Court, Harry Stoke, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];199
+4G;234;10;130;16625;117046;231;51.50580443921175;-2.5519153475761414;Filton Lane, Gifford Court, Harry Stoke, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];6400
+4G;234;10;134;16625;117046;231;51.50580443921175;-2.5519153475761414;Filton Lane, Gifford Court, Harry Stoke, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];199
 4G;234;10;124;16625;117048;493;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;199
 4G;234;10;124;16625;117073;268;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;199
 4G;234;10;132;16625;117147;329;51.51000137320367;-2.5996995717287064;Pen Park Road, Southmead, Bristol, West of England, England, UK;3725
@@ -6206,7 +6215,7 @@
 3G;234;10;14198;21734;734;19;51.967603816395446;-2.1278882771730423;Sherdons Golf Centre, M5 South, Stoke Orchard, Gloucestershire, England, UK;3025
 3G;234;10;14310;21734;734;341;51.998137076279555;-2.129274643957615;Constellation Cold Logistics, 22 Furrowfield Park, Newtown, Tewkesbury, Gloucestershire, England, UK;3050
 3G;234;10;15119;21734;734;75;51.861398150381724;-2.1778923645615578;Pylon near TFN Landscapes Ltd, 1 Stump Lane, Hucclecote, Gloucester, Gloucestershire, England, UK;3025
-3G;234;10;16339;21734;734;51;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;3025
+3G;234;10;16339;21734;734;51;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;16382;21734;734;165;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];3025
 3G;234;10;16903;21734;734;80;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;17555;21734;734;89;51.94317652316386;-2.10569366812706;Wingmoor Farm Landfill, Cheltenham, Gloucestershire, England, UK;3025
@@ -6236,7 +6245,7 @@
 3G;234;10;24136;21734;734;112;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK;3025
 3G;234;10;25119;21734;734;76;51.861398150381724;-2.1778923645615578;Pylon near TFN Landscapes Ltd, 1 Stump Lane, Hucclecote, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;26266;21734;734;108;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;3025
-3G;234;10;26339;21734;734;52;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;3025
+3G;234;10;26339;21734;734;52;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;26382;21734;734;84;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];3025
 3G;234;10;26903;21734;734;81;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;27119;21734;734;93;51.90105821170483;-2.096872888505459;Olston Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;3025
@@ -6276,7 +6285,7 @@
 3G;234;10;34310;21734;734;326;51.998137076279555;-2.129274643957615;Constellation Cold Logistics, 22 Furrowfield Park, Newtown, Tewkesbury, Gloucestershire, England, UK;3050
 3G;234;10;35119;21734;734;77;51.861398150381724;-2.1778923645615578;Pylon near TFN Landscapes Ltd, 1 Stump Lane, Hucclecote, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;36266;21734;734;109;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;2963
-3G;234;10;36339;21734;734;53;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate St, Gloucester, Gloucestershire, England, UK;3025
+3G;234;10;36339;21734;734;53;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;36382;21734;734;85;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];3025
 3G;234;10;36887;21734;734;117;51.888015488588124;-2.186448946595192;The Hare and Hounds, Cheltenham Road East B4063, Churchdown, Gloucestershire, England, UK;2963
 3G;234;10;36903;21734;734;82;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK;3025
@@ -6345,9 +6354,9 @@
 3G;234;10;28437;21737;737;383;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Ceredigion, Wales, UK;3025
 3G;234;10;12013;21749;749;408;51.46178974208351;-2.1144594624638557;Chippenham Telephone Exchange, Cocklebury Road, Chippenham, Wiltshire, England, UK;3025
 3G;234;10;8146;21752;752;406;51.51404957073207;-2.5289901718497276;41 Thornmarsh Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;3025
-3G;234;10;9008;21752;752;487;51.46578749806549;-2.563820332288742;11 Roman Rd, Easton, Bristol, West of England, England, UK;3025
+3G;234;10;9008;21752;752;487;51.46578749806549;-2.563820332288742;Bristol Hawks Gymnastics Club, 11 Roman Road, Easton, Bristol, West of England, England, UK;3025
 3G;234;10;12053;21752;752;58;51.49096516189049;-2.6774832978844643;Barwick House, The Ridge, Shirehampton, Bristol, West of England, England, UK;3025
-3G;234;10;12601;21752;752;238;51.81476610625773;-2.7019795775413513;1 Hadnock Rd, Monmouth, Monmouthshire, Wales, UK [Cornerstone];3025
+3G;234;10;12601;21752;752;238;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];3025
 3G;234;10;13211;21752;752;311;51.50925662927171;-2.573583908379078;Shiele Retail Centre, 138 Gloucester Rd N, Filton, South Gloucestershire, West of England, England, UK;3025
 3G;234;10;15379;21752;752;127;51.48522715126139;-2.6504798233509064;Saint Edyth's Church, Avonleaze, Sea Mills, Bristol, West of England, England, UK;3025
 3G;234;10;15813;21752;752;340;51.44857642112251;-2.584272176027298;Premier Inn Express, Clocktower Yard, Temple Gate A4, Redcliffe, Bristol, West of England, England, UK [Cornerstone];3025
@@ -6379,7 +6388,7 @@
 3G;234;10;48146;21752;752;158;51.51404957073207;-2.5289901718497276;41 Thornmarsh Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;3025
 3G;234;10;49868;21752;752;327;51.828758159170334;-2.4875181913375854;Latimer Bungalow, Littledean Hill Rd, Cinderford, Forest of Dean, Gloucestershire, England, UK;3025
 3G;234;10;58190;21752;752;296;51.50500474087659;-2.547859847545624;Centre for Sport, Coldharbour Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK;3025
-3G;234;10;59008;21752;752;239;51.46578749806549;-2.563820332288742;11 Roman Rd, Easton, Bristol, West of England, England, UK;3025
+3G;234;10;59008;21752;752;239;51.46578749806549;-2.563820332288742;Bristol Hawks Gymnastics Club, 11 Roman Road, Easton, Bristol, West of England, England, UK;3025
 3G;234;10;59868;21752;752;229;51.828758159170334;-2.4875181913375854;Latimer Bungalow, Littledean Hill Rd, Cinderford, Forest of Dean, Gloucestershire, England, UK;3025
 3G;234;10;63184;21752;752;19;51.84101993533301;-2.4918392300605774;Edgehills, Mitcheldean, Forest of Dean, Gloucestershire, England, UK;2963
 3G;234;10;64408;21752;752;153;51.45610070696199;-2.584836110472679;2 Lower Castle St, Bristol, West of England, England, UK;3025
@@ -6388,13 +6397,13 @@
 3G;234;10;8117;21752;759;404;51.44899431862987;-2.5659744814038277;Kenneth Steele House, Off Feeder Road, St Philip's Marsh, Bristol, West of England, England, UK;3025
 3G;234;10;8535;21752;759;404;51.54882866392127;-2.340717203915119;New Tyning Lane, Little Sodbury, South Gloucestershire, West of England, England, UK;3025
 3G;234;10;9778;21752;759;331;51.61955575671128;-2.363435849547386;Kingswood Cemetery, 40 Hillesley Road, Kingswood, Wotton-under-Edge, Gloucestershire, England, UK;3025
-3G;234;10;9916;21752;759;8;51.50580443921175;-2.5519153475761414;Filton Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];3025
+3G;234;10;9916;21752;759;8;51.50580443921175;-2.5519153475761414;Filton Lane, Gifford Court, Harry Stoke, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];3025
 3G;234;10;9931;21752;759;257;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;2963
 3G;234;10;10115;21712;759;10;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;3025
 3G;234;10;10571;21752;759;9;51.604691912614285;-2.404336854815483;The Downs, Wotton-under-edge, Gloucestershire, England, UK;3025
 3G;234;10;10637;21752;759;220;51.65804228506359;-2.4316608533263206;Welcome Break M5 Michaelwood Services Northbound, Woodford, Gloucestershire, England, UK;3025
 3G;234;10;10812;21752;759;275;51.51304407553032;-2.6525823399424553;Avonmouth and Filton Railway, M5 North, Hallen, South Gloucestershire, West of England, England, UK;3025
-3G;234;10;11256;21752;759;89;51.54111093810594;-2.4301256239414215;13 Station Rd, Yate, Bristol, West of England, England, UK;3025
+3G;234;10;11256;21752;759;89;51.54111093810594;-2.4301256239414215;Kelly Bros Road Marking, 13 Station Road, Yate, South Gloucestershire, West of England, England, UK;3025
 3G;234;10;11487;21752;759;39;51.43910709221704;-2.599548362195492;Malago Trade Park, Wesley Street, Southville, Bristol, West of England, England, UK;3025
 3G;234;10;12247;21752;759;425;51.858697035407076;-2.6726925373077393;Llangrove Road, Trewen, Herefordshire, England, UK;3025
 3G;234;10;12534;21712;759;152;51.59685974571847;-2.965894863009453;Firbank Avenue, M4 West, Beechwood, Newport, Wales, UK;3025
@@ -6440,7 +6449,7 @@
 3G;234;10;40482;21752;759;57;51.56497714739668;-2.649778425693512;Severn Road A403, Redwick, South Gloucestershire, West of England, England, UK [Cornerstone];3050
 3G;234;10;40624;21752;759;98;51.669051092393055;-2.409795820713043;M5 North, Lower Wick, Gloucestershire, England, UK;3025
 3G;234;10;40680;21752;759;42;51.73709169948979;-2.5195303559303284;Driffield Rd, Lydney, Gloucestershire, England, UK;3025
-3G;234;10;41592;21752;759;264;51.482141667329984;-2.576711028814316;797 Petherbridge Way, Bristol, West of England, England, UK;3025
+3G;234;10;41592;21752;759;264;51.482141667329984;-2.576711028814316;Home Bargains, Petherbridge Way, Ashley Down, Bristol, West of England, England, UK;3025
 3G;234;10;42121;21752;759;199;51.77888879381181;-2.8851084038615227;St Peter's Church, Bryngwyn, Monmouthshire, Wales, UK;3025
 3G;234;10;42964;21752;759;9;51.549078851961056;-2.4394868686795235;42 Lodge Rd, Yate, Bristol, West of England, England, UK;3025
 3G;234;10;48485;21752;759;236;51.770871562607546;-2.829870991408825;Elstons Cottage, Elms Rd, Raglan, Usk, UK;3025
@@ -6450,12 +6459,12 @@
 3G;234;10;49703;21712;759;226;51.601543922486925;-2.934994138777256;Coldra Woods Drive, Caerleon, Newport, Wales, UK [Cornerstone];3025
 3G;234;10;49931;21752;759;241;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;2963
 3G;234;10;50624;21752;759;418;51.669051092393055;-2.409795820713043;M5 North, Lower Wick, Gloucestershire, England, UK;3025
-3G;234;10;51592;21752;759;186;51.482141667329984;-2.576711028814316;797 Petherbridge Way, Bristol, West of England, England, UK;3025
+3G;234;10;51592;21752;759;186;51.482141667329984;-2.576711028814316;Home Bargains, Petherbridge Way, Ashley Down, Bristol, West of England, England, UK;3025
 3G;234;10;52121;21752;759;191;51.77888879381181;-2.8851084038615227;St Peter's Church, Bryngwyn, Monmouthshire, Wales, UK;3025
 3G;234;10;59368;21752;759;260;51.824458236779115;-2.4954628944396973;10 Southwood Cl, Cinderford, Forest of Dean, Gloucestershire, England, UK;2963
 3G;234;10;59778;21752;759;323;51.61955575671128;-2.363435849547386;Kingswood Cemetery, 40 Hillesley Road, Kingswood, Wotton-under-Edge, Gloucestershire, England, UK;3025
 3G;234;10;59793;21752;759;217;51.560983918518794;-2.5548429787158966;76 Gloucester Road A38, Almondsbury, South Gloucestershire, West of England, England, UK;3025
-3G;234;10;59916;21752;759;296;51.50580443921175;-2.5519153475761414;Filton Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];3025
+3G;234;10;59916;21752;759;296;51.50580443921175;-2.5519153475761414;Filton Lane, Gifford Court, Harry Stoke, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];3025
 3G;234;10;60482;21752;759;105;51.56497714739668;-2.649778425693512;Severn Road A403, Redwick, South Gloucestershire, West of England, England, UK [Cornerstone];3050
 3G;234;10;60624;21752;759;450;51.669051092393055;-2.409795820713043;M5 North, Lower Wick, Gloucestershire, England, UK;3025
 3G;234;10;65008;21752;759;415;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;3025
