@@ -1054,6 +1054,15 @@
 4G;234;10;124;16625;4020;222;51.444577575427545;-2.61997539550066;Safestore, 10 Clift House Road A3029, Ashton Gate, Bristol, West of England, England, UK;199
 4G;234;10;130;16625;4020;224;51.444577575427545;-2.61997539550066;Safestore, 10 Clift House Road A3029, Ashton Gate, Bristol, West of England, England, UK;6400
 4G;234;10;134;16625;4020;224;51.444577575427545;-2.61997539550066;Safestore, 10 Clift House Road A3029, Ashton Gate, Bristol, West of England, England, UK;199
+4G;234;20;0;1422;4053;18;51.63304508;-0.26654782;London Gateway Services, M1 J2/4, Broadfields, Barnet, Greater London, England, UK;1363
+4G;234;20;1;1422;4053;423;51.63304508;-0.26654782;London Gateway Services, M1 J2/4, Broadfields, Barnet, Greater London, England, UK;1363
+4G;234;20;2;1422;4053;449;51.63304508;-0.26654782;London Gateway Services, M1 J2/4, Broadfields, Barnet, Greater London, England, UK;1363
+4G;234;20;6;1422;4053;239;51.63304508;-0.26654782;London Gateway Services, M1 J2/4, Broadfields, Barnet, Greater London, England, UK;6175
+4G;234;20;7;1422;4053;321;51.63304508;-0.26654782;London Gateway Services, M1 J2/4, Broadfields, Barnet, Greater London, England, UK;6175
+4G;234;20;8;1422;4053;438;51.63304508;-0.26654782;London Gateway Services, M1 J2/4, Broadfields, Barnet, Greater London, England, UK;6175
+4G;234;20;71;1422;4053;99;51.63304508;-0.26654782;London Gateway Services, M1 J2/4, Broadfields, Barnet, Greater London, England, UK;76
+4G;234;20;72;1422;4053;438;51.63304508;-0.26654782;London Gateway Services, M1 J2/4, Broadfields, Barnet, Greater London, England, UK;76
+4G;234;20;73;1422;4053;412;51.63304508;-0.26654782;London Gateway Services, M1 J2/4, Broadfields, Barnet, Greater London, England, UK;76
 4G;234;15;20;24723;4027;349;51.884445759811584;-2.1730808168649673;Churchdown Day Nursery, 115 Parton Road, Churchdown, Gloucestershire, England, UK;6300
 4G;234;15;24;24723;4027;315;51.884445759811584;-2.1730808168649673;Churchdown Day Nursery, 115 Parton Road, Churchdown, Gloucestershire, England, UK;323
 4G;234;15;30;24723;4027;146;51.884445759811584;-2.1730808168649673;Churchdown Day Nursery, 115 Parton Road, Churchdown, Gloucestershire, England, UK;6300
@@ -7445,11 +7454,19 @@
 4G;234;10;114;16544;1010406;166;51.56123258067248;-1.7227037250995636;7, Dorcan Business Village, Murdock Rd, Dorcan, Swindon, Wiltshire, England, UK;199
 4G;234;10;134;16544;1010406;165;51.56123258067248;-1.7227037250995636;7, Dorcan Business Village, Murdock Rd, Dorcan, Swindon, Wiltshire, England, UK;199
 
+5G;234;10;2504070;104224;0;475;51.71474;-0.36795;Lye Lane, M25 J21/21A, Bricket Wood, St Albans, Hertfordshire, England, UK;648768
+5G;234;10;77591942;104224;0;62;51.66502;-0.3983;Holiday Inn Express, 19 Bridle Path, North Watford, Watford, Hertfordshire, England, UK;648768
+5G;234;10;173992397;104224;0;390;51.63304508;-0.26654782;London Gateway Services, M1 J2/4, Broadfields, Barnet, Greater London, England, UK;152690
+5G;234;10;173992398;104224;0;391;51.63304508;-0.26654782;London Gateway Services, M1 J2/4, Broadfields, Barnet, Greater London, England, UK;152690
+5G;234;10;173995397;104224;0;390;51.63304508;-0.26654782;London Gateway Services, M1 J2/4, Broadfields, Barnet, Greater London, England, UK;648768
+5G;234;10;173995398;104224;0;391;51.63304508;-0.26654782;London Gateway Services, M1 J2/4, Broadfields, Barnet, Greater London, England, UK;648768
+5G;234;10;219870598;104224;0;174;51.65078;-0.40159;Watford Football Club, Vicarage Road Stadium, Vicarage Road A4145, Holywell Estate, Watford, Hertfordshire, England, UK;648768
 5G;234;10;221544963;117072;0;18;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone];152690
 5G;234;10;221544973;117072;0;19;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone];152690
 5G;234;10;221544983;117072;0;20;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone];152690
 5G;234;10;251986435;117072;0;264;51.896561405451706;-2.07557313144207;1 Oriel Rd, Cheltenham, Gloucestershire, England, UK;152690
 5G;234;10;260276739;117072;0;13;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;152690
+5G;234;10;9831541198;104224;0;743;51.67502;-0.34276;High Cross, Aldenham, Hertfordshire, England, UK;152690
 
 5G;234;15;18202639;124723;0;3;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK;628032
 5G;234;15;18202649;124723;0;4;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK;628032
