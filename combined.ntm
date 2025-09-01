@@ -3937,6 +3937,10 @@
 4G;234;30;7;26011;24396;93;51.82207881557707;-3.030652776360512;Union Road Industrial Estate, Abergavenny, Monmouthshire, Wales, UK;3350
 4G;234;30;12;26010;24396;229;51.82207881557707;-3.030652776360512;Union Road Industrial Estate, Abergavenny, Monmouthshire, Wales, UK;6225
 4G;234;30;13;26010;24396;230;51.82207881557707;-3.030652776360512;Union Road Industrial Estate, Abergavenny, Monmouthshire, Wales, UK;6225
+4G;234;30;15;25460;24635;136;50.83176;-0.13687;BT Street Hub, 39 London Road A23, Round Hill, Brighton, Brighton and Hove, England, UK;3026
+4G;234;30;24;25460;24635;136;50.83176;-0.13687;BT Street Hub, 39 London Road A23, Round Hill, Brighton, Brighton and Hove, England, UK;1791
+4G;234;30;15;25460;24636;397;50.82967;-0.13584;BT Street Hub, ALDI, 1-4 London Road A23, Round Hill, Brighton, Brighton and Hove, England, UK;3026
+4G;234;30;24;25460;24636;397;50.82967;-0.13584;BT Street Hub, ALDI, 1-4 London Road A23, Round Hill, Brighton, Brighton and Hove, England, UK;1791
 4G;234;30;0;25661;24737;322;53.77115673412032;-0.3692929074168205;Brynmor Jones Library, University of Hull, Cottingham Road B1233, Newland, Hull, East Riding of Yorkshire, England, UK;6225
 4G;234;30;1;25661;24737;117;53.77115673412032;-0.3692929074168205;Brynmor Jones Library, University of Hull, Cottingham Road B1233, Newland, Hull, East Riding of Yorkshire, England, UK;1617
 4G;234;30;2;25661;24737;118;53.77115673412032;-0.3692929074168205;Brynmor Jones Library, University of Hull, Cottingham Road B1233, Newland, Hull, East Riding of Yorkshire, England, UK;1617
@@ -7086,6 +7090,7 @@
 4G;234;10;120;34784;511032;10;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;6400
 4G;234;10;125;34784;511032;10;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;199
 4G;234;15;10;41086;511033;11;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;6300
+4G;234;10;114;1280;511616;459;50.82367728;-0.1450447656;Churchill Square Piazza, Western Road B2066, Brunswick, Brighton, Brighton and Hove, England, UK;1228
 4G;234;10;130;1040;511650;355;52.97527877888733;-1.442461833357811;Tower Road, Drum Hill, Morleymoor, Derbyshire, England, UK [Cornerstone];6400
 4G;234;10;110;34880;511814;250;53.57668895211821;-1.089482456445694;Thorpe Marsh Substation, South Road, Barnby Dun, Doncaster, South Yorkshire, England, UK;6400
 4G;234;15;10;41092;511815;250;53.57668895211821;-1.089482456445694;Thorpe Marsh Substation, South Road, Barnby Dun, Doncaster, South Yorkshire, England, UK;6300
@@ -7246,6 +7251,7 @@
 4G;234;15;15;41065;525209;202;53.49102655169906;-1.2890424951910973;Mexborough Railway Station, Station Road, Mexborough, Doncaster, South Yorkshire, England, UK;323
 4G;234;15;35;41065;525209;203;53.49102655169906;-1.2890424951910973;Mexborough Railway Station, Station Road, Mexborough, Doncaster, South Yorkshire, England, UK;323
 4G;234;10;110;160;529606;349;52.63828135626393;-1.6927377507090569;George Crook Building, South Staffordshire College - Tamworth Campus, 20 Croft Street, Leyfields, Tamworth, Staffordshire, England, UK;6400
+4G;234;10;114;1280;532972;205;50.81975893;-0.1415858728;Sea Haze, Kings Road A259, Brunswick, Brighton, Brighton and Hove, England, UK;1228
 4G;234;10;126;34784;532986;22;53.77602306896772;-0.38575429469347;153 Hall Road, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;110;14467;533168;333;51.424514748637044;-0.5125513672828674;10 Mayfield Gardens, Staines-upon-Thames, Surrey, England, UK;6400
 4G;234;10;115;14467;533168;333;51.424514748637044;-0.5125513672828674;10 Mayfield Gardens, Staines-upon-Thames, Surrey, England, UK;199
@@ -7285,9 +7291,10 @@
 4G;234;10;120;34784;535877;346;53.728659940171184;-0.5836852267384529;Tract Air, 10 Hytec Way, Brough, East Riding of Yorkshire, England, UK;6400
 4G;234;10;130;34784;535877;347;53.728659940171184;-0.5836852267384529;Tract Air, 10 Hytec Way, Brough, East Riding of Yorkshire, England, UK;6400
 4G;234;15;20;41086;535878;346;53.728659940171184;-0.5836852267384529;Tract Air, 10 Hytec Way, Brough, East Riding of Yorkshire, England, UK;6300
-4G;234;10;110;14467;536116;278;51.432673415349925;-0.5466583371162415;60-63 High St, Egham, Surrey, England, UK;6400
+4G;234;10;110;14467;536116;278;51.4326734153S49925;-0.5466583371162415;60-63 High St, Egham, Surrey, England, UK;6400
 4G;234;10;114;14467;536116;288;51.432673415349925;-0.5466583371162415;60-63 High St, Egham, Surrey, England, UK;1226
 4G;234;10;115;14467;536116;411;51.432673415349925;-0.5466583371162415;60-63 High St, Egham, Surrey, England, UK;199
+4G;234;10;114;1280;536374;245;50.827221;-0.141885;Leonidas, Queens Road A2010, Round Hill, Brighton, Brighton and Hove, England, UK;1228
 4G;234;10;120;34784;537008;319;53.72404501135738;-0.45907448977231985;Beal Homes Design Lounge, Bridgehead Business Park, Sorrel Way, Hessle, East Riding of Yorkshire, England, UK;6400
 4G;234;10;122;34784;537008;319;53.72404501135738;-0.45907448977231985;Beal Homes Design Lounge, Bridgehead Business Park, Sorrel Way, Hessle, East Riding of Yorkshire, England, UK;3725
 4G;234;10;125;34784;537008;319;53.72404501135738;-0.45907448977231985;Beal Homes Design Lounge, Bridgehead Business Park, Sorrel Way, Hessle, East Riding of Yorkshire, England, UK;199
@@ -7314,6 +7321,8 @@
 4G;234;10;117;17184;541369;426;51.50329698734677;-3.183465600013733;143 Allensbank Road, Cathays, Cardiff, Wales, UK [O2];39448
 4G;234;10;137;17184;541369;427;51.50329698734677;-3.183465600013733;143 Allensbank Road, Cathays, Cardiff, Wales, UK [O2];39448
 4G;234;10;130;33809;541422;455;52.496224441528085;-1.8483387306332588;Jobcentre Plus, 295 Washwood Heath Road B4114, Washwood Heath, Birmingham, West Midlands, England, UK [O2];6400
+4G;234;10;114;1280;541526;476;50.81949207;-0.1359789446;Brighton Aquarium, Madeira Drive, Queen's Park, Brighton, Brighton and Hove, England, UK;1228
+4G;234;10;114;1280;541527;173;50.821015;-0.1486701518;Sea Haze, 207 Kings Road A259, Brunswick, Brighton, Brighton and Hove, England, UK;1228
 4G;234;10;120;14467;541554;259;51.43621537296095;-0.5078766122460365;3 Fairfield Ave, Staines-upon-Thames, Surrey, England, UK;6400
 4G;234;10;122;14467;541554;259;51.43621537296095;-0.5078766122460365;3 Fairfield Ave, Staines-upon-Thames, Surrey, England, UK;3725
 4G;234;10;125;14467;541554;259;51.43621537296095;-0.5078766122460365;3 Fairfield Ave, Staines-upon-Thames, Surrey, England, UK;199
@@ -7371,6 +7380,7 @@
 4G;234;10;126;34784;545743;31;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;127;34784;545743;31;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;10;137;34784;545743;30;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;39448
+4G;234;10;118;1280;545762;476;50.81949207;-0.1359789446;Brighton Aquarium, Madeira Drive, Queen's Park, Brighton, Brighton and Hove, England, UK;38100
 4G;234;10;110;33809;545820;283;52.45332593830527;-1.9422519207000732;Birmingham Women's Hospital, Queen Elizabeth Hospital, Mindelsohn Way, Metchley, Birmingham, West Midlands, England, UK;6400
 4G;234;10;116;34784;545939;414;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;117;34784;545939;414;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;39448
@@ -7475,15 +7485,5 @@
 5G;234;15;50888719;124723;0;308;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone];628032
 5G;234;15;50888739;124723;0;307;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone];628032
 
-4G;234;10;114;1280;511616;459;50.82367728;-0.1450447656;Western Road, Prestonville, BN1 2DG;1228
 4G;234;10;114;1280;531964;223;51.16058329;-0.1777880467;North Terminal Approach, Crawley, RH6 0PJ;1228
 4G;234;10;114;1280;532144;60;51.15584303;-0.1635430604;Perimeter Road East, Lowfield Heath, Crawley, RH6 0DW;1228
-4G;234;10;114;1280;532972;205;50.81975893;-0.1415858728;Queens Road, Round Hill, BN1 3XJ;1228
-4G;234;10;114;1280;536374;245;50.827221;-0.141885;Madeira Drive, Queen's Park, BN2 1TB;1228
-4G;234;10;114;1280;541526;65;50.81949207;-0.1359789446;King's Road, BN1 2FN;1228
-4G;234;10;114;1280;541527;173;50.821015;-0.1486701518;Sea Haze, 207 Kings Road, Brighton BN1 1NB;1228
-
-4G;234;30;15;25460;24635;136;50.83176;-0.13687;BT Street Hub 2 London Road;3026
-4G;234;30;24;25460;24635;136;50.83176;-0.13687;BT Street Hub 2 London Road;1791
-4G;234;30;15;25460;24636;397;50.82967;-0.13584;BT Street Hub 2 ALDI;3026
-4G;234;30;24;25460;24636;397;50.82967;-0.13584;BT Street Hub 2 ALDI;1791
