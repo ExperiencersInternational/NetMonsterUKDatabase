@@ -899,10 +899,10 @@
 4G;234;15;22;24723;3262;376;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;3501
 4G;234;15;24;24723;3262;283;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;323
 4G;234;15;34;24723;3263;146;51.89345934814277;-2.091987244784832;Polefield House, Hatherley Road, Lansdown, Cheltenham, Gloucestershire, England, UK;323
-4G;234;15;20;24723;3264;180;51.90105821170483;-2.096872888505459;Olston Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;6300
-4G;234;15;22;24723;3264;300;51.90105821170483;-2.096872888505459;Olston Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;3501
-4G;234;15;24;24723;3264;180;51.90105821170483;-2.096872888505459;Olston Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;323
-4G;234;15;34;24723;3264;181;51.90105821170483;-2.096872888505459;Olston Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;323
+4G;234;15;20;24723;3264;180;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;22;24723;3264;300;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;3501
+4G;234;15;24;24723;3264;180;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;323
+4G;234;15;34;24723;3264;181;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;323
 4G;234;15;10;24723;3273;23;51.81323995389681;-2.2696738690137863;FLI Structures, Waterwells Business Park, Waterwells Drive, Quedgeley, Gloucester, Gloucestershire, England, UK;6300
 4G;234;15;20;24723;3273;21;51.81323995389681;-2.2696738690137863;FLI Structures, Waterwells Business Park, Waterwells Drive, Quedgeley, Gloucester, Gloucestershire, England, UK;6300
 4G;234;10;110;49809;3280;11;52.16189323742458;-2.214016355574131;Taylors Lane, Kempsey, Worcester, Worcestershire, England, UK;6400
@@ -1218,9 +1218,9 @@
 4G;234;20;1;3423;4420;24;53.4463442264314;-1.349419690668583;9 The Gateway, The Gateway Industrial Estate, Parkgate, Rotherham, South Yorkshire, England, UK;1363
 4G;234;20;0;2309;4452;288;51.4055269207014;-2.8503047302365303;M5, Clevedon, North Somerset, England, UK;1363
 4G;234;20;2;2309;4452;449;51.4055269207014;-2.8503047302365303;M5, Clevedon, North Somerset, England, UK;1363
-4G;234;15;10;24723;4459;354;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK;6300
-4G;234;15;20;24723;4459;355;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK;6300
-4G;234;15;30;24723;4459;355;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;10;24723;4459;354;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK [Cornerstone];6300
+4G;234;15;20;24723;4459;355;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK [Cornerstone];6300
+4G;234;15;30;24723;4459;355;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK [Cornerstone];6300
 4G;234;15;18;24606;4461;0;51.34802755792682;-2.978968285024166;Vodafone Store, 31-33 High Street, Weston-super-Mare, North Somerset, England, UK;2850
 4G;234;20;0;3185;4490;48;53.75551803172402;-0.38480110466480255;National Avenue, East Ella, Hull, East Riding of Yorkshire, England, UK;1363
 4G;234;20;7;3185;4490;190;53.75551803172402;-0.38480110466480255;National Avenue, East Ella, Hull, East Riding of Yorkshire, England, UK;6175
@@ -2502,9 +2502,9 @@
 4G;234;20;2;2281;11494;224;51.90815131055327;-2.150394022464752;Old Gloucester Rd, Cheltenham, Gloucestershire, England, UK;1363
 4G;234;20;1;2164;11517;1;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;1363
 4G;234;20;7;2563;11539;446;51.7075240822281;-2.020023912191391;Four Acre Plantation, Coates, UK;6175
-4G;234;20;0;2281;11554;14;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Rd, Churchdown, Gloucester, UK;1363
-4G;234;20;1;2281;11554;229;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Rd, Churchdown, Gloucester, UK;1363
-4G;234;20;2;2281;11554;344;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Rd, Churchdown, Gloucester, UK;1363
+4G;234;20;0;2281;11554;14;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Road, Churchdown, Gloucester, Gloucestershire, England, UK;1363
+4G;234;20;1;2281;11554;229;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Road, Churchdown, Gloucester, Gloucestershire, England, UK;1363
+4G;234;20;2;2281;11554;344;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Road, Churchdown, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;6;2559;11558;175;51.69835666939323;-2.2375423461198807;The New Lawn Stadium, 3 Another Way, Forest Green, Nailsworth, Gloucestershire, England, UK;6175
 4G;234;30;0;24361;11616;272;51.547777025148356;-2.5994357094168663;Kops Cottage, Monmouth Hill, Almondsbury, South Gloucestershire, West of England, England, UK;1617
 4G;234;30;2;24391;11617;149;51.399300200812576;-2.645413465797901;70 Dundry Lane, Dundry, North Somerset, England, UK [MBNL];1617
@@ -4212,9 +4212,9 @@
 4G;234;30;2;22581;27320;207;51.45561560311639;-0.576406717300415;Malt House Close, Old Windsor, Windsor, Berkshire, England, UK;1617
 4G;234;30;0;25171;27355;256;51.888337681462104;-2.1536364778876305;A40, Churchdown, Cheltenham, Gloucestershire, England, UK;1617
 4G;234;30;2;25171;27355;71;51.888337681462104;-2.1536364778876305;A40, Churchdown, Cheltenham, Gloucestershire, England, UK;1617
-4G;234;30;1;25171;27356;421;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Rd, Churchdown, Gloucester, UK;1617
-4G;234;30;5;25171;27356;420;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Rd, Churchdown, Gloucester, UK;1761
-4G;234;30;14;25170;27356;136;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Rd, Churchdown, Gloucester, UK;6225
+4G;234;30;1;25171;27356;421;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Road, Churchdown, Gloucester, Gloucestershire, England, UK;1617
+4G;234;30;5;25171;27356;420;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Road, Churchdown, Gloucester, Gloucestershire, England, UK;1761
+4G;234;30;14;25170;27356;136;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Road, Churchdown, Gloucester, Gloucestershire, England, UK;6225
 4G;234;30;2;20271;27365;398;51.472046930691725;-0.6061520799994469;73 Fountain Gardens, Windsor, Berkshire, England, UK;1617
 4G;234;30;4;20271;27365;397;51.472046930691725;-0.6061520799994469;73 Fountain Gardens, Windsor, Berkshire, England, UK;1761
 4G;234;30;5;20271;27365;398;51.472046930691725;-0.6061520799994469;73 Fountain Gardens, Windsor, Berkshire, England, UK;1761
@@ -4620,11 +4620,11 @@
 4G;234;30;12;25170;32985;382;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK;6225
 4G;234;30;13;25170;32985;381;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK;6225
 4G;234;30;19;25171;32985;303;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK;1617
-4G;234;30;0;25171;33044;501;51.883044279226496;-2.150353118777275;M5, Churchdown, Gloucester, UK;1617
-4G;234;30;2;25171;33044;502;51.883044279226496;-2.150353118777275;M5, Churchdown, Gloucester, UK;1617
-4G;234;30;4;25171;33044;503;51.883044279226496;-2.150353118777275;M5, Churchdown, Gloucester, UK;1761
-4G;234;30;5;25171;33044;502;51.883044279226496;-2.150353118777275;M5, Churchdown, Gloucester, UK;1761
-4G;234;30;13;25170;33044;217;51.883044279226496;-2.150353118777275;M5, Churchdown, Gloucester, UK;6225
+4G;234;30;0;25171;33044;501;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];1617
+4G;234;30;2;25171;33044;502;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];1617
+4G;234;30;4;25171;33044;503;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];1761
+4G;234;30;5;25171;33044;502;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];1761
+4G;234;30;13;25170;33044;217;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];6225
 4G;234;30;0;25341;33079;71;51.563698910453155;-1.7998671904206276;189 Rodbourne Rd, Swindon, Wiltshire, England, UK;1617
 4G;234;30;1;25341;33079;286;51.563698910453155;-1.7998671904206276;189 Rodbourne Rd, Swindon, Wiltshire, England, UK;1617
 4G;234;30;4;25341;33079;69;51.563698910453155;-1.7998671904206276;189 Rodbourne Rd, Swindon, Wiltshire, England, UK;1761
@@ -4642,10 +4642,10 @@
 4G;234;30;4;25661;33378;260;53.82061686090603;-0.4538287594914437;Butt Farm Caravan and Camping site, Beverley Bypass A1079, Beverley, East Riding of Yorkshire, England, UK;1761
 4G;234;30;0;22571;33402;474;51.421689427101875;-1.0318374261260033;MOTO Reading Westbound Services, Burghfield Rd, Reading, Berkshire, England, UK;1617
 4G;234;30;1;22571;33402;475;51.421689427101875;-1.0318374261260033;MOTO Reading Westbound Services, Burghfield Rd, Reading, Berkshire, England, UK;1617
-4G;234;30;0;25171;33475;86;51.882133872902;-2.1773046255111694;32 Winston Rd, Churchdown, Gloucester, UK;1617
-4G;234;30;2;25171;33475;85;51.882133872902;-2.1773046255111694;32 Winston Rd, Churchdown, Gloucester, UK;1617
-4G;234;30;4;25171;33475;84;51.882133872902;-2.1773046255111694;32 Winston Rd, Churchdown, Gloucester, UK;1761
-4G;234;30;5;25171;33475;85;51.882133872902;-2.1773046255111694;32 Winston Rd, Churchdown, Gloucester, UK;1761
+4G;234;30;0;25171;33475;86;51.882133872902;-2.1773046255111694;Churchdown School Academy, 32 Winston Road, Churchdown, Gloucester, Gloucestershire, England, UK;1617
+4G;234;30;2;25171;33475;85;51.882133872902;-2.1773046255111694;Churchdown School Academy, 32 Winston Road, Churchdown, Gloucester, Gloucestershire, England, UK;1617
+4G;234;30;4;25171;33475;84;51.882133872902;-2.1773046255111694;Churchdown School Academy, 32 Winston Road, Churchdown, Gloucester, Gloucestershire, England, UK;1761
+4G;234;30;5;25171;33475;85;51.882133872902;-2.1773046255111694;Churchdown School Academy, 32 Winston Road, Churchdown, Gloucester, Gloucestershire, England, UK;1761
 4G;234;30;0;25341;33538;237;51.57360998518502;-1.8116886913776398;3e Darby Cl, Cheney Manor Industrial Estate, Swindon, Wiltshire, England, UK;1617
 4G;234;30;1;25341;33538;238;51.57360998518502;-1.8116886913776398;3e Darby Cl, Cheney Manor Industrial Estate, Swindon, Wiltshire, England, UK;1617
 4G;234;30;2;25341;33538;239;51.57360998518502;-1.8116886913776398;3e Darby Cl, Cheney Manor Industrial Estate, Swindon, Wiltshire, England, UK;1617
@@ -5436,18 +5436,18 @@
 4G;234;10;110;17072;103263;450;51.89345934814277;-2.091987244784832;Polefield House, Hatherley Road, Lansdown, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;120;17072;103263;360;51.89345934814277;-2.091987244784832;Polefield House, Hatherley Road, Lansdown, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;130;17072;103263;451;51.89345934814277;-2.091987244784832;Polefield House, Hatherley Road, Lansdown, Cheltenham, Gloucestershire, England, UK;6400
-4G;234;10;120;17072;103264;423;51.90105821170483;-2.096872888505459;Olston Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;6400
-4G;234;10;122;17072;103264;null;51.90105821170483;-2.096872888505459;Olston Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;null
-4G;234;10;124;17072;103264;471;51.90105821170483;-2.096872888505459;Olston Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;199
-4G;234;10;130;17072;103264;424;51.90105821170483;-2.096872888505459;Olston Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;6400
-4G;234;10;114;17072;103364;444;51.896561405451706;-2.07557313144207;1 Oriel Rd, Cheltenham, Gloucestershire, England, UK;199
-4G;234;10;117;17072;103364;239;51.896561405451706;-2.07557313144207;1 Oriel Rd, Cheltenham, Gloucestershire, England, UK;39448
-4G;234;10;120;17072;103364;264;51.896561405451706;-2.07557313144207;1 Oriel Rd, Cheltenham, Gloucestershire, England, UK;6400
-4G;234;10;124;17072;103364;445;51.896561405451706;-2.07557313144207;1 Oriel Rd, Cheltenham, Gloucestershire, England, UK;199
-4G;234;10;127;17072;103364;237;51.896561405451706;-2.07557313144207;1 Oriel Rd, Cheltenham, Gloucestershire, England, UK;39448
-4G;234;10;130;17072;103364;265;51.896561405451706;-2.07557313144207;1 Oriel Rd, Cheltenham, Gloucestershire, England, UK;6400
-4G;234;10;134;17072;103364;446;51.896561405451706;-2.07557313144207;1 Oriel Rd, Cheltenham, Gloucestershire, England, UK;199
-4G;234;10;137;17072;103364;238;51.896561405451706;-2.07557313144207;1 Oriel Rd, Cheltenham, Gloucestershire, England, UK;39448
+4G;234;10;120;17072;103264;423;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;122;17072;103264;null;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;null
+4G;234;10;124;17072;103264;471;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;199
+4G;234;10;130;17072;103264;424;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;114;17072;103364;444;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK;199
+4G;234;10;117;17072;103364;239;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK;39448
+4G;234;10;120;17072;103364;264;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;124;17072;103364;445;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK;199
+4G;234;10;127;17072;103364;237;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK;39448
+4G;234;10;130;17072;103364;265;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;134;17072;103364;446;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK;199
+4G;234;10;137;17072;103364;238;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK;39448
 4G;234;10;110;17072;103615;132;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];6400
 4G;234;10;114;17072;103615;182;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];199
 4G;234;10;117;17072;103615;158;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];39448
@@ -5605,9 +5605,9 @@
 4G;234;10;120;16544;104375;391;51.72457214979054;-1.9467992708086967;The Harebushes, Stow Rd, Cirencester, Gloucestershire, England, UK;6400
 4G;234;10;130;16544;104375;392;51.72457214979054;-1.9467992708086967;The Harebushes, Stow Rd, Cirencester, Gloucestershire, England, UK;6400
 4G;234;10;124;16576;104404;456;51.51275508805547;-1.5204641595482826;Sheepdrove Rd, Hungerford, West Berkshire, England, UK;199
-4G;234;10;110;17072;104459;5;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK;6400
-4G;234;10;120;17072;104459;3;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK;6400
-4G;234;10;130;17072;104459;254;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;110;17072;104459;5;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK [Cornerstone];6400
+4G;234;10;120;17072;104459;3;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK [Cornerstone];6400
+4G;234;10;130;17072;104459;254;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK [Cornerstone];6400
 4G;234;10;110;17072;104513;72;51.844877710874485;-2.136452905833721;Henley Bank Lane, Witcombe, Gloucestershire, England, UK;6400
 4G;234;10;114;17072;104513;310;51.844877710874485;-2.136452905833721;Henley Bank Lane, Witcombe, Gloucestershire, England, UK;199
 4G;234;10;122;17072;104513;74;51.844877710874485;-2.136452905833721;Henley Bank Lane, Witcombe, Gloucestershire, England, UK;3725
@@ -6428,7 +6428,7 @@
 3G;234;10;13184;21734;734;141;51.832943097361046;-2.204064354300499;Upton St Leonards Recreational Ground, Birchall Lane, M5 South, Upton St Leonards, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;13200;21734;734;152;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;14064;21734;734;27;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];3025
-3G;234;10;14136;21734;734;111;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK;3025
+3G;234;10;14136;21734;734;111;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK [Cornerstone];3025
 3G;234;10;14198;21734;734;19;51.967603816395446;-2.1278882771730423;Sherdons Golf Centre, M5 South, Stoke Orchard, Gloucestershire, England, UK;3025
 3G;234;10;14310;21734;734;341;51.998137076279555;-2.129274643957615;Constellation Cold Logistics, 22 Furrowfield Park, Newtown, Tewkesbury, Gloucestershire, England, UK;3050
 3G;234;10;15119;21734;734;75;51.861398150381724;-2.1778923645615578;Pylon near TFN Landscapes Ltd, 1 Stump Lane, Hucclecote, Gloucester, Gloucestershire, England, UK;3025
@@ -6459,13 +6459,13 @@
 3G;234;10;23184;21734;734;142;51.832943097361046;-2.204064354300499;Upton St Leonards Recreational Ground, Birchall Lane, M5 South, Upton St Leonards, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;23200;21734;734;153;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;24064;21734;734;28;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];3025
-3G;234;10;24136;21734;734;112;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK;3025
+3G;234;10;24136;21734;734;112;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK [Cornerstone];3025
 3G;234;10;25119;21734;734;76;51.861398150381724;-2.1778923645615578;Pylon near TFN Landscapes Ltd, 1 Stump Lane, Hucclecote, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;26266;21734;734;108;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;26339;21734;734;52;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;26382;21734;734;84;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];3025
 3G;234;10;26903;21734;734;81;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK;3025
-3G;234;10;27119;21734;734;93;51.90105821170483;-2.096872888505459;Olston Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;3025
+3G;234;10;27119;21734;734;93;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;3025
 3G;234;10;27122;21734;734;74;51.93995759645507;-2.4734922498464584;Linton Wood, M50, Herefordshire, England, UK;3025
 3G;234;10;27555;21734;734;90;51.94317652316386;-2.10569366812706;Wingmoor Farm Landfill, Cheltenham, Gloucestershire, England, UK;3025
 3G;234;10;27667;21734;734;90;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;3025
@@ -6497,7 +6497,7 @@
 3G;234;10;33839;21734;734;239;51.8398128625979;-2.1030835434794426;Grove Farm, Crickley Hill, A417, Birdlip, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;33895;21734;734;153;51.916770741332826;-2.1233144402503967;Public path around farm fields, 40 Cornmeadow Dr, Cheltenham, Gloucestershire, England, UK;2963
 3G;234;10;34064;21734;734;29;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];2963
-3G;234;10;34136;21734;734;113;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK;2963
+3G;234;10;34136;21734;734;113;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK [Cornerstone];2963
 3G;234;10;34198;21734;734;21;51.967603816395446;-2.1278882771730423;Sherdons Golf Centre, M5 South, Stoke Orchard, Gloucestershire, England, UK;3025
 3G;234;10;34310;21734;734;326;51.998137076279555;-2.129274643957615;Constellation Cold Logistics, 22 Furrowfield Park, Newtown, Tewkesbury, Gloucestershire, England, UK;3050
 3G;234;10;35119;21734;734;77;51.861398150381724;-2.1778923645615578;Pylon near TFN Landscapes Ltd, 1 Stump Lane, Hucclecote, Gloucester, Gloucestershire, England, UK;3025
@@ -6506,7 +6506,7 @@
 3G;234;10;36382;21734;734;85;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];3025
 3G;234;10;36887;21734;734;117;51.888015488588124;-2.186448946595192;The Hare and Hounds, Cheltenham Road East B4063, Churchdown, Gloucestershire, England, UK;2963
 3G;234;10;36903;21734;734;82;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK;3025
-3G;234;10;37119;21734;734;94;51.90105821170483;-2.096872888505459;Olston Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;3025
+3G;234;10;37119;21734;734;94;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;3025
 3G;234;10;37555;21734;734;210;51.94317652316386;-2.10569366812706;Wingmoor Farm Landfill, Cheltenham, Gloucestershire, England, UK;3025
 3G;234;10;37667;21734;734;91;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;2963
 3G;234;10;38563;21734;734;55;51.817487474739536;-2.277061343193054;Waterwells Park & Ride, Naas Lane, Quedgeley, Gloucester, Gloucestershire, UK [Cornerstone];3025
@@ -7461,6 +7461,8 @@
 4G;234;15;35;41065;525209;203;53.49102655169906;-1.2890424951910973;Mexborough Railway Station, Station Road, Mexborough, Doncaster, South Yorkshire, England, UK;323
 4G;234;10;110;17120;527065;226;51.379538505237235;-2.359861806035042;O2 Store, 56 Southgate Street, Bath, Bath and North East Somerset, West of England, England, UK;6400
 4G;234;10;110;160;529606;349;52.63828135626393;-1.6927377507090569;George Crook Building, South Staffordshire College - Tamworth Campus, 20 Croft Street, Leyfields, Tamworth, Staffordshire, England, UK;6400
+4G;234;10;114;1280;531964;223;51.16058329;-0.1777880467;London Gatwick Airport North Terminal DAS System, Airport Way A23, Crawley, West Sussex, England, UK;1226
+4G;234;10;114;1280;532144;60;51.15584303;-0.1635430604;London Gatwick Airport South Terminal DAS System, London Road A23, Crawley, West Sussex, England, UK;1226
 4G;234;10;114;1280;532972;205;50.81975893;-0.1415858728;Sea Haze, Kings Road A259, Brunswick, Brighton, Brighton and Hove, England, UK;1228
 4G;234;10;126;34784;532986;22;53.77602306896772;-0.38575429469347;153 Hall Road, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;110;14467;533168;333;51.424514748637044;-0.5125513672828674;10 Mayfield Gardens, Staines-upon-Thames, Surrey, England, UK;6400
@@ -7684,7 +7686,7 @@
 5G;234;10;221544963;117072;0;18;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone];152690
 5G;234;10;221544973;117072;0;19;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone];152690
 5G;234;10;221544983;117072;0;20;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone];152690
-5G;234;10;251986435;117072;0;264;51.896561405451706;-2.07557313144207;1 Oriel Rd, Cheltenham, Gloucestershire, England, UK;152690
+5G;234;10;251986435;117072;0;264;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK;152690
 5G;234;10;260276739;117072;0;13;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;152690
 5G;234;10;9831541198;104224;0;743;51.67502;-0.34276;High Cross, Aldenham, Hertfordshire, England, UK;152690
 
@@ -7694,6 +7696,3 @@
 5G;234;15;18677795;124723;0;2;51.86622765859196;-2.232758291065693;The Atrium, Gloucestershire Royal Hospital, Great Western Road, Wotton, Gloucester, Gloucestershire, England, UK;628032
 5G;234;15;50888719;124723;0;308;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone];628032
 5G;234;15;50888739;124723;0;307;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone];628032
-
-4G;234;10;114;1280;531964;223;51.16058329;-0.1777880467;North Terminal Approach, Crawley, RH6 0PJ;1228
-4G;234;10;114;1280;532144;60;51.15584303;-0.1635430604;Perimeter Road East, Lowfield Heath, Crawley, RH6 0DW;1228
