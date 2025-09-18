@@ -315,6 +315,7 @@
 2G;234;10;32649;21785;0;32;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;122
 2G;234;10;32657;21785;0;63;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;122
 2G;234;10;32878;21785;0;62;51.83200039098511;-2.2452349215745926;The Fox & Elm, 2 Tuffley Lane, Stroud Road, A4173, Tuffley, Gloucester, Gloucestershire, England, UK;120
+2G;234;10;32951;21785;0;57;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;113
 2G;234;10;32958;21785;0;17;51.58559820943143;-2.326919585466385;The Tithe Barn, 2 Cotswold Way, Hawkesbury Upton, Gloucestershire, England, UK;117
 2G;234;10;33094;null;0;23;52.20182450505694;-4.352096691727638;Panteg Farm, New Quay, Ceredigion, Wales, UK [Cornerstone];115
 2G;234;10;33108;null;0;59;51.688295519750945;-2.3465261980891228;The Firs, 1 Drake Ln, Cam, Dursley, Gloucestershire, England, UK;121
@@ -411,7 +412,7 @@
 2G;234;15;47180;309;0;32;;;-;16
 2G;234;15;47263;null;0;25;;;-;4
 2G;234;30;47280;2436;0;33;;;-;669
-2G;234;15;47491;259;0;45;51.744872671911175;-2.2143955528736115;The Co-operative Building, 3b Nelson Street, Stroud, Gloucestershire, England, UK;8
+2G;234;15;47491;259;0;45;;;-;8
 2G;234;15;47882;133;0;18;;;-;4
 2G;234;30;49753;2302;0;53;;;-;647
 2G;234;30;49754;null;0;30;;;-;655
@@ -459,7 +460,7 @@
 2G;234;15;62867;null;0;52;;;-;11
 2G;234;15;63418;309;0;7;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK;22
 2G;234;15;63419;309;0;10;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK;8
-2G;234;15;63420;null;0;58;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK;4
+2G;234;15;63420;309;0;58;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK;4
 2G;234;15;63431;null;0;58;;;-;1
 2G;234;15;64357;309;0;25;51.861398150381724;-2.1778923645615578;Pylon near TFN Landscapes Ltd, 1 Stump Lane, Hucclecote, Gloucester, Gloucestershire, England, UK;12
 2G;234;15;64359;309;0;4;51.861398150381724;-2.1778923645615578;Pylon near TFN Landscapes Ltd, 1 Stump Lane, Hucclecote, Gloucester, Gloucestershire, England, UK;1
@@ -1144,6 +1145,12 @@
 4G;234;20;8;2582;4192;269;52.625833696321706;-1.667039506137371;Marlborough Way B5440, Glascote Heath, Tamworth, Staffordshire, England, UK;6175
 4G;234;20;1;2287;4196;169;51.405006351706405;-2.545270510017872;Keynes Farm, Staunton Lane, Queen Charlton, Bath and North East Somerset, West of England, England, UK;1363
 4G;234;20;71;2501;4197;43;52.503300328590726;-1.8314522132277486;269 Bromford Lane A4040, Hodge Hill, Birmingham, West Midlands, England, UK;76
+4G;234;15;10;24626;4215;218;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;6300
+4G;234;15;20;24626;4215;217;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;6300
+4G;234;15;30;24626;4215;216;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;6300
+4G;234;10;110;16832;4215;218;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;6400
+4G;234;10;120;16832;4215;217;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;6400
+4G;234;10;130;16832;4215;216;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;6400
 4G;234;20;1;2255;4244;293;52.6357779052039;-1.6918881610035896;38 Marmion Street, Tamworth, Staffordshire, England, UK;1363
 4G;234;20;2;2363;4246;125;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;1363
 4G;234;20;92;2363;4246;481;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;9360
@@ -2881,8 +2888,8 @@
 4G;234;30;6;24373;14356;210;51.59106164;-2.99250895;Newport County Court and Family Court, Clarence Place B4591, Barnardtown, Newport, Wales, UK [NP19 7AB];3350
 4G;234;30;7;24373;14356;211;51.59106164;-2.99250895;Newport County Court and Family Court, Clarence Place B4591, Barnardtown, Newport, Wales, UK [NP19 7AB];3350
 4G;234;30;8;24373;14356;212;51.59106164;-2.99250895;Newport County Court and Family Court, Clarence Place B4591, Barnardtown, Newport, Wales, UK [NP19 7AB];3350
-4G;234;15;30;24610;14360;418;;;-;6300
-4G;234;15;32;24610;14360;229;;;-;3501
+4G;234;15;30;24610;14360;418;51.688295519750945;-2.3465261980891228;The Firs, 1 Drake Ln, Cam, Dursley, Gloucestershire, England, UK;6300
+4G;234;15;32;24610;14360;229;51.688295519750945;-2.3465261980891228;The Firs, 1 Drake Ln, Cam, Dursley, Gloucestershire, England, UK;3501
 4G;234;15;14;24611;14384;395;51.50952790193698;-2.5822829827666283;20BCD, NEW FILTON HOUSE, Golf Course Ln, Filton, South Gloucestershire, West of England, England, UK;323
 4G;234;15;18;24611;14384;356;51.50952790193698;-2.5822829827666283;20BCD, NEW FILTON HOUSE, Golf Course Ln, Filton, South Gloucestershire, West of England, England, UK;2850
 4G;234;30;1;24371;14400;65;51.540185281900904;-3.140365518629551;Parkwall Road, Pontprennau, Cardiff, Wales, UK [MBNL];1617
@@ -2935,12 +2942,12 @@
 4G;234;15;12;24610;14543;67;51.549078851961056;-2.4394868686795235;42 Lodge Rd, Yate, Bristol, West of England, England, UK;3501
 4G;234;15;22;24610;14543;68;51.549078851961056;-2.4394868686795235;42 Lodge Rd, Yate, Bristol, West of England, England, UK;3501
 4G;234;15;32;24610;14543;66;51.549078851961056;-2.4394868686795235;42 Lodge Rd, Yate, Bristol, West of England, England, UK;3501
-4G;234;15;10;24610;14558;358;51.750632954410435;-2.2969727218151093;ℹ️ Macro • Muller Stonehouse, Oldends Lane, Stonehouse, Gloucestershire, England, UK;6300
-4G;234;15;12;24610;14558;358;51.750632954410435;-2.2969727218151093;ℹ️ Macro • Muller Stonehouse, Oldends Lane, Stonehouse, Gloucestershire, England, UK;3501
-4G;234;15;20;24610;14558;357;51.750632954410435;-2.2969727218151093;ℹ️ Macro • Muller Stonehouse, Oldends Lane, Stonehouse, Gloucestershire, England, UK;6300
-4G;234;15;22;24610;14558;357;51.750632954410435;-2.2969727218151093;ℹ️ Macro • Muller Stonehouse, Oldends Lane, Stonehouse, Gloucestershire, England, UK;3501
-4G;234;15;30;24610;14558;359;51.750632954410435;-2.2969727218151093;ℹ️ Macro • Muller Stonehouse, Oldends Lane, Stonehouse, Gloucestershire, England, UK;6300
-4G;234;15;32;24610;14558;359;51.750632954410435;-2.2969727218151093;ℹ️ Macro • Muller Stonehouse, Oldends Lane, Stonehouse, Gloucestershire, England, UK;3501
+4G;234;15;10;24610;14558;358;51.7554477793246;-2.3130790516734123;34 Grove Lane, Great Oldbury, Stonehouse, Gloucestershire, England, UK;6300
+4G;234;15;12;24610;14558;358;51.7554477793246;-2.3130790516734123;34 Grove Lane, Great Oldbury, Stonehouse, Gloucestershire, England, UK;3501
+4G;234;15;20;24610;14558;357;51.7554477793246;-2.3130790516734123;34 Grove Lane, Great Oldbury, Stonehouse, Gloucestershire, England, UK;6300
+4G;234;15;22;24610;14558;357;51.7554477793246;-2.3130790516734123;34 Grove Lane, Great Oldbury, Stonehouse, Gloucestershire, England, UK;3501
+4G;234;15;30;24610;14558;359;51.7554477793246;-2.3130790516734123;34 Grove Lane, Great Oldbury, Stonehouse, Gloucestershire, England, UK;6300
+4G;234;15;32;24610;14558;359;51.7554477793246;-2.3130790516734123;34 Grove Lane, Great Oldbury, Stonehouse, Gloucestershire, England, UK;3501
 4G;234;15;20;41086;14564;335;53.74329542464396;-0.3249935433268547;Citadel Trading Park, Citadel Way, Drypool, Hull, East Riding of Yorkshire, England, UK [Vodafone];6300
 4G;234;15;22;41086;14564;500;53.74329542464396;-0.3249935433268547;Citadel Trading Park, Citadel Way, Drypool, Hull, East Riding of Yorkshire, England, UK [Vodafone];3501
 4G;234;15;24;41086;14564;374;53.74329542464396;-0.3249935433268547;Citadel Trading Park, Citadel Way, Drypool, Hull, East Riding of Yorkshire, England, UK [Vodafone];323
@@ -3091,7 +3098,7 @@
 4G;234;30;0;25171;15769;179;51.85247111910595;-2.2141799703240395;St. Oswald's Parish Church Coney Hill, Coney Hill Road, Coney Hill, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;1;25171;15769;177;51.85247111910595;-2.2141799703240395;St. Oswald's Parish Church Coney Hill, Coney Hill Road, Coney Hill, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;2;25171;15769;178;51.85247111910595;-2.2141799703240395;St. Oswald's Parish Church Coney Hill, Coney Hill Road, Coney Hill, Gloucester, Gloucestershire, England, UK;1617
-4G;234;30;3;25171;15769;179;51.85247111910595;-2.2141799703240395;St. Oswald's Parish Church Coney Hill, Coney Hill Road, Coney Hill, Gloucester, Gloucestershire, England, UK;1761
+4G;234;30;3;25171;15769;179;51.85247111910595;-2.2141799703240395;St. Oswald's Parish Church Coney Hill, Coney Hill Road, Coney Hill, Gloucester, Gloucestershire, England, UK;1815
 4G;234;30;4;25171;15769;177;51.85247111910595;-2.2141799703240395;St. Oswald's Parish Church Coney Hill, Coney Hill Road, Coney Hill, Gloucester, Gloucestershire, England, UK;1815
 4G;234;30;5;25171;15769;178;51.85247111910595;-2.2141799703240395;St. Oswald's Parish Church Coney Hill, Coney Hill Road, Coney Hill, Gloucester, Gloucestershire, England, UK;1815
 4G;234;30;6;25171;15769;179;51.85247111910595;-2.2141799703240395;St. Oswald's Parish Church Coney Hill, Coney Hill Road, Coney Hill, Gloucester, Gloucestershire, England, UK;3350
@@ -3100,6 +3107,7 @@
 4G;234;30;9;25171;15769;179;51.85247111910595;-2.2141799703240395;St. Oswald's Parish Church Coney Hill, Coney Hill Road, Coney Hill, Gloucester, Gloucestershire, England, UK;3179
 4G;234;30;10;25171;15769;177;51.85247111910595;-2.2141799703240395;St. Oswald's Parish Church Coney Hill, Coney Hill Road, Coney Hill, Gloucester, Gloucestershire, England, UK;3179
 4G;234;30;11;25171;15769;178;51.85247111910595;-2.2141799703240395;St. Oswald's Parish Church Coney Hill, Coney Hill Road, Coney Hill, Gloucester, Gloucestershire, England, UK;3179
+4G;234;30;19;25171;15769;462;51.85247111910595;-2.2141799703240395;St. Oswald's Parish Church Coney Hill, Coney Hill Road, Coney Hill, Gloucester, Gloucestershire, England, UK;497
 4G;234;30;1;24391;15791;434;51.39522905316724;-2.7104245126247406;Tinker's Lane, Backwell, North Somerset, England, UK;1617
 4G;234;30;12;24390;15791;435;51.39522905316724;-2.7104245126247406;Tinker's Lane, Backwell, North Somerset, England, UK;6225
 4G;234;30;13;24390;15791;436;51.39522905316724;-2.7104245126247406;Tinker's Lane, Backwell, North Somerset, England, UK;6225
@@ -3312,12 +3320,6 @@
 4G;234;30;1;26011;16918;233;51.789795840638426;-3.0694670230150223;B4246, Blaenavon, Monmouthshire, Wales, UK;1617
 4G;234;30;13;25330;16921;163;51.679546023840295;-2.700420208275318;Gaer Hill, St Arvans, Chepstow, UK;6225
 4G;234;15;20;8257;16923;145;52.92741472911414;-1.4650500565767288;Pentagon House, 10 Stores Road, Little Chester, Derby, East Midlands, England, UK;6300
-4G;286;1;23;6144;16957;196;;;-;1795
-4G;286;1;26;6144;16957;196;;;-;550
-4G;286;1;27;6144;16957;196;;;-;100
-4G;286;1;13;6144;16960;143;;;-;1795
-4G;286;1;17;6144;16960;143;;;-;100
-4G;286;1;26;6144;16960;235;;;-;550
 4G;234;15;10;24610;17011;368;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;6300
 4G;234;15;12;24610;17011;368;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;3501
 4G;234;15;14;24610;17011;368;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;323
@@ -3356,17 +3358,6 @@
 4G;234;30;2;20271;17141;317;51.460803147556646;-0.784827433526516;Spining Wheel Ln, Bracknell, Berkshire, England, UK [MBNL];1617
 4G;234;30;3;20271;17141;303;51.460803147556646;-0.784827433526516;Spining Wheel Ln, Bracknell, Berkshire, England, UK [MBNL];1617
 4G;234;30;12;20270;17141;194;51.460803147556646;-0.784827433526516;Spining Wheel Ln, Bracknell, Berkshire, England, UK [MBNL];6225
-4G;286;1;12;6144;17223;247;;;-;1651
-4G;286;1;13;6144;17223;234;;;-;1795
-4G;286;1;14;6144;17223;247;;;-;2850
-4G;286;1;16;6144;17223;247;;;-;550
-4G;286;1;17;6144;17223;247;;;-;100
-4G;286;1;22;6144;17223;237;;;-;1651
-4G;286;1;23;6144;17223;342;;;-;1795
-4G;286;1;24;6144;17223;237;;;-;2850
-4G;286;1;32;6144;17223;206;;;-;1651
-4G;286;1;36;6144;17223;206;;;-;550
-4G;286;1;37;6144;17223;206;;;-;100
 4G;234;30;0;24361;17305;340;51.51698705864591;-2.607058547437191;Elm Farm, Fishpool Hill, Filton, South Gloucestershire, West of England, England, UK;1617
 4G;234;30;3;24361;17305;363;51.51698705864591;-2.607058547437191;Elm Farm, Fishpool Hill, Filton, South Gloucestershire, West of England, England, UK;1815
 4G;234;30;9;24361;17305;340;51.51698705864591;-2.607058547437191;Elm Farm, Fishpool Hill, Filton, South Gloucestershire, West of England, England, UK;3179
@@ -3491,21 +3482,8 @@
 4G;234;15;24;24611;18834;101;51.46184906658806;-2.5780873373150826;Peel Street Green Space, Peel St, St Jude's, Bristol, West of England, England, UK;323
 4G;234;15;28;24611;18834;101;51.46184906658806;-2.5780873373150826;Peel Street Green Space, Peel St, St Jude's, Bristol, West of England, England, UK;2850
 4G;234;15;30;24581;18850;144;51.340422848173226;-1.44969642162323;Rooksnest Road, Faccombe, West Berkshire, England, UK;6300
-4G;234;15;32;24581;18850;144;51.340422848173226;-1.44969642162323;Rooksnest Road, Faccombe, West Berkshire, England, UK;3624
-4G;286;1;21;6144;18997;394;;;-;6400
-4G;286;1;24;6144;18997;394;;;-;2850
-4G;286;1;27;6144;18997;394;;;-;100
-4G;286;1;37;6144;18997;230;;;-;100
+4G;234;15;32;24581;18850;144;51.340422848173226;-1.44969642162323;Rooksnest Road, Faccombe, West Berkshire, England, UK;3500
 4G;234;15;38;24607;19002;282;51.46371043819249;-3.150523714721203;1 Compass Road, Port of Cardiff, Cardiff Bay, Cardiff, Wales, UK;2850
-4G;286;1;27;6144;19007;333;;;-;100
-4G;286;1;32;6144;19007;281;;;-;1651
-4G;286;1;37;6144;19007;281;;;-;100
-4G;286;1;2;6144;19018;288;;;-;1651
-4G;286;1;17;6144;19018;288;;;-;100
-4G;286;1;27;6144;19018;157;;;-;100
-4G;286;1;37;6144;19018;320;;;-;100
-4G;286;1;22;6144;19029;69;;;-;1651
-4G;286;1;27;6144;19029;69;;;-;100
 4G;234;15;30;24723;19135;11;51.798501208795614;-2.190263383090496;Painswick Golf Course, 1 Golf Course Road, Painswick, Gloucestershire, England, UK;6300
 4G;234;15;32;24723;19135;11;51.798501208795614;-2.190263383090496;Painswick Golf Course, 1 Golf Course Road, Painswick, Gloucestershire, England, UK;3501
 4G;234;30;0;25331;19160;434;51.640039278415145;-1.8457282707095148;Stockham Close, Cricklade, Swindon, Wiltshire, England, UK;1617
@@ -5686,7 +5664,6 @@
 4G;234;10;134;17072;111440;179;51.859390499254374;-2.2631286084651947;Sudmeadow Park, 10 Spinnaker Road, Hempsted, Gloucester, Gloucestershire, England, UK;199
 4G;234;10;110;16544;111907;4;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;6400
 4G;234;10;112;16544;111907;367;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;3725
-3G;234;10;9072;21705;437;49;;;-;3025
 4G;234;10;114;16544;111907;13;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;199
 4G;234;10;120;16544;111907;14;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;6400
 4G;234;10;122;16544;111907;368;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;3725
@@ -6719,6 +6696,8 @@
 4G;234;15;30;41065;503846;106;53.43054762758996;-1.287444569170475;Ruby Cook Recreation Ground, Flanderwell Lane, Flanderwell, Rotherham, South Yorkshire, England, UK;6300
 4G;234;10;120;4099;503875;355;51.5027345395394;-0.5898164212703705;Red Cow Roundabout, Slough, Berkshire, England, UK;6400
 4G;234;10;110;32896;504257;458;53.37842621782611;-1.4628248289227486;Sheffield Railway Station (DAS System Sector 1), River Sheaf Walk, Sheaf Valley, Sheffield, South Yorkshire, England, UK;6400
+4G;234;10;114;32896;504257;458;53.37842621782611;-1.4628248289227486;Sheffield Railway Station (DAS System Sector 1), River Sheaf Walk, Sheaf Valley, Sheffield, South Yorkshire, England, UK;1226
+4G;234;15;10;40968;504258;458;53.37842621782611;-1.4628248289227486;Sheffield Railway Station (DAS System Sector 1), River Sheaf Walk, Sheaf Valley, Sheffield, South Yorkshire, England, UK;6300
 4G;234;10;110;4099;504259;400;51.469665022260244;-0.6233316287398338;307 St. Leonards Rd, Windsor, Berkshire, England, UK;6400
 4G;234;10;115;4099;504259;400;51.469665022260244;-0.6233316287398338;307 St. Leonards Rd, Windsor, Berkshire, England, UK;199
 4G;234;10;110;4096;504265;291;51.48554783919755;-0.5163047835230827;22 Lakeside Rd, Slough, Berkshire, England, UK;6400
@@ -7310,8 +7289,8 @@
 4G;234;10;125;17184;541948;91;51.50985968707786;-3.1304701790213585;Llanrumney Avenue, Rumney, Cardiff, Wales, UK;199
 4G;234;10;135;17184;541948;92;51.50985968707786;-3.1304701790213585;Llanrumney Avenue, Rumney, Cardiff, Wales, UK;199
 4G;234;10;137;17184;541949;92;51.50985968707786;-3.1304701790213585;Llanrumney Avenue, Rumney, Cardiff, Wales, UK;39448
-4G;234;10;110;50368;542597;96;51.750632954410435;-2.2969727218151093;ℹ️ DAS System • Muller Stonehouse, Oldends Lane, Stonehouse, Gloucestershire, England, UK;6400
-4G;234;10;115;50368;542597;96;51.750632954410435;-2.2969727218151093;ℹ️ DAS System • Muller Stonehouse, Oldends Lane, Stonehouse, Gloucestershire, England, UK;199
+4G;234;10;110;50368;542597;96;51.750632954410435;-2.2969727218151093;Muller Stonehouse (DAS System), Oldends Lane, Stonehouse, Gloucestershire, England, UK;6400
+4G;234;10;115;50368;542597;96;51.750632954410435;-2.2969727218151093;Muller Stonehouse (DAS System), Oldends Lane, Stonehouse, Gloucestershire, England, UK;199
 4G;234;10;127;34784;543134;367;53.729106826428655;-0.5566146969795227;Half Acre Industrial Estate, Wiske Avenue, Brough, East Riding of Yorkshire, England, UK;39448
 4G;234;10;124;32897;543264;188;53.41522574588965;-1.4207563921809196;20 Julian Road, Brightside, Sheffield, South Yorkshire, England, UK;1226
 4G;234;10;136;34784;543619;119;53.743443145701;-0.32472096383571625;Citadel Trading Park, Citadel Way, Drypool, Hull, East Riding of Yorkshire, England, UK [O2];39250
