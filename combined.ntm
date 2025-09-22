@@ -351,7 +351,7 @@
 2G;234;10;36671;21400;0;37;51.71003378432002;-2.396339848637581;Cross Country Route, Woodend Lane, Tumpy Green, Cam, Gloucestershire, England, UK;118
 2G;234;10;36694;null;0;44;52.14732494583332;-4.4128889590501785;Pantcoch Garage, Pentregat, Ceredigion, Wales, UK;124
 2G;234;10;36866;null;0;25;51.425699656523335;-2.590908547874707;Broadbury Road Police Station, Broadbury Road, Knowle West, Bristol, West of England, England, UK;114
-2G;234;10;36870;21785;0;11;51.916770741332826;-2.1233144402503967;Public path around farm fields, 40 Cornmeadow Dr, Cheltenham, Gloucestershire, England, UK;123
+2G;234;10;36870;21785;0;11;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;123
 2G;234;10;36907;null;0;11;51.859390499254374;-2.2631286084651947;Sudmeadow Park, 10 Spinnaker Road, Hempsted, Gloucester, Gloucestershire, England, UK;120
 2G;234;10;37076;21785;0;21;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK;119
 4G;234;10;137;49904;146;131;52.48145872916351;-1.8692519143223763;Lion Picture Framing Supplies, 21 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;39448
@@ -579,8 +579,11 @@
 4G;234;20;1;2008;1737;397;52.48709807450082;-1.8716102465987203;Midland Marble, 80 Dollman Street, Vauxhall, Birmingham, West Midlands, England, UK;1363
 4G;234;15;10;24582;1757;423;51.593641020558614;-1.779593713581562;30 Upavon Ct, Swindon, Wiltshire, England, UK;6300
 4G;234;15;34;57374;1767;408;52.42646870273065;-1.9259179383516314;Attic Brew Co., 29c Mary Vale Road, Stirchley, Birmingham, West Midlands, England, UK;323
+4G;234;10;110;49904;1767;399;52.42646870273065;-1.9259179383516314;Attic Brew Co., 29c Mary Vale Road, Stirchley, Birmingham, West Midlands, England, UK;6400
+4G;234;10;114;49904;1767;399;52.42646870273065;-1.9259179383516314;Attic Brew Co., 29c Mary Vale Road, Stirchley, Birmingham, West Midlands, England, UK;199
 4G;234;10;120;49904;1767;401;52.42646870273065;-1.9259179383516314;Attic Brew Co., 29c Mary Vale Road, Stirchley, Birmingham, West Midlands, England, UK;6400
 4G;234;10;124;49904;1767;401;52.42646870273065;-1.9259179383516314;Attic Brew Co., 29c Mary Vale Road, Stirchley, Birmingham, West Midlands, England, UK;199
+4G;234;10;130;49904;1767;400;52.42646870273065;-1.9259179383516314;Attic Brew Co., 29c Mary Vale Road, Stirchley, Birmingham, West Midlands, England, UK;6400
 4G;234;10;134;49904;1767;400;52.42646870273065;-1.9259179383516314;Attic Brew Co., 29c Mary Vale Road, Stirchley, Birmingham, West Midlands, England, UK;199
 4G;234;20;0;3132;1774;129;53.43389960807746;-1.3627998903393745;1 Thames Street, Masbrough, Rotherham, South Yorkshire, England, UK;1363
 4G;234;20;2;3132;1774;203;53.43389960807746;-1.3627998903393745;1 Thames Street, Masbrough, Rotherham, South Yorkshire, England, UK;1363
@@ -595,6 +598,8 @@
 4G;234;15;30;24582;1815;451;51.56128531438281;-1.7868507653474808;House Of Frazer, 44-54 Canal Walk, Swindon, Wiltshire, England, UK;6300
 4G;234;15;34;24582;1815;463;51.56128531438281;-1.7868507653474808;House Of Frazer, 44-54 Canal Walk, Swindon, Wiltshire, England, UK;323
 4G;234;15;38;24582;1815;142;51.56128531438281;-1.7868507653474808;House Of Frazer, 44-54 Canal Walk, Swindon, Wiltshire, England, UK;2850
+4G;234;15;10;24723;1818;495;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;6300
+4G;234;15;14;24723;1818;50;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;323
 4G;234;15;20;24723;1818;496;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;6300
 4G;234;15;24;24723;1818;48;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;323
 4G;234;15;30;24723;1818;497;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;6300
@@ -615,10 +620,15 @@
 4G;234;15;10;24581;1844;171;51.50943274801676;-1.6192184016108513;Baydon Rd, Marlborough, Wiltshire, England, UK;6300
 4G;234;15;20;24581;1844;172;51.50943274801676;-1.6192184016108513;Baydon Rd, Marlborough, Wiltshire, England, UK;6300
 4G;234;15;30;24581;1844;173;51.50943274801676;-1.6192184016108513;Baydon Rd, Marlborough, Wiltshire, England, UK;6300
+4G;234;15;10;24723;1848;180;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;6300
+4G;234;15;14;24723;1848;24;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;323
+4G;234;15;20;24723;1848;181;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;6300
+4G;234;15;24;24723;1848;25;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;323
 4G;234;15;30;24723;1848;182;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;6300
 4G;234;15;34;24723;1848;26;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;323
 4G;234;15;10;24581;1859;81;51.46413697006757;-1.2748462334275246;2 Oareborough Ln, Hermitage, Thatcham, West Berkshire, England, UK;6300
 4G;234;15;20;24581;1859;82;51.46413697006757;-1.2748462334275246;2 Oareborough Ln, Hermitage, Thatcham, West Berkshire, England, UK;6300
+4G;234;15;30;24581;1859;83;51.46413697006757;-1.2748462334275246;2 Oareborough Ln, Hermitage, Thatcham, West Berkshire, England, UK;6300
 4G;234;20;2;2128;1860;197;51.38781044125507;-2.3330403864383698;Golf Course Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK [MBNL];1363
 4G;234;20;8;2128;1860;55;51.38781044125507;-2.3330403864383698;Golf Course Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK [MBNL];6175
 4G;234;20;73;2128;1860;407;51.38781044125507;-2.3330403864383698;Golf Course Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK [MBNL];76
@@ -663,6 +673,7 @@
 4G;234;20;92;3628;2253;79;53.589177490229126;-1.0212034732103348;Hatfield & Stainforth Railway Station, 8 Waggons Way, Stainforth, Doncaster, South Yorkshire, England, UK;9360
 4G;234;15;10;24723;2262;300;51.782144363017736;-2.0360950380563736;BP, Gloucester Road, Cirencester, Gloucestershire, England, UK;6300
 4G;234;15;20;24723;2262;302;51.782144363017736;-2.0360950380563736;BP, Gloucester Road, Cirencester, Gloucestershire, England, UK;6300
+4G;234;15;30;24723;2262;301;51.782144363017736;-2.0360950380563736;BP, Gloucester Road, Cirencester, Gloucestershire, England, UK;6300
 4G;234;20;0;2641;2279;268;53.41696841393816;-1.3509177044034004;Thomas Rotherham College, Boston Castle Grove, Moorgate, Rotherham, UK [MBNL];1363
 4G;234;20;0;2429;2310;300;51.9017268187313;-2.097168266773224;Unit 14 Alstone Lane Trading Est, Alstone Ln, Alstone, Cheltenham, Gloucestershire, England, UK;1363
 4G;234;20;2;2429;2310;149;51.9017268187313;-2.097168266773224;Unit 14 Alstone Lane Trading Est, Alstone Ln, Alstone, Cheltenham, Gloucestershire, England, UK;1363
@@ -1337,9 +1348,9 @@
 4G;234;10;110;16609;5089;137;51.35737590203458;-2.9472219944000244;48 Upper Bristol Rd, Milton, Weston-super-mare, North Somerset, England, UK;6400
 4G;234;10;120;16609;5089;136;51.35737590203458;-2.9472219944000244;48 Upper Bristol Rd, Milton, Weston-super-mare, North Somerset, England, UK;6400
 4G;234;10;124;16609;5089;136;51.35737590203458;-2.9472219944000244;48 Upper Bristol Rd, Milton, Weston-super-mare, North Somerset, England, UK;199
-4G;234;15;10;24723;5116;294;51.916770741332826;-2.1233144402503967;Public path around farm fields, 40 Cornmeadow Dr, Cheltenham, Gloucestershire, England, UK;6300
-4G;234;15;20;24723;5116;295;51.916770741332826;-2.1233144402503967;Public path around farm fields, 40 Cornmeadow Dr, Cheltenham, Gloucestershire, England, UK;6300
-4G;234;15;30;24723;5116;296;51.916770741332826;-2.1233144402503967;Public path around farm fields, 40 Cornmeadow Dr, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;10;24723;5116;294;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;20;24723;5116;295;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;30;24723;5116;296;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;6300
 4G;234;20;0;2145;5125;381;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;1363
 4G;234;20;2;2145;5125;455;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;1363
 4G;234;20;6;2145;5125;180;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;6175
@@ -1423,8 +1434,12 @@
 4G;234;20;2;2121;5406;171;51.8944897357586;-2.0763687416911125;Montpellier House, Montpellier Dr, Cheltenham, Gloucestershire, England, UK;1363
 4G;234;20;0;2584;5414;396;52.49606849303561;-1.8527620285749438;Malik & Sons, 222 Washwood Heath Road B4114, Washwood Heath, Birmingham, West Midlands, England, UK;1363
 4G;234;20;1;2137;5421;462;51.43737095402637;-2.536092661321163;Bonville Road, Broomhill, Bridlington, Bristol, West of England, England, UK;1363
+4G;234;15;10;24723;5432;297;51.87071984072185;-2.4322794377803802;Huntley Hill, Chapel Lane, Huntley, Gloucestershire, England, UK;6300
+4G;234;15;12;24723;5432;434;51.87071984072185;-2.4322794377803802;Huntley Hill, Chapel Lane, Huntley, Gloucestershire, England, UK;3501
+4G;234;15;20;24723;5432;298;51.87071984072185;-2.4322794377803802;Huntley Hill, Chapel Lane, Huntley, Gloucestershire, England, UK;6300
 4G;234;15;22;24723;5432;432;51.87071984072185;-2.4322794377803802;Huntley Hill, Chapel Lane, Huntley, Gloucestershire, England, UK;3501
 4G;234;15;30;24723;5432;299;51.87071984072185;-2.4322794377803802;Huntley Hill, Chapel Lane, Huntley, Gloucestershire, England, UK;6300
+4G;234;15;32;24723;5432;433;51.87071984072185;-2.4322794377803802;Huntley Hill, Chapel Lane, Huntley, Gloucestershire, England, UK;3501
 4G;234;15;20;24610;5435;35;51.69454079935601;-2.389044240117073;Oldhill Lane, Stinchcombe, Dursley, Gloucestershire, England, UK;6300
 4G;234;15;22;24610;5435;35;51.69454079935601;-2.389044240117073;Oldhill Lane, Stinchcombe, Dursley, Gloucestershire, England, UK;3501
 4G;234;15;24;24610;5435;35;51.69454079935601;-2.389044240117073;Oldhill Lane, Stinchcombe, Dursley, Gloucestershire, England, UK;323
@@ -1439,7 +1454,10 @@
 4G;234;10;134;16624;5435;490;51.69454079935601;-2.389044240117073;Oldhill Lane, Stinchcombe, Dursley, Gloucestershire, England, UK;199
 4G;234;15;30;24723;5456;80;51.77490960712049;-2.0958754420280457;Lypiatt Farm, Miserdon, Gloucestershire, England, UK;6300
 4G;234;20;6;2308;5521;289;51.419328098694386;-2.6723502203822136;Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK [MBNL];6175
-4G;234;15;10;24723;5538;190;51.8398128625979;-2.1030835434794426;Grove Farm, Crickley Hill, A417, Birdlip, Gloucester, Gloucestershire, England, UK;6300
+4G;234;15;10;24723;5538;189;51.8398128625979;-2.1030835434794426;Grove Farm, Crickley Hill, A417, Birdlip, Gloucester, Gloucestershire, England, UK;6300
+4G;234;15;12;24723;5538;138;51.8398128625979;-2.1030835434794426;Grove Farm, Crickley Hill, A417, Birdlip, Gloucester, Gloucestershire, England, UK;3501
+4G;234;15;20;24723;5538;191;51.8398128625979;-2.1030835434794426;Grove Farm, Crickley Hill, A417, Birdlip, Gloucester, Gloucestershire, England, UK;6300
+4G;234;15;22;24723;5538;139;51.8398128625979;-2.1030835434794426;Grove Farm, Crickley Hill, A417, Birdlip, Gloucester, Gloucestershire, England, UK;3501
 4G;234;15;30;24723;5538;190;51.8398128625979;-2.1030835434794426;Grove Farm, Crickley Hill, A417, Birdlip, Gloucester, Gloucestershire, England, UK;6300
 4G;234;15;32;24723;5538;140;51.8398128625979;-2.1030835434794426;Grove Farm, Crickley Hill, A417, Birdlip, Gloucester, Gloucestershire, England, UK;3501
 4G;234;15;30;24607;5569;275;51.499039742277695;-3.1369322910904884;Unit 1 Rhymney River Bridge Road, Rumney, Cardiff, Wales, UK;6300
@@ -1747,6 +1765,7 @@
 4G;234;15;14;24606;7086;212;51.357696022761665;-2.9107188060879707;Worle Railway Station Car Park, Parkway, Locking Castle, Weston-super-mare, North Somerset, England, UK;323
 4G;234;15;20;24606;7086;211;51.357696022761665;-2.9107188060879707;Worle Railway Station Car Park, Parkway, Locking Castle, Weston-super-mare, North Somerset, England, UK;6300
 4G;234;15;24;24606;7086;211;51.357696022761665;-2.9107188060879707;Worle Railway Station Car Park, Parkway, Locking Castle, Weston-super-mare, North Somerset, England, UK;323
+4G;234;15;30;24606;7086;210;51.357696022761665;-2.9107188060879707;Worle Railway Station Car Park, Parkway, Locking Castle, Weston-super-mare, North Somerset, England, UK;6300
 4G;234;15;34;24606;7086;210;51.357696022761665;-2.9107188060879707;Worle Railway Station Car Park, Parkway, Locking Castle, Weston-super-mare, North Somerset, England, UK;323
 4G;234;10;110;16609;7086;212;51.357696022761665;-2.9107188060879707;Worle Railway Station Car Park, Parkway, Locking Castle, Weston-super-mare, North Somerset, England, UK;6400
 4G;234;10;112;16609;7086;212;51.357696022761665;-2.9107188060879707;Worle Railway Station Car Park, Parkway, Locking Castle, Weston-super-mare, North Somerset, England, UK;3725
@@ -1764,9 +1783,11 @@
 4G;234;10;120;16816;7123;36;52.15746783777174;-4.320739321410656;B4459, Synod Inn, Ceredigion, Wales, UK;6400
 4G;234;10;130;16816;7123;38;52.15746783777174;-4.320739321410656;B4459, Synod Inn, Ceredigion, Wales, UK;6400
 4G;234;15;10;24723;7144;138;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;6300
+4G;234;15;20;24723;7144;139;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;6300
 4G;234;15;30;24723;7144;140;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;6300
-4G;234;10;110;16624;7175;90;51.73709169948979;-2.5195303559303284;Driffield Rd, Lydney, Gloucestershire, England, UK;6400
+4G;234;10;110;16624;7175;90;51.73709169948979;-2.5195303559303284;⚠️ Legacy eNB • Driffield Rd, Lydney, Gloucestershire, England, UK;6400
 4G;234;15;10;24723;7228;200;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;6300
+4G;234;15;20;24723;7228;198;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;6300
 4G;234;15;30;24723;7228;199;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;6300
 4G;234;20;0;3488;7282;270;53.62287875137546;-0.6228531897068024;Winterton Road A1077, Dragonby, North Lincolnshire, England, UK;1363
 4G;234;20;6;3488;7282;150;53.62287875137546;-0.6228531897068024;Winterton Road A1077, Dragonby, North Lincolnshire, England, UK;6175
@@ -1781,8 +1802,15 @@
 4G;234;20;0;2292;7436;111;51.998137076279555;-2.129274643957615;Constellation Cold Logistics, 22 Furrowfield Park, Newtown, Tewkesbury, Gloucestershire, England, UK;1363
 4G;234;20;1;2292;7436;111;51.998137076279555;-2.129274643957615;Constellation Cold Logistics, 22 Furrowfield Park, Newtown, Tewkesbury, Gloucestershire, England, UK;1363
 4G;234;20;7;2292;7436;274;51.998137076279555;-2.129274643957615;Constellation Cold Logistics, 22 Furrowfield Park, Newtown, Tewkesbury, Gloucestershire, England, UK;6175
+4G;234;15;10;24723;7449;264;51.90374561229604;-2.1344057098031044;Hayden STW, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;12;24723;7449;38;51.90374561229604;-2.1344057098031044;Hayden STW, Cheltenham, Gloucestershire, England, UK;3501
+4G;234;15;14;24723;7449;38;51.90374561229604;-2.1344057098031044;Hayden STW, Cheltenham, Gloucestershire, England, UK;323
 4G;234;15;20;24723;7449;265;51.90374561229604;-2.1344057098031044;Hayden STW, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;22;24723;7449;36;51.90374561229604;-2.1344057098031044;Hayden STW, Cheltenham, Gloucestershire, England, UK;3501
+4G;234;15;24;24723;7449;36;51.90374561229604;-2.1344057098031044;Hayden STW, Cheltenham, Gloucestershire, England, UK;323
 4G;234;15;30;24723;7449;266;51.90374561229604;-2.1344057098031044;Hayden STW, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;32;24723;7449;37;51.90374561229604;-2.1344057098031044;Hayden STW, Cheltenham, Gloucestershire, England, UK;3501
+4G;234;15;34;24723;7449;37;51.90374561229604;-2.1344057098031044;Hayden STW, Cheltenham, Gloucestershire, England, UK;323
 4G;234;15;14;24723;7504;229;51.86680796801164;-2.205882892012596;BizSpace Corinium House, Barnwood Point, 2 Corinium Avenue, Barnwood, Gloucester, Gloucestershire, England, UK;323
 4G;234;15;20;24723;7504;55;51.86680796801164;-2.205882892012596;BizSpace Corinium House, Barnwood Point, 2 Corinium Avenue, Barnwood, Gloucester, Gloucestershire, England, UK;6300
 4G;234;15;24;24723;7504;230;51.86680796801164;-2.205882892012596;BizSpace Corinium House, Barnwood Point, 2 Corinium Avenue, Barnwood, Gloucester, Gloucestershire, England, UK;323
@@ -2661,7 +2689,12 @@
 3G;234;20;23560;77;48;233;;;-;10564
 4G;234;20;8;2281;12380;171;51.85966154567009;-2.167176604270935;Brockworth Interchange J11A, M5, Brockworth, Gloucestershire, England, UK;6175
 4G;234;30;5;22581;12437;310;51.42444931287131;-0.5128061771392822;95 Chertsey Ln, Staines-upon-Thames, Surrey, England, UK;1761
+4G;234;15;10;24723;12470;93;51.84108228710426;-2.0844747126102448;Ullen Wood, South Hill, Coberley, Cotswold District, Gloucestershire, England, UK;6300
+4G;234;15;12;24723;12470;348;51.84108228710426;-2.0844747126102448;Ullen Wood, South Hill, Coberley, Cotswold District, Gloucestershire, England, UK;3501
+4G;234;15;20;24723;12470;94;51.84108228710426;-2.0844747126102448;Ullen Wood, South Hill, Coberley, Cotswold District, Gloucestershire, England, UK;6300
+4G;234;15;22;24723;12470;349;51.84108228710426;-2.0844747126102448;Ullen Wood, South Hill, Coberley, Cotswold District, Gloucestershire, England, UK;3501
 4G;234;15;30;24723;12470;95;51.84108228710426;-2.0844747126102448;Ullen Wood, South Hill, Coberley, Cotswold District, Gloucestershire, England, UK;6300
+4G;234;15;32;24723;12470;350;51.84108228710426;-2.0844747126102448;Ullen Wood, South Hill, Coberley, Cotswold District, Gloucestershire, England, UK;3501
 4G;234;20;0;2123;12565;78;51.86828883071959;-2.2355491295456886;65 London Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;1;2123;12565;217;51.86828883071959;-2.2355491295456886;65 London Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;2;2123;12565;5;51.86828883071959;-2.2355491295456886;65 London Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;1363
@@ -2694,6 +2727,8 @@
 4G;234;15;10;24701;12861;162;51.413699223459005;-0.950491726398468;Lane End Villas, Shinfield Rd, Shinfield, Reading, Berkshire, England, UK;6300
 4G;234;15;30;24701;12861;321;51.413699223459005;-0.950491726398468;Lane End Villas, Shinfield Rd, Shinfield, Reading, Berkshire, England, UK;6300
 4G;234;30;1;24371;12865;178;51.505096773680435;-3.1659960374236107;University Hall, Birchwood Rd, Cardiff, Wales, UK;1617
+4G;234;30;2;24371;12865;177;51.505096773680435;-3.1659960374236107;University Hall, Birchwood Rd, Cardiff, Wales, UK;1617
+4G;234;30;4;24371;12865;178;51.505096773680435;-3.1659960374236107;University Hall, Birchwood Rd, Cardiff, Wales, UK;1815
 4G;234;30;5;24371;12865;177;51.505096773680435;-3.1659960374236107;University Hall, Birchwood Rd, Cardiff, Wales, UK;1815
 4G;234;30;10;24371;12865;178;51.505096773680435;-3.1659960374236107;University Hall, Birchwood Rd, Cardiff, Wales, UK;3179
 4G;234;30;11;24371;12865;177;51.505096773680435;-3.1659960374236107;University Hall, Birchwood Rd, Cardiff, Wales, UK;3179
@@ -2870,6 +2905,18 @@
 4G;234;15;18;24607;13965;384;51.44111129151109;-3.2668611779809;Pugh's Garden Village Wenvoe, Port Road A4050, Wenvoe, Glamorgan, Wales, UK [Cornerstone];2850
 4G;234;15;28;24610;14003;59;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;2850
 4G;234;15;20;24610;14019;309;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;6300
+4G;234;15;10;24610;14035;362;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;6300
+4G;234;15;12;24610;14035;362;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;3501
+4G;234;15;14;24610;14035;362;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;323
+4G;234;15;18;24610;14035;362;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;2850
+4G;234;15;20;24610;14035;360;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;6300
+4G;234;15;22;24610;14035;360;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;3501
+4G;234;15;24;24610;14035;360;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;323
+4G;234;15;28;24610;14035;360;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;2850
+4G;234;15;30;24610;14035;361;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;6300
+4G;234;15;32;24610;14035;361;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;3501
+4G;234;15;34;24610;14035;361;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;323
+4G;234;15;38;24610;14035;361;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;2850
 4G;234;15;30;24606;14042;107;51.58973717192285;-2.948175184428692;9 Walford Davies Drive, Ladyhill Wood, Ladyhill, Newport, Wales, UK [Cornerstone];6300
 4G;234;15;34;24606;14042;44;51.58973717192285;-2.948175184428692;9 Walford Davies Drive, Ladyhill Wood, Ladyhill, Newport, Wales, UK [Cornerstone];323
 4G;234;15;18;24611;14049;0;51.5270203255256;-2.6784616336226463;Smoke Lane A403, Chittening Industrial Estate, Chittening, Bristol, West of England, England, UK;2850
@@ -4377,9 +4424,13 @@
 4G;234;30;9;24391;30585;427;51.342342155370105;-2.95943945646286;Winterstoke Commercial Centre, Searle Cres, Weston-super-mare, North Somerset, England, UK;3179
 4G;234;30;10;24391;30585;428;51.342342155370105;-2.95943945646286;Winterstoke Commercial Centre, Searle Cres, Weston-super-mare, North Somerset, England, UK;3179
 4G;234;30;12;24390;30585;97;51.342342155370105;-2.95943945646286;Winterstoke Commercial Centre, Searle Cres, Weston-super-mare, North Somerset, England, UK;6225
+4G;234;30;0;25171;30589;489;51.88762210802987;-2.233373522758484;Off Tewkesbury Road A38, Longford, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;1;25171;30589;491;51.88762210802987;-2.233373522758484;Off Tewkesbury Road A38, Longford, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;2;25171;30589;490;51.88762210802987;-2.233373522758484;Off Tewkesbury Road A38, Longford, Gloucester, Gloucestershire, England, UK;1617
-4G;234;30;20;25171;30589;294;51.88762210802987;-2.233373522758484;Off Tewkesbury Road A38, Longford, Gloucester, Gloucestershire, England, UK;522
+4G;234;30;3;25171;30589;489;51.88762210802987;-2.233373522758484;Off Tewkesbury Road A38, Longford, Gloucester, Gloucestershire, England, UK;1815
+4G;234;30;4;25171;30589;491;51.88762210802987;-2.233373522758484;Off Tewkesbury Road A38, Longford, Gloucester, Gloucestershire, England, UK;1815
+4G;234;30;5;25171;30589;490;51.88762210802987;-2.233373522758484;Off Tewkesbury Road A38, Longford, Gloucester, Gloucestershire, England, UK;1815
+4G;234;30;20;25171;30589;294;51.88762210802987;-2.233373522758484;Off Tewkesbury Road A38, Longford, Gloucester, Gloucestershire, England, UK;497
 4G;234;30;1;24361;30657;163;51.62514342959836;-2.7162036672234535;Hayesgate Lane, Mathern, Monmouthshire, Wales, UK;1617
 4G;234;30;2;24361;30657;59;51.62514342959836;-2.7162036672234535;Hayesgate Lane, Mathern, Monmouthshire, Wales, UK;1617
 4G;234;30;1;25171;30660;181;51.86680796801164;-2.205882892012596;BizSpace Corinium House, Barnwood Point, 2 Corinium Avenue, Barnwood, Gloucester, Gloucestershire, England, UK;1617
@@ -5215,8 +5266,9 @@
 4G;234;10;122;16544;101815;424;51.56128531438281;-1.7868507653474808;House Of Frazer, 44-54 Canal Walk, Swindon, Wiltshire, England, UK;3725
 4G;234;10;124;16544;101815;7;51.56128531438281;-1.7868507653474808;House Of Frazer, 44-54 Canal Walk, Swindon, Wiltshire, England, UK;199
 4G;234;10;130;16544;101815;8;51.56128531438281;-1.7868507653474808;House Of Frazer, 44-54 Canal Walk, Swindon, Wiltshire, England, UK;6400
-4G;234;10;132;16544;101815;386;51.56128531438281;-1.7868507653474808;House Of Frazer, 44-54 Canal Walk, Swindon, Wiltshire, England, UK;3725
+4G;234;10;132;16544;101815;425;51.56128531438281;-1.7868507653474808;House Of Frazer, 44-54 Canal Walk, Swindon, Wiltshire, England, UK;3725
 4G;234;10;134;16544;101815;8;51.56128531438281;-1.7868507653474808;House Of Frazer, 44-54 Canal Walk, Swindon, Wiltshire, England, UK;199
+4G;234;10;110;16544;101818;198;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;6400
 4G;234;10;120;16544;101818;199;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;6400
 4G;234;10;130;16544;101818;200;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;6400
 4G;234;10;120;16544;101819;147;51.54193857016402;-1.8403933569788935;7 Hay Lane, Blagrove, Swindon, Wiltshire, England, UK;6400
@@ -5238,6 +5290,8 @@
 4G;234;10;114;16576;101844;342;51.50943274801676;-1.6192184016108513;Baydon Rd, Marlborough, Wiltshire, England, UK;199
 4G;234;10;130;16576;101844;389;51.50943274801676;-1.6192184016108513;Baydon Rd, Marlborough, Wiltshire, England, UK;6400
 4G;234;10;134;16576;101844;344;51.50943274801676;-1.6192184016108513;Baydon Rd, Marlborough, Wiltshire, England, UK;199
+4G;234;10;110;16544;101848;403;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;6400
+4G;234;10;114;16544;101848;403;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;199
 4G;234;10;120;16544;101848;404;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;6400
 4G;234;10;124;16544;101848;404;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;199
 4G;234;10;130;16544;101848;402;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;6400
@@ -5268,9 +5322,12 @@
 4G;234;10;130;17040;102483;68;51.45561560311639;-0.576406717300415;Malt House Close, Old Windsor, Windsor, Berkshire, England, UK;6400
 4G;234;10;110;16544;102757;333;51.67921069436748;-2.0324619859457016;Burnt Covert, Station Road, Kemble, Gloucestershire, England, UK;6400
 4G;234;10;120;16544;102757;334;51.67921069436748;-2.0324619859457016;Burnt Covert, Station Road, Kemble, Gloucestershire, England, UK;6400
+4G;234;10;130;16544;102757;335;51.67921069436748;-2.0324619859457016;Burnt Covert, Station Road, Kemble, Gloucestershire, England, UK;6400
 4G;234;10;110;16544;102787;354;51.73305338668937;-2.204320505261421;The Clock house, Stafford Mill, London Rd, Stroud, Gloucestershire, England, UK;6400
 4G;234;10;120;16544;102787;355;51.73305338668937;-2.204320505261421;The Clock house, Stafford Mill, London Rd, Stroud, Gloucestershire, England, UK;6400
 4G;234;10;124;16544;102787;455;51.73305338668937;-2.204320505261421;The Clock house, Stafford Mill, London Rd, Stroud, Gloucestershire, England, UK;199
+4G;234;10;110;16544;102821;366;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Cl, Swindon, Wiltshire, England, UK;6400
+4G;234;10;114;16544;102821;39;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Cl, Swindon, Wiltshire, England, UK;199
 4G;234;10;120;16544;102821;367;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Cl, Swindon, Wiltshire, England, UK;6400
 4G;234;10;124;16544;102821;40;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Cl, Swindon, Wiltshire, England, UK;199
 4G;234;10;130;16544;102821;368;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Cl, Swindon, Wiltshire, England, UK;6400
@@ -5306,6 +5363,7 @@
 4G;234;10;124;17072;102984;439;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;130;17072;102984;317;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;134;17072;102984;440;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;110;17153;102987;279;51.46178974208351;-2.1144594624638557;Chippenham Telephone Exchange, Cocklebury Road, Chippenham, Wiltshire, England, UK;6400
 4G;234;10;120;17153;102987;280;51.46178974208351;-2.1144594624638557;Chippenham Telephone Exchange, Cocklebury Road, Chippenham, Wiltshire, England, UK;6400
 4G;234;10;130;17153;102987;281;51.46178974208351;-2.1144594624638557;Chippenham Telephone Exchange, Cocklebury Road, Chippenham, Wiltshire, England, UK;6400
 4G;234;10;110;17072;102988;297;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK;6400
@@ -5363,14 +5421,20 @@
 4G;234;10;127;17072;103615;156;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];39448
 4G;234;10;130;17072;103615;134;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];6400
 4G;234;10;134;17072;103615;181;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];199
-4G;234;10;110;17072;103629;253;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;6400
-4G;234;10;112;17072;103629;388;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;3725
-4G;234;10;114;17072;103629;136;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;199
-4G;234;10;120;17072;103629;331;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;6400
-4G;234;10;122;17072;103629;389;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;3725
-4G;234;10;124;17072;103629;137;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;199
-4G;234;10;130;17072;103629;332;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;6400
-4G;234;10;134;17072;103629;135;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;199
+4G;234;10;137;17072;103615;157;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];39448
+4G;234;10;110;17072;103629;null;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;6400
+4G;234;10;112;17072;103629;null;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;3725
+4G;234;10;114;17072;103629;null;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;199
+4G;234;10;120;17072;103629;null;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;6400
+4G;234;10;122;17072;103629;null;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;3725
+4G;234;10;124;17072;103629;null;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;199
+4G;234;10;130;17072;103629;282;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;6400
+4G;234;10;132;17072;103629;282;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;3725
+4G;234;10;134;17072;103629;282;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;199
+4G;234;10;136;17072;103629;282;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;1226
+4G;234;10;110;17072;103684;33;51.817487474739536;-2.277061343193054;Waterwells Park & Ride, Naas Lane, Quedgeley, Gloucester, Gloucestershire, England, UK [Cornerstone];6400
+4G;234;10;112;17072;103684;415;51.817487474739536;-2.277061343193054;Waterwells Park & Ride, Naas Lane, Quedgeley, Gloucester, Gloucestershire, England, UK [Cornerstone];3725
+4G;234;10;114;17072;103684;163;51.817487474739536;-2.277061343193054;Waterwells Park & Ride, Naas Lane, Quedgeley, Gloucester, Gloucestershire, England, UK [Cornerstone];199
 4G;234;10;120;17072;103684;34;51.817487474739536;-2.277061343193054;Waterwells Park & Ride, Naas Lane, Quedgeley, Gloucester, Gloucestershire, England, UK [Cornerstone];6400
 4G;234;10;122;17072;103684;416;51.817487474739536;-2.277061343193054;Waterwells Park & Ride, Naas Lane, Quedgeley, Gloucester, Gloucestershire, England, UK [Cornerstone];3725
 4G;234;10;124;17072;103684;164;51.817487474739536;-2.277061343193054;Waterwells Park & Ride, Naas Lane, Quedgeley, Gloucester, Gloucestershire, England, UK [Cornerstone];199
@@ -5383,6 +5447,7 @@
 4G;234;10;110;17072;103705;210;51.998137076279555;-2.129274643957615;Constellation Cold Logistics, 22 Furrowfield Park, Newtown, Tewkesbury, Gloucestershire, England, UK;6400
 4G;234;10;114;17072;103705;303;51.998137076279555;-2.129274643957615;Constellation Cold Logistics, 22 Furrowfield Park, Newtown, Tewkesbury, Gloucestershire, England, UK;199
 4G;234;10;120;17072;103705;211;51.998137076279555;-2.129274643957615;Constellation Cold Logistics, 22 Furrowfield Park, Newtown, Tewkesbury, Gloucestershire, England, UK;6400
+4G;234;10;124;17072;103705;304;51.998137076279555;-2.129274643957615;Constellation Cold Logistics, 22 Furrowfield Park, Newtown, Tewkesbury, Gloucestershire, England, UK;199
 4G;234;10;130;17072;103705;212;51.998137076279555;-2.129274643957615;Constellation Cold Logistics, 22 Furrowfield Park, Newtown, Tewkesbury, Gloucestershire, England, UK;6400
 4G;234;10;134;17072;103705;305;51.998137076279555;-2.129274643957615;Constellation Cold Logistics, 22 Furrowfield Park, Newtown, Tewkesbury, Gloucestershire, England, UK;199
 4G;234;10;110;17072;103764;405;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone];6400
@@ -5397,7 +5462,7 @@
 4G;234;10;110;16576;103773;393;51.41844136683548;-1.3835172727704048;B4000, Newbury, West Berkshire, England, UK;6400
 4G;234;10;110;17072;103834;420;51.888015488588124;-2.186448946595192;The Hare and Hounds, Cheltenham Road East B4063, Churchdown, Gloucestershire, England, UK;6400
 4G;234;10;114;17072;103834;259;51.888015488588124;-2.186448946595192;The Hare and Hounds, Cheltenham Road East B4063, Churchdown, Gloucestershire, England, UK;199
-4G;234;10;120;17072;103834;420;51.888015488588124;-2.186448946595192;The Hare and Hounds, Cheltenham Road East B4063, Churchdown, Gloucestershire, England, UK;6400
+4G;234;10;120;17072;103834;421;51.888015488588124;-2.186448946595192;The Hare and Hounds, Cheltenham Road East B4063, Churchdown, Gloucestershire, England, UK;6400
 4G;234;10;124;17072;103834;260;51.888015488588124;-2.186448946595192;The Hare and Hounds, Cheltenham Road East B4063, Churchdown, Gloucestershire, England, UK;199
 4G;234;10;130;17072;103834;422;51.888015488588124;-2.186448946595192;The Hare and Hounds, Cheltenham Road East B4063, Churchdown, Gloucestershire, England, UK;6400
 4G;234;10;134;17072;103834;258;51.888015488588124;-2.186448946595192;The Hare and Hounds, Cheltenham Road East B4063, Churchdown, Gloucestershire, England, UK;199
@@ -5537,8 +5602,15 @@
 4G;234;10;130;16544;104989;493;51.53649831838161;-1.6954782977700233;Ham Rd, Swindon, Wiltshire, England, UK;6400
 4G;234;10;134;16544;104989;379;51.53649831838161;-1.6954782977700233;Ham Rd, Swindon, Wiltshire, England, UK;199
 4G;234;10;120;16576;104999;397;51.54800553556106;-1.3932064175605774;B4494, Wantage, Oxfordshire, England, UK;6400
-4G;234;10;110;17072;105116;21;51.916770741332826;-2.1233144402503967;Public path around farm fields, 40 Cornmeadow Dr, Cheltenham, Gloucestershire, England, UK;6400
-4G;234;10;130;17072;105116;23;51.916770741332826;-2.1233144402503967;Public path around farm fields, 40 Cornmeadow Dr, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;110;17072;105116;21;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;112;17072;105116;231;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;3725
+4G;234;10;114;17072;105116;267;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;199
+4G;234;10;120;17072;105116;22;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;122;17072;105116;232;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;3725
+4G;234;10;124;17072;105116;268;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;199
+4G;234;10;130;17072;105116;23;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;132;17072;105116;233;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;3725
+4G;234;10;134;17072;105116;269;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;199
 4G;234;10;110;17072;105150;363;51.845899891416934;-2.2440386563539505;⚠️ Legacy eNB • Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;6400
 4G;234;10;114;17072;105150;193;51.845899891416934;-2.2440386563539505;⚠️ Legacy eNB • Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;199
 4G;234;10;120;17072;105150;364;51.845899891416934;-2.2440386563539505;⚠️ Legacy eNB • Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;6400
@@ -5570,10 +5642,12 @@
 4G;234;10;110;17072;105802;216;51.88980541977174;-2.1129510551691055;Paragon House, 212 Hatherley Road, Hatherley, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;114;17072;105802;486;51.88980541977174;-2.1129510551691055;Paragon House, 212 Hatherley Road, Hatherley, Cheltenham, Gloucestershire, England, UK;199
 4G;234;10;130;17072;105802;227;51.88980541977174;-2.1129510551691055;Paragon House, 212 Hatherley Road, Hatherley, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;110;17072;105862;60;51.798501208795614;-2.190263383090496;Painswick Golf Course, 1 Golf Course Road, Painswick, Gloucestershire, England, UK;6400
 4G;234;10;120;17072;105862;61;51.798501208795614;-2.190263383090496;Painswick Golf Course, 1 Golf Course Road, Painswick, Gloucestershire, England, UK;6400
 4G;234;10;130;17072;105862;62;51.798501208795614;-2.190263383090496;Painswick Golf Course, 1 Golf Course Road, Painswick, Gloucestershire, England, UK;6400
 4G;234;10;120;17072;105942;103;51.87332791184152;-2.1111905202269554;Oak Farm, Chargrove Ln, Shurdington, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;110;17072;105958;150;51.906257651711265;-2.571296989917755;Penyard Lane, Ross-on-Wye, Herefordshire, England, UK;6400
+4G;234;10;120;17072;105958;151;51.906257651711265;-2.571296989917755;Penyard Lane, Ross-on-Wye, Herefordshire, England, UK;6400
 4G;234;10;130;17072;105958;152;51.906257651711265;-2.571296989917755;Penyard Lane, Ross-on-Wye, Herefordshire, England, UK;6400
 3G;234;10;59010;21734;413;48;51.906257651711265;-2.571296989917755;Penyard Lane, Ross-on-Wye, Herefordshire, England, UK;3025
 4G;234;10;120;16544;105962;52;51.74798435357464;-2.187642864882946;Slad Transmitter, Bisley Rd, Stroud, Gloucestershire, England, UK;6400
@@ -5601,6 +5675,7 @@
 4G;234;10;114;16576;106700;398;51.46378166636862;-1.2512753158807755;M4, Thatcham, West Berkshire, England, UK;199
 4G;234;10;124;16576;106700;396;51.46378166636862;-1.2512753158807755;M4, Thatcham, West Berkshire, England, UK;199
 4G;234;10;130;16576;106700;182;51.46378166636862;-1.2512753158807755;M4, Thatcham, West Berkshire, England, UK;6400
+4G;234;10;110;17072;106702;108;51.967603816395446;-2.1278882771730423;Sherdons Golf Centre, M5 South, Stoke Orchard, Gloucestershire, England, UK;6400
 4G;234;10;120;17072;106702;109;51.967603816395446;-2.1278882771730423;Sherdons Golf Centre, M5 South, Stoke Orchard, Gloucestershire, England, UK;6400
 4G;234;10;130;17072;106702;110;51.967603816395446;-2.1278882771730423;Sherdons Golf Centre, M5 South, Stoke Orchard, Gloucestershire, England, UK;6400
 4G;234;10;110;17072;106884;150;51.92206058463005;-2.5191447883844376;B4224, Bromsach, Herefordshire, England, UK;6400
@@ -5635,6 +5710,7 @@
 4G;234;10;130;17072;107530;335;51.88201466397993;-2.2035828977823257;A40 (near Melody Way), Innsworth, Tewkesbury, Gloucestershire, England, UK;6400
 4G;234;10;134;17072;107530;394;51.88201466397993;-2.2035828977823257;A40 (near Melody Way), Innsworth, Tewkesbury, Gloucestershire, England, UK;199
 4G;234;10;110;17072;107706;111;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;6400
+4G;234;10;112;17072;107706;59;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;3725
 4G;234;10;120;17072;107706;112;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;6400
 4G;234;10;122;17072;107706;57;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;3725
 4G;234;10;130;17072;107706;113;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;6400
@@ -5718,6 +5794,8 @@
 4G;234;10;132;16625;112377;98;51.44899431862987;-2.5659744814038277;Kenneth Steele House, Off Feeder Road, St Philip's Marsh, Bristol, West of England, England, UK;3725
 4G;234;10;134;16625;112377;98;51.44899431862987;-2.5659744814038277;Kenneth Steele House, Off Feeder Road, St Philip's Marsh, Bristol, West of England, England, UK;199
 4G;234;10;136;16625;112377;98;51.44899431862987;-2.5659744814038277;Kenneth Steele House, Off Feeder Road, St Philip's Marsh, Bristol, West of England, England, UK;1226
+4G;234;10;110;17072;112470;435;51.84108228710426;-2.0844747126102448;Ullen Wood, South Hill, Coberley, Cotswold District, Gloucestershire, England, UK;6400
+4G;234;10;120;17072;112470;436;51.84108228710426;-2.0844747126102448;Ullen Wood, South Hill, Coberley, Cotswold District, Gloucestershire, England, UK;6400
 4G;234;10;130;17072;112470;437;51.84108228710426;-2.0844747126102448;Ullen Wood, South Hill, Coberley, Cotswold District, Gloucestershire, England, UK;6400
 4G;234;10;114;17056;112861;205;51.413699223459005;-0.950491726398468;Lane End Villas, Shinfield Rd, Shinfield, Reading, Berkshire, England, UK;199
 4G;234;10;134;17056;112861;285;51.413699223459005;-0.950491726398468;Lane End Villas, Shinfield Rd, Shinfield, Reading, Berkshire, England, UK;199
@@ -5808,6 +5886,15 @@
 4G;234;10;122;16624;113944;48;51.854309681542155;-2.508370019495487;Larksfield Road, Drybrook, Forest of Dean, Gloucestershire, England, UK;3725
 4G;234;10;130;16624;113944;32;51.854309681542155;-2.508370019495487;Larksfield Road, Drybrook, Forest of Dean, Gloucestershire, England, UK;6400
 4G;234;10;124;16625;114003;295;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;199
+4G;234;10;110;16624;114035;284;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;6400
+4G;234;10;112;16624;114035;null;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;3725
+4G;234;10;114;16624;114035;null;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;199
+4G;234;10;120;16624;114035;null;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;6400
+4G;234;10;122;16624;114035;null;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;3725
+4G;234;10;124;16624;114035;null;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;199
+4G;234;10;130;16624;114035;null;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;6400
+4G;234;10;132;16624;114035;null;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;3725
+4G;234;10;134;16624;114035;388;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;199
 4G;234;10;130;16608;114042;397;51.58973717192285;-2.948175184428692;9 Walford Davies Drive, Ladyhill Wood, Ladyhill, Newport, Wales, UK [Cornerstone];6400
 4G;234;10;132;16608;114042;397;51.58973717192285;-2.948175184428692;9 Walford Davies Drive, Ladyhill Wood, Ladyhill, Newport, Wales, UK [Cornerstone];3725
 4G;234;10;134;16608;114042;397;51.58973717192285;-2.948175184428692;9 Walford Davies Drive, Ladyhill Wood, Ladyhill, Newport, Wales, UK [Cornerstone];199
@@ -6416,7 +6503,7 @@
 3G;234;10;33534;21734;734;32;51.897592342600774;-2.5044409185647964;B4224, Ross-on-Wye, Herefordshire, England, UK;3025
 3G;234;10;33830;21734;734;172;51.90878837280505;-2.110939733684063;114 Hesters Way Rd, Cheltenham, Gloucestershire, England, UK;2963
 3G;234;10;33839;21734;734;239;51.8398128625979;-2.1030835434794426;Grove Farm, Crickley Hill, A417, Birdlip, Gloucester, Gloucestershire, England, UK;3025
-3G;234;10;33895;21734;734;153;51.916770741332826;-2.1233144402503967;Public path around farm fields, 40 Cornmeadow Dr, Cheltenham, Gloucestershire, England, UK;2963
+3G;234;10;33895;21734;734;153;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;2963
 3G;234;10;34064;21734;734;29;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];2963
 3G;234;10;34136;21734;734;113;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK [Cornerstone];2963
 3G;234;10;34198;21734;734;21;51.967603816395446;-2.1278882771730423;Sherdons Golf Centre, M5 South, Stoke Orchard, Gloucestershire, England, UK;3025
@@ -6553,7 +6640,7 @@
 3G;234;10;15607;21752;759;356;51.444025060668594;-2.5849524512887;8 St Luke's Rd, Bristol, West of England, England, UK;3025
 3G;234;10;15731;21752;759;444;51.57875452271137;-2.5094814598560333;Conygre Farm, Shellards Lane, M5 South, Itchington, South Gloucestershire, West of England, England, UK;3025
 3G;234;10;16283;21752;759;57;51.56497714739668;-2.649778425693512;Severn Road A403, Redwick, South Gloucestershire, West of England, England, UK [Cornerstone];3025
-3G;234;10;16403;21752;759;241;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;2963
+3G;234;10;16403;21752;759;241;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Gloucestershire, England, UK;3025
 3G;234;10;16667;21752;759;60;51.75496918404709;-2.4830808117985725;Nibley Hill A48, Blakeney, Forest of Dean, Gloucestershire, England, UK;3025
 3G;234;10;17540;21752;759;424;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;3025
 3G;234;10;18312;21752;759;132;51.74206595464024;-2.2826436907052994;Wycliffe College, Bristol Road A419, Stonehouse, Gloucestershire, England, UK;3025
@@ -6705,14 +6792,24 @@
 4G;234;10;132;34448;501875;348;53.451423038835244;-1.3416674360632896;Cross Street, Parkgate, Rotherham, South Yorkshire, England, UK;3725
 4G;234;15;25;41065;501876;349;53.451423038835244;-1.3416674360632896;Cross Street, Parkgate, Rotherham, South Yorkshire, England, UK;323
 4G;234;15;35;41065;501876;348;53.451423038835244;-1.3416674360632896;Cross Street, Parkgate, Rotherham, South Yorkshire, England, UK;323
+4G;234;10;110;4099;502205;308;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;6400
 4G;234;10;120;4099;502205;307;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;6400
 4G;234;10;130;4099;502205;306;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;6400
 4G;234;10;130;4099;502231;209;51.51337166200327;-0.6272681057453156;The Westgate School, 161 Cippenham Ln, Slough, Berkshire, England, UK;6400
 4G;234;10;132;4099;502231;398;51.51337166200327;-0.6272681057453156;The Westgate School, 161 Cippenham Ln, Slough, Berkshire, England, UK;3725
 4G;234;10;122;4099;502423;363;51.52094054860897;-0.6481819599866867;462 Bath Rd, Slough, Berkshire, England, UK;3725
+4G;234;10;110;32897;502489;158;53.40094300896685;-1.4458699151873589;Pitsmoor Substation, 398 Petre Street, Atlas, Sheffield, South Yorkshire, England, UK;6400
 4G;234;10;115;32897;502489;158;53.40094300896685;-1.4458699151873589;Pitsmoor Substation, 398 Petre Street, Atlas, Sheffield, South Yorkshire, England, UK;199
+4G;234;10;116;32897;502489;158;53.40094300896685;-1.4458699151873589;Pitsmoor Substation, 398 Petre Street, Atlas, Sheffield, South Yorkshire, England, UK;39250
+4G;234;10;117;32897;502489;158;53.40094300896685;-1.4458699151873589;Pitsmoor Substation, 398 Petre Street, Atlas, Sheffield, South Yorkshire, England, UK;39448
+4G;234;10;120;32897;502489;156;53.40094300896685;-1.4458699151873589;Pitsmoor Substation, 398 Petre Street, Atlas, Sheffield, South Yorkshire, England, UK;6400
 4G;234;10;125;32897;502489;156;53.40094300896685;-1.4458699151873589;Pitsmoor Substation, 398 Petre Street, Atlas, Sheffield, South Yorkshire, England, UK;199
+4G;234;10;126;32897;502489;156;53.40094300896685;-1.4458699151873589;Pitsmoor Substation, 398 Petre Street, Atlas, Sheffield, South Yorkshire, England, UK;39250
 4G;234;10;127;32897;502489;156;53.40094300896685;-1.4458699151873589;Pitsmoor Substation, 398 Petre Street, Atlas, Sheffield, South Yorkshire, England, UK;39448
+4G;234;10;130;32897;502489;157;53.40094300896685;-1.4458699151873589;Pitsmoor Substation, 398 Petre Street, Atlas, Sheffield, South Yorkshire, England, UK;6400
+4G;234;10;135;32897;502489;157;53.40094300896685;-1.4458699151873589;Pitsmoor Substation, 398 Petre Street, Atlas, Sheffield, South Yorkshire, England, UK;199
+4G;234;10;136;32897;502489;157;53.40094300896685;-1.4458699151873589;Pitsmoor Substation, 398 Petre Street, Atlas, Sheffield, South Yorkshire, England, UK;39250
+4G;234;10;137;32897;502489;157;53.40094300896685;-1.4458699151873589;Pitsmoor Substation, 398 Petre Street, Atlas, Sheffield, South Yorkshire, England, UK;39448
 4G;234;10;110;4096;502593;373;51.48497995277133;-0.4816912114620209;Unnamed Road, Harmondsworth, West Drayton, Hillingdon, Greater London, England, UK;6400
 4G;234;10;130;4099;502711;266;51.49600299283874;-0.6045984104275703;2 Willowbrook, Eton, Windsor, Berkshire, England, UK;6400
 4G;234;10;120;4096;502735;373;51.4971244993031;-0.49140080809593195;Thorney Interchange J4B / J15, M4 / M25, Donkey Lane, Thorney, Buckinghamshire, England, UK;6400
@@ -6721,10 +6818,24 @@
 4G;234;10;110;32896;502823;26;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;6400
 4G;234;10;112;32896;502823;26;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;3725
 4G;234;10;115;32896;502823;26;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;199
+4G;234;10;116;32896;502823;26;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;39250
 4G;234;10;117;32896;502823;26;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;39448
+4G;234;10;120;32896;502823;24;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;6400
+4G;234;10;122;32896;502823;24;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;3725
+4G;234;10;125;32896;502823;24;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;199
+4G;234;10;126;32896;502823;24;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;39250
+4G;234;10;127;32896;502823;24;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;39448
+4G;234;10;130;32896;502823;25;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;6400
+4G;234;10;132;32896;502823;25;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;3725
+4G;234;10;135;32896;502823;25;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;199
+4G;234;10;136;32896;502823;25;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;39250
+4G;234;10;137;32896;502823;25;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;39448
 4G;234;15;10;40968;502824;26;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;6300
 4G;234;15;15;40968;502824;26;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;323
+4G;234;15;20;40968;502824;24;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;6300
 4G;234;15;25;40968;502824;24;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;323
+4G;234;15;30;40968;502824;25;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;6300
+4G;234;15;35;40968;502824;25;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;323
 4G;234;15;10;41065;502840;285;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;6300
 4G;234;10;120;32896;503045;442;53.3835257456752;-1.466205082833767;Angel Street, Cathedral, Sheffield, South Yorkshire, England, UK;6400
 4G;234;10;124;32896;503045;442;53.3835257456752;-1.466205082833767;Angel Street, Cathedral, Sheffield, South Yorkshire, England, UK;1226
@@ -6733,17 +6844,31 @@
 4G;234;10;127;32896;503059;399;53.39127196354543;-1.4583465456962585;Sorby House, 44-46 Spital Hill A6135, Burngreave, Sheffield, South Yorkshire, England, UK;39448
 4G;234;10;110;34448;503067;27;53.450337682394895;-1.338367648422718;Station Hotel, Stoddart Way, Parkgate, Rotherham, South Yorkshire, England, UK;6400
 4G;234;10;120;34448;503067;29;53.450337682394895;-1.338367648422718;Station Hotel, Stoddart Way, Parkgate, Rotherham, South Yorkshire, England, UK;6400
+4G;234;10;130;34448;503067;28;53.450337682394895;-1.338367648422718;Station Hotel, Stoddart Way, Parkgate, Rotherham, South Yorkshire, England, UK;6400
 4G;234;15;10;41065;503068;27;53.450337682394895;-1.338367648422718;Station Hotel, Stoddart Way, Parkgate, Rotherham, South Yorkshire, England, UK;6300
+4G;234;15;20;41065;503068;29;53.450337682394895;-1.338367648422718;Station Hotel, Stoddart Way, Parkgate, Rotherham, South Yorkshire, England, UK;6300
+4G;234;15;30;41065;503068;28;53.450337682394895;-1.338367648422718;Station Hotel, Stoddart Way, Parkgate, Rotherham, South Yorkshire, England, UK;6300
 4G;234;10;122;32896;503361;421;53.369766481103476;-1.4701871573925018;Sheffield United Bramall Lane Stadium, 2 Bramall Lane A621, Highfield, Sheffield, South Yorkshire, England, UK;3725
+4G;234;10;110;34448;503667;167;53.435166144840125;-1.3402006030082703;Selwood Flats, Doncaster Road, Eastwood, Rotherham, South Yorkshire, England, UK;6400
+4G;234;10;112;34448;503667;167;53.435166144840125;-1.3402006030082703;Selwood Flats, Doncaster Road, Eastwood, Rotherham, South Yorkshire, England, UK;3725
+4G;234;10;120;34448;503667;165;53.435166144840125;-1.3402006030082703;Selwood Flats, Doncaster Road, Eastwood, Rotherham, South Yorkshire, England, UK;6400
+4G;234;10;122;34448;503667;165;53.435166144840125;-1.3402006030082703;Selwood Flats, Doncaster Road, Eastwood, Rotherham, South Yorkshire, England, UK;3725
 4G;234;10;130;34448;503667;166;53.435166144840125;-1.3402006030082703;Selwood Flats, Doncaster Road, Eastwood, Rotherham, South Yorkshire, England, UK;6400
 4G;234;10;132;34448;503667;166;53.435166144840125;-1.3402006030082703;Selwood Flats, Doncaster Road, Eastwood, Rotherham, South Yorkshire, England, UK;3725
 4G;234;15;10;41065;503668;167;53.435166144840125;-1.3402006030082703;Selwood Flats, Doncaster Road, Eastwood, Rotherham, South Yorkshire, England, UK;6300
+4G;234;15;15;41065;503668;167;53.435166144840125;-1.3402006030082703;Selwood Flats, Doncaster Road, Eastwood, Rotherham, South Yorkshire, England, UK;323
+4G;234;15;20;41065;503668;165;53.435166144840125;-1.3402006030082703;Selwood Flats, Doncaster Road, Eastwood, Rotherham, South Yorkshire, England, UK;6300
+4G;234;15;25;41065;503668;165;53.435166144840125;-1.3402006030082703;Selwood Flats, Doncaster Road, Eastwood, Rotherham, South Yorkshire, England, UK;323
 4G;234;15;30;41065;503668;166;53.435166144840125;-1.3402006030082703;Selwood Flats, Doncaster Road, Eastwood, Rotherham, South Yorkshire, England, UK;6300
 4G;234;15;35;41065;503668;166;53.435166144840125;-1.3402006030082703;Selwood Flats, Doncaster Road, Eastwood, Rotherham, South Yorkshire, England, UK;323
 4G;234;10;110;34448;503841;127;53.46721068003169;-1.2944132834672928;Hooton Lodge Farm, Kilnhurst Road B6090, Hooton Roberts, Rotherham, South Yorkshire, England, UK;6400
+4G;234;10;112;34448;503841;127;53.46721068003169;-1.2944132834672928;Hooton Lodge Farm, Kilnhurst Road B6090, Hooton Roberts, Rotherham, South Yorkshire, England, UK;3725
+4G;234;10;120;34448;503841;126;53.46721068003169;-1.2944132834672928;Hooton Lodge Farm, Kilnhurst Road B6090, Hooton Roberts, Rotherham, South Yorkshire, England, UK;6400
 4G;234;10;122;34448;503841;126;53.46721068003169;-1.2944132834672928;Hooton Lodge Farm, Kilnhurst Road B6090, Hooton Roberts, Rotherham, South Yorkshire, England, UK;3725
 4G;234;10;130;34448;503841;128;53.46721068003169;-1.2944132834672928;Hooton Lodge Farm, Kilnhurst Road B6090, Hooton Roberts, Rotherham, South Yorkshire, England, UK;6400
 4G;234;10;132;34448;503841;128;53.46721068003169;-1.2944132834672928;Hooton Lodge Farm, Kilnhurst Road B6090, Hooton Roberts, Rotherham, South Yorkshire, England, UK;3725
+4G;234;15;10;41065;503842;127;53.46721068003169;-1.2944132834672928;Hooton Lodge Farm, Kilnhurst Road B6090, Hooton Roberts, Rotherham, South Yorkshire, England, UK;6300
+4G;234;15;20;41065;503842;126;53.46721068003169;-1.2944132834672928;Hooton Lodge Farm, Kilnhurst Road B6090, Hooton Roberts, Rotherham, South Yorkshire, England, UK;6300
 4G;234;15;30;41065;503842;128;53.46721068003169;-1.2944132834672928;Hooton Lodge Farm, Kilnhurst Road B6090, Hooton Roberts, Rotherham, South Yorkshire, England, UK;6300
 4G;234;10;130;34448;503845;106;53.43054762758996;-1.287444569170475;Ruby Cook Recreation Ground, Flanderwell Lane, Flanderwell, Rotherham, South Yorkshire, England, UK;6400
 4G;234;15;30;41065;503846;106;53.43054762758996;-1.287444569170475;Ruby Cook Recreation Ground, Flanderwell Lane, Flanderwell, Rotherham, South Yorkshire, England, UK;6300
@@ -6757,69 +6882,125 @@
 4G;234;10;117;4096;504266;291;51.48554783919755;-0.5163047835230827;22 Lakeside Rd, Slough, Berkshire, England, UK;39448
 4G;234;10;132;32897;504513;49;53.38351354705498;-1.435709036886692;3 Nunnery Drive, Wybourn, Sheffield, South Yorkshire, England, UK;3725
 4G;234;10;135;34448;504553;273;53.416901274283376;-1.3511621206998825;Thomas Rotherham College, Boston Castle Grove, Moorgate, Rotherham, UK [Cornerstone];199
+4G;234;10;110;32897;504555;394;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;6400
 4G;234;10;112;32897;504555;394;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;3725
 4G;234;10;114;32897;504555;394;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;1226
 4G;234;10;115;32897;504555;394;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;199
+4G;234;10;120;32897;504555;393;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;6400
 4G;234;10;122;32897;504555;393;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;3725
+4G;234;10;124;32897;504555;393;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;1226
+4G;234;10;125;32897;504555;393;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;199
+4G;234;10;130;32897;504555;395;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;6400
 4G;234;10;132;32897;504555;395;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;3725
+4G;234;10;134;32897;504555;395;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;1226
 4G;234;10;135;32897;504555;395;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;199
 4G;234;10;130;34880;504741;416;53.50055984687764;-1.1727707460522652;2A Grosvenor Crescent, Warmsworth, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;115;34880;504795;125;53.52903287838787;-1.1278695613145828;Wheatley Hall Road A630, Wheatley, Doncaster, South Yorkshire, England, UK;199
 4G;234;15;15;41092;504796;125;53.52903287838787;-1.1278695613145828;Wheatley Hall Road A630, Wheatley, Doncaster, South Yorkshire, England, UK;323
+4G;234;10;110;34880;504825;309;53.51056313375771;-1.155194230377674;Greenfield Lane, Balby, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;115;34880;504825;309;53.51056313375771;-1.155194230377674;Greenfield Lane, Balby, Doncaster, South Yorkshire, England, UK;199
 4G;234;10;120;34880;504825;310;53.51056313375771;-1.155194230377674;Greenfield Lane, Balby, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;125;34880;504825;310;53.51056313375771;-1.155194230377674;Greenfield Lane, Balby, Doncaster, South Yorkshire, England, UK;199
 4G;234;10;130;34880;504825;311;53.51056313375771;-1.155194230377674;Greenfield Lane, Balby, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;135;34880;504825;311;53.51056313375771;-1.155194230377674;Greenfield Lane, Balby, Doncaster, South Yorkshire, England, UK;199
+4G;234;15;10;41092;504826;309;53.51056313375771;-1.155194230377674;Greenfield Lane, Balby, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;15;41092;504826;309;53.51056313375771;-1.155194230377674;Greenfield Lane, Balby, Doncaster, South Yorkshire, England, UK;323
 4G;234;15;20;41092;504826;310;53.51056313375771;-1.155194230377674;Greenfield Lane, Balby, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;25;41092;504826;310;53.51056313375771;-1.155194230377674;Greenfield Lane, Balby, Doncaster, South Yorkshire, England, UK;323
 4G;234;15;30;41092;504826;311;53.51056313375771;-1.155194230377674;Greenfield Lane, Balby, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;35;41092;504826;311;53.51056313375771;-1.155194230377674;Greenfield Lane, Balby, Doncaster, South Yorkshire, England, UK;323
 4G;234;10;135;34880;504827;467;53.54016792311048;-1.1115915700793266;Goals, Wheatley Hall Road A630, Wheatley Hills, Doncaster, South Yorkshire, England, UK;199
 4G;234;10;130;34880;504905;164;53.497891226906226;-1.1820314079523087;Cecil Hotel, High Road A630, Warmsworth, Doncaster, South Yorkshire, England, UK;6400
 4G;234;15;30;41092;504906;164;53.497891226906226;-1.1820314079523087;Cecil Hotel, High Road A630, Warmsworth, Doncaster, South Yorkshire, England, UK;6300
+4G;234;10;110;34880;505051;61;53.515755074571324;-1.1469987407326698;Sri Guru Arjan Dev Ji Gurdwara Mosque, Cherry Tree Road, Hexthorpe, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;115;34880;505051;61;53.515755074571324;-1.1469987407326698;Sri Guru Arjan Dev Ji Gurdwara Mosque, Cherry Tree Road, Hexthorpe, Doncaster, South Yorkshire, England, UK;199
 4G;234;10;120;34880;505051;60;53.515755074571324;-1.1469987407326698;Sri Guru Arjan Dev Ji Gurdwara Mosque, Cherry Tree Road, Hexthorpe, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;125;34880;505051;60;53.515755074571324;-1.1469987407326698;Sri Guru Arjan Dev Ji Gurdwara Mosque, Cherry Tree Road, Hexthorpe, Doncaster, South Yorkshire, England, UK;199
 4G;234;10;130;34880;505051;62;53.515755074571324;-1.1469987407326698;Sri Guru Arjan Dev Ji Gurdwara Mosque, Cherry Tree Road, Hexthorpe, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;135;34880;505051;62;53.515755074571324;-1.1469987407326698;Sri Guru Arjan Dev Ji Gurdwara Mosque, Cherry Tree Road, Hexthorpe, Doncaster, South Yorkshire, England, UK;199
+4G;234;15;10;41092;505052;61;53.515755074571324;-1.1469987407326698;Sri Guru Arjan Dev Ji Gurdwara Mosque, Cherry Tree Road, Hexthorpe, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;15;41092;505052;61;53.515755074571324;-1.1469987407326698;Sri Guru Arjan Dev Ji Gurdwara Mosque, Cherry Tree Road, Hexthorpe, Doncaster, South Yorkshire, England, UK;347
+4G;234;15;20;41092;505052;60;53.515755074571324;-1.1469987407326698;Sri Guru Arjan Dev Ji Gurdwara Mosque, Cherry Tree Road, Hexthorpe, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;25;41092;505052;60;53.515755074571324;-1.1469987407326698;Sri Guru Arjan Dev Ji Gurdwara Mosque, Cherry Tree Road, Hexthorpe, Doncaster, South Yorkshire, England, UK;347
+4G;234;15;30;41092;505052;62;53.515755074571324;-1.1469987407326698;Sri Guru Arjan Dev Ji Gurdwara Mosque, Cherry Tree Road, Hexthorpe, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;35;41092;505052;62;53.515755074571324;-1.1469987407326698;Sri Guru Arjan Dev Ji Gurdwara Mosque, Cherry Tree Road, Hexthorpe, Doncaster, South Yorkshire, England, UK;347
 4G;234;10;112;32896;505145;87;53.36064559138506;-1.478082574903965;Abbeydale Brewery, Aizlewood Road, Heeley Bottom, Sheffield, South Yorkshire, England, UK;3725
 4G;234;10;110;32896;505251;450;53.373864343798594;-1.462593823671341;Farm Road, Sheaf Valley, Sheffield, South Yorkshire, England, UK [O2];6400
+4G;234;10;115;32896;505251;450;53.373864343798594;-1.462593823671341;Farm Road, Sheaf Valley, Sheffield, South Yorkshire, England, UK [O2];199
+4G;234;10;120;32896;505251;451;53.373864343798594;-1.462593823671341;Farm Road, Sheaf Valley, Sheffield, South Yorkshire, England, UK [O2];6400
+4G;234;10;125;32896;505251;451;53.373864343798594;-1.462593823671341;Farm Road, Sheaf Valley, Sheffield, South Yorkshire, England, UK [O2];199
 4G;234;10;130;32896;505251;452;53.373864343798594;-1.462593823671341;Farm Road, Sheaf Valley, Sheffield, South Yorkshire, England, UK [O2];6400
 4G;234;10;135;32896;505251;452;53.373864343798594;-1.462593823671341;Farm Road, Sheaf Valley, Sheffield, South Yorkshire, England, UK [O2];199
 4G;234;10;120;34880;505449;313;53.69203324695795;-1.0132497176527977;Wakefield and Goole Line, Snaith Road A1041, West Cowick, East Riding of Yorkshire, England, UK;6400
 4G;234;10;125;34880;505545;412;53.53475181095543;-1.124730035662651;Churchill Road, Wheatley, Doncaster, South Yorkshire, England, UK;199
 4G;234;10;135;34880;505545;411;53.53475181095543;-1.124730035662651;Churchill Road, Wheatley, Doncaster, South Yorkshire, England, UK;199
 4G;234;15;35;41092;505546;411;53.53475181095543;-1.124730035662651;Churchill Road, Wheatley, Doncaster, South Yorkshire, England, UK;323
+4G;234;10;110;34880;505547;322;53.543731196367645;-1.0984202474355698;GSF Car Parts, Unit 12 Wheatley Hall Trade Park, Wheatley Hall Road A630, Wheatley Hills, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;112;34880;505547;322;53.543731196367645;-1.0984202474355698;GSF Car Parts, Unit 12 Wheatley Hall Trade Park, Wheatley Hall Road A630, Wheatley Hills, Doncaster, South Yorkshire, England, UK;3725
 4G;234;10;115;34880;505547;322;53.543731196367645;-1.0984202474355698;GSF Car Parts, Unit 12 Wheatley Hall Trade Park, Wheatley Hall Road A630, Wheatley Hills, Doncaster, South Yorkshire, England, UK;199
+4G;234;10;120;34880;505547;321;53.543731196367645;-1.0984202474355698;GSF Car Parts, Unit 12 Wheatley Hall Trade Park, Wheatley Hall Road A630, Wheatley Hills, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;122;34880;505547;321;53.543731196367645;-1.0984202474355698;GSF Car Parts, Unit 12 Wheatley Hall Trade Park, Wheatley Hall Road A630, Wheatley Hills, Doncaster, South Yorkshire, England, UK;3725
+4G;234;10;125;34880;505547;321;53.543731196367645;-1.0984202474355698;GSF Car Parts, Unit 12 Wheatley Hall Trade Park, Wheatley Hall Road A630, Wheatley Hills, Doncaster, South Yorkshire, England, UK;199
+4G;234;10;130;34880;505547;323;53.543731196367645;-1.0984202474355698;GSF Car Parts, Unit 12 Wheatley Hall Trade Park, Wheatley Hall Road A630, Wheatley Hills, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;132;34880;505547;323;53.543731196367645;-1.0984202474355698;GSF Car Parts, Unit 12 Wheatley Hall Trade Park, Wheatley Hall Road A630, Wheatley Hills, Doncaster, South Yorkshire, England, UK;3725
+4G;234;10;135;34880;505547;323;53.543731196367645;-1.0984202474355698;GSF Car Parts, Unit 12 Wheatley Hall Trade Park, Wheatley Hall Road A630, Wheatley Hills, Doncaster, South Yorkshire, England, UK;199
+4G;234;15;10;41092;505548;322;53.543731196367645;-1.0984202474355698;GSF Car Parts, Unit 12 Wheatley Hall Trade Park, Wheatley Hall Road A630, Wheatley Hills, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;20;41092;505548;321;53.543731196367645;-1.0984202474355698;GSF Car Parts, Unit 12 Wheatley Hall Trade Park, Wheatley Hall Road A630, Wheatley Hills, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;30;41092;505548;323;53.543731196367645;-1.0984202474355698;GSF Car Parts, Unit 12 Wheatley Hall Trade Park, Wheatley Hall Road A630, Wheatley Hills, Doncaster, South Yorkshire, England, UK;6300
+4G;234;10;110;1040;505735;370;52.89672872530965;-1.4725052565336227;Osmaston Park Road, Peartree, Derby, East Midlands, England, UK [O2];6400
 4G;234;10;120;1040;505735;371;52.89672872530965;-1.4725052565336227;Osmaston Park Road, Peartree, Derby, East Midlands, England, UK [O2];6400
 4G;234;10;130;1040;505735;369;52.89672872530965;-1.4725052565336227;Osmaston Park Road, Peartree, Derby, East Midlands, England, UK [O2];6400
 4G;234;10;110;34784;505953;60;53.744267994675134;-0.40811318904161453;1008 Anlaby Road B1231, East Ella, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;110;34784;505955;56;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;115;34784;505955;56;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;116;34784;505955;56;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;120;34784;505955;55;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;125;34784;505955;55;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;199
+4G;234;10;126;34784;505955;55;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;39250
+4G;234;10;130;34784;505955;54;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;135;34784;505955;54;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;199
+4G;234;10;136;34784;505955;54;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;39250
+4G;234;15;10;41086;505956;56;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;6300
 4G;234;15;18;41086;505956;56;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;2850
 4G;234;15;20;41086;505956;55;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;6300
+4G;234;15;28;41086;505956;55;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;2850
+4G;234;15;30;41086;505956;54;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;6300
+4G;234;15;38;41086;505956;54;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;2850
 4G;234;10;135;34784;505957;179;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];199
 4G;234;10;110;34784;505969;113;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;6400
+4G;234;10;112;34784;505969;113;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;3725
 4G;234;10;115;34784;505969;113;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;199
 4G;234;10;120;34784;505969;111;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;6400
 4G;234;10;122;34784;505969;111;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;3725
 4G;234;10;125;34784;505969;111;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;199
+4G;234;10;130;34784;505969;112;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;6400
+4G;234;10;132;34784;505969;112;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;3725
+4G;234;10;135;34784;505969;112;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;199
+4G;234;15;10;41086;505970;113;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;6300
 4G;234;15;15;41086;505970;113;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;323
+4G;234;15;20;41086;505970;111;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;6300
 4G;234;15;25;41086;505970;111;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;323
+4G;234;15;30;41086;505970;112;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;6300
+4G;234;15;35;41086;505970;112;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;323
+4G;234;10;110;34784;505971;91;53.75848834282022;-0.37456847727298737;247a Chanterlands Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;115;34784;505971;91;53.75848834282022;-0.37456847727298737;247a Chanterlands Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;116;34784;505971;91;53.75848834282022;-0.37456847727298737;247a Chanterlands Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;120;34784;505971;90;53.75848834282022;-0.37456847727298737;247a Chanterlands Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;125;34784;505971;90;53.75848834282022;-0.37456847727298737;247a Chanterlands Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;126;34784;505971;90;53.75848834282022;-0.37456847727298737;247a Chanterlands Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
+4G;234;10;130;34784;505971;92;53.75848834282022;-0.37456847727298737;247a Chanterlands Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;135;34784;505971;92;53.75848834282022;-0.37456847727298737;247a Chanterlands Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;199
+4G;234;10;136;34784;505971;92;53.75848834282022;-0.37456847727298737;247a Chanterlands Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;15;10;41086;505972;91;53.75848834282022;-0.37456847727298737;247a Chanterlands Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6300
 4G;234;15;18;41086;505972;91;53.75848834282022;-0.37456847727298737;247a Chanterlands Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;2850
 4G;234;15;20;41086;505972;90;53.75848834282022;-0.37456847727298737;247a Chanterlands Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6300
 4G;234;15;28;41086;505972;90;53.75848834282022;-0.37456847727298737;247a Chanterlands Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;2850
+4G;234;15;30;41086;505972;92;53.75848834282022;-0.37456847727298737;247a Chanterlands Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6300
+4G;234;15;38;41086;505972;92;53.75848834282022;-0.37456847727298737;247a Chanterlands Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;2850
+4G;234;10;110;34784;505973;414;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;115;34784;505973;414;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;199
+4G;234;10;120;34784;505973;415;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;125;34784;505973;415;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;130;34784;505973;416;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;135;34784;505973;416;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;130;34784;505979;119;53.743443145701;-0.32472096383571625;Citadel Trading Park, Citadel Way, Drypool, Hull, East Riding of Yorkshire, England, UK [O2];6400
@@ -6835,19 +7016,31 @@
 4G;234;10;132;34784;506028;171;53.75720014360391;-0.4095042496919632;The Oddbottle, 262 Wold Road, East Ella, Hull, East Riding of Yorkshire, England, UK;3725
 4G;234;10;115;34784;506030;298;53.780277875641275;-0.34545812755823135;Ennerdale Leisure Centre, Sutton Road, Newland, Hull, East Riding of Yorkshire, England, UK [O2];199
 4G;234;10;125;34784;506030;297;53.780277875641275;-0.34545812755823135;Ennerdale Leisure Centre, Sutton Road, Newland, Hull, East Riding of Yorkshire, England, UK [O2];199
+4G;234;10;110;34784;506032;397;53.75628099654482;-0.34937113523483276;ASDA, Terry Street, Sculcoates, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;112;34784;506032;397;53.75628099654482;-0.34937113523483276;ASDA, Terry Street, Sculcoates, Hull, East Riding of Yorkshire, England, UK;3725
+4G;234;10;115;34784;506032;397;53.75628099654482;-0.34937113523483276;ASDA, Terry Street, Sculcoates, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;116;34784;506032;397;53.75628099654482;-0.34937113523483276;ASDA, Terry Street, Sculcoates, Hull, East Riding of Yorkshire, England, UK;39250
+4G;234;10;120;34784;506032;396;53.75628099654482;-0.34937113523483276;ASDA, Terry Street, Sculcoates, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;122;34784;506032;396;53.75628099654482;-0.34937113523483276;ASDA, Terry Street, Sculcoates, Hull, East Riding of Yorkshire, England, UK;3725
+4G;234;10;125;34784;506032;396;53.75628099654482;-0.34937113523483276;ASDA, Terry Street, Sculcoates, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;126;34784;506032;396;53.75628099654482;-0.34937113523483276;ASDA, Terry Street, Sculcoates, Hull, East Riding of Yorkshire, England, UK;39250
+4G;234;10;130;34784;506032;398;53.75628099654482;-0.34937113523483276;ASDA, Terry Street, Sculcoates, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;132;34784;506032;398;53.75628099654482;-0.34937113523483276;ASDA, Terry Street, Sculcoates, Hull, East Riding of Yorkshire, England, UK;3725
+4G;234;10;135;34784;506032;398;53.75628099654482;-0.34937113523483276;ASDA, Terry Street, Sculcoates, Hull, East Riding of Yorkshire, England, UK;199
+4G;234;10;136;34784;506032;398;53.75628099654482;-0.34937113523483276;ASDA, Terry Street, Sculcoates, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;110;34784;506036;294;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;114;34784;506036;294;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;1226
 4G;234;10;115;34784;506036;294;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;116;34784;506036;294;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;117;34784;506036;294;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;10;120;34784;506036;295;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;124;34784;506036;295;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;1226
 4G;234;10;125;34784;506036;295;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;126;34784;506036;295;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;127;34784;506036;295;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;10;130;34784;506036;296;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;134;34784;506036;296;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;1226
+4G;234;10;135;34784;506036;296;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;136;34784;506036;296;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;137;34784;506036;296;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;15;10;41086;506037;294;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;6300
@@ -6856,25 +7049,54 @@
 4G;234;15;25;41086;506037;295;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;323
 4G;234;15;30;41086;506037;305;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;6300
 4G;234;15;35;41086;506037;296;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;323
+4G;234;10;110;34784;506038;233;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;16400
+4G;234;10;112;34784;506038;233;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;3725
 4G;234;10;115;34784;506038;233;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;199
+4G;234;10;120;34784;506038;231;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;16400
 4G;234;10;122;34784;506038;231;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;3725
 4G;234;10;125;34784;506038;231;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;199
+4G;234;10;130;34784;506038;232;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;16400
 4G;234;10;132;34784;506038;232;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;3725
+4G;234;10;135;34784;506038;232;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;199
+4G;234;10;110;34784;506046;110;53.761587668708295;-0.343388132750988;142 Sculcoates Lane, Sculcoates, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;112;34784;506046;110;53.761587668708295;-0.343388132750988;142 Sculcoates Lane, Sculcoates, Hull, East Riding of Yorkshire, England, UK;3725
+4G;234;10;115;34784;506046;110;53.761587668708295;-0.343388132750988;142 Sculcoates Lane, Sculcoates, Hull, East Riding of Yorkshire, England, UK;199
+4G;234;10;116;34784;506046;110;53.761587668708295;-0.343388132750988;142 Sculcoates Lane, Sculcoates, Hull, East Riding of Yorkshire, England, UK;39250
+4G;234;10;117;34784;506046;110;53.761587668708295;-0.343388132750988;142 Sculcoates Lane, Sculcoates, Hull, East Riding of Yorkshire, England, UK;39448
+4G;234;10;120;34784;506046;108;53.761587668708295;-0.343388132750988;142 Sculcoates Lane, Sculcoates, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;122;34784;506046;108;53.761587668708295;-0.343388132750988;142 Sculcoates Lane, Sculcoates, Hull, East Riding of Yorkshire, England, UK;3725
+4G;234;10;125;34784;506046;108;53.761587668708295;-0.343388132750988;142 Sculcoates Lane, Sculcoates, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;126;34784;506046;108;53.761587668708295;-0.343388132750988;142 Sculcoates Lane, Sculcoates, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;127;34784;506046;108;53.761587668708295;-0.343388132750988;142 Sculcoates Lane, Sculcoates, Hull, East Riding of Yorkshire, England, UK;39448
+4G;234;10;130;34784;506046;109;53.761587668708295;-0.343388132750988;142 Sculcoates Lane, Sculcoates, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;132;34784;506046;109;53.761587668708295;-0.343388132750988;142 Sculcoates Lane, Sculcoates, Hull, East Riding of Yorkshire, England, UK;3725
+4G;234;10;135;34784;506046;109;53.761587668708295;-0.343388132750988;142 Sculcoates Lane, Sculcoates, Hull, East Riding of Yorkshire, England, UK;199
+4G;234;10;136;34784;506046;109;53.761587668708295;-0.343388132750988;142 Sculcoates Lane, Sculcoates, Hull, East Riding of Yorkshire, England, UK;39250
+4G;234;10;137;34784;506046;109;53.761587668708295;-0.343388132750988;142 Sculcoates Lane, Sculcoates, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;10;112;34448;506114;1;53.197438224868776;-1.4211027324199677;16 Emes Place, Wingerworth, Derbyshire, England, UK;3725
 4G;234;10;110;34448;506116;192;53.24426858910397;-1.4233457297086716;Eriks, 40 Canal Wharf, Chesterfield, Derbyshire, England, UK;6400
+4G;234;10;120;34448;506116;194;53.24426858910397;-1.4233457297086716;Eriks, 40 Canal Wharf, Chesterfield, Derbyshire, England, UK;6400
+4G;234;10;130;34448;506116;193;53.24426858910397;-1.4233457297086716;Eriks, 40 Canal Wharf, Chesterfield, Derbyshire, England, UK;6400
 4G;234;15;10;41065;506117;192;53.24426858910397;-1.4233457297086716;Eriks, 40 Canal Wharf, Chesterfield, Derbyshire, England, UK;6300
 4G;234;15;20;41065;506117;194;53.24426858910397;-1.4233457297086716;Eriks, 40 Canal Wharf, Chesterfield, Derbyshire, England, UK;6300
+4G;234;15;30;41065;506117;193;53.24426858910397;-1.4233457297086716;Eriks, 40 Canal Wharf, Chesterfield, Derbyshire, England, UK;6300
 4G;234;10;110;34448;506118;307;53.25850799859534;-1.4264175295829773;Response House, Foundry Street, Whittington Moor, Chesterfield, Derbyshire, England, UK;6400
+4G;234;10;120;34448;506118;306;53.25850799859534;-1.4264175295829773;Response House, Foundry Street, Whittington Moor, Chesterfield, Derbyshire, England, UK;6400
 4G;234;10;130;34448;506118;308;53.25850799859534;-1.4264175295829773;Response House, Foundry Street, Whittington Moor, Chesterfield, Derbyshire, England, UK;6400
 4G;234;15;10;41065;506119;307;53.25850799859534;-1.4264175295829773;Response House, Foundry Street, Whittington Moor, Chesterfield, Derbyshire, England, UK;6300
 4G;234;15;15;41065;506119;307;53.25850799859534;-1.4264175295829773;Response House, Foundry Street, Whittington Moor, Chesterfield, Derbyshire, England, UK;323
+4G;234;15;20;41065;506119;306;53.25850799859534;-1.4264175295829773;Response House, Foundry Street, Whittington Moor, Chesterfield, Derbyshire, England, UK;6300
+4G;234;15;25;41065;506119;306;53.25850799859534;-1.4264175295829773;Response House, Foundry Street, Whittington Moor, Chesterfield, Derbyshire, England, UK;323
+4G;234;15;30;41065;506119;308;53.25850799859534;-1.4264175295829773;Response House, Foundry Street, Whittington Moor, Chesterfield, Derbyshire, England, UK;6300
 4G;234;15;35;41065;506119;308;53.25850799859534;-1.4264175295829773;Response House, Foundry Street, Whittington Moor, Chesterfield, Derbyshire, England, UK;323
+4G;234;10;110;34880;506338;126;53.557657658758544;-1.0786815360188484;Sandall Carr Road, Kirk Sandall, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;112;34880;506338;126;53.557657658758544;-1.0786815360188484;Sandall Carr Road, Kirk Sandall, Doncaster, South Yorkshire, England, UK;3725
 4G;234;10;115;34880;506338;126;53.557657658758544;-1.0786815360188484;Sandall Carr Road, Kirk Sandall, Doncaster, South Yorkshire, England, UK;199
+4G;234;10;120;34880;506338;127;53.557657658758544;-1.0786815360188484;Sandall Carr Road, Kirk Sandall, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;122;34880;506338;127;53.557657658758544;-1.0786815360188484;Sandall Carr Road, Kirk Sandall, Doncaster, South Yorkshire, England, UK;3725
+4G;234;10;125;34880;506338;127;53.557657658758544;-1.0786815360188484;Sandall Carr Road, Kirk Sandall, Doncaster, South Yorkshire, England, UK;199
+4G;234;10;130;34880;506338;128;53.557657658758544;-1.0786815360188484;Sandall Carr Road, Kirk Sandall, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;132;34880;506338;128;53.557657658758544;-1.0786815360188484;Sandall Carr Road, Kirk Sandall, Doncaster, South Yorkshire, England, UK;3725
 4G;234;10;135;34880;506338;128;53.557657658758544;-1.0786815360188484;Sandall Carr Road, Kirk Sandall, Doncaster, South Yorkshire, England, UK;199
 4G;234;15;15;41092;506339;126;53.557657658758544;-1.0786815360188484;Sandall Carr Road, Kirk Sandall, Doncaster, South Yorkshire, England, UK;323
 4G;234;15;35;41092;506339;128;53.557657658758544;-1.0786815360188484;Sandall Carr Road, Kirk Sandall, Doncaster, South Yorkshire, England, UK;323
@@ -6886,12 +7108,23 @@
 4G;234;10;120;34784;506456;236;53.786168236225905;-0.32406583428382874;Outside North Point Shopping Centre, Holwell Road, Bransholme, Hull, East Riding of Yorkshire, England, UK [O2];6400
 4G;234;10;130;34880;506476;137;53.55445287694974;-1.0614117980003357;Tesco, 168 Thorne Road A18, Edenthorpe, Doncaster, South Yorkshire, England, UK;6400
 4G;234;15;30;41092;506477;137;53.55445287694974;-1.0614117980003357;Tesco, 168 Thorne Road A18, Edenthorpe, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;10;8272;506490;493;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;6300
 4G;234;15;12;8272;506490;493;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;3501
 4G;234;15;15;8272;506490;493;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;323
+4G;234;15;20;8272;506490;494;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;6300
+4G;234;15;22;8272;506490;494;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;3501
+4G;234;15;25;8272;506490;494;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;323
+4G;234;15;30;8272;506490;492;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;6300
+4G;234;15;32;8272;506490;492;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;3501
 4G;234;15;35;8272;506490;492;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;323
 4G;234;10;110;1248;506490;493;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;6400
 4G;234;10;112;1248;506490;493;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;3725
 4G;234;10;115;1248;506490;493;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;199
+4G;234;10;120;1248;506490;494;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;6400
+4G;234;10;122;1248;506490;494;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;3725
+4G;234;10;125;1248;506490;494;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;199
+4G;234;10;130;1248;506490;492;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;6400
+4G;234;10;132;1248;506490;492;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;3725
 4G;234;10;135;1248;506490;492;53.680947317433045;-0.4593276232481003;Ferriby Road A1077, Barton-upon-Humber, North Lincolnshire, England, UK;199
 4G;234;15;20;41066;506525;15;53.28398387673857;-1.4274679496884346;Windmill Lane, Unstone, Derbyshire, England, UK [Cornerstone];6300
 4G;234;15;20;41092;506653;156;53.73251097980579;-0.8874769136309624;Knedlington Road A614, Howden, East Riding of Yorkshire, England, UK;6300
@@ -6911,24 +7144,38 @@
 4G;234;10;110;34880;507546;318;53.58768249949308;-1.030198261141777;Doncaster Greyhound Stadium, Station Road, Stainforth, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;112;34880;507546;318;53.58768249949308;-1.030198261141777;Doncaster Greyhound Stadium, Station Road, Stainforth, Doncaster, South Yorkshire, England, UK;3725
 4G;234;10;115;34880;507546;318;53.58768249949308;-1.030198261141777;Doncaster Greyhound Stadium, Station Road, Stainforth, Doncaster, South Yorkshire, England, UK;199
+4G;234;10;120;34880;507546;319;53.58768249949308;-1.030198261141777;Doncaster Greyhound Stadium, Station Road, Stainforth, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;122;34880;507546;319;53.58768249949308;-1.030198261141777;Doncaster Greyhound Stadium, Station Road, Stainforth, Doncaster, South Yorkshire, England, UK;3725
 4G;234;10;125;34880;507546;319;53.58768249949308;-1.030198261141777;Doncaster Greyhound Stadium, Station Road, Stainforth, Doncaster, South Yorkshire, England, UK;199
+4G;234;10;130;34880;507546;320;53.58768249949308;-1.030198261141777;Doncaster Greyhound Stadium, Station Road, Stainforth, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;132;34880;507546;320;53.58768249949308;-1.030198261141777;Doncaster Greyhound Stadium, Station Road, Stainforth, Doncaster, South Yorkshire, England, UK;3725
 4G;234;10;135;34880;507546;320;53.58768249949308;-1.030198261141777;Doncaster Greyhound Stadium, Station Road, Stainforth, Doncaster, South Yorkshire, England, UK;199
 4G;234;15;10;41092;507547;318;53.58768249949308;-1.030198261141777;Doncaster Greyhound Stadium, Station Road, Stainforth, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;15;41092;507547;318;53.58768249949308;-1.030198261141777;Doncaster Greyhound Stadium, Station Road, Stainforth, Doncaster, South Yorkshire, England, UK;323
+4G;234;15;20;41092;507547;319;53.58768249949308;-1.030198261141777;Doncaster Greyhound Stadium, Station Road, Stainforth, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;25;41092;507547;319;53.58768249949308;-1.030198261141777;Doncaster Greyhound Stadium, Station Road, Stainforth, Doncaster, South Yorkshire, England, UK;323
 4G;234;15;30;41092;507547;320;53.58768249949308;-1.030198261141777;Doncaster Greyhound Stadium, Station Road, Stainforth, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;35;41092;507547;320;53.58768249949308;-1.030198261141777;Doncaster Greyhound Stadium, Station Road, Stainforth, Doncaster, South Yorkshire, England, UK;323
 4G;234;10;110;4096;507562;270;51.47904803983933;-0.5001511797308922;Moor Bridge (Stop D), Longford, West Drayton, Hillingdon, Greater London, England, UK;6400
 4G;234;10;130;4096;507562;270;51.47904803983933;-0.5001511797308922;Moor Bridge (Stop D), Longford, West Drayton, Hillingdon, Greater London, England, UK;6400
 4G;234;10;110;34448;507630;462;53.492265654207486;-1.3035213947296143;White Lea Road, Swinton, Rotherham, South Yorkshire, England, UK;6400
+4G;234;10;115;34448;507630;462;53.492265654207486;-1.3035213947296143;White Lea Road, Swinton, Rotherham, South Yorkshire, England, UK;199
 4G;234;10;120;34448;507630;463;53.492265654207486;-1.3035213947296143;White Lea Road, Swinton, Rotherham, South Yorkshire, England, UK;6400
 4G;234;10;125;34448;507630;463;53.492265654207486;-1.3035213947296143;White Lea Road, Swinton, Rotherham, South Yorkshire, England, UK;199
 4G;234;10;130;34448;507630;464;53.492265654207486;-1.3035213947296143;White Lea Road, Swinton, Rotherham, South Yorkshire, England, UK;6400
+4G;234;10;135;34448;507630;464;53.492265654207486;-1.3035213947296143;White Lea Road, Swinton, Rotherham, South Yorkshire, England, UK;199
+4G;234;15;10;41065;507631;462;53.492265654207486;-1.3035213947296143;White Lea Road, Swinton, Rotherham, South Yorkshire, England, UK;6300
 4G;234;15;15;41065;507631;462;53.492265654207486;-1.3035213947296143;White Lea Road, Swinton, Rotherham, South Yorkshire, England, UK;323
 4G;234;15;20;41065;507631;463;53.492265654207486;-1.3035213947296143;White Lea Road, Swinton, Rotherham, South Yorkshire, England, UK;6300
+4G;234;15;25;41065;507631;463;53.492265654207486;-1.3035213947296143;White Lea Road, Swinton, Rotherham, South Yorkshire, England, UK;323
+4G;234;15;30;41065;507631;464;53.492265654207486;-1.3035213947296143;White Lea Road, Swinton, Rotherham, South Yorkshire, England, UK;6300
+4G;234;15;35;41065;507631;464;53.492265654207486;-1.3035213947296143;White Lea Road, Swinton, Rotherham, South Yorkshire, England, UK;323
+4G;234;10;110;34784;507656;63;53.72723733054149;-0.4088400676846504;Hessle Police Station, 960 Hessle Road, Gipsyville, Hull, East Riding of Yorkshire, England, UK [O2];6400
 4G;234;10;115;34784;507656;63;53.72723733054149;-0.4088400676846504;Hessle Police Station, 960 Hessle Road, Gipsyville, Hull, East Riding of Yorkshire, England, UK [O2];199
 4G;234;10;120;34784;507656;64;53.72723733054149;-0.4088400676846504;Hessle Police Station, 960 Hessle Road, Gipsyville, Hull, East Riding of Yorkshire, England, UK [O2];6400
 4G;234;10;125;34784;507656;64;53.72723733054149;-0.4088400676846504;Hessle Police Station, 960 Hessle Road, Gipsyville, Hull, East Riding of Yorkshire, England, UK [O2];199
 4G;234;10;130;34784;507656;65;53.72723733054149;-0.4088400676846504;Hessle Police Station, 960 Hessle Road, Gipsyville, Hull, East Riding of Yorkshire, England, UK [O2];6400
+4G;234;10;135;34784;507656;65;53.72723733054149;-0.4088400676846504;Hessle Police Station, 960 Hessle Road, Gipsyville, Hull, East Riding of Yorkshire, England, UK [O2];199
 4G;234;10;110;1040;507816;120;53.028431883946844;-1.4855464920401573;East Mill, Bridge Foot A517, Belper, Derbyshire, England, UK;6400
 4G;234;10;110;34448;508022;472;53.49216731722733;-1.2608622014522552;Denaby WPC Works, Denaby Lane, Denaby Main, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;130;34448;508022;471;53.49216731722733;-1.2608622014522552;Denaby WPC Works, Denaby Lane, Denaby Main, Doncaster, South Yorkshire, England, UK;6400
@@ -6944,32 +7191,49 @@
 4G;234;10;132;34448;508300;428;53.20506102156974;-1.4073416590690613;Avenue Farm Grassmoor, Grassmoor, Derbyshire, England, UK;3725
 4G;234;15;30;41065;508301;428;53.20506102156974;-1.4073416590690613;Avenue Farm Grassmoor, Grassmoor, Derbyshire, England, UK;6300
 4G;234;10;110;34448;508302;434;53.23750438816362;-1.4240756258368492;1 Holywell Street B6543, Chesterfield, Derbyshire, England, UK [Cornerstone];6400
+4G;234;10;112;34448;508302;434;53.23750438816362;-1.4240756258368492;1 Holywell Street B6543, Chesterfield, Derbyshire, England, UK [Cornerstone];3725
 4G;234;10;120;34448;508302;433;53.23750438816362;-1.4240756258368492;1 Holywell Street B6543, Chesterfield, Derbyshire, England, UK [Cornerstone];6400
 4G;234;10;122;34448;508302;433;53.23750438816362;-1.4240756258368492;1 Holywell Street B6543, Chesterfield, Derbyshire, England, UK [Cornerstone];3725
+4G;234;10;130;34448;508302;432;53.23750438816362;-1.4240756258368492;1 Holywell Street B6543, Chesterfield, Derbyshire, England, UK [Cornerstone];6400
+4G;234;10;132;34448;508302;432;53.23750438816362;-1.4240756258368492;1 Holywell Street B6543, Chesterfield, Derbyshire, England, UK [Cornerstone];3725
 4G;234;15;10;41065;508303;434;53.23750438816362;-1.4240756258368492;1 Holywell Street B6543, Chesterfield, Derbyshire, England, UK [Cornerstone];6300
+4G;234;15;12;41065;508303;434;53.23750438816362;-1.4240756258368492;1 Holywell Street B6543, Chesterfield, Derbyshire, England, UK [Cornerstone];3501
 4G;234;15;20;41065;508303;433;53.23750438816362;-1.4240756258368492;1 Holywell Street B6543, Chesterfield, Derbyshire, England, UK [Cornerstone];6300
 4G;234;15;22;41065;508303;433;53.23750438816362;-1.4240756258368492;1 Holywell Street B6543, Chesterfield, Derbyshire, England, UK [Cornerstone];3501
+4G;234;15;30;41065;508303;432;53.23750438816362;-1.4240756258368492;1 Holywell Street B6543, Chesterfield, Derbyshire, England, UK [Cornerstone];6300
+4G;234;15;32;41065;508303;432;53.23750438816362;-1.4240756258368492;1 Holywell Street B6543, Chesterfield, Derbyshire, England, UK [Cornerstone];3501
 4G;234;10;110;34784;508332;284;53.747034491286485;-0.7308687642216682;Staddlethorpe Broad Lane, Gilberdyke, East Riding of Yorkshire, England, UK;6400
 4G;234;10;120;34784;508332;282;53.747034491286485;-0.7308687642216682;Staddlethorpe Broad Lane, Gilberdyke, East Riding of Yorkshire, England, UK;6400
 4G;234;10;130;34784;508332;283;53.747034491286485;-0.7308687642216682;Staddlethorpe Broad Lane, Gilberdyke, East Riding of Yorkshire, England, UK;6400
 4G;234;15;10;41092;508333;284;53.747034491286485;-0.7308687642216682;Staddlethorpe Broad Lane, Gilberdyke, East Riding of Yorkshire, England, UK;6300
+4G;234;15;20;41092;508333;282;53.747034491286485;-0.7308687642216682;Staddlethorpe Broad Lane, Gilberdyke, East Riding of Yorkshire, England, UK;6300
+4G;234;15;30;41092;508333;283;53.747034491286485;-0.7308687642216682;Staddlethorpe Broad Lane, Gilberdyke, East Riding of Yorkshire, England, UK;6300
 4G;234;10;110;34880;508414;185;53.67263760853969;-0.9634551778435707;Langham Interchange J7, M18 South, Rawcliffe, East Riding of Yorkshire, England, UK;6400
 4G;234;15;10;41092;508415;185;53.67263760853969;-0.9634551778435707;Langham Interchange J7, M18 South, Rawcliffe, East Riding of Yorkshire, England, UK;6300
 4G;234;10;130;34784;508422;157;53.732039734318846;-0.474749319255352;Humberdale Farm, Humberdale, North Ferriby, East Riding of Yorkshire, England, UK;6400
-4G;234;10;132;34784;508422;493;53.732039734318846;-0.474749319255352;Humberdale Farm, Humberdale, North Ferriby, East Riding of Yorkshire, England, UK;3725
+4G;234;10;132;34784;508422;157;53.732039734318846;-0.474749319255352;Humberdale Farm, Humberdale, North Ferriby, East Riding of Yorkshire, England, UK;3725
 4G;234;15;30;41086;508423;157;53.732039734318846;-0.474749319255352;Humberdale Farm, Humberdale, North Ferriby, East Riding of Yorkshire, England, UK;6300
 4G;234;15;32;41086;508423;157;53.732039734318846;-0.474749319255352;Humberdale Farm, Humberdale, North Ferriby, East Riding of Yorkshire, England, UK;3501
 4G;234;15;35;41086;508423;157;53.732039734318846;-0.474749319255352;Humberdale Farm, Humberdale, North Ferriby, East Riding of Yorkshire, England, UK;323
 4G;234;10;120;160;508600;381;52.61683542179052;-1.6865596175193787;Park Farm Lodge Care Home, Peelers Way A51, Two Gates, Tamworth, Staffordshire, England, UK;6400
+4G;234;10;110;34880;508670;9;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;115;34880;508670;9;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;199
+4G;234;10;120;34880;508670;11;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;125;34880;508670;11;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;199
+4G;234;10;130;34880;508670;10;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;135;34880;508670;10;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;199
 4G;234;10;110;17072;508704;498;51.86548833810095;-2.2455118596553802;O2 Store, 10 Northgate Street, Gloucester, Gloucestershire, England, UK;6400
 4G;234;10;110;34448;508778;401;53.48338109490148;-1.2749964371323586;4 Top Fold Cottages, The Green, Old Denaby, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;115;34448;508778;401;53.48338109490148;-1.2749964371323586;4 Top Fold Cottages, The Green, Old Denaby, Doncaster, South Yorkshire, England, UK;199
+4G;234;10;120;34448;508778;400;53.48338109490148;-1.2749964371323586;4 Top Fold Cottages, The Green, Old Denaby, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;125;34448;508778;400;53.48338109490148;-1.2749964371323586;4 Top Fold Cottages, The Green, Old Denaby, Doncaster, South Yorkshire, England, UK;199
 4G;234;10;130;34448;508778;399;53.48338109490148;-1.2749964371323586;4 Top Fold Cottages, The Green, Old Denaby, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;135;34448;508778;399;53.48338109490148;-1.2749964371323586;4 Top Fold Cottages, The Green, Old Denaby, Doncaster, South Yorkshire, England, UK;199
+4G;234;15;10;41065;508779;401;53.48338109490148;-1.2749964371323586;4 Top Fold Cottages, The Green, Old Denaby, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;15;41065;508779;401;53.48338109490148;-1.2749964371323586;4 Top Fold Cottages, The Green, Old Denaby, Doncaster, South Yorkshire, England, UK;323
 4G;234;15;20;41065;508779;400;53.48338109490148;-1.2749964371323586;4 Top Fold Cottages, The Green, Old Denaby, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;25;41065;508779;400;53.48338109490148;-1.2749964371323586;4 Top Fold Cottages, The Green, Old Denaby, Doncaster, South Yorkshire, England, UK;323
+4G;234;15;30;41065;508779;399;53.48338109490148;-1.2749964371323586;4 Top Fold Cottages, The Green, Old Denaby, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;35;41065;508779;399;53.48338109490148;-1.2749964371323586;4 Top Fold Cottages, The Green, Old Denaby, Doncaster, South Yorkshire, England, UK;323
 4G;234;10;115;34784;508786;0;53.76349071626979;-0.32488491386175156;Chamberlain Business Centre, Clay Street, Stoneferry, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;110;672;508898;456;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;6400
@@ -6978,21 +7242,31 @@
 4G;234;10;117;672;508899;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;39448
 4G;234;10;127;672;508899;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;39448
 4G;234;10;130;160;508978;357;52.63799488277739;-1.6690343990921974;Brindley Drive, Glascote, Tamworth, Staffordshire, England, UK;6400
+4G;234;10;110;32897;509024;336;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;6400
+4G;234;10;114;32897;509024;336;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;1226
 4G;234;10;115;32897;509024;336;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;199
+4G;234;10;120;32897;509024;337;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;6400
+4G;234;10;124;32897;509024;337;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;1226
 4G;234;10;125;32897;509024;337;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;199
+4G;234;10;130;32897;509024;338;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;6400
 4G;234;10;134;32897;509024;338;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;1226
 4G;234;10;135;32897;509024;338;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;199
+4G;234;15;10;41065;509025;336;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;6300
 4G;234;15;15;41065;509025;336;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;299
 4G;234;15;20;41065;509025;337;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;6300
 4G;234;15;25;41065;509025;337;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;299
 4G;234;15;30;41065;509025;338;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;6300
+4G;234;15;35;41065;509025;338;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;299
 4G;234;10;120;34448;509180;474;53.486631155965895;-1.3119633123278618;63 Station Street A6022, Swinton, Rotherham, South Yorkshire, England, UK;6400
 4G;234;10;125;34448;509180;474;53.486631155965895;-1.3119633123278618;63 Station Street A6022, Swinton, Rotherham, South Yorkshire, England, UK;199
 4G;234;15;20;41065;509181;474;53.486631155965895;-1.3119633123278618;63 Station Street A6022, Swinton, Rotherham, South Yorkshire, England, UK;6300
 4G;234;15;28;41086;509203;73;53.74665699112127;-0.3207613527774811;Thomas Street, Drypool, Hull, East Riding of Yorkshire, England, UK;2850
 4G;234;10;135;34784;509206;116;53.79357245563155;-0.33648815006017685;Padstow House, 83 Bodmin Road, Bransholme, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;137;34784;509206;116;53.79357245563155;-0.33648815006017685;Padstow House, 83 Bodmin Road, Bransholme, Hull, East Riding of Yorkshire, England, UK;39448
+4G;234;10;110;4099;509414;354;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;6400
+4G;234;10;112;4099;509414;354;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;3725
 4G;234;10;120;4099;509414;355;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;6400
+4G;234;10;122;4099;509414;355;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;3725
 4G;234;10;130;4099;509414;356;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;6400
 4G;234;10;132;4099;509414;356;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;3725
 4G;234;15;35;41092;509463;301;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;323
@@ -7000,7 +7274,8 @@
 4G;234;10;120;1408;509544;395;52.84130781061441;-1.6122537106275558;Field Farm Eggs Ltd, 19 Forge Lane, Stretton, Staffordshire, England, UK;6400
 4G;234;10;110;4099;509562;396;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;6400
 4G;234;10;112;4099;509562;396;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;3725
-4G;234;10;122;4099;509562;356;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;3725
+4G;234;10;120;4099;509562;397;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;6400
+4G;234;10;122;4099;509562;397;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;3725
 4G;234;10;130;4099;509562;398;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;6400
 4G;234;10;132;4099;509562;398;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;3725
 4G;234;10;130;4096;509638;404;51.46894029594174;-0.5705491080880165;2 Ham Ln, Ham Island, Old Windsor, Windsor, Berkshire, England, UK;6400
@@ -7008,47 +7283,72 @@
 4G;234;10;115;34784;509714;225;53.7428005057477;-0.3514126315712929;73 Anlaby Road, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;116;34784;509714;225;53.7428005057477;-0.3514126315712929;73 Anlaby Road, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;120;34784;509714;227;53.7428005057477;-0.3514126315712929;73 Anlaby Road, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;125;34784;509714;227;53.7428005057477;-0.3514126315712929;73 Anlaby Road, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;126;34784;509714;227;53.7428005057477;-0.3514126315712929;73 Anlaby Road, Hull, East Riding of Yorkshire, England, UK;39250
+4G;234;10;130;34784;509714;226;53.7428005057477;-0.3514126315712929;73 Anlaby Road, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;135;34784;509714;226;53.7428005057477;-0.3514126315712929;73 Anlaby Road, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;136;34784;509714;226;53.7428005057477;-0.3514126315712929;73 Anlaby Road, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;15;10;41086;509715;225;53.7428005057477;-0.3514126315712929;73 Anlaby Road, Hull, East Riding of Yorkshire, England, UK;6300
 4G;234;15;18;41086;509715;225;53.7428005057477;-0.3514126315712929;73 Anlaby Road, Hull, East Riding of Yorkshire, England, UK;2850
 4G;234;15;20;41086;509715;227;53.7428005057477;-0.3514126315712929;73 Anlaby Road, Hull, East Riding of Yorkshire, England, UK;6300
 4G;234;15;28;41086;509715;227;53.7428005057477;-0.3514126315712929;73 Anlaby Road, Hull, East Riding of Yorkshire, England, UK;2850
 4G;234;15;38;41086;509715;226;53.7428005057477;-0.3514126315712929;73 Anlaby Road, Hull, East Riding of Yorkshire, England, UK;2850
+4G;234;10;110;34784;509756;32;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;115;34784;509756;32;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;199
+4G;234;10;120;34784;509756;31;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;125;34784;509756;31;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;199
+4G;234;10;130;34784;509756;30;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;135;34784;509756;30;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;199
+4G;234;10;110;34880;509874;397;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;115;34880;509874;397;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;199
 4G;234;10;120;34880;509874;398;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;125;34880;509874;398;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;199
 4G;234;10;130;34880;509874;396;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;135;34880;509874;396;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;199
+4G;234;15;10;41092;509875;397;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;15;41092;509875;396;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;323
 4G;234;15;20;41092;509875;398;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;25;41092;509875;398;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;323
+4G;234;15;30;41092;509875;396;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;35;41092;509875;396;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;323
 4G;234;10;110;49809;509976;51;52.19206229489194;-2.2206149250268936;O2 Store, 47 High Street, Worcester, Worcestershire, England, UK;6400
 4G;234;10;120;34448;510016;471;53.05808513793301;-1.476283147931099;9 Lynton Road, Ambergate, Derbyshire, England, UK;6400
+4G;234;10;110;34880;510380;228;53.703614819774266;-0.8687758818268776;Victoria Street, Goole, East Riding of Yorkshire, England, UK;6400
 4G;234;10;115;34880;510380;228;53.703614819774266;-0.8687758818268776;Victoria Street, Goole, East Riding of Yorkshire, England, UK;199
 4G;234;10;120;34880;510380;229;53.703614819774266;-0.8687758818268776;Victoria Street, Goole, East Riding of Yorkshire, England, UK;6400
+4G;234;10;125;34880;510380;229;53.703614819774266;-0.8687758818268776;Victoria Street, Goole, East Riding of Yorkshire, England, UK;199
+4G;234;10;130;34880;510380;230;53.703614819774266;-0.8687758818268776;Victoria Street, Goole, East Riding of Yorkshire, England, UK;6400
 4G;234;10;135;34880;510380;230;53.703614819774266;-0.8687758818268776;Victoria Street, Goole, East Riding of Yorkshire, England, UK;199
 4G;234;15;10;41092;510381;228;53.703614819774266;-0.8687758818268776;Victoria Street, Goole, East Riding of Yorkshire, England, UK;6300
 4G;234;15;15;41092;510381;228;53.703614819774266;-0.8687758818268776;Victoria Street, Goole, East Riding of Yorkshire, England, UK;323
+4G;234;15;20;41092;510381;229;53.703614819774266;-0.8687758818268776;Victoria Street, Goole, East Riding of Yorkshire, England, UK;6300
 4G;234;15;25;41092;510381;229;53.703614819774266;-0.8687758818268776;Victoria Street, Goole, East Riding of Yorkshire, England, UK;323
+4G;234;15;30;41092;510381;230;53.703614819774266;-0.8687758818268776;Victoria Street, Goole, East Riding of Yorkshire, England, UK;6300
 4G;234;15;35;41092;510381;230;53.703614819774266;-0.8687758818268776;Victoria Street, Goole, East Riding of Yorkshire, England, UK;323
 4G;234;10;110;34880;510450;269;53.65713568726595;-0.9588635712862014;Moorends Road, Thorne, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;120;34880;510450;267;53.65713568726595;-0.9588635712862014;Moorends Road, Thorne, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;130;34880;510450;268;53.65713568726595;-0.9588635712862014;Moorends Road, Thorne, Doncaster, South Yorkshire, England, UK;6400
 4G;234;15;10;41092;510451;269;53.65713568726595;-0.9588635712862014;Moorends Road, Thorne, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;20;41092;510451;267;53.65713568726595;-0.9588635712862014;Moorends Road, Thorne, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;30;41092;510451;268;53.65713568726595;-0.9588635712862014;Moorends Road, Thorne, Doncaster, South Yorkshire, England, UK;6300
 4G;234;10;120;672;510474;451;51.5234835357033;-0.722489207983017;Maidenhead Telephone Exchange, 10 West St, Maidenhead, Berkshire, England, UK;6400
+4G;234;10;110;34784;510476;338;53.74405206822695;-0.3744923695921898;8 Lonsdale Street, Avenues, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;112;34784;510476;338;53.74405206822695;-0.3744923695921898;8 Lonsdale Street, Avenues, Hull, East Riding of Yorkshire, England, UK;3725
 4G;234;10;116;34784;510476;338;53.74405206822695;-0.3744923695921898;8 Lonsdale Street, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;120;34784;510476;336;53.74405206822695;-0.3744923695921898;8 Lonsdale Street, Avenues, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;122;34784;510476;336;53.74405206822695;-0.3744923695921898;8 Lonsdale Street, Avenues, Hull, East Riding of Yorkshire, England, UK;3725
 4G;234;10;126;34784;510476;336;53.74405206822695;-0.3744923695921898;8 Lonsdale Street, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
+4G;234;10;130;34784;510476;337;53.74405206822695;-0.3744923695921898;8 Lonsdale Street, Avenues, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;132;34784;510476;337;53.74405206822695;-0.3744923695921898;8 Lonsdale Street, Avenues, Hull, East Riding of Yorkshire, England, UK;3725
 4G;234;10;136;34784;510476;337;53.74405206822695;-0.3744923695921898;8 Lonsdale Street, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
+4G;234;15;10;41086;510477;338;53.74405206822695;-0.3744923695921898;8 Lonsdale Street, Avenues, Hull, East Riding of Yorkshire, England, UK;6300
 4G;234;15;20;41086;510477;336;53.74405206822695;-0.3744923695921898;8 Lonsdale Street, Avenues, Hull, East Riding of Yorkshire, England, UK;6300
+4G;234;15;30;41086;510477;337;53.74405206822695;-0.3744923695921898;8 Lonsdale Street, Avenues, Hull, East Riding of Yorkshire, England, UK;6300
 4G;234;10;130;34784;510554;276;53.75713393872998;-0.5590575188398361;Spout Hill, Brantingham, East Riding of Yorkshire, England, UK;6400
 4G;234;15;30;41086;510555;276;53.75713393872998;-0.5590575188398361;Spout Hill, Brantingham, East Riding of Yorkshire, England, UK;6300
 4G;234;10;122;34448;510560;130;53.13159961148695;-1.4200087264180183;Main Road A61, Higham, Derbyshire, England, UK;3725
 4G;234;10;110;34784;510566;305;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;114;34784;510566;305;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;1226
 4G;234;10;115;34784;510566;305;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;116;34784;510566;305;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;117;34784;510566;305;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;39448
@@ -7058,10 +7358,12 @@
 4G;234;10;126;34784;510566;304;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;127;34784;510566;304;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;10;130;34784;510566;303;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;134;34784;510566;303;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;1226
 4G;234;10;135;34784;510566;303;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;136;34784;510566;303;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;137;34784;510566;303;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;15;10;41086;510567;305;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;6300
+4G;234;15;15;41086;510567;305;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;323
 4G;234;15;18;41086;510567;305;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;2850
 4G;234;15;20;41086;510567;304;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;6300
 4G;234;15;25;41086;510567;304;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;323
@@ -7069,18 +7371,28 @@
 4G;234;15;30;41086;510567;303;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;6300
 4G;234;15;35;41086;510567;303;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;323
 4G;234;15;38;41086;510567;303;53.7481743070755;-0.34544672816991806;Pryme Street Car Park, 12 Pryme Street, Hull, East Riding of Yorkshire, England, UK;2850
+4G;234;10;110;34784;510588;204;53.74440143626881;-0.36303799599409103;Opposite Miranda House, 21 Arnold Lane, Hull, East Riding of Yorkshire, England, UK [O2];6400
 4G;234;10;115;34784;510588;204;53.74440143626881;-0.36303799599409103;Opposite Miranda House, 21 Arnold Lane, Hull, East Riding of Yorkshire, England, UK [O2];199
 4G;234;10;120;34784;510588;205;53.74440143626881;-0.36303799599409103;Opposite Miranda House, 21 Arnold Lane, Hull, East Riding of Yorkshire, England, UK [O2];6400
-4G;234;10;125;34784;510588;439;53.74440143626881;-0.36303799599409103;Opposite Miranda House, 21 Arnold Lane, Hull, East Riding of Yorkshire, England, UK [O2];199
+4G;234;10;125;34784;510588;205;53.74440143626881;-0.36303799599409103;Opposite Miranda House, 21 Arnold Lane, Hull, East Riding of Yorkshire, England, UK [O2];199
 4G;234;10;130;34784;510588;206;53.74440143626881;-0.36303799599409103;Opposite Miranda House, 21 Arnold Lane, Hull, East Riding of Yorkshire, England, UK [O2];6400
 4G;234;10;135;34784;510588;206;53.74440143626881;-0.36303799599409103;Opposite Miranda House, 21 Arnold Lane, Hull, East Riding of Yorkshire, England, UK [O2];199
 4G;234;10;110;34880;510638;366;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;112;34880;510638;366;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;3725
 4G;234;10;114;34880;510638;366;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;1226
 4G;234;10;115;34880;510638;366;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;199
+4G;234;10;120;34880;510638;367;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;122;34880;510638;367;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;3725
+4G;234;10;124;34880;510638;367;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;1226
+4G;234;10;125;34880;510638;367;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;199
 4G;234;10;130;34880;510638;368;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;132;34880;510638;368;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;3725
 4G;234;10;134;34880;510638;368;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;1226
 4G;234;10;135;34880;510638;368;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;199
+4G;234;15;10;41092;510639;366;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;15;41092;510639;366;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;323
+4G;234;15;20;41092;510639;367;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;25;41092;510639;367;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;323
 4G;234;15;30;41092;510639;368;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;35;41092;510639;368;53.576271104298186;-1.0307202860713005;Little Parks Farm, St Lawrence Road, Dunscroft, Hatfield, Doncaster, South Yorkshire, England, UK;323
 4G;234;10;120;1040;510716;92;52.93456046007348;-1.4682546257972717;Beechdale Motor Group, Mansfield Road, Little Chester, Derby, East Midlands, England, UK;6400
@@ -7091,9 +7403,15 @@
 4G;234;10;125;34880;510924;6;53.53073839599218;-1.1882635205984116;A1(M) South, Back Lane, Cusworth, Doncaster, South Yorkshire, England, UK;199
 4G;234;10;125;34880;510994;3;53.636824481366475;-0.9702498838305474;The Stone Bungalow, Marsh Lane, Thorne, Doncaster, South Yorkshire, England, UK;199
 4G;234;15;20;41092;510995;3;53.636824481366475;-0.9702498838305474;The Stone Bungalow, Marsh Lane, Thorne, Doncaster, South Yorkshire, England, UK;6300
+4G;234;10;110;34784;511032;11;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;6400
+4G;234;10;115;34784;511032;11;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;199
 4G;234;10;120;34784;511032;10;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;6400
 4G;234;10;125;34784;511032;10;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;199
+4G;234;10;130;34784;511032;9;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;6400
+4G;234;10;135;34784;511032;9;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;199
 4G;234;15;10;41086;511033;11;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;6300
+4G;234;15;20;41086;511033;10;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;6300
+4G;234;15;30;41086;511033;9;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;6300
 4G;234;10;114;1280;511616;459;50.82367728;-0.1450447656;Churchill Square Piazza, Western Road B2066, Brunswick, Brighton, Brighton and Hove, England, UK;1228
 4G;234;10;130;1040;511650;355;52.97527877888733;-1.442461833357811;Tower Road, Drum Hill, Morleymoor, Derbyshire, England, UK [Cornerstone];6400
 4G;234;10;110;34880;511814;250;53.57668895211821;-1.089482456445694;Thorpe Marsh Substation, South Road, Barnby Dun, Doncaster, South Yorkshire, England, UK;6400
@@ -7106,11 +7424,15 @@
 4G;234;10;115;34784;512080;438;53.743003550102586;-0.34272830933332443;KCOM Telephone House, 37 Carr Lane, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;116;34784;512080;438;53.743003550102586;-0.34272830933332443;KCOM Telephone House, 37 Carr Lane, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;117;34784;512080;438;53.743003550102586;-0.34272830933332443;KCOM Telephone House, 37 Carr Lane, Hull, East Riding of Yorkshire, England, UK;39448
+4G;234;10;120;34784;512080;440;53.743003550102586;-0.34272830933332443;KCOM Telephone House, 37 Carr Lane, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;124;34784;512080;440;53.743003550102586;-0.34272830933332443;KCOM Telephone House, 37 Carr Lane, Hull, East Riding of Yorkshire, England, UK;1226
 4G;234;10;125;34784;512080;440;53.743003550102586;-0.34272830933332443;KCOM Telephone House, 37 Carr Lane, Hull, East Riding of Yorkshire, England, UK;199
 4G;234;10;126;34784;512080;440;53.743003550102586;-0.34272830933332443;KCOM Telephone House, 37 Carr Lane, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;127;34784;512080;440;53.743003550102586;-0.34272830933332443;KCOM Telephone House, 37 Carr Lane, Hull, East Riding of Yorkshire, England, UK;39448
+4G;234;10;130;34784;512080;439;53.743003550102586;-0.34272830933332443;KCOM Telephone House, 37 Carr Lane, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;134;34784;512080;439;53.743003550102586;-0.34272830933332443;KCOM Telephone House, 37 Carr Lane, Hull, East Riding of Yorkshire, England, UK;1226
 4G;234;10;135;34784;512080;439;53.743003550102586;-0.34272830933332443;KCOM Telephone House, 37 Carr Lane, Hull, East Riding of Yorkshire, England, UK;199
-4G;234;10;136;34784;512080;225;53.743003550102586;-0.34272830933332443;KCOM Telephone House, 37 Carr Lane, Hull, East Riding of Yorkshire, England, UK;39250
+4G;234;10;136;34784;512080;439;53.743003550102586;-0.34272830933332443;KCOM Telephone House, 37 Carr Lane, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;137;34784;512080;439;53.743003550102586;-0.34272830933332443;KCOM Telephone House, 37 Carr Lane, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;15;10;41086;512081;438;53.743003550102586;-0.34272830933332443;KCOM Telephone House, 37 Carr Lane, Hull, East Riding of Yorkshire, England, UK;6300
 4G;234;15;15;41086;512081;438;53.743003550102586;-0.34272830933332443;KCOM Telephone House, 37 Carr Lane, Hull, East Riding of Yorkshire, England, UK;323
@@ -7401,16 +7723,21 @@
 4G;234;10;122;33809;546139;411;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;3725
 4G;234;10;116;17184;546156;243;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;39250
 4G;234;10;117;17184;546156;243;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;39448
+4G;234;10;126;17184;546156;244;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;39250
+4G;234;10;127;17184;546156;244;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;39448
 4G;234;10;136;17184;546156;245;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;39250
+4G;234;10;137;17184;546156;245;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;39448
 4G;234;10;115;34880;546204;264;53.59269624130161;-0.9928930923342704;MOTO Doncaster North Services, Nettleholme Lane, Hatfield, Doncaster, South Yorkshire, England, UK;199
 4G;234;10;120;33809;546240;31;52.444976844783135;-1.9347464293241503;ALDI, 600A Bristol Road B384, Bournbrook, Birmingham, West Midlands, England, UK [O2];6400
 4G;234;10;130;33809;546240;32;52.444976844783135;-1.9347464293241503;ALDI, 600A Bristol Road B384, Bournbrook, Birmingham, West Midlands, England, UK [O2];6400
 4G;234;10;130;33809;546242;417;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;6400
 4G;234;10;136;33809;546243;417;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;39250
+4G;234;10;116;34784;546571;15;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;39250
 4G;234;10;117;34784;546571;15;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;39448
 4G;234;10;126;34784;546571;17;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;39250
 4G;234;10;127;34784;546571;17;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;39448
-4G;234;10;136;34784;546571;16;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;6400
+4G;234;10;136;34784;546571;16;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;39250
+4G;234;10;137;34784;546571;16;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;39448
 4G;234;10;115;17184;546647;37;51.49967382525866;-3.1401951983571053;462 Newport Road A4161, Penylan, Cardiff, Wales, UK;199
 4G;234;10;125;17184;546647;36;51.49967382525866;-3.1401951983571053;462 Newport Road A4161, Penylan, Cardiff, Wales, UK;199
 4G;234;10;135;17184;546647;38;51.49967382525866;-3.1401951983571053;462 Newport Road A4161, Penylan, Cardiff, Wales, UK;199
@@ -7463,6 +7790,8 @@
 4G;234;10;116;34784;600568;172;53.77208605744264;-0.3934227302670479;142 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [O2];39250
 4G;234;10;126;34784;600568;171;53.77208605744264;-0.3934227302670479;142 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [O2];39250
 4G;234;10;136;34784;600568;173;53.77208605744264;-0.3934227302670479;142 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [O2];39250
+4G;234;10;110;1040;600797;4;52.92741472911414;-1.4650500565767288;Pentagon House, 10 Stores Road, Little Chester, Derby, East Midlands, England, UK;6400
+4G;234;10;115;1040;600797;4;52.92741472911414;-1.4650500565767288;Pentagon House, 10 Stores Road, Little Chester, Derby, East Midlands, England, UK;199
 4G;234;10;120;1040;600797;3;52.92741472911414;-1.4650500565767288;Pentagon House, 10 Stores Road, Little Chester, Derby, East Midlands, England, UK;6400
 4G;234;10;125;1040;600797;3;52.92741472911414;-1.4650500565767288;Pentagon House, 10 Stores Road, Little Chester, Derby, East Midlands, England, UK;199
 4G;234;10;130;1040;600797;5;52.92741472911414;-1.4650500565767288;Pentagon House, 10 Stores Road, Little Chester, Derby, East Midlands, England, UK;6400
