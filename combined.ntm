@@ -28,7 +28,6 @@
 2G;234;30;4861;null;0;2;;;-;649
 2G;234;15;5460;133;0;12;;;-;6
 2G;234;30;5568;null;0;48;;;-;669
-2G;286;3;5573;null;0;41;;;-;587
 2G;234;15;5837;null;0;21;;;-;1
 2G;234;15;6334;null;0;45;;;-;10
 2G;234;10;6573;18030;0;63;52.1033081;-4.5463332;Lady Road, Blaenporth, Ceredigion, Wales, UK;119
@@ -318,7 +317,6 @@
 2G;234;10;33499;21785;0;12;51.858060298215975;-2.233087532222271;1 St James Street, Barton, Gloucester, Gloucestershire, England, UK;118
 2G;234;10;33563;21785;0;47;51.817487474739536;-2.277061343193054;Waterwells Park & Ride, Naas Lane, Quedgeley, Gloucester, Gloucestershire, England, UK [Cornerstone];124
 2G;234;10;33625;21785;0;34;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;118
-2G;286;1;33783;null;0;3;;;-;59
 2G;234;10;33856;21470;0;30;51.56128531438281;-1.7868507653474808;House Of Frazer, 44-54 Canal Walk, Swindon, Wiltshire, England, UK;113
 2G;234;10;33947;18030;0;11;51.63583248451331;-2.355560213327408;Community Fire & Rescue Station, Chestnut Drive, Wotton-under-Edge, Gloucestershire, England, UK;117
 2G;234;10;34032;21424;0;27;52.11578012323931;-4.495530501008034;A487, Tan-y-groes, Ceredigion, Wales, UK [Cornerstone];113
@@ -414,7 +412,6 @@
 4G;234;15;30;12305;197;47;51.435293227977546;-0.5268797278404236;Egham Water Works, Staines-upon-Thames, Surrey, England, UK;6300
 2G;234;30;50584;null;0;8;;;-;667
 2G;234;30;50632;2517;0;7;;;-;658
-2G;286;1;50770;null;0;5;;;-;54
 2G;234;30;51278;null;0;21;;;-;659
 2G;234;15;51404;133;0;53;;;-;1
 2G;234;15;51416;133;0;49;;;-;6
@@ -603,9 +600,11 @@
 4G;234;15;30;24723;1818;497;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;6300
 4G;234;15;34;24723;1818;49;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;323
 4G;234;15;10;24581;1827;285;51.44132988811676;-1.42486821860075;107 Newbury Rd, Wickham, Newbury, West Berkshire, England, UK;6300
-4G;234;15;12;24581;1827;41;51.44132988811676;-1.42486821860075;107 Newbury Rd, Wickham, Newbury, West Berkshire, England, UK;3624
+4G;234;15;12;24581;1827;41;51.44132988811676;-1.42486821860075;107 Newbury Rd, Wickham, Newbury, West Berkshire, England, UK;3501
+4G;234;15;20;24581;1827;286;51.44132988811676;-1.42486821860075;107 Newbury Rd, Wickham, Newbury, West Berkshire, England, UK;6300
+4G;234;15;22;24581;1827;39;51.44132988811676;-1.42486821860075;107 Newbury Rd, Wickham, Newbury, West Berkshire, England, UK;3501
 4G;234;15;30;24581;1827;287;51.44132988811676;-1.42486821860075;107 Newbury Rd, Wickham, Newbury, West Berkshire, England, UK;6300
-4G;234;15;32;24581;1827;40;51.44132988811676;-1.42486821860075;107 Newbury Rd, Wickham, Newbury, West Berkshire, England, UK;3624
+4G;234;15;32;24581;1827;40;51.44132988811676;-1.42486821860075;107 Newbury Rd, Wickham, Newbury, West Berkshire, England, UK;3501
 4G;234;20;1;2108;1830;321;52.90137592609736;-1.4708905667066574;9-10 Coronation Street, Peartree, Derby, East Midlands, England, UK;1363
 4G;234;20;91;2108;1830;264;52.90137592609736;-1.4708905667066574;9-10 Coronation Street, Peartree, Derby, East Midlands, England, UK;9360
 4G;234;20;92;2108;1830;274;52.90137592609736;-1.4708905667066574;9-10 Coronation Street, Peartree, Derby, East Midlands, England, UK;9360
@@ -719,7 +718,7 @@
 4G;234;15;30;24582;2821;419;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Cl, Swindon, Wiltshire, England, UK;6300
 4G;234;15;12;24611;2836;324;51.50077750099252;-2.677890993654728;M5, Avonmouth, Bristol, West of England, England, UK;3501
 4G;234;15;28;24611;2836;8;51.50077750099252;-2.677890993654728;M5, Avonmouth, Bristol, West of England, England, UK;2850
-4G;234;10;110;16625;2836;8;51.50077750099252;-2.677890993654728;M5, Avonmouth, Bristol, West of England, England, UK;6400
+4G;234;10;110;16625;2836;6;51.50077750099252;-2.677890993654728;M5, Avonmouth, Bristol, West of England, England, UK;6400
 4G;234;10;114;16625;2836;6;51.50077750099252;-2.677890993654728;M5, Avonmouth, Bristol, West of England, England, UK;199
 4G;234;10;120;16625;2836;8;51.50077750099252;-2.677890993654728;M5, Avonmouth, Bristol, West of England, England, UK;6400
 4G;234;10;124;16625;2836;8;51.50077750099252;-2.677890993654728;M5, Avonmouth, Bristol, West of England, England, UK;199
@@ -742,10 +741,15 @@
 4G;234;10;130;16625;2919;249;51.525200336762985;-2.619360499083996;4 Cavendish Wy, Patchway, Bristol, West of England, England, UK;6400
 4G;234;10;134;16625;2919;249;51.525200336762985;-2.619360499083996;4 Cavendish Wy, Patchway, Bristol, West of England, England, UK;199
 4G;234;15;10;24610;2920;45;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];6300
+4G;234;15;14;24610;2920;45;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];323
+4G;234;15;20;24610;2920;46;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];6300
+4G;234;15;24;24610;2920;46;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];323
 4G;234;15;30;24610;2920;47;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];6300
 4G;234;15;34;24610;2920;47;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];323
 4G;234;10;110;16624;2920;45;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];6400
 4G;234;10;114;16624;2920;45;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];199
+4G;234;10;120;16624;2920;46;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];6400
+4G;234;10;124;16624;2920;46;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];199
 4G;234;10;130;16624;2920;47;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];6400
 4G;234;10;134;16624;2920;47;51.81476610625773;-2.7019795775413513;1 Hadnock Road, Monmouth, Monmouthshire, Wales, UK [Cornerstone];199
 4G;234;15;10;24723;2928;363;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];6300
@@ -918,9 +922,14 @@
 4G;234;15;24;24723;3615;49;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];323
 4G;234;15;30;24723;3615;152;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];6300
 4G;234;15;34;24723;3615;50;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];323
-4G;234;15;20;24723;3629;361;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;6300
-4G;234;15;24;24723;3629;52;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;323
-4G;234;15;30;24723;3629;362;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;6300
+4G;234;15;14;24723;3629;28;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;323
+4G;234;15;18;24723;3629;28;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;2850
+4G;234;15;20;24723;3629;361;51.88806949795935;-2.2137897089123726;⚠️ Legacy Cell • Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;6300
+4G;234;15;24;24723;3629;29;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;323
+4G;234;15;28;24723;3629;29;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;2850
+4G;234;15;30;24723;3629;362;51.88806949795935;-2.2137897089123726;⚠️ Legacy Cell • Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;6300
+4G;234;15;34;24723;3629;27;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;323
+4G;234;15;38;24723;3629;27;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;2850
 4G;234;15;20;24611;3635;102;51.45887230176428;-2.563607431948185;1 Jane St, Redfield, Bristol, West of England, England, UK;6300
 4G;234;15;28;24611;3635;102;51.45887230176428;-2.563607431948185;1 Jane St, Redfield, Bristol, West of England, England, UK;2850
 4G;234;15;34;24611;3635;103;51.45887230176428;-2.563607431948185;1 Jane St, Redfield, Bristol, West of England, England, UK;323
@@ -1020,9 +1029,11 @@
 4G;234;15;24;24723;3881;477;51.91267032729536;-2.095259539783001;Unit 6, Manchester Park, Tewkesbury Road, Cheltenham, Gloucestershire, England, UK;323
 4G;234;15;30;24723;3881;122;51.91267032729536;-2.095259539783001;Unit 6, Manchester Park, Tewkesbury Road, Cheltenham, Gloucestershire, England, UK;6300
 4G;234;15;34;24723;3881;461;51.91267032729536;-2.095259539783001;Unit 6, Manchester Park, Tewkesbury Road, Cheltenham, Gloucestershire, England, UK;323
+4G;234;15;10;24606;3895;417;51.42418840511654;-2.674192562699318;4 Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK;6300
 4G;234;15;12;24606;3895;417;51.42418840511654;-2.674192562699318;4 Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK;3501
 4G;234;15;20;24606;3895;419;51.42418840511654;-2.674192562699318;4 Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK;6300
-4G;234;10;30;24606;3895;418;51.42418840511654;-2.674192562699318;4 Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK;6400
+4G;234;15;22;24606;3895;419;51.42418840511654;-2.674192562699318;4 Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK;3501
+4G;234;15;30;24606;3895;418;51.42418840511654;-2.674192562699318;4 Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK;6300
 4G;234;15;32;24606;3895;418;51.42418840511654;-2.674192562699318;4 Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK;3501
 4G;234;10;110;16609;3895;417;51.42418840511654;-2.674192562699318;4 Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK;6400
 4G;234;10;120;16609;3895;419;51.42418840511654;-2.674192562699318;4 Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK;6400
@@ -1160,6 +1171,7 @@
 4G;234;10;132;16609;4092;25;51.351142209405836;-2.9814915731549263;Weston College, Knightstone Road, Weston-super-mare, North Somerset, England, UK;3725
 4G;234;10;134;16609;4092;25;51.351142209405836;-2.9814915731549263;Weston College, Knightstone Road, Weston-super-mare, North Somerset, England, UK;199
 4G;234;10;137;16609;4092;25;51.351142209405836;-2.9814915731549263;Weston College, Knightstone Road, Weston-super-mare, North Somerset, England, UK;39448
+4G;234;15;10;24723;4117;207;51.861398150381724;-2.1778923645615578;Pylon near TFN Landscapes Ltd, 1 Stump Lane, Hucclecote, Gloucester, Gloucestershire, England, UK;6300
 4G;234;15;14;24723;4117;108;51.861398150381724;-2.1778923645615578;Pylon near TFN Landscapes Ltd, 1 Stump Lane, Hucclecote, Gloucester, Gloucestershire, England, UK;323
 4G;234;15;20;24723;4117;208;51.861398150381724;-2.1778923645615578;Pylon near TFN Landscapes Ltd, 1 Stump Lane, Hucclecote, Gloucester, Gloucestershire, England, UK;6300
 4G;234;15;24;24723;4117;109;51.861398150381724;-2.1778923645615578;Pylon near TFN Landscapes Ltd, 1 Stump Lane, Hucclecote, Gloucester, Gloucestershire, England, UK;323
@@ -3810,8 +3822,6 @@
 4G;234;30;0;25331;21067;251;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;1617
 4G;234;30;12;25330;21067;284;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;6225
 4G;234;30;4;26011;21075;490;51.80873166787944;-2.732746861875057;Wonastow Road Industrial Estate, Wonastow Rd, Monmouth, Monmouthshire, Wales, UK;1815
-4G;286;2;81;44804;21142;216;;;-;276
-4G;286;2;83;44804;21142;218;;;-;276
 4G;234;30;1;25341;21150;496;51.51263344151598;-1.3240406289696693;Redlane Rd, Newbury, West Berkshire, England, UK;1617
 4G;234;30;2;25341;21150;49;51.51263344151598;-1.3240406289696693;Redlane Rd, Newbury, West Berkshire, England, UK;1617
 4G;234;30;13;25340;21150;266;51.51263344151598;-1.3240406289696693;Redlane Rd, Newbury, West Berkshire, England, UK;6225
@@ -3821,15 +3831,17 @@
 4G;234;30;3;25341;21179;387;51.45076156489833;-1.3254410773515701;M4, Newbury, West Berkshire, England, UK;1815
 4G;234;30;5;25341;21179;388;51.45076156489833;-1.3254410773515701;M4, Newbury, West Berkshire, England, UK;1815
 4G;234;30;0;25331;21183;138;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;1617
-4G;234;15;10;24723;21183;null;51.85490484774589;-2.255532927811146;Madleaze Industrial Estate, Price Street, Gloucester, Gloucestershire, England, UK;6300
+4G;234;30;1;25331;21183;140;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;1617
+4G;234;30;2;25331;21183;139;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;1617
+4G;234;15;10;24723;21183;221;51.85490484774589;-2.255532927811146;Madleaze Industrial Estate, Price Street, Gloucester, Gloucestershire, England, UK;6300
 4G;234;15;12;24723;21183;221;51.85490484774589;-2.255532927811146;Madleaze Industrial Estate, Price Street, Gloucester, Gloucestershire, England, UK;3501
 4G;234;30;12;25330;21183;138;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;6225
 4G;234;30;13;25330;21183;140;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;6225
 4G;234;15;14;24723;21183;170;51.85490484774589;-2.255532927811146;Madleaze Industrial Estate, Price Street, Gloucester, Gloucestershire, England, UK;323
-4G;234;15;20;24723;21183;272;51.85490484774589;-2.255532927811146;Madleaze Industrial Estate, Price Street, Gloucester, Gloucestershire, England, UK;6300
+4G;234;15;20;24723;21183;219;51.85490484774589;-2.255532927811146;Madleaze Industrial Estate, Price Street, Gloucester, Gloucestershire, England, UK;6300
 4G;234;15;22;24723;21183;219;51.85490484774589;-2.255532927811146;Madleaze Industrial Estate, Price Street, Gloucester, Gloucestershire, England, UK;3501
 4G;234;15;24;24723;21183;168;51.85490484774589;-2.255532927811146;Madleaze Industrial Estate, Price Street, Gloucester, Gloucestershire, England, UK;323
-4G;234;15;30;24723;21183;null;51.85490484774589;-2.255532927811146;Madleaze Industrial Estate, Price Street, Gloucester, Gloucestershire, England, UK;6300
+4G;234;15;30;24723;21183;220;51.85490484774589;-2.255532927811146;Madleaze Industrial Estate, Price Street, Gloucester, Gloucestershire, England, UK;6300
 4G;234;15;32;24723;21183;220;51.85490484774589;-2.255532927811146;Madleaze Industrial Estate, Price Street, Gloucester, Gloucestershire, England, UK;3501
 4G;234;15;34;24723;21183;169;51.85490484774589;-2.255532927811146;Madleaze Industrial Estate, Price Street, Gloucester, Gloucestershire, England, UK;323
 4G;234;30;2;25321;21184;282;51.41876984225579;-2.2424330189824104;Quarry Hill, Box, Wiltshire, England, UK;1617
@@ -3961,13 +3973,23 @@
 4G;234;15;32;24611;22102;467;51.417390005757284;-2.508299569834947;Broadlands Academy, Saint Francis Road, Keynsham, Bath and North East Somerset, West of England, England, UK;3501
 4G;234;15;38;24611;22102;467;51.417390005757284;-2.508299569834947;Broadlands Academy, Saint Francis Road, Keynsham, Bath and North East Somerset, West of England, England, UK;2850
 4G;234;15;10;24606;22137;64;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;6300
+4G;234;15;12;24606;22137;64;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;3501
 4G;234;15;14;24606;22137;64;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;323
 4G;234;15;20;24606;22137;63;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;6300
+4G;234;15;22;24606;22137;63;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;3501
 4G;234;15;24;24606;22137;63;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;323
+4G;234;15;30;24606;22137;65;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;6300
+4G;234;15;32;24606;22137;65;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;3501
+4G;234;15;34;24606;22137;65;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;323
 4G;234;10;110;16608;22137;64;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;6400
+4G;234;10;112;16608;22137;64;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;3725
 4G;234;10;114;16608;22137;64;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;199
 4G;234;10;120;16608;22137;63;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;6400
+4G;234;10;122;16608;22137;63;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;3725
 4G;234;10;124;16608;22137;63;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;199
+4G;234;10;130;16608;22137;65;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;6400
+4G;234;10;132;16608;22137;65;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;3725
+4G;234;10;134;16608;22137;65;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;199
 4G;234;15;12;24607;22141;135;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;3501
 4G;234;15;18;24607;22141;27;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;2850
 4G;234;15;22;24607;22141;29;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;3501
@@ -3998,10 +4020,16 @@
 4G;234;30;2;25331;22657;144;51.6656020813947;-1.9295623898506165;1, Broadway Industrial Estate, Broadway Ln, South Cerney, Cirencester, Gloucestershire, England, UK;1617
 4G;234;30;0;25331;22665;465;51.69020001710738;-2.2198283672332764;Tetbury Lane, Nailsworth, Gloucestershire, England, UK;1617
 4G;234;15;10;24606;22680;63;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;6300
+4G;234;15;12;24606;22680;63;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;3501
+4G;234;15;14;24606;22680;63;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;323
 4G;234;15;18;24606;22680;10;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;2850
 4G;234;15;20;24606;22680;64;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;6300
+4G;234;15;22;24606;22680;64;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;3501
+4G;234;15;24;24606;22680;64;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;323
+4G;234;15;28;24606;22680;11;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;2850
 4G;234;15;30;24606;22680;65;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;6300
 4G;234;15;32;24606;22680;65;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;3501
+4G;234;15;34;24606;22680;65;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;323
 4G;234;15;38;24606;22680;9;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;2850
 4G;234;30;0;25321;22789;293;51.423454175940755;-2.23416980355978;White Ennox Lane, Box Hill, Box, Wiltshire, England, UK;1617
 4G;234;30;2;26022;22846;462;52.32080548535443;-4.063210040330887;B4576, Penciog, Ceredigion, Wales, UK;1617
@@ -4030,6 +4058,7 @@
 4G;234;30;2;26021;23268;469;51.8991069476707;-3.1887247413396835;A479, Felindre, Powys, Wales, UK;1617
 4G;234;30;14;26020;23268;392;51.8991069476707;-3.1887247413396835;A479, Felindre, Powys, Wales, UK;6225
 4G;234;15;14;24723;23382;223;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;323
+4G;234;15;16;24723;23382;2;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;1363
 4G;234;15;18;24723;23382;210;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;2850
 4G;234;15;19;24723;23382;324;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;37900
 4G;234;15;24;24723;23382;222;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;323
@@ -4040,6 +4069,12 @@
 4G;234;15;39;24723;23382;326;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;37900
 4G;234;30;0;25321;23576;364;51.41895174678804;-2.2491921856999397;London Road A4, Box, Wiltshire, England, UK;1617
 4G;234;30;1;25321;23576;365;51.41895174678804;-2.2491921856999397;London Road A4, Box, Wiltshire, England, UK;1617
+4G;234;15;10;24723;23627;28;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;6300
+4G;234;15;12;24723;23627;28;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;3501
+4G;234;15;20;24723;23627;29;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;6300
+4G;234;15;22;24723;23627;29;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;3501
+4G;234;15;30;24723;23627;27;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;6300
+4G;234;15;32;24723;23627;27;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;3501
 4G;286;1;12;6144;23712;451;36.84540894310712;28.256208635866642;Blue Port Shopping Centre, Siteler, Kemal Seyfettin Elgin Blv. 47/8, Marmaris, Muğla, Turkey;1651
 4G;286;1;13;6144;23712;451;36.84540894310712;28.256208635866642;Blue Port Shopping Centre, Siteler, Kemal Seyfettin Elgin Blv. 47/8, Marmaris, Muğla, Turkey;1795
 4G;286;1;16;6144;23712;451;36.84540894310712;28.256208635866642;Blue Port Shopping Centre, Siteler, Kemal Seyfettin Elgin Blv. 47/8, Marmaris, Muğla, Turkey;550
