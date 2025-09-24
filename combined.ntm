@@ -1864,7 +1864,9 @@
 4G;234;15;10;24611;7539;210;51.48522715126139;-2.6504798233509064;Saint Edyth's Church, Avonleaze, Sea Mills, Bristol, West of England, England, UK;6300
 4G;234;15;14;24611;7539;210;51.48522715126139;-2.6504798233509064;Saint Edyth's Church, Avonleaze, Sea Mills, Bristol, West of England, England, UK;323
 4G;234;15;20;24611;7539;211;51.48522715126139;-2.6504798233509064;Saint Edyth's Church, Avonleaze, Sea Mills, Bristol, West of England, England, UK;6300
+4G;234;15;24;24611;7539;211;51.48522715126139;-2.6504798233509064;Saint Edyth's Church, Avonleaze, Sea Mills, Bristol, West of England, England, UK;323
 4G;234;15;30;24611;7539;212;51.48522715126139;-2.6504798233509064;Saint Edyth's Church, Avonleaze, Sea Mills, Bristol, West of England, England, UK;6300
+4G;234;15;34;24611;7539;212;51.48522715126139;-2.6504798233509064;Saint Edyth's Church, Avonleaze, Sea Mills, Bristol, West of England, England, UK;323
 4G;234;10;110;16625;7539;210;51.48522715126139;-2.6504798233509064;Saint Edyth's Church, Avonleaze, Sea Mills, Bristol, West of England, England, UK;6400
 4G;234;10;114;16625;7539;210;51.48522715126139;-2.6504798233509064;Saint Edyth's Church, Avonleaze, Sea Mills, Bristol, West of England, England, UK;199
 4G;234;10;120;16625;7539;211;51.48522715126139;-2.6504798233509064;Saint Edyth's Church, Avonleaze, Sea Mills, Bristol, West of England, England, UK;6400
@@ -1875,8 +1877,13 @@
 4G;234;20;2;2127;7586;305;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Cl, Swindon, Wiltshire, England, UK;1363
 4G;234;20;6;2127;7586;292;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Cl, Swindon, Wiltshire, England, UK;6175
 4G;234;20;8;2127;7586;66;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Cl, Swindon, Wiltshire, England, UK;6175
+4G;234;15;10;24738;7587;324;52.10885308720581;-4.081312268972397;6 Greenfield Terrace, Lampeter, Ceredigion, Wales, UK;6300
 4G;234;15;12;24738;7587;324;52.10885308720581;-4.081312268972397;6 Greenfield Terrace, Lampeter, Ceredigion, Wales, UK;3501
+4G;234;15;14;24738;7587;324;52.10885308720581;-4.081312268972397;6 Greenfield Terrace, Lampeter, Ceredigion, Wales, UK;323
+4G;234;15;20;24738;7587;325;52.10885308720581;-4.081312268972397;6 Greenfield Terrace, Lampeter, Ceredigion, Wales, UK;6300
 4G;234;15;22;24738;7587;326;52.10885308720581;-4.081312268972397;6 Greenfield Terrace, Lampeter, Ceredigion, Wales, UK;3501
+4G;234;15;24;24738;7587;326;52.10885308720581;-4.081312268972397;6 Greenfield Terrace, Lampeter, Ceredigion, Wales, UK;323
+4G;234;15;30;24738;7587;325;52.10885308720581;-4.081312268972397;6 Greenfield Terrace, Lampeter, Ceredigion, Wales, UK;6300
 4G;234;15;32;24738;7587;325;52.10885308720581;-4.081312268972397;6 Greenfield Terrace, Lampeter, Ceredigion, Wales, UK;3501
 4G;234;15;34;24738;7587;325;52.10885308720581;-4.081312268972397;6 Greenfield Terrace, Lampeter, Ceredigion, Wales, UK;323
 4G;234;10;110;16816;7587;324;52.10885308720581;-4.081312268972397;6 Greenfield Terrace, Lampeter, Ceredigion, Wales, UK;6400
@@ -1940,24 +1947,24 @@
 4G;234;15;10;24582;7868;480;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;6300
 4G;234;15;20;24582;7868;481;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;6300
 4G;234;15;30;24582;7868;482;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;6300
-4G;234;15;10;24626;7892;110;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;6300
-4G;234;15;12;24626;7892;110;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;3501
-4G;234;15;14;24626;7892;110;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;323
-4G;234;15;20;24626;7892;108;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;6300
-4G;234;15;22;24626;7892;108;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;3501
-4G;234;15;24;24626;7892;108;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;323
-4G;234;15;30;24626;7892;109;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;6300
-4G;234;15;32;24626;7892;109;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;3501
-4G;234;15;34;24626;7892;109;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;323
-4G;234;10;110;16832;7892;110;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;6400
-4G;234;10;112;16832;7892;110;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;3725
-4G;234;10;114;16832;7892;110;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;199
-4G;234;10;120;16832;7892;108;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;6400
-4G;234;10;122;16832;7892;108;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;3725
-4G;234;10;124;16832;7892;108;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;199
-4G;234;10;130;16832;7892;109;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;6400
-4G;234;10;132;16832;7892;109;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;3725
-4G;234;10;134;16832;7892;109;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK;199
+4G;234;15;10;24626;7892;110;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];6300
+4G;234;15;12;24626;7892;110;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];3501
+4G;234;15;14;24626;7892;110;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];323
+4G;234;15;20;24626;7892;108;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];6300
+4G;234;15;22;24626;7892;108;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];3501
+4G;234;15;24;24626;7892;108;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];323
+4G;234;15;30;24626;7892;109;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];6300
+4G;234;15;32;24626;7892;109;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];3501
+4G;234;15;34;24626;7892;109;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];323
+4G;234;10;110;16832;7892;110;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];6400
+4G;234;10;112;16832;7892;110;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];3725
+4G;234;10;114;16832;7892;110;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];199
+4G;234;10;120;16832;7892;108;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];6400
+4G;234;10;122;16832;7892;108;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];3725
+4G;234;10;124;16832;7892;108;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];199
+4G;234;10;130;16832;7892;109;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];6400
+4G;234;10;132;16832;7892;109;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];3725
+4G;234;10;134;16832;7892;109;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];199
 4G;234;10;130;16816;7916;330;52.288080175485064;-4.165021330118179;Unnamed Road, Llannon, Ceredigion, Wales, UK;6400
 4G;234;20;8;2563;7938;84;51.77490960712049;-2.0958754420280457;Lypiatt Farm, Miserdon, Gloucestershire, England, UK;6175
 4G;234;15;10;24723;7943;270;51.74333045217643;-1.9606827199459078;White Way, Cirencester, Gloucestershire, England, UK;6300
@@ -1965,8 +1972,15 @@
 4G;234;15;30;24723;7943;272;51.74333045217643;-1.9606827199459078;White Way, Cirencester, Gloucestershire, England, UK;6300
 4G;234;15;34;24611;7976;490;51.48288121701179;-2.5078754872083664;Shrubbery Court, Berkeley Road, Staple Hill, Bristol, South Gloucestershire, West of England, England, UK;323
 4G;234;10;130;16625;7976;319;51.48288121701179;-2.5078754872083664;Shrubbery Court, Berkeley Road, Staple Hill, Bristol, South Gloucestershire, West of England, England, UK;6400
-4G;234;10;134;16625;7976;null;51.48288121701179;-2.5078754872083664;Shrubbery Court, Berkeley Road, Staple Hill, Bristol, South Gloucestershire, West of England, England, UK;null
+4G;234;10;134;16625;7976;null;51.48288121701179;-2.5078754872083664;Shrubbery Court, Berkeley Road, Staple Hill, Bristol, South Gloucestershire, West of England, England, UK;199
+4G;234;15;10;24626;7984;431;51.39649131085553;-2.3119813576340675;Tyning Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK;6300
+4G;234;15;14;24626;7984;431;51.39649131085553;-2.3119813576340675;Tyning Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK;323
+4G;234;15;20;24626;7984;429;51.39649131085553;-2.3119813576340675;Tyning Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK;6300
+4G;234;15;24;24626;7984;429;51.39649131085553;-2.3119813576340675;Tyning Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK;323
+4G;234;15;30;24626;7984;430;51.39649131085553;-2.3119813576340675;Tyning Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK;6300
+4G;234;15;34;24626;7984;430;51.39649131085553;-2.3119813576340675;Tyning Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK;323
 4G;234;10;110;16832;7984;431;51.39649131085553;-2.3119813576340675;Tyning Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK;6400
+4G;234;10;120;16832;7984;429;51.39649131085553;-2.3119813576340675;Tyning Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK;6400
 4G;234;10;130;16832;7984;430;51.39649131085553;-2.3119813576340675;Tyning Road, Bathampton, Bath, Bath and North East Somerset, West of England, England, UK;6400
 4G;234;15;12;24617;8001;88;51.80764023377033;-3.097972869873047;Gilwern Hill, Monmouthshire, Wales, UK;3501
 4G;234;10;110;16800;8001;88;51.80764023377033;-3.097972869873047;Gilwern Hill, Monmouthshire, Wales, UK;6400
@@ -1984,13 +1998,20 @@
 4G;234;10;116;16625;8041;342;51.46071979887348;-2.589353956282139;Kenham House, 11 Wilder St, St Paul's, Bristol, West of England, England, UK;1226
 4G;234;15;10;24611;8069;256;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;6300
 4G;234;15;12;24611;8069;256;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;3501
+4G;234;15;14;24611;8069;256;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;323
+4G;234;15;20;24611;8069;255;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;6300
+4G;234;15;22;24611;8069;255;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;3501
 4G;234;15;24;24611;8069;255;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;323
+4G;234;15;30;24611;8069;257;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;6300
+4G;234;15;32;24611;8069;257;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;3501
 4G;234;15;34;24611;8069;257;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;323
 4G;234;10;110;16625;8069;256;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;6400
+4G;234;10;112;16625;8069;256;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;3725
 4G;234;10;114;16625;8069;256;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;199
 4G;234;10;120;16625;8069;255;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;6400
 4G;234;10;122;16625;8069;255;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;3725
 4G;234;10;124;16625;8069;255;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;199
+4G;234;10;130;16625;8069;257;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;6400
 4G;234;10;132;16625;8069;257;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;3725
 4G;234;10;134;16625;8069;257;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;199
 4G;234;15;24;24723;8073;265;51.90273446850362;-2.1150847524404526;Evington Court, Edinburgh Place, St Mark's, Cheltenham, Gloucestershire, England, UK;323
@@ -2002,8 +2023,13 @@
 4G;234;20;6;2464;8147;18;51.74026391702845;-2.2386853024363518;6 Dudbridge Rd, Dudbridge, Stroud, Gloucestershire, England, UK;6175
 4G;234;20;71;2464;8147;462;51.74026391702845;-2.2386853024363518;6 Dudbridge Rd, Dudbridge, Stroud, Gloucestershire, England, UK;99
 4G;234;20;91;2464;8147;18;51.74026391702845;-2.2386853024363518;6 Dudbridge Rd, Dudbridge, Stroud, Gloucestershire, England, UK;9360
+4G;234;15;10;57414;8166;300;51.93133517504143;-3.3052700757980347;Pen-y-commin, Talyllyn, Brecon, Carmarthenshire, Wales, UK;6300
+4G;234;15;12;57414;8166;300;51.93133517504143;-3.3052700757980347;Pen-y-commin, Talyllyn, Brecon, Carmarthenshire, Wales, UK;3501
 4G;234;15;20;57414;8166;301;51.93133517504143;-3.3052700757980347;Pen-y-commin, Talyllyn, Brecon, Carmarthenshire, Wales, UK;6300
+4G;234;15;22;57414;8166;301;51.93133517504143;-3.3052700757980347;Pen-y-commin, Talyllyn, Brecon, Carmarthenshire, Wales, UK;3501
+4G;234;15;30;57414;8166;302;51.93133517504143;-3.3052700757980347;Pen-y-commin, Talyllyn, Brecon, Carmarthenshire, Wales, UK;6300
 4G;234;15;32;57414;8166;302;51.93133517504143;-3.3052700757980347;Pen-y-commin, Talyllyn, Brecon, Carmarthenshire, Wales, UK;3501
+4G;234;10;110;49888;8166;300;51.93133517504143;-3.3052700757980347;Pen-y-commin, Talyllyn, Brecon, Carmarthenshire, Wales, UK;6400
 4G;234;10;120;49888;8166;301;51.93133517504143;-3.3052700757980347;Pen-y-commin, Talyllyn, Brecon, Carmarthenshire, Wales, UK;6400
 4G;234;10;130;49888;8166;302;51.93133517504143;-3.3052700757980347;Pen-y-commin, Talyllyn, Brecon, Carmarthenshire, Wales, UK;6400
 4G;234;20;2;2383;8177;350;51.539686683428435;-2.4097200483083725;Yate Bus Station, Link Road B4059, Yate, South Gloucestershire, West of England, England, UK;1363
@@ -2044,6 +2070,10 @@
 4G;234;15;30;24611;8287;178;51.48531776253446;-2.5626927986741066;Purdown BT Tower, Sir John's Lane, Lockleaze, Bristol, West of England, England, UK;6300
 4G;234;15;34;24611;8287;305;51.48531776253446;-2.5626927986741066;Purdown BT Tower, Sir John's Lane, Lockleaze, Bristol, West of England, England, UK;323
 4G;234;15;38;24611;8287;247;51.48531776253446;-2.5626927986741066;Purdown BT Tower, Sir John's Lane, Lockleaze, Bristol, West of England, England, UK;2850
+4G;234;10;110;16625;8287;303;51.48531776253446;-2.5626927986741066;Purdown BT Tower, Sir John's Lane, Lockleaze, Bristol, West of England, England, UK;6400
+4G;234;10;112;16625;8287;303;51.48531776253446;-2.5626927986741066;Purdown BT Tower, Sir John's Lane, Lockleaze, Bristol, West of England, England, UK;3725
+4G;234;10;114;16625;8287;303;51.48531776253446;-2.5626927986741066;Purdown BT Tower, Sir John's Lane, Lockleaze, Bristol, West of England, England, UK;199
+4G;234;10;120;16625;8287;304;51.48531776253446;-2.5626927986741066;Purdown BT Tower, Sir John's Lane, Lockleaze, Bristol, West of England, England, UK;6400
 4G;234;10;122;16625;8287;304;51.48531776253446;-2.5626927986741066;Purdown BT Tower, Sir John's Lane, Lockleaze, Bristol, West of England, England, UK;3725
 4G;234;10;124;16625;8287;304;51.48531776253446;-2.5626927986741066;Purdown BT Tower, Sir John's Lane, Lockleaze, Bristol, West of England, England, UK;199
 4G;234;10;130;16625;8287;305;51.48531776253446;-2.5626927986741066;Purdown BT Tower, Sir John's Lane, Lockleaze, Bristol, West of England, England, UK;6400
@@ -2080,8 +2110,21 @@
 4G;234;10;114;16608;8446;270;51.48628107032792;-3.1609296798706055;62 Newport Road A4161, Adamsdown, Cardiff, Wales, UK;199
 4G;234;20;6;6003;8470;94;51.60832504288341;-2.4837325885891914;Green Lane, Milbury Heath, South Gloucestershire, West of England, England, UK;6175
 4G;234;20;7;6003;8470;26;51.60832504288341;-2.4837325885891914;Green Lane, Milbury Heath, South Gloucestershire, West of England, England, UK;6175
+4G;234;15;10;24626;8471;392;51.39374710062071;-2.3714305087924004;Bath School of Art & Design Sion Hill Campus, Sion Road, Lansdown, Bath, Bath and North East Somerset, West of England, England, UK;6300
+4G;234;15;12;24626;8471;392;51.39374710062071;-2.3714305087924004;Bath School of Art & Design Sion Hill Campus, Sion Road, Lansdown, Bath, Bath and North East Somerset, West of England, England, UK;3501
+4G;234;15;14;24626;8471;392;51.39374710062071;-2.3714305087924004;Bath School of Art & Design Sion Hill Campus, Sion Road, Lansdown, Bath, Bath and North East Somerset, West of England, England, UK;323
+4G;234;15;20;24626;8471;390;51.39374710062071;-2.3714305087924004;Bath School of Art & Design Sion Hill Campus, Sion Road, Lansdown, Bath, Bath and North East Somerset, West of England, England, UK;6300
+4G;234;15;22;24626;8471;390;51.39374710062071;-2.3714305087924004;Bath School of Art & Design Sion Hill Campus, Sion Road, Lansdown, Bath, Bath and North East Somerset, West of England, England, UK;3501
+4G;234;15;24;24626;8471;390;51.39374710062071;-2.3714305087924004;Bath School of Art & Design Sion Hill Campus, Sion Road, Lansdown, Bath, Bath and North East Somerset, West of England, England, UK;323
+4G;234;15;30;24626;8471;391;51.39374710062071;-2.3714305087924004;Bath School of Art & Design Sion Hill Campus, Sion Road, Lansdown, Bath, Bath and North East Somerset, West of England, England, UK;6300
+4G;234;15;32;24626;8471;391;51.39374710062071;-2.3714305087924004;Bath School of Art & Design Sion Hill Campus, Sion Road, Lansdown, Bath, Bath and North East Somerset, West of England, England, UK;3501
+4G;234;15;34;24626;8471;391;51.39374710062071;-2.3714305087924004;Bath School of Art & Design Sion Hill Campus, Sion Road, Lansdown, Bath, Bath and North East Somerset, West of England, England, UK;323
+4G;234;10;110;16832;8471;392;51.39374710062071;-2.3714305087924004;Bath School of Art & Design Sion Hill Campus, Sion Road, Lansdown, Bath, Bath and North East Somerset, West of England, England, UK;6400
+4G;234;10;114;16832;8471;392;51.39374710062071;-2.3714305087924004;Bath School of Art & Design Sion Hill Campus, Sion Road, Lansdown, Bath, Bath and North East Somerset, West of England, England, UK;199
 4G;234;10;120;16832;8471;390;51.39374710062071;-2.3714305087924004;Bath School of Art & Design Sion Hill Campus, Sion Road, Lansdown, Bath, Bath and North East Somerset, West of England, England, UK;6400
 4G;234;10;124;16832;8471;390;51.39374710062071;-2.3714305087924004;Bath School of Art & Design Sion Hill Campus, Sion Road, Lansdown, Bath, Bath and North East Somerset, West of England, England, UK;199
+4G;234;10;130;16832;8471;391;51.39374710062071;-2.3714305087924004;Bath School of Art & Design Sion Hill Campus, Sion Road, Lansdown, Bath, Bath and North East Somerset, West of England, England, UK;6400
+4G;234;10;134;16832;8471;391;51.39374710062071;-2.3714305087924004;Bath School of Art & Design Sion Hill Campus, Sion Road, Lansdown, Bath, Bath and North East Somerset, West of England, England, UK;199
 4G;234;20;8;2245;8480;243;53.05808513793301;-1.476283147931099;9 Lynton Road, Ambergate, Derbyshire, England, UK;6175
 4G;234;15;14;24611;8501;106;51.50193416121119;-2.5355102866888046;Frenchay Cricket Club, Filton Road, Winterbourne, South Gloucestershire, West of England, England, UK;323
 4G;234;10;114;16625;8501;106;51.50193416121119;-2.5355102866888046;Frenchay Cricket Club, Filton Road, Winterbourne, South Gloucestershire, West of England, England, UK;199
@@ -2090,13 +2133,27 @@
 4G;234;15;10;24738;8638;453;52.06741748718743;-4.07647792249918;Mynydd Pencarreg, Pencarreg, Carmarthenshire, Wales, UK;6300
 4G;234;15;12;24738;8638;453;52.06741748718743;-4.07647792249918;Mynydd Pencarreg, Pencarreg, Carmarthenshire, Wales, UK;3501
 4G;234;15;20;24738;8638;454;52.06741748718743;-4.07647792249918;Mynydd Pencarreg, Pencarreg, Carmarthenshire, Wales, UK;6300
+4G;234;15;22;24738;8638;454;52.06741748718743;-4.07647792249918;Mynydd Pencarreg, Pencarreg, Carmarthenshire, Wales, UK;3501
+4G;234;15;30;24738;8638;455;52.06741748718743;-4.07647792249918;Mynydd Pencarreg, Pencarreg, Carmarthenshire, Wales, UK;6300
+4G;234;15;32;24738;8638;455;52.06741748718743;-4.07647792249918;Mynydd Pencarreg, Pencarreg, Carmarthenshire, Wales, UK;3501
 4G;234;10;110;16816;8638;453;52.06741748718743;-4.07647792249918;Mynydd Pencarreg, Pencarreg, Carmarthenshire, Wales, UK;6400
 4G;234;10;120;16816;8638;454;52.06741748718743;-4.07647792249918;Mynydd Pencarreg, Pencarreg, Carmarthenshire, Wales, UK;6400
+4G;234;10;130;16816;8638;455;52.06741748718743;-4.07647792249918;Mynydd Pencarreg, Pencarreg, Carmarthenshire, Wales, UK;6400
 4G;234;20;7;3180;8683;209;53.4848442616738;-1.2391745299100876;Rowena Academy, 79 Gardens Lane, Conanby, Conisbrough, Doncaster, South Yorkshire, England, UK;6175
 4G;234;20;6;2563;8702;430;51.63617833152768;-2.022600509226322;Green End, 20 The Green, Malmesbury, UK;6175
+4G;234;15;10;24611;8708;423;51.50500474087659;-2.547859847545624;Centre for Sport, Coldharbour Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK;6300
+4G;234;15;12;24611;8708;423;51.50500474087659;-2.547859847545624;Centre for Sport, Coldharbour Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK;3501
+4G;234;15;14;24611;8708;423;51.50500474087659;-2.547859847545624;Centre for Sport, Coldharbour Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK;323
+4G;234;15;20;24611;8708;424;51.50500474087659;-2.547859847545624;Centre for Sport, Coldharbour Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK;6300
 4G;234;15;22;24611;8708;424;51.50500474087659;-2.547859847545624;Centre for Sport, Coldharbour Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK;3501
-4G;234;15;24;24611;8708;259;51.50500474087659;-2.547859847545624;Centre for Sport, Coldharbour Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK;323
+4G;234;15;24;24611;8708;424;51.50500474087659;-2.547859847545624;Centre for Sport, Coldharbour Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK;323
+4G;234;15;30;24611;8708;425;51.50500474087659;-2.547859847545624;Centre for Sport, Coldharbour Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK;6300
+4G;234;15;32;24611;8708;425;51.50500474087659;-2.547859847545624;Centre for Sport, Coldharbour Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK;3501
 4G;234;15;34;24611;8708;425;51.50500474087659;-2.547859847545624;Centre for Sport, Coldharbour Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK;323
+4G;234;10;110;16625;8708;423;51.50500474087659;-2.547859847545624;Centre for Sport, Coldharbour Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK;6400
+4G;234;10;114;16625;8708;423;51.50500474087659;-2.547859847545624;Centre for Sport, Coldharbour Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK;199
+4G;234;10;120;16625;8708;424;51.50500474087659;-2.547859847545624;Centre for Sport, Coldharbour Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK;6400
+4G;234;10;124;16625;8708;424;51.50500474087659;-2.547859847545624;Centre for Sport, Coldharbour Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK;199
 4G;234;10;130;16625;8708;425;51.50500474087659;-2.547859847545624;Centre for Sport, Coldharbour Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK;6400
 4G;234;10;134;16625;8708;425;51.50500474087659;-2.547859847545624;Centre for Sport, Coldharbour Ln, Stoke Gifford, South Gloucestershire, West of England, England, UK;199
 4G;234;15;10;24617;8726;326;51.82370455285969;-3.004361428320408;Skirrid Cottage, Old Monmouth Rd, Abergavenny, Monmouthshire, Wales, UK;6300
