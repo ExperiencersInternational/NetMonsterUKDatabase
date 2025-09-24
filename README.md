@@ -10,7 +10,7 @@ Import onto your device by opening the NetMonster app > Menu > Database > Import
 
 These areas should have at least 10% coverage on at least one operator on 4G. This will probably get added to in the future. Some of these areas may be limited to something as simple as sites along a major road or railway, so this does not guarantee that you will have any data in your specific area.
 
-Abergavenny, Barry, Barton-upon-Humber, Bath, Brecon, Bristol, Brough, Caldicot, Cardiff, Cardigan, Cheltenham, Chepstow, Chippenham, Cinderford, Cirencester, Coleford, Derby, Doncaster, Dursley, Frome, Gloucester, Goole, Hessle, Hull, Keynsham, Lampeter, Mitcheldean, Monmouth, Newport, New Quay (Ceredigion), Reading, Ross-on-Wye, Rotherham, Sheffield, Slough, Stonehouse, Stroud, Swindon, Tamworth, Tewkesbury, Windsor, Worcester, Weston-super-mare, Yate
+Abergavenny, Barry, Barton-upon-Humber, Bath, Brecon, Bristol, Brough, Caldicot, Cardiff, Cardigan, Cheltenham, Chepstow, Chippenham, Cinderford, Cirencester, Coleford, Derby, Doncaster, Dursley, Frome, Gloucester, Goole, Hessle, Hull, Keynsham, Lampeter, Ledbury, Mitcheldean, Monmouth, Newport, New Quay (Ceredigion), Reading, Ross-on-Wye, Rotherham, Sheffield, Slough, Stonehouse, Stroud, Swindon, Tamworth, Tewkesbury, Trowbridge, Windsor, Worcester, Weston-super-mare, Yate
 
 <img width="1440" height="2632" alt="A list of cell phone towers on a map of England and Wales. There's a general pattern of areas in the South West connecting to South Wales, West Wales, North East and Outer London." src="https://github.com/user-attachments/assets/4690cfe2-b142-40ed-850e-6873c3f8a1ab" />
 
