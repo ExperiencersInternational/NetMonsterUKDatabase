@@ -2,8 +2,6 @@
 
 A NetMonster database of cellular transmitters across a limited area in the UK. I did initially have split files here (which were split through AI code), but I have ultimately decided not to have them now just since it makes things easier for me until this gets contributors. I'll likely only publish a new big release every month or so?
 
-Please note that some entries on the list are for networks abroad, but I am trying to clean this up.
-
 Import onto your device by opening the NetMonster app > Menu > Database > Import > Pick File with the combined NTM downloaded from the releases page. I intend to eventually add downloads for other applications, but it's not in the scope of the project at the moment.
 
 ## Supported areas
@@ -12,12 +10,13 @@ These areas should have at least 10% coverage on at least one operator on 4G. Th
 
 Abergavenny, Barry, Barton-upon-Humber, Bath, Brecon, Bristol, Brough, Caldicot, Cardiff, Cardigan, Cheltenham, Chepstow, Chippenham, Cinderford, Cirencester, Coleford, Derby, Doncaster, Dursley, Frome, Gloucester, Goole, Hessle, Hull, Keynsham, Lampeter, Ledbury, Mitcheldean, Monmouth, Newport, New Quay (Ceredigion), Reading, Ross-on-Wye, Rotherham, Sheffield, Slough, Stonehouse, Stroud, Swindon, Tamworth, Tewkesbury, Trowbridge, Windsor, Worcester, Weston-super-mare, Yate
 
-<img width="1440" height="2632" alt="A list of cell phone towers on a map of England and Wales. There's a general pattern of areas in the South West connecting to South Wales, West Wales, North East and Outer London." src="https://github.com/user-attachments/assets/4690cfe2-b142-40ed-850e-6873c3f8a1ab" />
+<img width="1056" height="870" alt="A OpenStreetMap map with various coloured points for each network, with a lot of blue primarily for O2. You can see from around Brighton to Corrour." src="https://github.com/user-attachments/assets/029c9124-d98e-438c-a678-759c2a3581e4" />
 
-> **Note:** Please note that the map will display blank when importing the database. NetMonster only shows sites and cells on the map after you have picked them up. If you're in a supported area, you should start filling out the map quickly but it may take longer. You can always check what cells are on the map by importing the NTM file into QGIS.
+> **Note:** Please note that the map will display blank when importing the database. NetMonster only shows sites and cells on the map after you have picked them up. If you're in a supported area, you should start filling out the map quickly but it may take longer. You can always check what cells are on the map by importing the NTM file into QGIS. Map of mapped sites last updated 2025-09-29.
 
 ## Supported networks
 
+* Wavemobile (23404): limited 4G coverage, no 2G coverage
 * O2 - UK (23410): most coverage on 3G and 4G with limited coverage on 2G and marginal coverage on 5G (also most covered network on the database)
 * vodafone UK (23415): most coverage on 4G only with limited 2G coverage and marginal 5G coverage
 * 3 UK (23420): most coverage on 4G only with limited coverage on 3G
