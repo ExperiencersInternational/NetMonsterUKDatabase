@@ -1,0 +1,24 @@
+name: Add support for a specified area
+description: Request for mostly full support to be added for an area specified in the database on 4G
+title: '📍 Area Request • '
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Support for a specified area in your issue will be added to the database at some point in the future. Generally only 4G cells will be added on all 4 major networks (O2, Vodafone, Three, EE).
+
+  - type: input
+    attributes:
+      label: Specify area to be added to the database.
+      description: Please do not request large areas of counties since they will he ignored. Be as specific as you need to be (e.g. if you want a specific town, mention what county it is in please).
+      placeholder: 'Aberaeron in Ceredigion'
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Any additional notes?
+      description: Use this space to add anything else you want to see, including whether you have any data on hand which might make supporting the area easier.
+    validations:
+      required: false
