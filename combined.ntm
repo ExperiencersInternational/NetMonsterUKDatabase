@@ -201,7 +201,7 @@
 2G;234;10;22649;null;0;48;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;120
 2G;234;10;22657;21785;0;34;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;116
 2G;234;10;22686;null;0;2;51.456397464847726;-2.6083994955243;Clifton Heights, Triangle West A4018, The Triangle, Spike Island, Bristol, West of England, England, UK;118
-2G;234;10;22723;null;0;63;51.916225199190826;-2.2862837836146355;Over Old Road, Woolridge, Forest of Dean, Gloucestershire, England, UK;124
+2G;234;10;22723;21785;0;57;51.916225199190826;-2.2862837836146355;Over Old Road, Woolridge, Forest of Dean, Gloucestershire, England, UK;124
 2G;234;10;22728;null;0;52;51.89493809182766;-2.1314911544322968;134 B4063, Cheltenham, Gloucestershire, England, UK;118
 2G;234;10;22878;21785;0;34;51.83200039098511;-2.2452349215745926;The Fox & Elm, 2 Tuffley Lane, Stroud Road, A4173, Tuffley, Gloucester, Gloucestershire, England, UK;122
 2G;234;10;22888;null;0;39;51.86232491950132;-2.644403614103794;A40, Whitchurch, Herefordshire, England, UK;118
@@ -269,12 +269,12 @@
 2G;234;10;28950;21785;0;30;51.884445759811584;-2.1730808168649673;Churchdown Day Nursery, 115 Parton Road, Churchdown, Gloucestershire, England, UK;120
 2G;234;10;28958;null;0;23;51.87332791184152;-2.1111905202269554;Oak Farm, Chargrove Ln, Shurdington, Cheltenham, Gloucestershire, England, UK;113
 2G;234;10;29078;21785;0;50;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];116
-2G;234;10;29147;null;0;42;51.8648416;-2.4875001;mmO2 Transmitter, Eastern Avenue, Mitcheldean, Gloucestershire, England, UK;122
+2G;234;10;29147;22212;0;42;51.8648416;-2.4875001;mmO2 Transmitter, Eastern Avenue, Mitcheldean, Gloucestershire, England, UK;122
 2G;234;10;29163;21424;0;32;52.15746783777174;-4.320739321410656;B4459, Synod Inn, Ceredigion, Wales, UK;116
 2G;234;10;29224;21785;0;17;51.85490484774589;-2.255532927811146;Madleaze Industrial Estate, Price Street, Gloucester, Gloucestershire, England, UK;118
 2G;234;10;29305;21785;0;22;51.88201466397993;-2.2035828977823257;A40 (near Melody Way), Innsworth, Tewkesbury, Gloucestershire, England, UK;117
 2G;234;10;29315;null;0;7;51.437275649477606;-2.7472227439284325;Lodge Lane, Nailsea, North Somerset, England, UK;120
-2G;234;10;29346;null;0;40;51.7721786;-2.3645755;Bridge Road B4071, Frampton on Severn, Stroud, Gloucestershire, England, UK;115
+2G;234;10;29346;21785;0;40;51.7721786;-2.3645755;Bridge Road B4071, Frampton on Severn, Stroud, Gloucestershire, England, UK;115
 2G;234;10;29370;21785;0;23;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;120
 2G;234;15;29802;null;0;52;;;-;3
 2G;234;10;29907;21785;0;52;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;121
@@ -967,8 +967,24 @@
 4G;234;10;134;16609;3471;191;51.4621448524036;-2.750675082206726;Naish Hill, Bristol, West of England, England, UK;199
 4G;234;10;114;49904;3495;404;52.48981193040289;-1.8690356612205503;Matty's Wholesale Carpets, 15 Cato Street, Vauxhall, Birmingham, West Midlands, England, UK;199
 4G;234;10;120;16625;3560;386;51.42926015979721;-2.4791735038161278;1 The Park, Bitton, South Gloucestershire, West of England, England, UK;6400
-4G;234;10;112;16625;3583;110;;;-;3725
-4G;234;10;114;16625;3583;308;;;-;199
+4G;234;15;10;24611;3583;5;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;6300
+4G;234;15;14;24611;3583;5;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;323
+4G;234;15;20;24611;3583;4;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;6300
+4G;234;15;24;24611;3583;4;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;323
+4G;234;15;30;24611;3583;9;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;6300
+4G;234;15;34;24611;3583;9;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;323
+4G;234;10;110;16625;3583;413;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;6400
+4G;234;10;112;16625;3583;110;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;3725
+4G;234;10;114;16625;3583;5;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;199
+4G;234;10;116;16625;3583;5;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;1226
+4G;234;10;120;16625;3583;null;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;6400
+4G;234;10;122;16625;3583;null;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;3725
+4G;234;10;124;16625;3583;4;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;199
+4G;234;10;126;16625;3583;4;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;1226
+4G;234;10;130;16625;3583;null;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;6400
+4G;234;10;132;16625;3583;null;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;3725
+4G;234;10;134;16625;3583;9;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;199
+4G;234;10;136;16625;3583;9;51.468599813833805;-2.5909987268289236;Station Road, Montpelier, Bristol, West of England, England, UK;1226
 4G;234;15;10;24626;3584;27;51.392100872037325;-2.4372492358088493;Stothert & Pitt R F C Adam's Field, Bristol Road A4, Corston, Bath and North East Somerset, West of England, England, UK;6300
 4G;234;15;12;24626;3584;27;51.392100872037325;-2.4372492358088493;Stothert & Pitt R F C Adam's Field, Bristol Road A4, Corston, Bath and North East Somerset, West of England, England, UK;3501
 4G;234;15;20;24626;3584;28;51.392100872037325;-2.4372492358088493;Stothert & Pitt R F C Adam's Field, Bristol Road A4, Corston, Bath and North East Somerset, West of England, England, UK;6300
@@ -2013,7 +2029,6 @@
 4G;234;15;10;24723;7144;138;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;6300
 4G;234;15;20;24723;7144;139;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;6300
 4G;234;15;30;24723;7144;140;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;6300
-4G;234;10;110;16624;7175;90;51.73709169948979;-2.5195303559303284;⚠️ Legacy eNB • Driffield Rd, Lydney, Gloucestershire, England, UK;6400
 4G;234;15;10;24723;7228;200;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;6300
 4G;234;15;20;24723;7228;198;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;6300
 4G;234;15;30;24723;7228;199;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;6300
@@ -4211,32 +4226,68 @@
 4G;234;30;0;25331;16797;437;51.75332311794349;-2.289831005036831;20 Oldends Ln, Stonehouse, Gloucestershire, England, UK;1617
 4G;234;30;1;25331;16797;435;51.75332311794349;-2.289831005036831;20 Oldends Ln, Stonehouse, Gloucestershire, England, UK;1617
 4G;234;30;2;25331;16797;436;51.75332311794349;-2.289831005036831;20 Oldends Ln, Stonehouse, Gloucestershire, England, UK;1617
-4G;234;30;5;25331;16797;359;51.75332311794349;-2.289831005036831;20 Oldends Ln, Stonehouse, Gloucestershire, England, UK;1815
+4G;234;30;3;25331;16797;437;51.75332311794349;-2.289831005036831;20 Oldends Ln, Stonehouse, Gloucestershire, England, UK;1815
+4G;234;30;4;25331;16797;435;51.75332311794349;-2.289831005036831;20 Oldends Ln, Stonehouse, Gloucestershire, England, UK;1815
+4G;234;30;5;25331;16797;436;51.75332311794349;-2.289831005036831;20 Oldends Ln, Stonehouse, Gloucestershire, England, UK;1815
+4G;234;30;6;25331;16797;437;51.75332311794349;-2.289831005036831;20 Oldends Ln, Stonehouse, Gloucestershire, England, UK;3350
+4G;234;30;7;25331;16797;435;51.75332311794349;-2.289831005036831;20 Oldends Ln, Stonehouse, Gloucestershire, England, UK;3350
+4G;234;30;8;25331;16797;436;51.75332311794349;-2.289831005036831;20 Oldends Ln, Stonehouse, Gloucestershire, England, UK;3350
+4G;234;30;9;25331;16797;437;51.75332311794349;-2.289831005036831;20 Oldends Ln, Stonehouse, Gloucestershire, England, UK;3179
+4G;234;30;10;25331;16797;435;51.75332311794349;-2.289831005036831;20 Oldends Ln, Stonehouse, Gloucestershire, England, UK;3179
+4G;234;30;11;25331;16797;436;51.75332311794349;-2.289831005036831;20 Oldends Ln, Stonehouse, Gloucestershire, England, UK;3179
+4G;234;30;18;25331;16797;437;51.75332311794349;-2.289831005036831;20 Oldends Ln, Stonehouse, Gloucestershire, England, UK;497
+4G;234;30;19;25331;16797;435;51.75332311794349;-2.289831005036831;20 Oldends Ln, Stonehouse, Gloucestershire, England, UK;497
+4G;234;30;20;25331;16797;436;51.75332311794349;-2.289831005036831;20 Oldends Ln, Stonehouse, Gloucestershire, England, UK;497
 4G;234;30;0;25331;16798;205;51.62398053262582;-2.395670637488365;1-3 Hillhouse Business Centre, Station Rd, Charfield, Wotton-under-edge, Gloucestershire, England, UK;1617
 4G;234;30;1;25331;16798;204;51.62398053262582;-2.395670637488365;1-3 Hillhouse Business Centre, Station Rd, Charfield, Wotton-under-edge, Gloucestershire, England, UK;1617
+4G;234;30;2;25331;16798;206;51.62398053262582;-2.395670637488365;1-3 Hillhouse Business Centre, Station Rd, Charfield, Wotton-under-edge, Gloucestershire, England, UK;1617
+4G;234;30;3;25331;16798;205;51.62398053262582;-2.395670637488365;1-3 Hillhouse Business Centre, Station Rd, Charfield, Wotton-under-edge, Gloucestershire, England, UK;1815
+4G;234;30;4;25331;16798;204;51.62398053262582;-2.395670637488365;1-3 Hillhouse Business Centre, Station Rd, Charfield, Wotton-under-edge, Gloucestershire, England, UK;1815
+4G;234;30;5;25331;16798;206;51.62398053262582;-2.395670637488365;1-3 Hillhouse Business Centre, Station Rd, Charfield, Wotton-under-edge, Gloucestershire, England, UK;1815
+4G;234;30;12;25330;16798;503;51.62398053262582;-2.395670637488365;1-3 Hillhouse Business Centre, Station Rd, Charfield, Wotton-under-edge, Gloucestershire, England, UK;6225
+4G;234;30;13;25330;16798;501;51.62398053262582;-2.395670637488365;1-3 Hillhouse Business Centre, Station Rd, Charfield, Wotton-under-edge, Gloucestershire, England, UK;6225
 4G;234;30;14;25330;16798;502;51.62398053262582;-2.395670637488365;1-3 Hillhouse Business Centre, Station Rd, Charfield, Wotton-under-edge, Gloucestershire, England, UK;6225
-4G;234;30;0;25331;16799;214;51.6508184337729;-2.4084288999438286;Unnamed Road, Wotton-under-edge, Gloucestershire, England, UK;1617
-4G;234;30;1;25331;16799;215;51.6508184337729;-2.4084288999438286;Unnamed Road, Wotton-under-edge, Gloucestershire, England, UK;1617
-4G;234;30;2;25331;16799;213;51.6508184337729;-2.4084288999438286;Unnamed Road, Wotton-under-edge, Gloucestershire, England, UK;1617
-4G;234;30;3;25331;16799;214;51.6508184337729;-2.4084288999438286;Unnamed Road, Wotton-under-edge, Gloucestershire, England, UK;1815
-4G;234;30;5;25331;16799;213;51.6508184337729;-2.4084288999438286;Unnamed Road, Wotton-under-edge, Gloucestershire, England, UK;1815
+4G;234;30;0;25331;16799;214;51.6508184337729;-2.4084288999438286;Michaelwood Lodge Farm, Wotton-under-edge, Gloucestershire, England, UK;1617
+4G;234;30;1;25331;16799;215;51.6508184337729;-2.4084288999438286;Michaelwood Lodge Farm, Wotton-under-edge, Gloucestershire, England, UK;1617
+4G;234;30;2;25331;16799;213;51.6508184337729;-2.4084288999438286;Michaelwood Lodge Farm, Wotton-under-edge, Gloucestershire, England, UK;1617
+4G;234;30;3;25331;16799;214;51.6508184337729;-2.4084288999438286;Michaelwood Lodge Farm, Wotton-under-edge, Gloucestershire, England, UK;1815
+4G;234;30;5;25331;16799;213;51.6508184337729;-2.4084288999438286;Michaelwood Lodge Farm, Wotton-under-edge, Gloucestershire, England, UK;1815
 4G;234;30;0;25331;16800;287;51.72127566515792;-2.3336006328463554;Peter's St, Frocester, UK;1617
-4G;234;30;1;25331;16800;287;51.72127566515792;-2.3336006328463554;Peter's St, Frocester, UK;1617
+4G;234;30;1;25331;16800;285;51.72127566515792;-2.3336006328463554;Peter's St, Frocester, UK;1617
 4G;234;30;2;25331;16800;286;51.72127566515792;-2.3336006328463554;Peter's St, Frocester, UK;1617
 4G;234;30;3;25331;16800;287;51.72127566515792;-2.3336006328463554;Peter's St, Frocester, UK;1815
+4G;234;30;4;25331;16800;285;51.72127566515792;-2.3336006328463554;Peter's St, Frocester, UK;1815
 4G;234;30;5;25331;16800;286;51.72127566515792;-2.3336006328463554;Peter's St, Frocester, UK;1815
 4G;234;30;12;25330;16800;287;51.72127566515792;-2.3336006328463554;Peter's St, Frocester, UK;6225
 4G;234;30;13;25330;16800;285;51.72127566515792;-2.3336006328463554;Peter's St, Frocester, UK;6225
 4G;234;30;14;25330;16800;286;51.72127566515792;-2.3336006328463554;Peter's St, Frocester, UK;6225
 4G;234;30;0;25331;16801;420;51.63583248451331;-2.355560213327408;Community Fire & Rescue Station, Chestnut Drive, Wotton-under-Edge, Gloucestershire, England, UK;1617
+4G;234;30;1;25331;16801;421;51.63583248451331;-2.355560213327408;Community Fire & Rescue Station, Chestnut Drive, Wotton-under-Edge, Gloucestershire, England, UK;1617
 4G;234;30;2;25331;16801;422;51.63583248451331;-2.355560213327408;Community Fire & Rescue Station, Chestnut Drive, Wotton-under-Edge, Gloucestershire, England, UK;1617
-4G;234;30;14;25330;16801;264;51.63583248451331;-2.355560213327408;Community Fire & Rescue Station, Chestnut Drive, Wotton-under-Edge, Gloucestershire, England, UK;3725
+4G;234;30;3;25331;16801;420;51.63583248451331;-2.355560213327408;Community Fire & Rescue Station, Chestnut Drive, Wotton-under-Edge, Gloucestershire, England, UK;1815
+4G;234;30;4;25331;16801;421;51.63583248451331;-2.355560213327408;Community Fire & Rescue Station, Chestnut Drive, Wotton-under-Edge, Gloucestershire, England, UK;1815
+4G;234;30;5;25331;16801;422;51.63583248451331;-2.355560213327408;Community Fire & Rescue Station, Chestnut Drive, Wotton-under-Edge, Gloucestershire, England, UK;1815
+4G;234;30;12;25330;16801;446;51.63583248451331;-2.355560213327408;Community Fire & Rescue Station, Chestnut Drive, Wotton-under-Edge, Gloucestershire, England, UK;6225
+4G;234;30;13;25330;16801;444;51.63583248451331;-2.355560213327408;Community Fire & Rescue Station, Chestnut Drive, Wotton-under-Edge, Gloucestershire, England, UK;6225
+4G;234;30;14;25330;16801;445;51.63583248451331;-2.355560213327408;Community Fire & Rescue Station, Chestnut Drive, Wotton-under-Edge, Gloucestershire, England, UK;6225
+4G;234;30;18;25331;16801;420;51.63583248451331;-2.355560213327408;Community Fire & Rescue Station, Chestnut Drive, Wotton-under-Edge, Gloucestershire, England, UK;497
+4G;234;30;19;25331;16801;421;51.63583248451331;-2.355560213327408;Community Fire & Rescue Station, Chestnut Drive, Wotton-under-Edge, Gloucestershire, England, UK;497
+4G;234;30;20;25331;16801;422;51.63583248451331;-2.355560213327408;Community Fire & Rescue Station, Chestnut Drive, Wotton-under-Edge, Gloucestershire, England, UK;497
 4G;234;30;0;25331;16807;245;51.753861089912206;-2.319042608141899;Stroudwater Navigation, Off Spring Hill, Churchend, Stonehouse, Gloucestershire, England, UK;1617
+4G;234;30;1;25331;16807;243;51.753861089912206;-2.319042608141899;Stroudwater Navigation, Off Spring Hill, Churchend, Stonehouse, Gloucestershire, England, UK;1617
 4G;234;30;2;25331;16807;244;51.753861089912206;-2.319042608141899;Stroudwater Navigation, Off Spring Hill, Churchend, Stonehouse, Gloucestershire, England, UK;1617
 4G;234;30;3;25331;16807;245;51.753861089912206;-2.319042608141899;Stroudwater Navigation, Off Spring Hill, Churchend, Stonehouse, Gloucestershire, England, UK;1815
 4G;234;30;4;25331;16807;243;51.753861089912206;-2.319042608141899;Stroudwater Navigation, Off Spring Hill, Churchend, Stonehouse, Gloucestershire, England, UK;1815
 4G;234;30;5;25331;16807;244;51.753861089912206;-2.319042608141899;Stroudwater Navigation, Off Spring Hill, Churchend, Stonehouse, Gloucestershire, England, UK;1815
+4G;234;30;18;25331;16807;245;51.753861089912206;-2.319042608141899;Stroudwater Navigation, Off Spring Hill, Churchend, Stonehouse, Gloucestershire, England, UK;497
+4G;234;30;19;25331;16807;243;51.753861089912206;-2.319042608141899;Stroudwater Navigation, Off Spring Hill, Churchend, Stonehouse, Gloucestershire, England, UK;497
+4G;234;30;20;25331;16807;244;51.753861089912206;-2.319042608141899;Stroudwater Navigation, Off Spring Hill, Churchend, Stonehouse, Gloucestershire, England, UK;497
+4G;234;30;0;25331;16808;89;51.77812874689315;-2.3590990528464317;Canal Bank, Church Lane, Frampton on Severn, Gloucestershire, England, UK;1617
 4G;234;30;1;25331;16808;87;51.77812874689315;-2.3590990528464317;Canal Bank, Church Lane, Frampton on Severn, Gloucestershire, England, UK;1617
+4G;234;30;2;25331;16808;88;51.77812874689315;-2.3590990528464317;Canal Bank, Church Lane, Frampton on Severn, Gloucestershire, England, UK;1617
+4G;234;30;3;25331;16808;89;51.77812874689315;-2.3590990528464317;Canal Bank, Church Lane, Frampton on Severn, Gloucestershire, England, UK;1815
+4G;234;30;4;25331;16808;87;51.77812874689315;-2.3590990528464317;Canal Bank, Church Lane, Frampton on Severn, Gloucestershire, England, UK;1815
+4G;234;30;5;25331;16808;88;51.77812874689315;-2.3590990528464317;Canal Bank, Church Lane, Frampton on Severn, Gloucestershire, England, UK;1815
 4G;234;30;0;25171;16809;52;51.86694088120951;-2.387098968029022;King's Head, A40, Birdwood, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;1;25171;16809;51;51.86694088120951;-2.387098968029022;King's Head, A40, Birdwood, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;2;25171;16809;53;51.86694088120951;-2.387098968029022;King's Head, A40, Birdwood, Forest of Dean, Gloucestershire, England, UK;1617
@@ -4444,6 +4495,18 @@
 4G;234;15;18;24607;18415;423;51.513326801574536;-3.1528786942362785;43 Maelfa Road, Llanedeyrn, Cardiff, Wales, UK;2850
 4G;234;15;22;24607;18415;424;51.513326801574536;-3.1528786942362785;43 Maelfa Road, Llanedeyrn, Cardiff, Wales, UK;3501
 4G;234;15;28;24607;18415;424;51.513326801574536;-3.1528786942362785;43 Maelfa Road, Llanedeyrn, Cardiff, Wales, UK;2850
+4G;234;15;10;24610;18441;90;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;6300
+4G;234;15;12;24610;18441;90;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;3501
+4G;234;15;14;24610;18441;90;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;323
+4G;234;15;18;24610;18441;90;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;2850
+4G;234;15;20;24610;18441;92;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;6300
+4G;234;15;22;24610;18441;92;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;3501
+4G;234;15;24;24610;18441;92;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;323
+4G;234;15;28;24610;18441;92;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;2850
+4G;234;15;30;24610;18441;91;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;6300
+4G;234;15;32;24610;18441;91;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;3501
+4G;234;15;34;24610;18441;91;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;323
+4G;234;15;38;24610;18441;91;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;2850
 4G;234;15;10;24606;18445;44;51.35930350165513;-2.9699010774493217;5 Worlebury Hill Rd, Worlebury, Weston-super-mare, North Somerset, England, UK;6300
 4G;234;15;12;24606;18445;44;51.35930350165513;-2.9699010774493217;5 Worlebury Hill Rd, Worlebury, Weston-super-mare, North Somerset, England, UK;3501
 4G;234;15;14;24606;18445;44;51.35930350165513;-2.9699010774493217;5 Worlebury Hill Rd, Worlebury, Weston-super-mare, North Somerset, England, UK;323
@@ -7407,6 +7470,15 @@
 4G;234;10;110;17056;118175;219;51.41749126296178;-1.0781903564929962;Folly Farm Partners, St Michaels Ln, Sulhamstead, Reading, Berkshire, England, UK;6400
 4G;234;10;110;16544;118364;389;51.541034617536056;-1.891079731285572;Bincknoll Lane, Royal Wootton Bassett, Wiltshire, England, UK;6400
 4G;234;10;120;16544;118364;387;51.541034617536056;-1.891079731285572;Bincknoll Lane, Royal Wootton Bassett, Wiltshire, England, UK;6400
+4G;234;10;110;16624;118442;90;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;6400
+4G;234;10;112;16624;118442;90;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;3725
+4G;234;10;114;16624;118442;90;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;199
+4G;234;10;120;16624;118442;92;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;6400
+4G;234;10;122;16624;118442;92;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;3725
+4G;234;10;124;16624;118442;92;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;199
+4G;234;10;130;16624;118442;91;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;6400
+4G;234;10;132;16624;118442;91;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;3725
+4G;234;10;134;16624;118442;91;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;199
 4G;234;10;136;16625;118462;86;51.46387232025015;-2.552064210176468;The Kings Head, Whitehall Gardens, Redfield, Bristol, West of England, England, UK;1226
 4G;234;10;115;16625;118500;100;51.46184906658806;-2.5780873373150826;Peel Street Green Space, Peel St, St Jude's, Bristol, West of England, England, UK;39250
 4G;234;10;117;16625;118500;100;51.46184906658806;-2.5780873373150826;Peel Street Green Space, Peel St, St Jude's, Bristol, West of England, England, UK;39448
