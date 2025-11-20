@@ -1940,7 +1940,21 @@
 4G;234;10;110;16625;6501;88;51.44834323265083;-2.5895339995622635;12 Colston Parade, Redcliffe, Bristol, West of England, England, UK;6400
 4G;234;10;134;16625;6501;454;51.44834323265083;-2.5895339995622635;12 Colston Parade, Redcliffe, Bristol, West of England, England, UK;347
 4G;234;10;144;16625;6501;297;51.44834323265083;-2.5895339995622635;12 Colston Parade, Redcliffe, Bristol, West of England, England, UK;347
-4G;234;10;134;16625;6503;126;;;-;347
+4G;234;15;10;24611;6503;377;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;6300
+4G;234;15;14;24611;6503;170;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;223
+4G;234;15;20;24611;6503;375;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;6300
+4G;234;15;24;24611;6503;168;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;223
+4G;234;15;30;24611;6503;376;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;6300
+4G;234;15;34;24611;6503;169;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;223
+4G;234;10;110;16625;6503;127;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;6400
+4G;234;10;114;16625;6503;127;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;347
+4G;234;10;117;16625;6503;127;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;39448
+4G;234;10;120;16625;6503;128;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;6400
+4G;234;10;124;16625;6503;128;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;347
+4G;234;10;127;16625;6503;128;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;39448
+4G;234;10;130;16625;6503;126;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;6400
+4G;234;10;134;16625;6503;126;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;347
+4G;234;10;137;16625;6503;126;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;39448
 4G;234;20;0;2201;6618;150;51.51867114128857;-2.4858609214425087;11 Park Ln, Winterbourne, Coalpit Heath, Bristol, West of England, England, UK;1363
 4G;234;15;10;24626;6681;250;51.232414976617235;-2.318512660761119;Frome Telephone Exchange, North Parade B3090, Fromefield, Frome, Somerset, England, UK;6300
 4G;234;15;14;24626;6681;250;51.232414976617235;-2.318512660761119;Frome Telephone Exchange, North Parade B3090, Fromefield, Frome, Somerset, England, UK;223
@@ -3775,10 +3789,21 @@
 4G;234;15;20;24611;14533;13;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;6300
 4G;234;15;24;24611;14533;14;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;223
 4G;234;15;38;24611;14533;13;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;2850
-4G;234;15;12;24610;14542;67;51.549078851961056;-2.4394868686795235;⚠️ Legacy Cell • 42 Lodge Rd, Yate, Bristol, West of England, England, UK;3624
 4G;234;15;12;24610;14543;67;51.549078851961056;-2.4394868686795235;42 Lodge Rd, Yate, Bristol, West of England, England, UK;3501
 4G;234;15;22;24610;14543;68;51.549078851961056;-2.4394868686795235;42 Lodge Rd, Yate, Bristol, West of England, England, UK;3501
 4G;234;15;32;24610;14543;66;51.549078851961056;-2.4394868686795235;42 Lodge Rd, Yate, Bristol, West of England, England, UK;3501
+4G;234;15;10;24610;14556;492;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;6300
+4G;234;15;12;24610;14556;492;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;3501
+4G;234;15;14;24610;14556;492;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;223
+4G;234;15;18;24610;14556;492;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;2850
+4G;234;15;20;24610;14556;494;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;6300
+4G;234;15;22;24610;14556;494;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;3501
+4G;234;15;24;24610;14556;494;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;223
+4G;234;15;28;24610;14556;494;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;2850
+4G;234;15;30;24610;14556;493;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;6300
+4G;234;15;32;24610;14556;493;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;3501
+4G;234;15;34;24610;14556;493;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;223
+4G;234;15;38;24610;14556;493;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;2850
 4G;234;15;10;24610;14558;358;51.7554477793246;-2.3130790516734123;34 Grove Lane, Great Oldbury, Stonehouse, Gloucestershire, England, UK;6300
 4G;234;15;12;24610;14558;358;51.7554477793246;-2.3130790516734123;34 Grove Lane, Great Oldbury, Stonehouse, Gloucestershire, England, UK;3501
 4G;234;15;20;24610;14558;357;51.7554477793246;-2.3130790516734123;34 Grove Lane, Great Oldbury, Stonehouse, Gloucestershire, England, UK;6300
@@ -6213,13 +6238,13 @@
 4G;234;20;73;2459;51962;233;51.83431195476234;-2.1877310425043106;Bowden Hall Hotel, Nut Hill, Bondend Lane, Upton St. Leonards, Gloucester, Gloucestershire, England, UK;99
 4G;234;20;7;2483;51994;148;51.56836358253321;-1.8271529674530032;8 Nuffield Cl, Shaw, Swindon, Wiltshire, England, UK;6175
 4G;234;20;92;2483;51994;238;51.56836358253321;-1.8271529674530032;8 Nuffield Cl, Shaw, Swindon, Wiltshire, England, UK;9360
-4G;234;20;2;2383;52226;438;;;-;1363
-4G;234;20;6;2383;52226;99;;;-;6175
-4G;234;20;71;2383;52226;60;;;-;76
-4G;234;20;73;2383;52226;245;;;-;76
-4G;234;20;91;2383;52226;438;;;-;9360
-4G;234;20;92;2383;52226;412;;;-;9360
-4G;234;20;93;2383;52226;413;;;-;9360
+4G;234;20;2;2383;52226;158;51.55599781892022;-2.41939736324265;Eastfield Drive, Ladden Garden Village, Yate, South Gloucestershire, West of England, England, UK;1363
+4G;234;20;6;2383;52226;99;51.55599781892022;-2.41939736324265;Eastfield Drive, Ladden Garden Village, Yate, South Gloucestershire, West of England, England, UK;6175
+4G;234;20;71;2383;52226;60;51.55599781892022;-2.41939736324265;Eastfield Drive, Ladden Garden Village, Yate, South Gloucestershire, West of England, England, UK;76
+4G;234;20;73;2383;52226;245;51.55599781892022;-2.41939736324265;Eastfield Drive, Ladden Garden Village, Yate, South Gloucestershire, West of England, England, UK;76
+4G;234;20;91;2383;52226;438;51.55599781892022;-2.41939736324265;Eastfield Drive, Ladden Garden Village, Yate, South Gloucestershire, West of England, England, UK;9360
+4G;234;20;92;2383;52226;412;51.55599781892022;-2.41939736324265;Eastfield Drive, Ladden Garden Village, Yate, South Gloucestershire, West of England, England, UK;9360
+4G;234;20;93;2383;52226;413;51.55599781892022;-2.41939736324265;Eastfield Drive, Ladden Garden Village, Yate, South Gloucestershire, West of England, England, UK;9360
 4G;234;20;91;3645;52240;352;;;-;9360
 4G;234;20;0;3544;52302;147;53.39723818370823;-1.4422814548015594;26 Atlas Way, Atlas, Sheffield, South Yorkshire, England, UK;1363
 4G;234;20;2;3544;52302;134;53.39723818370823;-1.4422814548015594;26 Atlas Way, Atlas, Sheffield, South Yorkshire, England, UK;1363
@@ -6331,7 +6356,7 @@
 4G;234;20;92;2145;53345;163;51.82752817172209;-2.281099408864975;Beech Green Primary School, St James', Quedgeley, Gloucester, Gloucestershire, England, UK;9360
 4G;234;20;0;2219;53489;396;51.493444485555166;-2.4682072922587395;Lyde Green Park and Ride, Lyde Green, South Gloucestershire, West of England, England, UK;1363
 4G;234;20;91;2219;53489;303;51.493444485555166;-2.4682072922587395;Lyde Green Park and Ride, Lyde Green, South Gloucestershire, West of England, England, UK;9360
-4G;234;20;92;2301;53623;109;;;-;9360
+4G;234;20;92;2301;53623;109;52.11389601529959;-2.308499084308039;Prospect View, Pickersleigh Road B4208, Barnard's Green, Malvern, Worcestershire, England, UK;9360
 4G;234;20;2;2429;53653;260;51.90503660793875;-2.094983272254467;Cheltenham Trade Park, 58 Arle Road, Alstone, Cheltenham, Gloucestershire, England, UK;1363
 4G;234;20;91;2429;53653;273;51.90503660793875;-2.094983272254467;Cheltenham Trade Park, 58 Arle Road, Alstone, Cheltenham, Gloucestershire, England, UK;9360
 4G;234;20;93;2429;53653;151;51.90503660793875;-2.094983272254467;Cheltenham Trade Park, 58 Arle Road, Alstone, Cheltenham, Gloucestershire, England, UK;9360
