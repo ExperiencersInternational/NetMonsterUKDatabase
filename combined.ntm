@@ -596,12 +596,12 @@
 4G;234;15;30;24582;1815;451;51.56128531438281;-1.7868507653474808;House Of Frazer, 44-54 Canal Walk, Swindon, Wiltshire, England, UK;6300
 4G;234;15;34;24582;1815;463;51.56128531438281;-1.7868507653474808;House Of Frazer, 44-54 Canal Walk, Swindon, Wiltshire, England, UK;223
 4G;234;15;38;24582;1815;142;51.56128531438281;-1.7868507653474808;House Of Frazer, 44-54 Canal Walk, Swindon, Wiltshire, England, UK;2850
-4G;234;15;10;24723;1818;495;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;6300
-4G;234;15;14;24723;1818;50;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;223
-4G;234;15;20;24723;1818;496;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;6300
-4G;234;15;24;24723;1818;48;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;223
-4G;234;15;30;24723;1818;497;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;6300
-4G;234;15;34;24723;1818;49;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;223
+4G;234;15;10;24723;1818;495;51.67699450534934;-1.8938484415411947;Cotswold Agricultural Centre, Off Spine Road Junction, Driffield, Cotswold District, Gloucestershire, England, UK;6300
+4G;234;15;14;24723;1818;50;51.67699450534934;-1.8938484415411947;Cotswold Agricultural Centre, Off Spine Road Junction, Driffield, Cotswold District, Gloucestershire, England, UK;223
+4G;234;15;20;24723;1818;496;51.67699450534934;-1.8938484415411947;Cotswold Agricultural Centre, Off Spine Road Junction, Driffield, Cotswold District, Gloucestershire, England, UK;6300
+4G;234;15;24;24723;1818;48;51.67699450534934;-1.8938484415411947;Cotswold Agricultural Centre, Off Spine Road Junction, Driffield, Cotswold District, Gloucestershire, England, UK;223
+4G;234;15;30;24723;1818;497;51.67699450534934;-1.8938484415411947;Cotswold Agricultural Centre, Off Spine Road Junction, Driffield, Cotswold District, Gloucestershire, England, UK;6300
+4G;234;15;34;24723;1818;49;51.67699450534934;-1.8938484415411947;Cotswold Agricultural Centre, Off Spine Road Junction, Driffield, Cotswold District, Gloucestershire, England, UK;223
 4G;234;15;10;24581;1827;285;51.44132988811676;-1.42486821860075;107 Newbury Rd, Wickham, Newbury, West Berkshire, England, UK;6300
 4G;234;15;12;24581;1827;41;51.44132988811676;-1.42486821860075;107 Newbury Rd, Wickham, Newbury, West Berkshire, England, UK;3501
 4G;234;15;20;24581;1827;286;51.44132988811676;-1.42486821860075;107 Newbury Rd, Wickham, Newbury, West Berkshire, England, UK;6300
@@ -854,10 +854,6 @@
 4G;234;10;114;16609;3052;438;51.47870454571221;-2.7954817190766335;147 Merlin Park, Portishead, Bristol, West of England, England, UK;347
 4G;234;10;122;16609;3052;440;51.47870454571221;-2.7954817190766335;147 Merlin Park, Portishead, Bristol, West of England, England, UK;3725
 4G;234;10;124;16609;3052;439;51.47870454571221;-2.7954817190766335;147 Merlin Park, Portishead, Bristol, West of England, England, UK;347
-4G;234;15;18;24607;3053;411;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;2850
-4G;234;15;28;24607;3053;412;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;2850
-4G;234;15;38;24607;3053;413;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;2850
-4G;234;15;20;24723;3058;7;51.9192750214531;-2.0741012692451477;⚠️ Decommissioned • Fantail Cottage, Swindon Ln, Cheltenham, Gloucestershire, England, UK;6300
 4G;234;15;10;57346;3070;281;52.320298475548306;-2.057557739317417;John Knight Interiors, 6 Sherwood Road, Bromsgrove, Worcestershire, England, UK;6300
 4G;234;10;114;49809;3070;281;52.320298475548306;-2.057557739317417;John Knight Interiors, 6 Sherwood Road, Bromsgrove, Worcestershire, England, UK;347
 4G;234;15;10;24715;3104;352;51.198939731500985;-3.4985825791954994;Periton Road, Periton, Minehead, Somerset, England, UK;6300
@@ -925,13 +921,38 @@
 4G;234;15;30;24723;3273;22;51.81323995389681;-2.2696738690137863;FLI Structures, Waterwells Business Park, Waterwells Drive, Quedgeley, Gloucester, Gloucestershire, England, UK;6300
 4G;234;10;110;49809;3280;11;52.16189323742458;-2.214016355574131;Taylors Lane, Kempsey, Worcester, Worcestershire, England, UK;6400
 4G;234;10;112;49809;3280;11;52.16189323742458;-2.214016355574131;Taylors Lane, Kempsey, Worcester, Worcestershire, England, UK;3725
+4G;234;30;0;2254;3342;225;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;1363
+4G;234;30;1;2254;3342;34;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;1363
+4G;234;30;2;2254;3342;283;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;1363
+4G;234;30;6;2254;3342;106;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;6175
+4G;234;30;7;2254;3342;152;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;6175
+4G;234;30;8;2254;3342;291;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;6175
+4G;234;30;71;2254;3342;60;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;76
+4G;234;30;72;2254;3342;7;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;76
+4G;234;30;73;2254;3342;5;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;76
+4G;234;20;0;2254;3343;288;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;1363
+4G;234;20;1;2254;3343;64;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;1363
+4G;234;20;2;2254;3343;245;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;1363
+4G;234;20;6;2254;3343;367;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;6175
+4G;234;20;7;2254;3343;56;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;6175
+4G;234;20;8;2254;3343;150;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;6175
+4G;234;15;10;24626;3365;68;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;6300
+4G;234;15;12;24626;3365;68;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;3501
 4G;234;15;14;24626;3365;68;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;223
+4G;234;15;20;24626;3365;66;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;6300
+4G;234;15;22;24626;3365;66;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;3501
+4G;234;15;24;24626;3365;66;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;223
+4G;234;15;30;24626;3365;67;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;6300
 4G;234;15;32;24626;3365;67;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;3501
 4G;234;15;34;24626;3365;67;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;223
 4G;234;10;110;16832;3365;68;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;6400
 4G;234;10;112;16832;3365;68;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;3725
 4G;234;10;114;16832;3365;68;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;347
+4G;234;10;120;16832;3365;66;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;6400
+4G;234;10;122;16832;3365;66;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;3725
+4G;234;10;124;16832;3365;66;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;347
 4G;234;10;130;16832;3365;67;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;6400
+4G;234;10;132;16832;3365;67;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;3725
 4G;234;10;134;16832;3365;67;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;347
 4G;234;10;120;49809;3369;45;52.18229465134154;-2.1944596990942955;Redhill House, 227 London Road A44, Nunnery Wood, Worcester, Worcestershire, England, UK;6400
 4G;234;10;124;49809;3369;45;52.18229465134154;-2.1944596990942955;Redhill House, 227 London Road A44, Nunnery Wood, Worcester, Worcestershire, England, UK;347
@@ -947,7 +968,6 @@
 4G;234;20;2;2121;3388;422;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;1363
 4G;234;20;6;2121;3388;193;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;6175
 4G;234;20;8;2121;3388;105;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;6175
-4G;234;10;124;16608;3444;170;51.47948319828944;-3.169192895293236;University of South Wales Cardiff Campus, Sandon Street, Cardiff, Wales, UK;347
 4G;234;15;10;24610;3463;262;51.51941573131593;-2.4416648223996162;Broad Lane, Westerleigh, South Gloucestershire, West of England, England, UK;6300
 4G;234;15;12;24610;3463;262;51.51941573131593;-2.4416648223996162;Broad Lane, Westerleigh, South Gloucestershire, West of England, England, UK;3501
 4G;234;15;20;24610;3463;261;51.51941573131593;-2.4416648223996162;Broad Lane, Westerleigh, South Gloucestershire, West of England, England, UK;6300
@@ -1181,10 +1201,23 @@
 4G;234;15;32;24723;3971;311;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK;3501
 4G;234;15;34;24723;3971;428;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK;223
 4G;234;15;10;24723;3989;148;51.63943628072319;-1.8763507157564163;B4040, Swindon, Wiltshire, England, UK;6300
+4G;234;15;12;24723;3989;148;51.63943628072319;-1.8763507157564163;B4040, Swindon, Wiltshire, England, UK;3501
 4G;234;15;20;24723;3989;149;51.63943628072319;-1.8763507157564163;B4040, Swindon, Wiltshire, England, UK;6300
+4G;234;15;22;24723;3989;149;51.63943628072319;-1.8763507157564163;B4040, Swindon, Wiltshire, England, UK;3501
 4G;234;15;30;24723;3989;147;51.63943628072319;-1.8763507157564163;B4040, Swindon, Wiltshire, England, UK;6300
-4G;234;15;30;24723;3994;266;51.906790904188476;-2.0602570474147797;Cheltenham Town Stadium, Whaddon Rd, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;32;24723;3989;147;51.63943628072319;-1.8763507157564163;B4040, Swindon, Wiltshire, England, UK;3501
+4G;234;15;10;24723;3994;204;51.906790904188476;-2.0602570474147797;Cheltenham Town Stadium, Whaddon Rd, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;12;24723;3994;437;51.906790904188476;-2.0602570474147797;Cheltenham Town Stadium, Whaddon Rd, Cheltenham, Gloucestershire, England, UK;3501
+4G;234;15;14;24723;3994;339;51.906790904188476;-2.0602570474147797;Cheltenham Town Stadium, Whaddon Rd, Cheltenham, Gloucestershire, England, UK;223
+4G;234;15;18;24723;3994;285;51.906790904188476;-2.0602570474147797;Cheltenham Town Stadium, Whaddon Rd, Cheltenham, Gloucestershire, England, UK;2850
+4G;234;15;20;24723;3994;205;51.906790904188476;-2.0602570474147797;Cheltenham Town Stadium, Whaddon Rd, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;22;24723;3994;435;51.906790904188476;-2.0602570474147797;Cheltenham Town Stadium, Whaddon Rd, Cheltenham, Gloucestershire, England, UK;3501
+4G;234;15;24;24723;3994;340;51.906790904188476;-2.0602570474147797;Cheltenham Town Stadium, Whaddon Rd, Cheltenham, Gloucestershire, England, UK;223
+4G;234;15;28;24723;3994;286;51.906790904188476;-2.0602570474147797;Cheltenham Town Stadium, Whaddon Rd, Cheltenham, Gloucestershire, England, UK;2850
+4G;234;15;30;24723;3994;206;51.906790904188476;-2.0602570474147797;Cheltenham Town Stadium, Whaddon Rd, Cheltenham, Gloucestershire, England, UK;6300
 4G;234;15;32;24723;3994;436;51.906790904188476;-2.0602570474147797;Cheltenham Town Stadium, Whaddon Rd, Cheltenham, Gloucestershire, England, UK;3501
+4G;234;15;34;24723;3994;341;51.906790904188476;-2.0602570474147797;Cheltenham Town Stadium, Whaddon Rd, Cheltenham, Gloucestershire, England, UK;223
+4G;234;15;38;24723;3994;287;51.906790904188476;-2.0602570474147797;Cheltenham Town Stadium, Whaddon Rd, Cheltenham, Gloucestershire, England, UK;2850
 4G;234;15;10;24723;3997;195;51.92667827097;-2.4199406057596207;Newent Arboretum, Bradfords Ln, Newent, Gloucestershire, England, UK;6300
 4G;234;15;20;24723;3997;196;51.92667827097;-2.4199406057596207;Newent Arboretum, Bradfords Ln, Newent, Gloucestershire, England, UK;6300
 4G;234;15;30;24723;3997;197;51.92667827097;-2.4199406057596207;Newent Arboretum, Bradfords Ln, Newent, Gloucestershire, England, UK;6300
@@ -1287,8 +1320,11 @@
 4G;234;10;132;16832;4065;457;51.30949216326124;-2.2222060184505588;Wiltshire College and University Centre Trowbridge Campus, Frome Road A361, Trowbridge, Wiltshire, England, UK;3725
 4G;234;10;134;16832;4065;457;51.30949216326124;-2.2222060184505588;Wiltshire College and University Centre Trowbridge Campus, Frome Road A361, Trowbridge, Wiltshire, England, UK;347
 4G;234;15;10;24723;4077;420;51.63897268698363;-1.8413224071264265;A419, Swindon, Wiltshire, England, UK;6300
+4G;234;15;14;24723;4077;51;51.63897268698363;-1.8413224071264265;A419, Swindon, Wiltshire, England, UK;223
 4G;234;15;20;24723;4077;421;51.63897268698363;-1.8413224071264265;A419, Swindon, Wiltshire, England, UK;6300
+4G;234;15;24;24723;4077;52;51.63897268698363;-1.8413224071264265;A419, Swindon, Wiltshire, England, UK;223
 4G;234;15;30;24723;4077;422;51.63897268698363;-1.8413224071264265;A419, Swindon, Wiltshire, England, UK;6300
+4G;234;15;34;24723;4077;53;51.63897268698363;-1.8413224071264265;A419, Swindon, Wiltshire, England, UK;223
 4G;234;15;10;24606;4092;26;51.351142209405836;-2.9814915731549263;Weston College, Knightstone Road, Weston-super-mare, North Somerset, England, UK;6300
 4G;234;15;14;24606;4092;26;51.351142209405836;-2.9814915731549263;Weston College, Knightstone Road, Weston-super-mare, North Somerset, England, UK;223
 4G;234;15;18;24606;4092;26;51.351142209405836;-2.9814915731549263;Weston College, Knightstone Road, Weston-super-mare, North Somerset, England, UK;2850
@@ -1326,7 +1362,9 @@
 4G;234;15;32;24723;4118;89;51.86622765859196;-2.232758291065693;The Atrium, Gloucestershire Royal Hospital, Great Western Road, Wotton, Gloucester, Gloucestershire, England, UK;3501
 4G;234;15;34;24723;4118;92;51.86622765859196;-2.232758291065693;The Atrium, Gloucestershire Royal Hospital, Great Western Road, Wotton, Gloucester, Gloucestershire, England, UK;223
 4G;234;20;2;2127;4136;14;51.55058287006324;-1.7975591495633123;95 Okus Rd, Swindon, Wiltshire, England, UK;1363
-4G;234;15;10;24723;4136;107;51.663051233069055;-1.941017434000969;Ashton Rd, Cirencester, Gloucestershire, England, UK;6300
+4G;234;15;10;24723;4136;54;51.663051233069055;-1.941017434000969;Ashton Rd, Cirencester, Gloucestershire, England, UK;6300
+4G;234;15;20;24723;4136;55;51.663051233069055;-1.941017434000969;Ashton Rd, Cirencester, Gloucestershire, England, UK;6300
+4G;234;15;30;24723;4136;56;51.663051233069055;-1.941017434000969;Ashton Rd, Cirencester, Gloucestershire, England, UK;6300
 4G;234;20;1;2141;4178;481;51.47658756249697;-2.7951937168836594;36 Weatherly Dr, Portishead, Bristol, West of England, England, UK;1363
 4G;234;20;7;2141;4178;244;51.47658756249697;-2.7951937168836594;36 Weatherly Dr, Portishead, Bristol, West of England, England, UK;6175
 4G;234;20;1;2126;4189;415;51.60942025552044;-1.7940659075975418;18 Robinscroft, Blunsdon St Andrew, Blunsdon, Swindon, Wiltshire, England, UK;1363
@@ -1372,8 +1410,21 @@
 4G;234;20;2;2120;4289;182;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;7;2120;4289;448;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;6175
 4G;234;20;71;2120;4289;14;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;99
-4G;234;15;10;24723;4375;160;51.72457214979054;-1.9467992708086967;The Harebushes, Stow Rd, Cirencester, Gloucestershire, England, UK;6300
+4G;234;15;10;24723;4291;252;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;12;24723;4291;148;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;3501
+4G;234;15;14;24723;4291;53;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;223
+4G;234;15;20;24723;4291;253;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;22;24723;4291;149;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;3501
+4G;234;15;24;24723;4291;51;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;223
+4G;234;15;30;24723;4291;254;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;32;24723;4291;147;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;3501
+4G;234;15;34;24723;4291;52;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;223
+4G;234;15;10;24723;4375;159;51.72457214979054;-1.9467992708086967;The Harebushes, Stow Rd, Cirencester, Gloucestershire, England, UK;6300
+4G;234;15;12;24723;4375;217;51.72457214979054;-1.9467992708086967;The Harebushes, Stow Rd, Cirencester, Gloucestershire, England, UK;3501
 4G;234;15;20;24723;4375;160;51.72457214979054;-1.9467992708086967;The Harebushes, Stow Rd, Cirencester, Gloucestershire, England, UK;6300
+4G;234;15;22;24723;4375;218;51.72457214979054;-1.9467992708086967;The Harebushes, Stow Rd, Cirencester, Gloucestershire, England, UK;3501
+4G;234;15;30;24723;4375;161;51.72457214979054;-1.9467992708086967;The Harebushes, Stow Rd, Cirencester, Gloucestershire, England, UK;6300
+4G;234;15;32;24723;4375;216;51.72457214979054;-1.9467992708086967;The Harebushes, Stow Rd, Cirencester, Gloucestershire, England, UK;3501
 4G;234;20;0;2650;4393;189;51.39594741887324;-3.331851437687874;Porthkerry Rd, Rhoose, Barry, Glamorgan, Wales, UK;1363
 4G;234;20;1;2494;4399;385;51.53952965818622;-2.4913275986909866;189 Bristol Road B4058, Frampton Cotterell, South Gloucestershire, West of England, England, UK;1363
 4G;234;15;20;24581;4404;46;51.51275508805547;-1.5204641595482826;Sheepdrove Rd, Hungerford, West Berkshire, England, UK;6300
@@ -1685,7 +1736,8 @@
 4G;234;10;124;16832;5692;186;51.37972182144463;-2.357296943664551;1 Manvers Street A3039, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];347
 4G;234;10;130;16832;5692;188;51.37972182144463;-2.357296943664551;1 Manvers Street A3039, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];6400
 4G;234;10;134;16832;5692;188;51.37972182144463;-2.357296943664551;1 Manvers Street A3039, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];347
-4G;234;15;20;24723;5729;107;51.70888262120146;-1.8764888495206835;A417, Cirencester, Gloucestershire, England, UK;6300
+4G;234;15;10;24723;5729;105;51.70888262120146;-1.8764888495206835;Ranburyn Farm, A417, Ampney St. Peter, Cotswold District, Gloucestershire, England, UK;6300
+4G;234;15;20;24723;5729;107;51.70888262120146;-1.8764888495206835;Ranburyn Farm, A417, Ampney St. Peter, Cotswold District, Gloucestershire, England, UK;6300
 4G;234;10;120;49904;5732;325;52.46330235628067;-1.9227797538042068;Chamberlain Tower, University of Birmingham Vale Village, Mason Way, Park Central, Birmingham, West Midlands, England, UK;6400
 4G;234;10;130;49904;5732;324;52.46330235628067;-1.9227797538042068;Chamberlain Tower, University of Birmingham Vale Village, Mason Way, Park Central, Birmingham, West Midlands, England, UK;6400
 4G;234;10;122;49809;5739;86;52.14999902948787;-2.1904196217656136;Fox Lane, Hatfield, Worcestershire, England, UK;3725
@@ -1972,6 +2024,15 @@
 4G;234;15;10;24581;6700;180;51.46378166636862;-1.2512753158807755;M4, Thatcham, West Berkshire, England, UK;6300
 4G;234;15;20;24581;6700;181;51.46378166636862;-1.2512753158807755;M4, Thatcham, West Berkshire, England, UK;6300
 4G;234;15;30;24581;6700;182;51.46378166636862;-1.2512753158807755;M4, Thatcham, West Berkshire, England, UK;6300
+4G;234;15;10;24723;6702;318;51.967603816395446;-2.1278882771730423;Sherdons Golf Centre, M5 South, Stoke Orchard, Gloucestershire, England, UK;6300
+4G;234;15;12;24723;6702;161;51.967603816395446;-2.1278882771730423;Sherdons Golf Centre, M5 South, Stoke Orchard, Gloucestershire, England, UK;3501
+4G;234;15;14;24723;6702;161;51.967603816395446;-2.1278882771730423;Sherdons Golf Centre, M5 South, Stoke Orchard, Gloucestershire, England, UK;223
+4G;234;15;20;24723;6702;319;51.967603816395446;-2.1278882771730423;Sherdons Golf Centre, M5 South, Stoke Orchard, Gloucestershire, England, UK;6300
+4G;234;15;22;24723;6702;159;51.967603816395446;-2.1278882771730423;Sherdons Golf Centre, M5 South, Stoke Orchard, Gloucestershire, England, UK;3501
+4G;234;15;24;24723;6702;159;51.967603816395446;-2.1278882771730423;Sherdons Golf Centre, M5 South, Stoke Orchard, Gloucestershire, England, UK;223
+4G;234;15;30;24723;6702;320;51.967603816395446;-2.1278882771730423;Sherdons Golf Centre, M5 South, Stoke Orchard, Gloucestershire, England, UK;6300
+4G;234;15;32;24723;6702;160;51.967603816395446;-2.1278882771730423;Sherdons Golf Centre, M5 South, Stoke Orchard, Gloucestershire, England, UK;3501
+4G;234;15;34;24723;6702;160;51.967603816395446;-2.1278882771730423;Sherdons Golf Centre, M5 South, Stoke Orchard, Gloucestershire, England, UK;223
 4G;234;20;1;2156;6762;223;51.402902473129856;-3.266640566289425;16 Fryatt St, Barry, Glamorgan, Wales, UK;1363
 4G;234;15;20;24606;6785;360;51.61560021592038;-2.981591150164604;Trinity View, Caerleon, Newport, Wales, UK;6300
 4G;234;15;24;24606;6785;163;51.61560021592038;-2.981591150164604;Trinity View, Caerleon, Newport, Wales, UK;223
@@ -2229,8 +2290,11 @@
 4G;234;20;8;2291;7815;264;52.32080548535443;-4.063210040330887;B4576, Penciog, Ceredigion, Wales, UK;6175
 4G;234;20;1;3423;7864;461;53.47227861572575;-1.3677988573908806;50 Stubbin Road B6089, Upper Haugh, Rotherham, South Yorkshire, England, UK;1363
 4G;234;15;10;24582;7868;480;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;6300
+4G;234;15;14;24582;7868;72;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;223
 4G;234;15;20;24582;7868;481;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;6300
+4G;234;15;24;24582;7868;73;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;223
 4G;234;15;30;24582;7868;482;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;6300
+4G;234;15;34;24582;7868;74;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;223
 4G;234;15;10;24626;7892;110;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];6300
 4G;234;15;12;24626;7892;110;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];3501
 4G;234;15;14;24626;7892;110;51.23155321898025;-2.338979787467105;Oakfield Academy, Egford Hill, Cottle's Oak, Frome, Somerset, England, UK [Cornerstone];223
@@ -2602,8 +2666,9 @@
 4G;234;10;130;16816;9145;449;52.075706490210585;-4.158637672662735;Old Foundry, Llanybydder, UK;6400
 4G;234;10;114;16833;9159;350;51.18175325467239;-3.148667961359024;Tower Hill, Stogursey, Somerset, England, UK;347
 4G;234;15;10;24723;9172;486;51.8236695312217;-2.0766302570700645;Unnamed Road, Cowley Junction, Birdlip, Gloucestershire, England, UK;6300
-4G;234;15;20;24723;9172;487;51.8236695312217;-2.0766302570700645;Unnamed Road, Cowley Junction, Birdlip, Gloucestershire, England, UK;6300
+4G;234;15;12;24723;9172;164;51.8236695312217;-2.0766302570700645;Unnamed Road, Cowley Junction, Birdlip, Gloucestershire, England, UK;3501
 4G;234;15;30;24723;9172;488;51.8236695312217;-2.0766302570700645;Unnamed Road, Cowley Junction, Birdlip, Gloucestershire, England, UK;6300
+4G;234;15;32;24723;9172;162;51.8236695312217;-2.0766302570700645;Unnamed Road, Cowley Junction, Birdlip, Gloucestershire, England, UK;3501
 4G;234;20;0;3728;9179;127;53.688864860003164;-0.7951673492789268;Old Lane, Reedness, East Riding of Yorkshire, England, UK;1363
 4G;234;20;6;3728;9179;85;53.688864860003164;-0.7951673492789268;Old Lane, Reedness, East Riding of Yorkshire, England, UK;6175
 4G;234;15;10;24606;9184;192;51.42100533601057;-2.744910679757595;Moorside Farm, Station Road, Backwell, North Somerset, England, UK;6300
@@ -3504,7 +3569,14 @@
 4G;234;10;120;16609;13322;205;51.44592101099747;-2.8151651099324226;Nortons Wood, Clevedon, North Somerset, England, UK [Cornerstone];6400
 4G;234;10;130;16609;13322;204;51.44592101099747;-2.8151651099324226;Nortons Wood, Clevedon, North Somerset, England, UK [Cornerstone];6400
 4G;234;15;10;24723;13355;178;51.70496853057163;-1.9605878368020058;15 Love Ln, Love Lane Industrial Estate, Cirencester, Gloucestershire, England, UK;6300
+4G;234;15;12;24723;13355;470;51.70496853057163;-1.9605878368020058;15 Love Ln, Love Lane Industrial Estate, Cirencester, Gloucestershire, England, UK;3501
+4G;234;15;14;24723;13355;237;51.70496853057163;-1.9605878368020058;15 Love Ln, Love Lane Industrial Estate, Cirencester, Gloucestershire, England, UK;223
+4G;234;15;20;24723;13355;177;51.70496853057163;-1.9605878368020058;15 Love Ln, Love Lane Industrial Estate, Cirencester, Gloucestershire, England, UK;6300
+4G;234;15;22;24723;13355;468;51.70496853057163;-1.9605878368020058;15 Love Ln, Love Lane Industrial Estate, Cirencester, Gloucestershire, England, UK;3501
+4G;234;15;24;24723;13355;238;51.70496853057163;-1.9605878368020058;15 Love Ln, Love Lane Industrial Estate, Cirencester, Gloucestershire, England, UK;223
 4G;234;15;30;24723;13355;179;51.70496853057163;-1.9605878368020058;15 Love Ln, Love Lane Industrial Estate, Cirencester, Gloucestershire, England, UK;6300
+4G;234;15;32;24723;13355;469;51.70496853057163;-1.9605878368020058;15 Love Ln, Love Lane Industrial Estate, Cirencester, Gloucestershire, England, UK;3501
+4G;234;15;34;24723;13355;239;51.70496853057163;-1.9605878368020058;15 Love Ln, Love Lane Industrial Estate, Cirencester, Gloucestershire, England, UK;223
 4G;234;30;1;24391;13381;469;51.352897955315925;-2.9392581805586815;430 Locking Rd, Milton, Weston-super-mare, North Somerset, England, UK;1617
 4G;234;30;19;24391;13381;66;51.352897955315925;-2.9392581805586815;430 Locking Rd, Milton, Weston-super-mare, North Somerset, England, UK;497
 4G;234;30;20;24391;13381;204;51.352897955315925;-2.9392581805586815;430 Locking Rd, Milton, Weston-super-mare, North Somerset, England, UK;497
@@ -3638,6 +3710,12 @@
 4G;234;15;12;24607;14057;175;51.42721948434515;-3.266258016228676;A4050, Barry, Glamorgan, Wales, UK;3501
 4G;234;15;14;24607;14057;269;51.42721948434515;-3.266258016228676;A4050, Barry, Glamorgan, Wales, UK;223
 4G;234;15;18;24607;14057;210;51.42721948434515;-3.266258016228676;A4050, Barry, Glamorgan, Wales, UK;2850
+4G;234;15;10;24723;14058;274;51.90020940571455;-2.069888859987259;Masjid Al Madina, 25 Sherborne Place, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;14;24723;14058;333;51.90020940571455;-2.069888859987259;Masjid Al Madina, 25 Sherborne Place, Cheltenham, Gloucestershire, England, UK;223
+4G;234;15;20;24723;14058;273;51.90020940571455;-2.069888859987259;Masjid Al Madina, 25 Sherborne Place, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;24;24723;14058;334;51.90020940571455;-2.069888859987259;Masjid Al Madina, 25 Sherborne Place, Cheltenham, Gloucestershire, England, UK;223
+4G;234;15;30;24723;14058;275;51.90020940571455;-2.069888859987259;Masjid Al Madina, 25 Sherborne Place, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;34;24723;14058;335;51.90020940571455;-2.069888859987259;Masjid Al Madina, 25 Sherborne Place, Cheltenham, Gloucestershire, England, UK;223
 4G;234;15;12;24610;14065;297;51.53781402306585;-2.4425965547561646;1 Goodrich Cl, Yate, Bristol, West of England, England, UK;3624
 4G;234;15;18;24610;14065;297;51.53781402306585;-2.4425965547561646;1 Goodrich Cl, Yate, Bristol, West of England, England, UK;2850
 4G;234;15;22;24610;14065;298;51.53781402306585;-2.4425965547561646;1 Goodrich Cl, Yate, Bristol, West of England, England, UK;3624
@@ -4412,7 +4490,9 @@
 4G;234;30;0;25171;17364;189;51.851286927498826;-2.51026701182127;9JP, Larksfield Road, Drybrook, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;1;25171;17364;190;51.851286927498826;-2.51026701182127;9JP, Larksfield Road, Drybrook, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;2;25171;17364;191;51.851286927498826;-2.51026701182127;9JP, Larksfield Road, Drybrook, Forest of Dean, Gloucestershire, England, UK;1617
-4G;234;15;12;24723;17615;316;51.750741510520186;-1.994215026497841;Daglingworth Quarry Junction, Gloucester Road, Cirencester, Gloucestershire, England, UK;3624
+4G;234;15;12;24723;17615;316;51.750741510520186;-1.994215026497841;Daglingworth Quarry Junction, Gloucester Road, Cirencester, Gloucestershire, England, UK;3501
+4G;234;15;22;24723;17615;317;51.750741510520186;-1.994215026497841;Daglingworth Quarry Junction, Gloucester Road, Cirencester, Gloucestershire, England, UK;3501
+4G;234;15;32;24723;17615;315;51.750741510520186;-1.994215026497841;Daglingworth Quarry Junction, Gloucester Road, Cirencester, Gloucestershire, England, UK;3501
 4G;234;15;12;24723;17681;405;51.906257651711265;-2.571296989917755;Penyard Lane, Ross-on-Wye, Herefordshire, England, UK;3501
 4G;234;15;14;24611;17684;198;51.530877835397526;-2.600403316318989;M5, Almondsbury, South Gloucestershire, West of England, England, UK;223
 4G;234;15;18;24611;17684;198;51.530877835397526;-2.600403316318989;M5, Almondsbury, South Gloucestershire, West of England, England, UK;2850
@@ -4551,6 +4631,15 @@
 4G;234;10;130;16609;18445;457;51.35930350165513;-2.9699010774493217;5 Worlebury Hill Rd, Worlebury, Weston-super-mare, North Somerset, England, UK;6400
 4G;234;10;132;16609;18445;457;51.35930350165513;-2.9699010774493217;5 Worlebury Hill Rd, Worlebury, Weston-super-mare, North Somerset, England, UK;3725
 4G;234;30;4;26011;18563;167;51.811817184299116;-2.7158844843506813;2-4 Monnow St, Monmouth, Monmouthshire, Wales, UK;1815
+4G;234;30;0;25271;18600;127;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;1617
+4G;234;30;1;25271;18600;126;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;1617
+4G;234;30;2;25271;18600;128;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;1617
+4G;234;30;3;25271;18600;127;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;1815
+4G;234;30;4;25271;18600;126;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;1815
+4G;234;30;5;25271;18600;128;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;1815
+4G;234;30;12;25270;18600;127;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;6225
+4G;234;30;13;25270;18600;126;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;6225
+4G;234;30;14;25270;18600;128;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;6225
 4G;234;30;0;25341;18644;283;51.44897425963692;-1.4154607057571411;M4, Newbury, West Berkshire, England, UK;1617
 4G;234;30;2;25341;18644;282;51.44897425963692;-1.4154607057571411;M4, Newbury, West Berkshire, England, UK;1617
 4G;234;30;0;25341;18646;495;51.46378166636862;-1.2512753158807755;M4, Thatcham, West Berkshire, England, UK;1617
@@ -5066,6 +5155,24 @@
 4G;234;15;10;24738;21999;203;52.05747023064046;-4.551242949051744;South of Bailey Farm, Llandygwydd, Ceredigion, Wales, UK;6300
 4G;234;15;20;24738;21999;201;52.05747023064046;-4.551242949051744;South of Bailey Farm, Llandygwydd, Ceredigion, Wales, UK;6300
 4G;234;15;30;24738;21999;202;52.05747023064046;-4.551242949051744;South of Bailey Farm, Llandygwydd, Ceredigion, Wales, UK;6300
+4G;234;30;0;25271;22026;358;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;1617
+4G;234;30;1;25271;22026;359;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;1617
+4G;234;30;2;25271;22026;357;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;1617
+4G;234;30;3;25271;22026;358;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;1815
+4G;234;30;4;25271;22026;359;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;1815
+4G;234;30;5;25271;22026;357;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;1815
+4G;234;30;6;25271;22026;358;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;3350
+4G;234;30;7;25271;22026;359;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;3350
+4G;234;30;8;25271;22026;357;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;3350
+4G;234;30;9;25271;22026;358;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;3179
+4G;234;30;10;25271;22026;359;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;3179
+4G;234;30;11;25271;22026;357;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;3179
+4G;234;30;12;25270;22026;121;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;6225
+4G;234;30;13;25270;22026;122;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;6225
+4G;234;30;14;25270;22026;120;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;6225
+4G;234;30;18;25271;22026;165;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;497
+4G;234;30;19;25271;22026;207;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;497
+4G;234;30;20;25271;22026;null;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;497
 4G;234;15;10;24611;22102;465;51.417390005757284;-2.508299569834947;Broadlands Academy, Saint Francis Road, Keynsham, Bath and North East Somerset, West of England, England, UK;6300
 4G;234;15;12;24611;22102;465;51.417390005757284;-2.508299569834947;Broadlands Academy, Saint Francis Road, Keynsham, Bath and North East Somerset, West of England, England, UK;3501
 4G;234;15;18;24611;22102;465;51.417390005757284;-2.508299569834947;Broadlands Academy, Saint Francis Road, Keynsham, Bath and North East Somerset, West of England, England, UK;2850
@@ -5201,6 +5308,15 @@
 4G;234;30;14;26010;23079;243;51.80175059414253;-2.5694455951452255;New Road B4234, Cannop, Forest of Dean, Gloucestershire, England, UK;6225
 4G;234;30;12;26020;23081;323;51.96702770026756;-4.081343449652195;Unnamed Road, Pen-y-garn, Carmarthenshire, Wales, UK;6225
 4G;234;10;122;16609;23085;21;51.403423165053454;-2.7354427622178;Coles Quarry, Long Lane, Backwell, North Somerset, England, UK;3725
+4G;234;15;12;24607;23239;381;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;3501
+4G;234;15;14;24607;23239;381;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;223
+4G;234;15;18;24607;23239;381;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;2850
+4G;234;15;22;24607;23239;382;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;3501
+4G;234;15;24;24607;23239;382;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;223
+4G;234;15;28;24607;23239;382;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;2850
+4G;234;15;32;24607;23239;383;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;3501
+4G;234;15;34;24607;23239;383;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;223
+4G;234;15;38;24607;23239;383;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;2850
 4G;234;30;2;26021;23268;469;51.8991069476707;-3.1887247413396835;A479, Felindre, Powys, Wales, UK;1617
 4G;234;30;14;26020;23268;392;51.8991069476707;-3.1887247413396835;A479, Felindre, Powys, Wales, UK;6225
 4G;234;15;14;24723;23382;223;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;223
@@ -6434,9 +6550,9 @@
 4G;234;10;130;16544;101815;8;51.56128531438281;-1.7868507653474808;House Of Frazer, 44-54 Canal Walk, Swindon, Wiltshire, England, UK;6400
 4G;234;10;132;16544;101815;425;51.56128531438281;-1.7868507653474808;House Of Frazer, 44-54 Canal Walk, Swindon, Wiltshire, England, UK;3725
 4G;234;10;134;16544;101815;8;51.56128531438281;-1.7868507653474808;House Of Frazer, 44-54 Canal Walk, Swindon, Wiltshire, England, UK;347
-4G;234;10;110;16544;101818;198;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;6400
-4G;234;10;120;16544;101818;199;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;6400
-4G;234;10;130;16544;101818;200;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;6400
+4G;234;10;110;16544;101818;198;51.67699450534934;-1.8938484415411947;Cotswold Agricultural Centre, Off Spine Road Junction, Driffield, Cotswold District, Gloucestershire, England, UK;6400
+4G;234;10;120;16544;101818;199;51.67699450534934;-1.8938484415411947;Cotswold Agricultural Centre, Off Spine Road Junction, Driffield, Cotswold District, Gloucestershire, England, UK;6400
+4G;234;10;130;16544;101818;200;51.67699450534934;-1.8938484415411947;Cotswold Agricultural Centre, Off Spine Road Junction, Driffield, Cotswold District, Gloucestershire, England, UK;6400
 4G;234;10;120;16544;101819;147;51.54193857016402;-1.8403933569788935;7 Hay Lane, Blagrove, Swindon, Wiltshire, England, UK;6400
 4G;234;10;110;16544;101824;492;51.54157282079061;-1.7715678736567497;Broome Allotments, B4006, Swindon, Wiltshire, England, UK;6400
 4G;234;10;110;16576;101827;285;51.44132988811676;-1.42486821860075;107 Newbury Rd, Wickham, Newbury, West Berkshire, England, UK;6400
@@ -6756,6 +6872,8 @@
 4G;234;10;130;17072;104287;191;51.83200039098511;-2.2452349215745926;The Fox & Elm, 2 Tuffley Lane, Stroud Road, A4173, Tuffley, Gloucester, Gloucestershire, England, UK;6400
 4G;234;10;132;17072;104287;440;51.83200039098511;-2.2452349215745926;The Fox & Elm, 2 Tuffley Lane, Stroud Road, A4173, Tuffley, Gloucester, Gloucestershire, England, UK;3725
 4G;234;10;134;17072;104287;153;51.83200039098511;-2.2452349215745926;The Fox & Elm, 2 Tuffley Lane, Stroud Road, A4173, Tuffley, Gloucester, Gloucestershire, England, UK;347
+4G;234;10;110;17072;104291;186;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;114;17072;104291;186;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;347
 4G;234;10;120;17072;104291;187;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;124;17072;104291;187;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;347
 4G;234;10;130;17072;104291;188;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;6400
@@ -6798,17 +6916,33 @@
 4G;234;10;110;17072;105176;345;51.94317652316386;-2.10569366812706;Wingmoor Farm Landfill, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;120;17072;105176;346;51.94317652316386;-2.10569366812706;Wingmoor Farm Landfill, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;130;17072;105176;347;51.94317652316386;-2.10569366812706;Wingmoor Farm Landfill, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;110;17072;105212;27;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;112;17072;105212;188;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;3725
 4G;234;10;120;17072;105212;28;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;6400
-4G;234;10;132;17072;105212;347;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;122;17072;105212;186;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;3725
+4G;234;10;130;17072;105212;29;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;132;17072;105212;187;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;3725
 4G;234;10;110;16576;105318;390;51.45370292338015;-1.4808760955929756;Wickham Interchange, Hungerford, West Berkshire, England, UK;6400
+4G;234;10;112;16576;105318;341;51.45370292338015;-1.4808760955929756;Wickham Interchange, Hungerford, West Berkshire, England, UK;3725
 4G;234;10;120;16576;105318;391;51.45370292338015;-1.4808760955929756;Wickham Interchange, Hungerford, West Berkshire, England, UK;6400
+4G;234;10;122;16576;105318;339;51.45370292338015;-1.4808760955929756;Wickham Interchange, Hungerford, West Berkshire, England, UK;3725
 4G;234;10;130;16576;105318;392;51.45370292338015;-1.4808760955929756;Wickham Interchange, Hungerford, West Berkshire, England, UK;6400
-4G;234;10;120;17072;105432;64;51.87071984072185;-2.4322794377803802;Huntley Hill, Chapel Lane, Huntley, Gloucestershire, England, UK;6400
-4G;234;10;130;17072;105432;378;51.87071984072185;-2.4322794377803802;Huntley Hill, Chapel Lane, Huntley, Gloucestershire, England, UK;6400
+4G;234;10;132;16576;105318;340;51.45370292338015;-1.4808760955929756;Wickham Interchange, Hungerford, West Berkshire, England, UK;3725
+4G;234;10;110;17072;105432;225;51.87071984072185;-2.4322794377803802;Huntley Hill, Chapel Lane, Huntley, Gloucestershire, England, UK;6400
+4G;234;10;120;17072;105432;226;51.87071984072185;-2.4322794377803802;Huntley Hill, Chapel Lane, Huntley, Gloucestershire, England, UK;6400
+4G;234;10;130;17072;105432;227;51.87071984072185;-2.4322794377803802;Huntley Hill, Chapel Lane, Huntley, Gloucestershire, England, UK;6400
 4G;234;10;110;16544;105456;174;51.77490960712049;-2.0958754420280457;Lypiatt Farm, Miserdon, Gloucestershire, England, UK;6400
 4G;234;10;120;16544;105456;175;51.77490960712049;-2.0958754420280457;Lypiatt Farm, Miserdon, Gloucestershire, England, UK;6400
 4G;234;10;130;16544;105456;176;51.77490960712049;-2.0958754420280457;Lypiatt Farm, Miserdon, Gloucestershire, England, UK;6400
+4G;234;10;110;17072;105461;27;52.02665574160884;-2.108163982629776;Orchard Close, Bredon, Worcestershire, England, UK;6400
+4G;234;10;112;17072;105461;394;52.02665574160884;-2.108163982629776;Orchard Close, Bredon, Worcestershire, England, UK;3725
+4G;234;10;114;17072;105461;70;52.02665574160884;-2.108163982629776;Orchard Close, Bredon, Worcestershire, England, UK;347
 4G;234;10;120;17072;105461;88;52.02665574160884;-2.108163982629776;Orchard Close, Bredon, Worcestershire, England, UK;6400
+4G;234;10;122;17072;105461;395;52.02665574160884;-2.108163982629776;Orchard Close, Bredon, Worcestershire, England, UK;3725
+4G;234;10;124;17072;105461;71;52.02665574160884;-2.108163982629776;Orchard Close, Bredon, Worcestershire, England, UK;347
+4G;234;10;130;17072;105461;65;52.02665574160884;-2.108163982629776;Orchard Close, Bredon, Worcestershire, England, UK;6400
+4G;234;10;132;17072;105461;393;52.02665574160884;-2.108163982629776;Orchard Close, Bredon, Worcestershire, England, UK;3725
+4G;234;10;134;17072;105461;69;52.02665574160884;-2.108163982629776;Orchard Close, Bredon, Worcestershire, England, UK;347
 4G;234;10;110;17072;105538;15;51.8398128625979;-2.1030835434794426;Grove Farm, Crickley Hill, A417, Birdlip, Gloucester, Gloucestershire, England, UK;6400
 4G;234;10;120;17072;105538;16;51.8398128625979;-2.1030835434794426;Grove Farm, Crickley Hill, A417, Birdlip, Gloucester, Gloucestershire, England, UK;6400
 4G;234;10;130;17072;105538;17;51.8398128625979;-2.1030835434794426;Grove Farm, Crickley Hill, A417, Birdlip, Gloucester, Gloucestershire, England, UK;6400
@@ -6816,7 +6950,7 @@
 4G;234;10;114;16576;105572;240;51.45076156489833;-1.3254410773515701;M4, Newbury, West Berkshire, England, UK;347
 4G;234;10;130;16576;105572;299;51.45076156489833;-1.3254410773515701;M4, Newbury, West Berkshire, England, UK;6400
 4G;234;10;134;16576;105572;242;51.45076156489833;-1.3254410773515701;M4, Newbury, West Berkshire, England, UK;347
-4G;234;10;120;16544;105729;382;51.70888262120146;-1.8764888495206835;A417, Cirencester, Gloucestershire, England, UK;6400
+4G;234;10;120;16544;105729;382;51.70888262120146;-1.8764888495206835;Ranburyn Farm, A417, Ampney St. Peter, Cotswold District, Gloucestershire, England, UK;6400
 4G;234;10;110;17072;105802;216;51.88980541977174;-2.1129510551691055;Paragon House, 212 Hatherley Road, Hatherley, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;114;17072;105802;486;51.88980541977174;-2.1129510551691055;Paragon House, 212 Hatherley Road, Hatherley, Cheltenham, Gloucestershire, England, UK;347
 4G;234;10;130;17072;105802;227;51.88980541977174;-2.1129510551691055;Paragon House, 212 Hatherley Road, Hatherley, Cheltenham, Gloucestershire, England, UK;6400
@@ -7106,7 +7240,12 @@
 4G;234;10;110;16609;114057;71;51.42721948434515;-3.266258016228676;A4050, Barry, Glamorgan, Wales, UK;6400
 4G;234;10;112;16609;114057;71;51.42721948434515;-3.266258016228676;A4050, Barry, Glamorgan, Wales, UK;3725
 4G;234;10;114;16609;114057;328;51.42721948434515;-3.266258016228676;A4050, Barry, Glamorgan, Wales, UK;347
-4G;234;10;130;17072;114058;467;51.90020940571455;-2.069888859987259;25 Sherborne Pl, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;110;17072;114058;465;51.90020940571455;-2.069888859987259;Masjid Al Madina, 25 Sherborne Place, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;114;17072;114058;152;51.90020940571455;-2.069888859987259;Masjid Al Madina, 25 Sherborne Place, Cheltenham, Gloucestershire, England, UK;347
+4G;234;10;120;17072;114058;466;51.90020940571455;-2.069888859987259;Masjid Al Madina, 25 Sherborne Place, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;124;17072;114058;150;51.90020940571455;-2.069888859987259;Masjid Al Madina, 25 Sherborne Place, Cheltenham, Gloucestershire, England, UK;347
+4G;234;10;130;17072;114058;467;51.90020940571455;-2.069888859987259;Masjid Al Madina, 25 Sherborne Place, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;134;17072;114058;151;51.90020940571455;-2.069888859987259;Masjid Al Madina, 25 Sherborne Place, Cheltenham, Gloucestershire, England, UK;347
 4G;234;10;120;16608;114071;241;51.581197817793786;-3.0141588672995567;Bassaleg Road, Stelvio, Newport, Wales, UK;6400
 4G;234;10;122;16608;114071;465;51.581197817793786;-3.0141588672995567;Bassaleg Road, Stelvio, Newport, Wales, UK;3725
 4G;234;10;124;16608;114071;240;51.581197817793786;-3.0141588672995567;Bassaleg Road, Stelvio, Newport, Wales, UK;347
@@ -7240,6 +7379,15 @@
 4G;234;10;132;16625;114543;437;51.549078851961056;-2.4394868686795235;42 Lodge Rd, Yate, Bristol, West of England, England, UK;3725
 4G;234;10;134;16625;114543;254;51.549078851961056;-2.4394868686795235;42 Lodge Rd, Yate, Bristol, West of England, England, UK;347
 4G;234;10;136;16625;114543;479;51.549078851961056;-2.4394868686795235;42 Lodge Rd, Yate, Bristol, West of England, England, UK;1226
+4G;234;10;110;16624;114556;492;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;6400
+4G;234;10;112;16624;114556;492;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;3725
+4G;234;10;114;16624;114556;492;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;347
+4G;234;10;120;16624;114556;494;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;6400
+4G;234;10;122;16624;114556;494;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;3725
+4G;234;10;124;16624;114556;494;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;347
+4G;234;10;130;16624;114556;493;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;6400
+4G;234;10;132;16624;114556;493;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;3725
+4G;234;10;134;16624;114556;493;51.72558946811802;-2.527698903706904;Lydney Recreation Trust Ground, Regent Street, Lydney, Forest of Dean, Gloucestershire, England, UK;347
 4G;234;10;122;16608;114563;148;51.609516449740724;-3.006462939083576;413 Malpas Road A4051, Malpas, Newport, Wales, UK;3725
 4G;234;10;110;16625;114586;72;51.545707035474734;-2.5669263303279877;Woodlands Court, Ash Ridge Rd, Bradley Stoke, Bristol, West of England, England, UK;6400
 4G;234;10;112;16625;114586;93;51.545707035474734;-2.5669263303279877;Woodlands Court, Ash Ridge Rd, Bradley Stoke, Bristol, West of England, England, UK;3725
@@ -7664,7 +7812,7 @@
 3G;234;10;27205;21705;705;310;51.586533565856506;-1.825520507991314;Purton Road, A4198, Swindon, Wiltshire, England, UK;3025
 3G;234;10;28311;21705;705;59;51.74798435357464;-2.187642864882946;Slad Transmitter, Bisley Road, Stroud, Gloucestershire, England, UK;3025
 3G;234;10;29622;21705;705;114;51.663051233069055;-1.941017434000969;Ashton Rd, Cirencester, Gloucestershire, England, UK;3025
-3G;234;10;29624;21705;705;36;51.67699450534934;-1.8938484415411947;Agricultural Centre, Spine Rd E, Cirencester, Gloucestershire, England, UK;3025
+3G;234;10;29624;21705;705;36;51.67699450534934;-1.8938484415411947;Cotswold Agricultural Centre, Off Spine Road Junction, Driffield, Cotswold District, Gloucestershire, England, UK;3025
 3G;234;10;30104;21705;705;48;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;3025
 3G;234;10;30332;21705;705;427;51.56128531438281;-1.7868507653474808;House Of Frazer, 44-54 Canal Walk, Swindon, Wiltshire, England, UK;3025
 3G;234;10;32298;21705;705;23;51.5622656;-1.766707;Queens Drive A4312, Walcot West, Swindon, Wiltshire, England, UK;3025
@@ -8853,6 +9001,30 @@
 4G;234;10;130;1249;512970;353;53.65814104657263;-0.6778545677661896;Gypsy Lane, Burton upon Stather, North Lincolnshire, England, UK;6400
 4G;234;10;120;1040;513340;61;52.890507070923455;-1.480056680738926;Reckitt Benckiser, Sinfin Lane, Peartree, Derby, East Midlands, England, UK;6400
 4G;234;10;120;160;513470;438;52.60910127753827;-1.6771158948540688;Plant Republic, 1b Claymore, Two Gates Industrial Estate, Two Gates, Tamworth, Staffordshire, England, UK;6400
+4G;234;15;10;8286;513702;284;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;6300
+4G;234;15;12;8286;513702;284;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;3501
+4G;234;15;15;8286;513702;284;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;223
+4G;234;15;20;8286;513702;283;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;6300
+4G;234;15;22;8286;513702;283;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;3501
+4G;234;15;25;8286;513702;283;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;223
+4G;234;15;30;8286;513702;282;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;6300
+4G;234;15;32;8286;513702;282;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;3501
+4G;234;15;35;8286;513702;282;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;223
+4G;234;10;110;1248;513702;284;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;6400
+4G;234;10;112;1248;513702;284;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;3725
+4G;234;10;115;1248;513702;284;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;347
+4G;234;10;120;1248;513702;283;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;6400
+4G;234;10;122;1248;513702;283;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;3725
+4G;234;10;125;1248;513702;283;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;347
+4G;234;10;130;1248;513702;282;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;6400
+4G;234;10;132;1248;513702;282;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;3725
+4G;234;10;135;1248;513702;282;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;347
+4G;234;10;116;1248;513703;284;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;39250
+4G;234;10;117;1248;513703;284;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;39448
+4G;234;10;126;1248;513703;283;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;39250
+4G;234;10;127;1248;513703;283;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;39448
+4G;234;10;136;1248;513703;282;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;39250
+4G;234;10;137;1248;513703;282;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;39448
 4G;234;10;120;34784;513778;247;53.919016075888194;-0.6331196799874306;Kipling House Farm, Middleton on the Wolds, A614, East Riding of Yorkshire, England, UK;6400
 4G;234;10;110;34448;513784;30;53.49142728923041;-1.214148849248886;Penistone and Doncaster Line, Cadeby Quarry, Garden Lane, Cadeby, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;120;34448;513784;31;53.49142728923041;-1.214148849248886;Penistone and Doncaster Line, Cadeby Quarry, Garden Lane, Cadeby, Doncaster, South Yorkshire, England, UK;6400
@@ -8885,6 +9057,18 @@
 4G;234;10;110;1408;521032;305;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;6400
 4G;234;10;115;34784;521408;36;53.80493342879785;-0.42208146303892136;Park Lane, Woodmansey, East Riding of Yorkshire, England, UK;347
 4G;234;10;110;1040;521994;66;52.98282556519349;-1.4735888689756393;Eaton Bank, Duffield, Derbyshire, England, UK;6400
+4G;234;15;10;8286;522012;40;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;6300
+4G;234;15;15;8286;522012;40;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;223
+4G;234;15;20;8286;522012;41;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;6300
+4G;234;15;25;8286;522012;41;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;223
+4G;234;15;30;8286;522012;39;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;6300
+4G;234;15;35;8286;522012;39;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;223
+4G;234;10;110;1248;522012;40;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;6400
+4G;234;10;115;1248;522012;40;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;347
+4G;234;10;120;1248;522012;41;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;6400
+4G;234;10;125;1248;522012;41;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;347
+4G;234;10;130;1248;522012;39;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;6400
+4G;234;10;135;1248;522012;39;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;347
 4G;234;10;120;1040;522136;359;52.98814955228728;-1.4852383732795715;Duffield Railway Station, Donald Hawley Way, Duffield, Derbyshire, England, UK;6400
 4G;234;10;130;1040;522136;358;52.98814955228728;-1.4852383732795715;Duffield Railway Station, Donald Hawley Way, Duffield, Derbyshire, England, UK;6400
 4G;234;15;30;8267;522662;471;53.62405315147383;-0.5750495195388794;Risby Road, Appleby, North Lincolnshire, England, UK;6300
@@ -8896,6 +9080,36 @@
 4G;234;10;122;4099;523246;268;51.48191616701734;-0.6245476752519608;106A Albert St, Windsor, Berkshire, England, UK;3725
 4G;234;10;132;4099;523246;269;51.48191616701734;-0.6245476752519608;106A Albert St, Windsor, Berkshire, England, UK;3725
 4G;234;10;120;34784;523472;421;53.786714342786844;-0.6486013904213905;Hotham Road, North Cave, East Riding of Yorkshire, England, UK;6400
+4G;234;15;10;8286;523352;351;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;6300
+4G;234;15;12;8286;523352;351;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;3501
+4G;234;15;15;8286;523352;351;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;223
+4G;234;15;20;8286;523352;352;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;6300
+4G;234;15;22;8286;523352;352;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;3501
+4G;234;15;25;8286;523352;352;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;223
+4G;234;15;30;8286;523352;353;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;6300
+4G;234;15;32;8286;523352;353;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;3501
+4G;234;15;35;8286;523352;353;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;223
+4G;234;10;110;1248;523352;351;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;6400
+4G;234;10;112;1248;523352;351;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;3725
+4G;234;10;114;1248;523352;351;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;1226
+4G;234;10;115;1248;523352;351;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;347
+4G;234;10;119;1248;523352;351;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;9260
+4G;234;10;120;1248;523352;352;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;6400
+4G;234;10;122;1248;523352;352;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;3725
+4G;234;10;124;1248;523352;352;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;1226
+4G;234;10;125;1248;523352;352;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;347
+4G;234;10;129;1248;523352;352;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;9260
+4G;234;10;130;1248;523352;353;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;6400
+4G;234;10;132;1248;523352;353;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;3725
+4G;234;10;134;1248;523352;353;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;1226
+4G;234;10;135;1248;523352;353;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;347
+4G;234;10;139;1248;523352;353;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;9260
+4G;234;10;116;1248;523353;351;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;39250
+4G;234;10;117;1248;523353;351;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;39448
+4G;234;10;126;1248;523353;352;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;39250
+4G;234;10;127;1248;523353;352;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;39448
+4G;234;10;136;1248;523353;353;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;39250
+4G;234;10;137;1248;523353;353;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;39448
 4G;234;10;112;34448;523690;183;53.264721222437394;-1.4412625506520271;Chesterfield Panthers, Dunston Road B6050, Chesterfield, Derbyshire, England, UK;3725
 4G;234;15;10;41066;523691;183;53.264721222437394;-1.4412625506520271;Chesterfield Panthers, Dunston Road B6050, Chesterfield, Derbyshire, England, UK;6300
 4G;234;10;110;4096;523802;277;51.448511437716505;-0.5267704278230667;2 Moor Ln, Staines-upon-Thames, Surrey, England, UK;6400
@@ -9187,13 +9401,40 @@
 4G;234;10;130;34880;547484;422;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;116;34784;547633;233;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;117;34784;547633;233;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39448
+4G;234;10;110;17184;547731;180;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;6400
+4G;234;10;112;17184;547731;180;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;3725
+4G;234;10;115;17184;547731;180;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;347
+4G;234;10;120;17184;547731;181;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;6400
+4G;234;10;122;17184;547731;181;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;3725
+4G;234;10;125;17184;547731;181;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;347
+4G;234;10;130;17184;547731;182;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;6400
+4G;234;10;132;17184;547731;182;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;3725
+4G;234;10;135;17184;547731;182;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;347
+4G;234;10;116;17184;547732;180;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;39250
+4G;234;10;117;17184;547732;180;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;39448
 4G;234;10;126;17184;547732;181;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;39250
 4G;234;10;127;17184;547732;181;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;39448
 4G;234;10;136;17184;547732;182;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;39250
+4G;234;10;137;17184;547732;182;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;39448
 4G;234;10;114;16625;547772;473;51.45203566147078;-2.5926054641604424;Three Brothers Burgers, 5 Welsh Back, Old City, Bristol, West of England, England, UK;1228
 4G;234;10;136;34784;547831;88;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];39250
 4G;234;10;137;34784;547831;88;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];39448
 4G;234;10;136;34880;547950;396;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;39250
+4G;234;10;110;17184;548079;456;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;6400
+4G;234;10;112;17184;548079;456;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;3725
+4G;234;10;115;17184;548079;456;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;347
+4G;234;10;120;17184;548079;457;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;6400
+4G;234;10;122;17184;548079;457;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;3725
+4G;234;10;125;17184;548079;457;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;347
+4G;234;10;130;17184;548079;458;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;6400
+4G;234;10;132;17184;548079;458;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;3725
+4G;234;10;135;17184;548079;458;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;347
+4G;234;10;116;17184;548080;456;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;39250
+4G;234;10;117;17184;548080;456;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;39448
+4G;234;10;126;17184;548080;457;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;39250
+4G;234;10;127;17184;548080;457;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;39448
+4G;234;10;136;17184;548080;458;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;39250
+4G;234;10;137;17184;548080;458;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;39448
 4G;234;10;114;16625;548246;140;51.456695484874125;-2.5928790494799614;The Island, Nelson Street, Broadmead, Bristol, West of England, England, UK;1228
 4G;234;10;120;4099;600111;448;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;6400
 4G;234;10;122;4099;600111;400;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;3725
@@ -9239,6 +9480,12 @@
 5G;234;10;254542339;117072;0;147;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;152690
 5G;234;10;254542349;117072;0;148;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;152690
 5G;234;10;254542359;117072;0;149;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;152690
+5G;234;10;259746253;101248;0;629;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;152690
+5G;234;10;259746254;101248;0;627;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;152690
+5G;234;10;259746255;101248;0;628;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;152690
+5G;234;10;259749253;101248;0;629;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;648768
+5G;234;10;259749254;101248;0;627;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;648768
+5G;234;10;259749255;101248;0;628;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;648768
 5G;234;10;260276739;117072;0;13;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;152690
 5G;234;10;312898949;116625;0;450;51.45198915193467;-2.59651188644716;Fika, 4 Broad Quay, Old City, Bristol, West of England, England, UK;651360
 5G;234;10;318797189;116625;0;255;51.453401248052415;-2.6012203696622596;Frogmore Street, City Centre, Bristol, West of England, England, UK;651360

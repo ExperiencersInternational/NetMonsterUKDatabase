@@ -8,7 +8,7 @@ Import onto your device by opening the NetMonster app > Menu > Database > Import
 
 These areas should have at least 10% coverage on at least one operator on 4G. This will probably get added to in the future. Some of these areas may be limited to something as simple as sites along a major road or railway, so this does not guarantee that you will have any data in your specific area.
 
-Abergavenny, Barry, Barton-upon-Humber, Bath, Brecon, Bristol, Brough, Caldicot, Cardiff, Cardigan, Cheltenham, Chepstow, Chippenham, Cinderford, Cirencester, Coleford, Derby, Doncaster, Dursley, Frome, Gloucester, Goole, Hessle, Hull, Keynsham, Lampeter, Ledbury, Mitcheldean, Monmouth, Newport, New Quay (Ceredigion), Reading, Ross-on-Wye, Rotherham, Sheffield, Slough, Stonehouse, Stroud, Swindon, Tamworth, Tewkesbury, Trowbridge, Windsor, Worcester, Weston-super-mare, Yate
+Abergavenny, Barry, Barton-upon-Humber, Bath, Boston, Brecon, Bristol, Brough, Caldicot, Cardiff, Cardigan, Cheltenham, Chepstow, Chippenham, Cinderford, Cirencester, Coleford, Derby, Doncaster, Dursley, Frome, Gloucester, Goole, Hessle, Hull, Keynsham, Lampeter, Ledbury, Lydney, Mitcheldean, Monmouth, Newport, New Quay (Ceredigion), Reading, Ross-on-Wye, Rotherham, Sheffield, Slough, Stonehouse, Stroud, Swindon, Tamworth, Tewkesbury, Trowbridge, Windsor, Worcester, Weston-super-mare, Yate
 
 <img width="1056" height="870" alt="A OpenStreetMap map with various coloured points for each network, with a lot of blue primarily for O2. You can see from around Brighton to Corrour." src="https://github.com/user-attachments/assets/029c9124-d98e-438c-a678-759c2a3581e4" />
 
