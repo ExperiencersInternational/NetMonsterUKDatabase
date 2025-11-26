@@ -3275,6 +3275,18 @@
 4G;234;20;0;2636;10500;381;52.157227797240395;-4.454161114990711;Penyrallt, Llangrannog, Ceredigion, Wales, UK;1363
 4G;234;20;2;2636;10500;458;52.157227797240395;-4.454161114990711;Penyrallt, Llangrannog, Ceredigion, Wales, UK;1363
 4G;234;20;2;3836;10505;473;53.69637834787492;-0.8755501359701157;Dutch River Side, Goole Dock, Goole, East Riding of Yorkshire, England, UK;1363
+4G;234;15;10;24626;10560;449;51.203240972484934;-2.6484593527425604;Premier Inn Wells, East Somerset Way A371, Cathedral Park, Wells, Somerset, England, UK;6300
+4G;234;15;14;24626;10560;360;51.203240972484934;-2.6484593527425604;Premier Inn Wells, East Somerset Way A371, Cathedral Park, Wells, Somerset, England, UK;223
+4G;234;15;20;24626;10560;448;51.203240972484934;-2.6484593527425604;Premier Inn Wells, East Somerset Way A371, Cathedral Park, Wells, Somerset, England, UK;6300
+4G;234;15;24;24626;10560;361;51.203240972484934;-2.6484593527425604;Premier Inn Wells, East Somerset Way A371, Cathedral Park, Wells, Somerset, England, UK;223
+4G;234;15;30;24626;10560;447;51.203240972484934;-2.6484593527425604;Premier Inn Wells, East Somerset Way A371, Cathedral Park, Wells, Somerset, England, UK;6300
+4G;234;15;34;24626;10560;362;51.203240972484934;-2.6484593527425604;Premier Inn Wells, East Somerset Way A371, Cathedral Park, Wells, Somerset, England, UK;223
+4G;234;10;110;16833;10560;449;51.203240972484934;-2.6484593527425604;Premier Inn Wells, East Somerset Way A371, Cathedral Park, Wells, Somerset, England, UK;6400
+4G;234;10;114;16833;10560;449;51.203240972484934;-2.6484593527425604;Premier Inn Wells, East Somerset Way A371, Cathedral Park, Wells, Somerset, England, UK;347
+4G;234;10;120;16833;10560;448;51.203240972484934;-2.6484593527425604;Premier Inn Wells, East Somerset Way A371, Cathedral Park, Wells, Somerset, England, UK;6400
+4G;234;10;124;16833;10560;448;51.203240972484934;-2.6484593527425604;Premier Inn Wells, East Somerset Way A371, Cathedral Park, Wells, Somerset, England, UK;347
+4G;234;10;130;16833;10560;447;51.203240972484934;-2.6484593527425604;Premier Inn Wells, East Somerset Way A371, Cathedral Park, Wells, Somerset, England, UK;6400
+4G;234;10;134;16833;10560;447;51.203240972484934;-2.6484593527425604;Premier Inn Wells, East Somerset Way A371, Cathedral Park, Wells, Somerset, England, UK;347
 4G;234;20;7;2414;10569;200;51.70162157842014;-2.3804115504026413;Field Ln, Dursley, Gloucestershire, England, UK;6175
 4G;234;20;1;2464;10597;332;51.74819089190311;-2.2477494925260544;Prince of Wales Inn, Cashes Green Road, Cashes Green, Stroud, Gloucestershire, England, UK;1363
 4G;234;20;2;2464;10597;332;51.74819089190311;-2.2477494925260544;Prince of Wales Inn, Cashes Green Road, Cashes Green, Stroud, Gloucestershire, England, UK;1363
@@ -3343,6 +3355,21 @@
 4G;234;10;110;16816;11031;3;52.08993543706667;-4.6453070640563965;5 Aberystwyth Rd, New Town, Cardigan, Ceredigion, Wales, UK;6400
 4G;234;10;120;16816;11031;4;52.08993543706667;-4.6453070640563965;5 Aberystwyth Rd, New Town, Cardigan, Ceredigion, Wales, UK;6400
 4G;234;10;130;16816;11031;5;52.08993543706667;-4.6453070640563965;5 Aberystwyth Rd, New Town, Cardigan, Ceredigion, Wales, UK;6400
+4G;234;15;10;24626;11067;393;51.20968664199964;-2.6516242710457787;Waitrose, Whiting Way, Wells, Somerset, England, UK;6300
+4G;234;15;12;24626;11067;393;51.20968664199964;-2.6516242710457787;Waitrose, Whiting Way, Wells, Somerset, England, UK;3501
+4G;234;15;14;24626;11067;393;51.20968664199964;-2.6516242710457787;Waitrose, Whiting Way, Wells, Somerset, England, UK;223
+4G;234;15;20;24626;11067;394;51.20968664199964;-2.6516242710457787;Waitrose, Whiting Way, Wells, Somerset, England, UK;6300
+4G;234;15;22;24626;11067;394;51.20968664199964;-2.6516242710457787;Waitrose, Whiting Way, Wells, Somerset, England, UK;3501
+4G;234;15;24;24626;11067;394;51.20968664199964;-2.6516242710457787;Waitrose, Whiting Way, Wells, Somerset, England, UK;223
+4G;234;15;30;24626;11067;395;51.20968664199964;-2.6516242710457787;Waitrose, Whiting Way, Wells, Somerset, England, UK;6300
+4G;234;15;32;24626;11067;395;51.20968664199964;-2.6516242710457787;Waitrose, Whiting Way, Wells, Somerset, England, UK;3501
+4G;234;15;34;24626;11067;395;51.20968664199964;-2.6516242710457787;Waitrose, Whiting Way, Wells, Somerset, England, UK;223
+4G;234;10;110;16833;11067;393;51.20968664199964;-2.6516242710457787;Waitrose, Whiting Way, Wells, Somerset, England, UK;6400
+4G;234;10;114;16833;11067;131;51.20968664199964;-2.6516242710457787;Waitrose, Whiting Way, Wells, Somerset, England, UK;347
+4G;234;10;120;16833;11067;394;51.20968664199964;-2.6516242710457787;Waitrose, Whiting Way, Wells, Somerset, England, UK;6400
+4G;234;10;124;16833;11067;129;51.20968664199964;-2.6516242710457787;Waitrose, Whiting Way, Wells, Somerset, England, UK;347
+4G;234;10;130;16833;11067;395;51.20968664199964;-2.6516242710457787;Waitrose, Whiting Way, Wells, Somerset, England, UK;6400
+4G;234;10;134;16833;11067;130;51.20968664199964;-2.6516242710457787;Waitrose, Whiting Way, Wells, Somerset, England, UK;347
 4G;234;10;110;49809;11071;366;52.18630976015476;-2.213788703083992;49 London Road A44, Red Hill, Worcester, Worcestershire, England, UK;6400
 4G;234;10;120;49809;11071;367;52.18630976015476;-2.213788703083992;49 London Road A44, Red Hill, Worcester, Worcestershire, England, UK;6400
 4G;234;20;0;2123;11096;351;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK;1363
@@ -6776,18 +6803,29 @@
 4G;234;10;130;16576;101827;287;51.44132988811676;-1.42486821860075;107 Newbury Rd, Wickham, Newbury, West Berkshire, England, UK;6400
 4G;234;10;132;16576;101827;481;51.44132988811676;-1.42486821860075;107 Newbury Rd, Wickham, Newbury, West Berkshire, England, UK;3725
 4G;234;10;110;16544;101829;108;51.5465533490396;-1.8335657939314842;Great Western Way A3102, Blagrove, Swindon, Wiltshire, England, UK [Cornerstone];6400
+4G;234;10;114;16544;101829;190;51.5465533490396;-1.8335657939314842;Great Western Way A3102, Blagrove, Swindon, Wiltshire, England, UK [Cornerstone];347
 4G;234;10;120;16544;101829;109;51.5465533490396;-1.8335657939314842;Great Western Way A3102, Blagrove, Swindon, Wiltshire, England, UK [Cornerstone];6400
+4G;234;10;124;16544;101829;191;51.5465533490396;-1.8335657939314842;Great Western Way A3102, Blagrove, Swindon, Wiltshire, England, UK [Cornerstone];347
+4G;234;10;130;16544;101829;110;51.5465533490396;-1.8335657939314842;Great Western Way A3102, Blagrove, Swindon, Wiltshire, England, UK [Cornerstone];6400
+4G;234;10;134;16544;101829;189;51.5465533490396;-1.8335657939314842;Great Western Way A3102, Blagrove, Swindon, Wiltshire, England, UK [Cornerstone];347
 4G;234;10;110;16544;101832;192;51.575815185718454;-1.7293059825897217;Swindon truck stop, Oxford Rd, Swindon, Wiltshire, England, UK;6400
 4G;234;10;114;16544;101832;33;51.575815185718454;-1.7293059825897217;Swindon truck stop, Oxford Rd, Swindon, Wiltshire, England, UK;347
 4G;234;10;120;16544;101832;193;51.575815185718454;-1.7293059825897217;Swindon truck stop, Oxford Rd, Swindon, Wiltshire, England, UK;6400
 4G;234;10;124;16544;101832;34;51.575815185718454;-1.7293059825897217;Swindon truck stop, Oxford Rd, Swindon, Wiltshire, England, UK;347
 4G;234;10;130;16544;101832;194;51.575815185718454;-1.7293059825897217;Swindon truck stop, Oxford Rd, Swindon, Wiltshire, England, UK;6400
 4G;234;10;134;16544;101832;35;51.575815185718454;-1.7293059825897217;Swindon truck stop, Oxford Rd, Swindon, Wiltshire, England, UK;347
+4G;234;10;110;16544;101834;411;51.567457654046436;-1.7955719679594038;Bridgewater Close, Bridgewater Cl, Hawksworth Trading Estate, Swindon, Wiltshire, England, UK;6400
 4G;234;10;114;16544;101834;444;51.567457654046436;-1.7955719679594038;Bridgewater Close, Bridgewater Cl, Hawksworth Trading Estate, Swindon, Wiltshire, England, UK;347
 4G;234;10;120;16544;101834;412;51.567457654046436;-1.7955719679594038;Bridgewater Close, Bridgewater Cl, Hawksworth Trading Estate, Swindon, Wiltshire, England, UK;6400
 4G;234;10;124;16544;101834;445;51.567457654046436;-1.7955719679594038;Bridgewater Close, Bridgewater Cl, Hawksworth Trading Estate, Swindon, Wiltshire, England, UK;347
+4G;234;10;130;16544;101834;413;51.567457654046436;-1.7955719679594038;Bridgewater Close, Bridgewater Cl, Hawksworth Trading Estate, Swindon, Wiltshire, England, UK;6400
+4G;234;10;134;16544;101834;446;51.567457654046436;-1.7955719679594038;Bridgewater Close, Bridgewater Cl, Hawksworth Trading Estate, Swindon, Wiltshire, England, UK;347
+4G;234;10;110;16544;101835;144;51.56318764729937;-1.7711487784981728;The Magic Roundabout, Shrivenham Rd, Swindon, Wiltshire, England, UK;6400
+4G;234;10;114;16544;101835;162;51.56318764729937;-1.7711487784981728;The Magic Roundabout, Shrivenham Rd, Swindon, Wiltshire, England, UK;6400
 4G;234;10;120;16544;101835;145;51.56318764729937;-1.7711487784981728;The Magic Roundabout, Shrivenham Rd, Swindon, Wiltshire, England, UK;6400
-4G;234;10;124;16544;101835;4;51.56318764729937;-1.7711487784981728;The Magic Roundabout, Shrivenham Rd, Swindon, Wiltshire, England, UK;6400
+4G;234;10;124;16544;101835;164;51.56318764729937;-1.7711487784981728;The Magic Roundabout, Shrivenham Rd, Swindon, Wiltshire, England, UK;6400
+4G;234;10;130;16544;101835;146;51.56318764729937;-1.7711487784981728;The Magic Roundabout, Shrivenham Rd, Swindon, Wiltshire, England, UK;6400
+4G;234;10;134;16544;101835;163;51.56318764729937;-1.7711487784981728;The Magic Roundabout, Shrivenham Rd, Swindon, Wiltshire, England, UK;6400
 4G;234;10;110;16576;101844;387;51.50943274801676;-1.6192184016108513;Baydon Rd, Marlborough, Wiltshire, England, UK;6400
 4G;234;10;112;16576;101844;207;51.50943274801676;-1.6192184016108513;Baydon Rd, Marlborough, Wiltshire, England, UK;3725
 4G;234;10;114;16576;101844;342;51.50943274801676;-1.6192184016108513;Baydon Rd, Marlborough, Wiltshire, England, UK;347
@@ -6869,7 +6907,7 @@
 4G;234;10;130;17072;102929;398;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;6400
 4G;234;10;132;17072;102929;475;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;3725
 4G;234;10;134;17072;102929;132;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK;347
-4G;234;10;110;16544;102980;123;51.56434543230909;-1.8177876994013786;Bridgemead Business Centre, Glenmore Business Park, Bridgemead Cl, Westmead, Swindon, Wiltshire, England, UK;6400
+4G;234;10;110;16544;102980;93;51.56434543230909;-1.8177876994013786;Bridgemead Business Centre, Glenmore Business Park, Bridgemead Cl, Westmead, Swindon, Wiltshire, England, UK;6400
 4G;234;10;110;17072;102982;432;51.858060298215975;-2.233087532222271;1 St James Street, Barton, Gloucester, Gloucestershire, England, UK;6400
 4G;234;10;114;17072;102982;475;51.858060298215975;-2.233087532222271;1 St James Street, Barton, Gloucester, Gloucestershire, England, UK;347
 4G;234;10;120;17072;102982;433;51.858060298215975;-2.233087532222271;1 St James Street, Barton, Gloucester, Gloucestershire, England, UK;6400
@@ -7355,11 +7393,6 @@
 4G;234;10;132;17072;107709;346;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;3725
 4G;234;10;134;17072;107709;346;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;347
 4G;234;10;136;17072;107709;346;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;1226
-4G;234;10;114;16544;107868;301;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;347
-4G;234;10;120;16544;107868;214;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;6400
-4G;234;10;124;16544;107868;302;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;347
-4G;234;10;130;16544;107868;215;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;6400
-4G;234;10;134;16544;107868;300;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;347
 4G;234;10;120;16544;107943;94;51.74333045217643;-1.9606827199459078;White Way, Cirencester, Gloucestershire, England, UK;6400
 4G;234;10;130;16544;107943;95;51.74333045217643;-1.9606827199459078;White Way, Cirencester, Gloucestershire, England, UK;6400
 4G;234;10;110;17072;108012;240;52.00018889559687;-2.1105890348553658;Northway Trading Estate, Northway Lane, Northway, Tewkesbury, Gloucestershire, England, UK;6400
@@ -7438,12 +7471,15 @@
 4G;234;10;124;17072;111440;178;51.859390499254374;-2.2631286084651947;Sudmeadow Park, 10 Spinnaker Road, Hempsted, Gloucester, Gloucestershire, England, UK;347
 4G;234;10;130;17072;111440;272;51.859390499254374;-2.2631286084651947;Sudmeadow Park, 10 Spinnaker Road, Hempsted, Gloucester, Gloucestershire, England, UK;6400
 4G;234;10;134;17072;111440;179;51.859390499254374;-2.2631286084651947;Sudmeadow Park, 10 Spinnaker Road, Hempsted, Gloucester, Gloucestershire, England, UK;347
-4G;234;10;110;16544;111907;4;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;6400
+4G;234;10;110;16544;111907;13;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;6400
 4G;234;10;112;16544;111907;367;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;3725
 4G;234;10;114;16544;111907;13;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;347
 4G;234;10;120;16544;111907;14;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;6400
 4G;234;10;122;16544;111907;368;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;3725
 4G;234;10;124;16544;111907;14;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;347
+4G;234;10;130;16544;111907;12;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;6400
+4G;234;10;132;16544;111907;366;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;3725
+4G;234;10;134;16544;111907;12;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;347
 4G;234;10;110;16625;112377;97;51.44899431862987;-2.5659744814038277;Kenneth Steele House, Off Feeder Road, St Philip's Marsh, Bristol, West of England, England, UK;6400
 4G;234;10;114;16625;112377;97;51.44899431862987;-2.5659744814038277;Kenneth Steele House, Off Feeder Road, St Philip's Marsh, Bristol, West of England, England, UK;347
 4G;234;10;130;16625;112377;98;51.44899431862987;-2.5659744814038277;Kenneth Steele House, Off Feeder Road, St Philip's Marsh, Bristol, West of England, England, UK;6400
@@ -7903,7 +7939,12 @@
 4G;234;10;130;16625;116463;350;51.54882866392127;-2.340717203915119;New Tyning Lane, Little Sodbury, South Gloucestershire, West of England, England, UK;6400
 4G;234;10;110;17153;116537;60;51.49760644847078;-2.0545989274978638;Foxham Road, Great Western Main Line, Christian Malford, Wiltshire, England, UK;6400
 4G;234;10;120;17153;116537;61;51.49760644847078;-2.0545989274978638;Foxham Road, Great Western Main Line, Christian Malford, Wiltshire, England, UK;6400
+4G;234;10;115;16544;116583;1;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;39250
 4G;234;10;117;16544;116583;4;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;39448
+4G;234;10;125;16544;116583;2;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;39250
+4G;234;10;127;16544;116583;5;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;39448
+4G;234;10;135;16544;116583;0;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;39250
+4G;234;10;137;16544;116583;3;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;39448
 4G;234;10;110;17072;116631;265;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;6400
 4G;234;10;112;17072;116631;265;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;3725
 4G;234;10;114;17072;116631;265;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;347
@@ -8129,6 +8170,15 @@
 4G;234;10;130;16609;122681;74;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;6400
 4G;234;10;134;16609;122681;14;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;347
 4G;234;10;110;17072;122841;77;52.0712892187182;-2.1623462811112404;M5 North, Hill Croome, Worcestershire, England, UK [Cornerstone];3725
+4G;234;10;110;16544;123344;64;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;6400
+4G;234;10;112;16544;123344;64;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;3725
+4G;234;10;114;16544;123344;64;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;347
+4G;234;10;120;16544;123344;65;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;6400
+4G;234;10;122;16544;123344;65;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;3725
+4G;234;10;124;16544;123344;65;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;347
+4G;234;10;130;16544;123344;63;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;6400
+4G;234;10;132;16544;123344;63;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;3725
+4G;234;10;134;16544;123344;63;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;347
 4G;234;10;115;17072;123383;345;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;39250
 4G;234;10;117;17072;123383;345;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;39448
 4G;234;10;125;17072;123383;347;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;39250
@@ -8604,16 +8654,70 @@
 3G;234;10;62832;19111;982;3;51.746845;-2.2239596;O2 Boostbox, Tesco, Stratford Road, Stroud, Gloucestershire, England, UK;10637
 3G;234;10;62907;18511;982;1;51.846714;-2.19973;O2 Boostbox, Tesco Express, Mead Road, Abbeydale, Gloucester, Gloucestershire, England, UK;10637
 3G;234;10;63517;19911;982;3;51.87106679183598;-2.249291092157364;O2 Boostbox, Tesco, St Oswalds Road, Gloucester, Gloucestershire, England, UK;10637
-4G;234;15;32;6190;500003;27;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;3624
+4G;234;15;10;6190;500003;28;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;6300
+4G;234;15;12;6190;500003;28;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;3501
+4G;234;15;15;6190;500003;28;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;247
+4G;234;15;20;6190;500003;29;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;6300
+4G;234;15;22;6190;500003;29;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;3501
+4G;234;15;25;6190;500003;29;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;247
+4G;234;15;30;6190;500003;27;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;6300
+4G;234;15;32;6190;500003;27;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;3501
+4G;234;15;35;6190;500003;27;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;247
+4G;234;10;110;4096;500003;28;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;6400
+4G;234;10;112;4096;500003;28;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;3725
+4G;234;10;114;4096;500003;28;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;1226
+4G;234;10;115;4096;500003;28;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;347
 4G;234;10;120;4096;500003;29;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;6400
+4G;234;10;122;4096;500003;29;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;3725
+4G;234;10;124;4096;500003;29;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;1226
+4G;234;10;125;4096;500003;29;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;347
+4G;234;10;130;4096;500003;27;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;6400
+4G;234;10;132;4096;500003;27;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;3725
+4G;234;10;134;4096;500003;27;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;1226
+4G;234;10;135;4096;500003;27;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;347
+4G;234;10;116;4096;500004;28;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;39250
+4G;234;10;117;4096;500004;28;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;39448
+4G;234;10;126;4096;500004;29;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;39250
+4G;234;10;127;4096;500004;29;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;39448
+4G;234;10;136;4096;500004;27;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;39250
+4G;234;10;137;4096;500004;27;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;39448
 4G;234;10;150;4096;500031;296;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;6400
-4G;234;15;25;6190;500051;110;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;247
-4G;234;10;110;4099;500051;474;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;6400
+4G;234;10;110;4099;500051;332;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;6400
+4G;234;10;112;4099;500051;332;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;3725
+4G;234;10;114;4099;500051;332;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;1226
+4G;234;10;115;4099;500051;332;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;347
 4G;234;10;120;4099;500051;331;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;6400
+4G;234;10;122;4099;500051;331;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;3725
+4G;234;10;124;4099;500051;331;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;1226
+4G;234;10;125;4099;500051;331;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;347
+4G;234;10;130;4099;500051;330;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;6400
+4G;234;10;132;4099;500051;330;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;3725
+4G;234;10;134;4099;500051;330;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;1226
+4G;234;10;135;4099;500051;330;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;347
+4G;234;10;116;4099;500052;332;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;39250
+4G;234;10;117;4099;500052;332;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;39448
+4G;234;10;126;4099;500052;331;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;39250
+4G;234;10;127;4099;500052;331;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;39448
+4G;234;10;136;4099;500052;330;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;39250
+4G;234;10;137;4099;500052;330;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;39448
+4G;234;10;110;4099;500217;370;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];6400
+4G;234;10;112;4099;500217;370;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];3725
+4G;234;10;114;4099;500217;370;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];1226
+4G;234;10;115;4099;500217;370;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];347
 4G;234;10;120;4099;500217;371;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];6400
-4G;234;10;122;4099;500217;363;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];3725
+4G;234;10;122;4099;500217;371;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];3725
+4G;234;10;124;4099;500217;371;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];1226
+4G;234;10;125;4099;500217;371;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];347
 4G;234;10;130;4099;500217;369;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];6400
+4G;234;10;132;4099;500217;369;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];3725
+4G;234;10;134;4099;500217;369;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];1226
+4G;234;10;135;4099;500217;369;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];347
+4G;234;10;116;4099;500218;370;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];39250
+4G;234;10;117;4099;500218;370;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];39448
+4G;234;10;126;4099;500218;371;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];39250
+4G;234;10;127;4099;500218;371;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];39448
 4G;234;10;136;4099;500218;369;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];39250
+4G;234;10;137;4099;500218;369;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];39448
 4G;234;10;130;34448;500891;39;53.43520509309359;-1.3577331975102425;Rawmarsh Road, Eastwood, Rotherham, South Yorkshire, England, UK;6400
 4G;234;10;135;34448;500891;39;53.43520509309359;-1.3577331975102425;Rawmarsh Road, Eastwood, Rotherham, South Yorkshire, England, UK;347
 4G;234;15;35;41065;500892;39;53.43520509309359;-1.3577331975102425;Rawmarsh Road, Eastwood, Rotherham, South Yorkshire, England, UK;223
@@ -8667,8 +8771,20 @@
 4G;234;15;25;41065;501876;349;53.451423038835244;-1.3416674360632896;Cross Street, Parkgate, Rotherham, South Yorkshire, England, UK;223
 4G;234;15;35;41065;501876;348;53.451423038835244;-1.3416674360632896;Cross Street, Parkgate, Rotherham, South Yorkshire, England, UK;223
 4G;234;10;110;4099;502205;308;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;6400
+4G;234;10;114;4099;502205;308;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;1226
+4G;234;10;115;4099;502205;308;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;347
 4G;234;10;120;4099;502205;307;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;6400
+4G;234;10;124;4099;502205;307;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;1226
+4G;234;10;125;4099;502205;307;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;347
 4G;234;10;130;4099;502205;306;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;6400
+4G;234;10;134;4099;502205;306;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;1226
+4G;234;10;135;4099;502205;306;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;347
+4G;234;10;116;4099;502206;308;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;39250
+4G;234;10;117;4099;502206;308;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;39448
+4G;234;10;126;4099;502206;307;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;39250
+4G;234;10;127;4099;502206;307;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;39448
+4G;234;10;136;4099;502206;306;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;39250
+4G;234;10;137;4099;502206;306;51.49355407618951;-0.5792012438178062;M4, Datchet, Slough, Berkshire, England, UK;39448
 4G;234;10;130;4099;502231;209;51.51337166200327;-0.6272681057453156;The Westgate School, 161 Cippenham Ln, Slough, Berkshire, England, UK;6400
 4G;234;10;132;4099;502231;398;51.51337166200327;-0.6272681057453156;The Westgate School, 161 Cippenham Ln, Slough, Berkshire, England, UK;3725
 4G;234;10;122;4099;502423;363;51.52094054860897;-0.6481819599866867;462 Bath Rd, Slough, Berkshire, England, UK;3725
@@ -8746,7 +8862,18 @@
 4G;234;15;30;41065;503842;128;53.46721068003169;-1.2944132834672928;Hooton Lodge Farm, Kilnhurst Road B6090, Hooton Roberts, Rotherham, South Yorkshire, England, UK;6300
 4G;234;10;130;34448;503845;106;53.43054762758996;-1.287444569170475;Ruby Cook Recreation Ground, Flanderwell Lane, Flanderwell, Rotherham, South Yorkshire, England, UK;6400
 4G;234;15;30;41065;503846;106;53.43054762758996;-1.287444569170475;Ruby Cook Recreation Ground, Flanderwell Lane, Flanderwell, Rotherham, South Yorkshire, England, UK;6300
-4G;234;10;120;4099;503875;355;51.5027345395394;-0.5898164212703705;Red Cow Roundabout, Slough, Berkshire, England, UK;6400
+4G;234;10;110;4099;503875;304;51.5027345395394;-0.5898164212703705;Red Cow Roundabout, Slough, Berkshire, England, UK;6400
+4G;234;10;115;4099;503875;304;51.5027345395394;-0.5898164212703705;Red Cow Roundabout, Slough, Berkshire, England, UK;347
+4G;234;10;120;4099;503875;305;51.5027345395394;-0.5898164212703705;Red Cow Roundabout, Slough, Berkshire, England, UK;6400
+4G;234;10;125;4099;503875;305;51.5027345395394;-0.5898164212703705;Red Cow Roundabout, Slough, Berkshire, England, UK;347
+4G;234;10;130;4099;503875;303;51.5027345395394;-0.5898164212703705;Red Cow Roundabout, Slough, Berkshire, England, UK;6400
+4G;234;10;135;4099;503875;303;51.5027345395394;-0.5898164212703705;Red Cow Roundabout, Slough, Berkshire, England, UK;347
+4G;234;10;116;4099;503876;304;51.5027345395394;-0.5898164212703705;Red Cow Roundabout, Slough, Berkshire, England, UK;39250
+4G;234;10;117;4099;503876;304;51.5027345395394;-0.5898164212703705;Red Cow Roundabout, Slough, Berkshire, England, UK;39448
+4G;234;10;126;4099;503876;305;51.5027345395394;-0.5898164212703705;Red Cow Roundabout, Slough, Berkshire, England, UK;39250
+4G;234;10;127;4099;503876;305;51.5027345395394;-0.5898164212703705;Red Cow Roundabout, Slough, Berkshire, England, UK;39448
+4G;234;10;136;4099;503876;303;51.5027345395394;-0.5898164212703705;Red Cow Roundabout, Slough, Berkshire, England, UK;39250
+4G;234;10;137;4099;503876;303;51.5027345395394;-0.5898164212703705;Red Cow Roundabout, Slough, Berkshire, England, UK;39448
 4G;234;10;110;32896;504257;458;53.37842621782611;-1.4628248289227486;Sheffield Railway Station (DAS System Sector 1), River Sheaf Walk, Sheaf Valley, Sheffield, South Yorkshire, England, UK;6400
 4G;234;10;114;32896;504257;458;53.37842621782611;-1.4628248289227486;Sheffield Railway Station (DAS System Sector 1), River Sheaf Walk, Sheaf Valley, Sheffield, South Yorkshire, England, UK;1226
 4G;234;15;10;40968;504258;458;53.37842621782611;-1.4628248289227486;Sheffield Railway Station (DAS System Sector 1), River Sheaf Walk, Sheaf Valley, Sheffield, South Yorkshire, England, UK;6300
@@ -8883,9 +9010,6 @@
 4G;234;10;132;34784;505985;168;53.781235722199376;-0.3915076330304146;Endyke Tyres, Endyke Lane, Hull, East Riding of Yorkshire, England, UK;3725
 4G;234;10;135;34784;505985;168;53.781235722199376;-0.3915076330304146;Endyke Tyres, Endyke Lane, Hull, East Riding of Yorkshire, England, UK;347
 4G;234;10;120;1040;506001;17;52.94998529835911;-1.4792044088244438;Palm Court Island Roundabout, Darley Abbey, Derby, East Midlands, England, UK;6400
-4G;234;10;120;4099;506009;325;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;6400
-4G;234;10;130;4099;506009;326;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;6400
-4G;234;10;127;4099;506010;325;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;39448
 4G;234;10;112;34784;506028;487;53.75720014360391;-0.4095042496919632;The Oddbottle, 262 Wold Road, East Ella, Hull, East Riding of Yorkshire, England, UK;3725
 4G;234;10;132;34784;506028;171;53.75720014360391;-0.4095042496919632;The Oddbottle, 262 Wold Road, East Ella, Hull, East Riding of Yorkshire, England, UK;3725
 4G;234;10;115;34784;506030;298;53.780277875641275;-0.34545812755823135;Ennerdale Leisure Centre, Sutton Road, Newland, Hull, East Riding of Yorkshire, England, UK [O2];347
@@ -9058,9 +9182,20 @@
 4G;234;15;25;41065;508023;471;53.49216731722733;-1.2608622014522552;Denaby WPC Works, Denaby Lane, Denaby Main, Doncaster, South Yorkshire, England, UK;223
 4G;234;15;35;41065;508023;471;53.49216731722733;-1.2608622014522552;Denaby WPC Works, Denaby Lane, Denaby Main, Doncaster, South Yorkshire, England, UK;223
 4G;234;10;110;4099;508194;378;51.512561454988855;-0.6716335192322731;18 W Town Farm, Maidenhead, Berkshire, England, UK;6400
+4G;234;10;114;4099;508194;378;51.512561454988855;-0.6716335192322731;18 W Town Farm, Maidenhead, Berkshire, England, UK;1226
+4G;234;10;115;4099;508194;378;51.512561454988855;-0.6716335192322731;18 W Town Farm, Maidenhead, Berkshire, England, UK;347
 4G;234;10;120;4099;508194;379;51.512561454988855;-0.6716335192322731;18 W Town Farm, Maidenhead, Berkshire, England, UK;6400
+4G;234;10;124;4099;508194;379;51.512561454988855;-0.6716335192322731;18 W Town Farm, Maidenhead, Berkshire, England, UK;1226
+4G;234;10;125;4099;508194;379;51.512561454988855;-0.6716335192322731;18 W Town Farm, Maidenhead, Berkshire, England, UK;347
+4G;234;10;130;4099;508194;380;51.512561454988855;-0.6716335192322731;18 W Town Farm, Maidenhead, Berkshire, England, UK;6400
+4G;234;10;134;4099;508194;380;51.512561454988855;-0.6716335192322731;18 W Town Farm, Maidenhead, Berkshire, England, UK;1226
+4G;234;10;135;4099;508194;380;51.512561454988855;-0.6716335192322731;18 W Town Farm, Maidenhead, Berkshire, England, UK;347
 4G;234;10;116;4099;508195;378;51.512561454988855;-0.6716335192322731;18 W Town Farm, Maidenhead, Berkshire, England, UK;39250
+4G;234;10;117;4099;508195;378;51.512561454988855;-0.6716335192322731;18 W Town Farm, Maidenhead, Berkshire, England, UK;39448
 4G;234;10;126;4099;508195;379;51.512561454988855;-0.6716335192322731;18 W Town Farm, Maidenhead, Berkshire, England, UK;39250
+4G;234;10;127;4099;508195;379;51.512561454988855;-0.6716335192322731;18 W Town Farm, Maidenhead, Berkshire, England, UK;39448
+4G;234;10;136;4099;508195;380;51.512561454988855;-0.6716335192322731;18 W Town Farm, Maidenhead, Berkshire, England, UK;39250
+4G;234;10;137;4099;508195;380;51.512561454988855;-0.6716335192322731;18 W Town Farm, Maidenhead, Berkshire, England, UK;39448
 4G;234;10;120;4099;508196;85;51.52239584720049;-0.6373850628733635;760 Henley Rd, Slough, Berkshire, England, UK;6400
 4G;234;10;132;34448;508300;428;53.20506102156974;-1.4073416590690613;Avenue Farm Grassmoor, Grassmoor, Derbyshire, England, UK;3725
 4G;234;15;30;41065;508301;428;53.20506102156974;-1.4073416590690613;Avenue Farm Grassmoor, Grassmoor, Derbyshire, England, UK;6300
@@ -9110,11 +9245,6 @@
 4G;234;15;30;41065;508779;399;53.48338109490148;-1.2749964371323586;4 Top Fold Cottages, The Green, Old Denaby, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;35;41065;508779;399;53.48338109490148;-1.2749964371323586;4 Top Fold Cottages, The Green, Old Denaby, Doncaster, South Yorkshire, England, UK;223
 4G;234;10;115;34784;508786;0;53.76349071626979;-0.32488491386175156;Chamberlain Business Centre, Clay Street, Stoneferry, Hull, East Riding of Yorkshire, England, UK;347
-4G;234;10;110;672;508898;456;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;6400
-4G;234;10;115;672;508898;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;347
-4G;234;10;120;672;508898;456;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;6400
-4G;234;10;117;672;508899;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;39448
-4G;234;10;127;672;508899;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;39448
 4G;234;10;130;160;508978;357;52.63799488277739;-1.6690343990921974;Brindley Drive, Glascote, Tamworth, Staffordshire, England, UK;6400
 4G;234;10;110;32897;509024;336;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;6400
 4G;234;10;114;32897;509024;336;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;1226
@@ -9139,19 +9269,43 @@
 4G;234;10;137;34784;509206;116;53.79357245563155;-0.33648815006017685;Padstow House, 83 Bodmin Road, Bransholme, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;10;110;4099;509414;354;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;6400
 4G;234;10;112;4099;509414;354;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;3725
+4G;234;10;114;4099;509414;354;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;1226
+4G;234;10;115;4099;509414;354;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;347
 4G;234;10;120;4099;509414;355;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;6400
 4G;234;10;122;4099;509414;355;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;3725
+4G;234;10;124;4099;509414;355;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;1226
+4G;234;10;125;4099;509414;355;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;347
 4G;234;10;130;4099;509414;356;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;6400
 4G;234;10;132;4099;509414;356;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;3725
+4G;234;10;134;4099;509414;356;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;1226
+4G;234;10;135;4099;509414;356;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;347
+4G;234;10;116;4099;509415;354;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;39250
+4G;234;10;117;4099;509415;354;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;39448
+4G;234;10;126;4099;509415;355;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;39250
+4G;234;10;127;4099;509415;355;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;39448
+4G;234;10;136;4099;509415;356;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;39250
+4G;234;10;137;4099;509415;356;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;39448
 4G;234;15;35;41092;509463;301;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;223
 4G;234;15;22;8271;509544;395;52.84130781061441;-1.6122537106275558;Field Farm Eggs Ltd, 19 Forge Lane, Stretton, Staffordshire, England, UK;3501
 4G;234;10;120;1408;509544;395;52.84130781061441;-1.6122537106275558;Field Farm Eggs Ltd, 19 Forge Lane, Stretton, Staffordshire, England, UK;6400
 4G;234;10;110;4099;509562;396;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;6400
 4G;234;10;112;4099;509562;396;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;3725
+4G;234;10;114;4099;509562;396;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;1226
+4G;234;10;115;4099;509562;396;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;347
 4G;234;10;120;4099;509562;397;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;6400
 4G;234;10;122;4099;509562;397;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;3725
+4G;234;10;124;4099;509562;397;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;1226
+4G;234;10;125;4099;509562;397;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;347
 4G;234;10;130;4099;509562;398;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;6400
 4G;234;10;132;4099;509562;398;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;3725
+4G;234;10;134;4099;509562;398;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;1226
+4G;234;10;135;4099;509562;398;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;347
+4G;234;10;116;4099;509563;396;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;39250
+4G;234;10;117;4099;509563;396;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;39448
+4G;234;10;126;4099;509563;397;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;39250
+4G;234;10;127;4099;509563;397;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;39448
+4G;234;10;136;4099;509563;398;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;39250
+4G;234;10;137;4099;509563;398;51.5031963942227;-0.6233406811952591;Jubilee River Way, M4, Slough, Berkshire, England, UK;39448
 4G;234;10;130;4096;509638;404;51.46894029594174;-0.5705491080880165;2 Ham Ln, Ham Island, Old Windsor, Windsor, Berkshire, England, UK;6400
 4G;234;10;110;34784;509714;225;53.7428005057477;-0.3514126315712929;73 Anlaby Road, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;115;34784;509714;225;53.7428005057477;-0.3514126315712929;73 Anlaby Road, Hull, East Riding of Yorkshire, England, UK;347
@@ -9337,12 +9491,6 @@
 4G;234;15;10;41065;512421;254;53.48235281797299;-1.2341178953647614;Conisbrough Telephone Exchange, 13 Old Road, Conisbrough, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;30;41092;512429;32;53.55804163472538;-0.9712402895092963;Woodhouse Grange Fishery, Bawtry Road A614, Hatfield Woodhouse, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;20;41092;512607;20;53.593296003709526;-1.1201250180602074;East Coast Main Line, Thorpe-in-Balne, Doncaster, South Yorkshire, England, UK;6300
-4G;234;10;110;672;512656;419;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;6400
-4G;234;10;114;672;512656;250;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;1226
-4G;234;10;115;672;512656;419;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;347
-4G;234;10;130;672;512656;418;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;6400
-4G;234;10;135;672;512656;418;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;347
-4G;234;10;137;672;512657;418;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;39448
 4G;234;15;20;8257;512660;307;52.91327864110197;-1.4694250747561455;Florence Nightingale Community Hospital, Keble Close, New Normanton, Derby, East Midlands, England, UK;6300
 4G;234;10;110;1040;512660;308;52.91327864110197;-1.4694250747561455;Florence Nightingale Community Hospital, Keble Close, New Normanton, Derby, East Midlands, England, UK;6400
 4G;234;10;120;1040;512660;307;52.91327864110197;-1.4694250747561455;Florence Nightingale Community Hospital, Keble Close, New Normanton, Derby, East Midlands, England, UK;6400
@@ -9401,7 +9549,20 @@
 4G;234;15;10;41092;513911;443;53.73322874634571;-0.8296018838882446;The Butchery Anna's Happy Trotters Kilpin Hall Farm, Narrow Lane, Kilpin, East Riding of Yorkshire, England, UK;6300
 4G;234;15;20;41092;513911;441;53.73322874634571;-0.8296018838882446;The Butchery Anna's Happy Trotters Kilpin Hall Farm, Narrow Lane, Kilpin, East Riding of Yorkshire, England, UK;6300
 4G;234;10;110;4099;520042;465;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;6400
+4G;234;10;114;4099;520042;465;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;1226
+4G;234;10;115;4099;520042;465;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;347
+4G;234;10;120;4099;520042;466;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;6400
+4G;234;10;124;4099;520042;466;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;1226
+4G;234;10;125;4099;520042;466;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;347
 4G;234;10;130;4099;520042;467;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;6400
+4G;234;10;134;4099;520042;467;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;1226
+4G;234;10;135;4099;520042;467;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;347
+4G;234;10;116;4099;520043;465;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;39250
+4G;234;10;117;4099;520043;465;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;39448
+4G;234;10;126;4099;520043;466;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;39250
+4G;234;10;127;4099;520043;466;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;39448
+4G;234;10;136;4099;520043;467;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;39250
+4G;234;10;137;4099;520043;467;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;39448
 4G;234;10;120;34448;520176;379;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;6400
 4G;234;10;120;34784;520850;367;53.729106826428655;-0.5566146969795227;Half Acre Industrial Estate, Wiske Avenue, Brough, East Riding of Yorkshire, England, UK;6400
 4G;234;10;122;34784;520850;367;53.729106826428655;-0.5566146969795227;Half Acre Industrial Estate, Wiske Avenue, Brough, East Riding of Yorkshire, England, UK;3725
@@ -9807,16 +9968,82 @@
 4G;234;10;142;4099;600111;281;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;3725
 4G;234;10;110;4096;600195;295;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;6400
 4G;234;10;120;4096;600195;295;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;6400
+4G;234;10;110;4099;600247;45;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];6400
+4G;234;10;112;4099;600247;45;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];3725
+4G;234;10;115;4099;600247;45;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];347
+4G;234;10;116;4099;600247;45;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];39250
+4G;234;10;117;4099;600247;45;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];39448
+4G;234;10;120;4099;600247;46;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];6400
+4G;234;10;122;4099;600247;46;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];3725
+4G;234;10;125;4099;600247;46;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];347
+4G;234;10;126;4099;600247;46;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];39250
+4G;234;10;127;4099;600247;46;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];39448
+4G;234;10;130;4099;600247;47;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];6400
+4G;234;10;132;4099;600247;47;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];3725
+4G;234;10;135;4099;600247;47;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];347
+4G;234;10;136;4099;600247;47;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];39250
+4G;234;10;137;4099;600247;47;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];39448
 4G;234;10;130;1248;600383;379;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;6400
 4G;234;10;116;34784;600568;172;53.77208605744264;-0.3934227302670479;142 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [O2];39250
 4G;234;10;126;34784;600568;171;53.77208605744264;-0.3934227302670479;142 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [O2];39250
 4G;234;10;136;34784;600568;173;53.77208605744264;-0.3934227302670479;142 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [O2];39250
+4G;234;10;110;4099;600583;324;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;6400
+4G;234;10;112;4099;600583;324;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;3725
+4G;234;10;114;4099;600583;324;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;1226
+4G;234;10;115;4099;600583;324;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;347
+4G;234;10;116;4099;600583;324;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;39250
+4G;234;10;117;4099;600583;324;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;39448
+4G;234;10;120;4099;600583;325;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;6400
+4G;234;10;122;4099;600583;325;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;3725
+4G;234;10;124;4099;600583;325;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;1226
+4G;234;10;125;4099;600583;325;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;347
+4G;234;10;126;4099;600583;325;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;39250
+4G;234;10;127;4099;600583;325;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;39448
+4G;234;10;130;4099;600583;326;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;6400
+4G;234;10;132;4099;600583;326;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;3725
+4G;234;10;134;4099;600583;326;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;1226
+4G;234;10;135;4099;600583;326;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;347
+4G;234;10;136;4099;600583;326;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;39250
+4G;234;10;137;4099;600583;326;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;39448
 4G;234;10;110;1040;600797;4;52.92741472911414;-1.4650500565767288;Pentagon House, 10 Stores Road, Little Chester, Derby, East Midlands, England, UK;6400
 4G;234;10;115;1040;600797;4;52.92741472911414;-1.4650500565767288;Pentagon House, 10 Stores Road, Little Chester, Derby, East Midlands, England, UK;347
 4G;234;10;120;1040;600797;3;52.92741472911414;-1.4650500565767288;Pentagon House, 10 Stores Road, Little Chester, Derby, East Midlands, England, UK;6400
 4G;234;10;125;1040;600797;3;52.92741472911414;-1.4650500565767288;Pentagon House, 10 Stores Road, Little Chester, Derby, East Midlands, England, UK;347
 4G;234;10;130;1040;600797;5;52.92741472911414;-1.4650500565767288;Pentagon House, 10 Stores Road, Little Chester, Derby, East Midlands, England, UK;6400
 4G;234;10;135;1040;600797;5;52.92741472911414;-1.4650500565767288;Pentagon House, 10 Stores Road, Little Chester, Derby, East Midlands, England, UK;347
+4G;234;10;110;672;600923;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;6400
+4G;234;10;114;672;600923;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;1226
+4G;234;10;115;672;600923;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;347
+4G;234;10;116;672;600923;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;39250
+4G;234;10;117;672;600923;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;39448
+4G;234;10;120;672;600923;456;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;6400
+4G;234;10;124;672;600923;456;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;1226
+4G;234;10;125;672;600923;456;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;347
+4G;234;10;126;672;600923;456;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;39250
+4G;234;10;127;672;600923;456;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;39448
+4G;234;10;130;672;600923;457;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;6400
+4G;234;10;134;672;600923;457;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;1226
+4G;234;10;135;672;600923;457;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;347
+4G;234;10;136;672;600923;457;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;39250
+4G;234;10;137;672;600923;457;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;39448
+4G;234;10;110;672;600977;419;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;6400
+4G;234;10;112;672;600977;419;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;3725
+4G;234;10;114;672;600977;419;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;1226
+4G;234;10;115;672;600977;419;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;347
+4G;234;10;116;672;600977;419;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;39250
+4G;234;10;117;672;600977;419;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;39448
+4G;234;10;120;672;600977;417;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;6400
+4G;234;10;122;672;600977;417;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;3725
+4G;234;10;124;672;600977;417;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;1226
+4G;234;10;125;672;600977;417;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;347
+4G;234;10;126;672;600977;417;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;39250
+4G;234;10;127;672;600977;417;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;39448
+4G;234;10;130;672;600977;418;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;6400
+4G;234;10;132;672;600977;418;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;3725
+4G;234;10;134;672;600977;418;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;1226
+4G;234;10;135;672;600977;418;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;347
+4G;234;10;136;672;600977;418;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;39250
+4G;234;10;137;672;600977;418;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;39448
 4G;234;10;130;1408;601003;247;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;6400
 4G;234;10;110;16544;1010406;99;51.56123258067248;-1.7227037250995636;7, Dorcan Business Village, Murdock Rd, Dorcan, Swindon, Wiltshire, England, UK;6400
 4G;234;10;114;16544;1010406;166;51.56123258067248;-1.7227037250995636;7, Dorcan Business Village, Murdock Rd, Dorcan, Swindon, Wiltshire, England, UK;347
