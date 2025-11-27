@@ -3618,8 +3618,20 @@
 4G;234;30;4;24371;12865;178;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;1815
 4G;234;30;5;24371;12865;177;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;1815
 4G;234;30;9;24371;12865;179;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;3179
+4G;234;15;10;6190;12865;240;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;6300
 4G;234;30;10;24371;12865;178;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;3179
 4G;234;30;11;24371;12865;177;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;3179
+4G;234;15;12;6190;12865;140;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;3501
+4G;234;15;14;6190;12865;156;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;223
+4G;234;15;18;6190;12865;384;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;2850
+4G;234;15;20;6190;12865;241;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;6300
+4G;234;15;22;6190;12865;138;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;3501
+4G;234;15;24;6190;12865;157;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;223
+4G;234;15;28;6190;12865;385;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;2850
+4G;234;15;30;6190;12865;242;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;6300
+4G;234;15;32;6190;12865;139;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;3501
+4G;234;15;34;6190;12865;158;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;223
+4G;234;15;38;6190;12865;386;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;2850
 4G;234;30;2;24371;12922;454;51.50018893291746;-3.140583112835884;507 Newport Road A4161, Penylan, Cardiff, Wales, UK;1617
 4G;234;30;0;24361;12967;255;51.511850555842756;-2.547621466219425;The Aviva Centre, Brierly Furlong, Stoke Gifford, South Gloucestershire, West of England, England, UK;1617
 4G;234;30;6;24361;12967;300;51.511850555842756;-2.547621466219425;The Aviva Centre, Brierly Furlong, Stoke Gifford, South Gloucestershire, West of England, England, UK;3350
@@ -8681,7 +8693,30 @@
 4G;234;10;127;4096;500004;29;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;39448
 4G;234;10;136;4096;500004;27;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;39250
 4G;234;10;137;4096;500004;27;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;39448
-4G;234;10;150;4096;500031;296;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;6400
+4G;234;10;110;4096;500031;297;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;6400
+4G;234;10;112;4096;500031;297;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;3725
+4G;234;10;114;4096;500031;297;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;1226
+4G;234;10;115;4096;500031;297;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;347
+4G;234;10;119;4096;500031;297;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;9260
+4G;234;10;120;4096;500031;298;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;6400
+4G;234;10;122;4096;500031;298;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;3725
+4G;234;10;124;4096;500031;298;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;1226
+4G;234;10;125;4096;500031;298;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;347
+4G;234;10;129;4096;500031;298;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;9260
+4G;234;10;130;4096;500031;299;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;6400
+4G;234;10;132;4096;500031;299;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;3725
+4G;234;10;134;4096;500031;299;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;1226
+4G;234;10;135;4096;500031;299;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;347
+4G;234;10;139;4096;500031;299;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;9260
+4G;234;10;140;4096;500031;408;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;6400
+4G;234;10;150;4096;500031;409;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;6400
+4G;234;10;160;4096;500031;410;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;6400
+4G;234;10;116;4096;500032;297;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;39250
+4G;234;10;117;4096;500032;297;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;39448
+4G;234;10;126;4096;500032;298;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;39250
+4G;234;10;127;4096;500032;298;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;39448
+4G;234;10;136;4096;500032;299;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;39250
+4G;234;10;137;4096;500032;299;51.46092430577201;-0.49585964530706406;Minerva House, Horton Rd, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;39448
 4G;234;10;110;4099;500051;332;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;6400
 4G;234;10;112;4099;500051;332;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;3725
 4G;234;10;114;4099;500051;332;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;1226
@@ -8827,6 +8862,24 @@
 4G;234;15;30;40968;502824;25;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;6300
 4G;234;15;35;40968;502824;25;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;223
 4G;234;15;10;41065;502840;285;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;6300
+4G;234;10;110;4096;502847;336;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;6400
+4G;234;10;112;4096;502847;336;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;3725
+4G;234;10;114;4096;502847;336;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;1226
+4G;234;10;115;4096;502847;336;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;347
+4G;234;10;120;4096;502847;337;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;6400
+4G;234;10;122;4096;502847;337;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;3725
+4G;234;10;124;4096;502847;337;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;1226
+4G;234;10;125;4096;502847;337;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;347
+4G;234;10;130;4096;502847;338;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;6400
+4G;234;10;132;4096;502847;338;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;3725
+4G;234;10;134;4096;502847;338;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;1226
+4G;234;10;135;4096;502847;338;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;347
+4G;234;10;116;4096;502848;336;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;39250
+4G;234;10;117;4096;502848;336;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;39448
+4G;234;10;126;4096;502848;337;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;39250
+4G;234;10;127;4096;502848;337;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;39448
+4G;234;10;136;4096;502848;338;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;39250
+4G;234;10;137;4096;502848;338;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;39448
 4G;234;10;120;32896;503045;442;53.3835257456752;-1.466205082833767;Angel Street, Cathedral, Sheffield, South Yorkshire, England, UK;6400
 4G;234;10;124;32896;503045;442;53.3835257456752;-1.466205082833767;Angel Street, Cathedral, Sheffield, South Yorkshire, England, UK;1226
 4G;234;15;20;40968;503046;442;53.3835257456752;-1.466205082833767;Angel Street, Cathedral, Sheffield, South Yorkshire, England, UK;6300
@@ -9432,14 +9485,23 @@
 4G;234;10;125;34880;510994;3;53.636824481366475;-0.9702498838305474;The Stone Bungalow, Marsh Lane, Thorne, Doncaster, South Yorkshire, England, UK;347
 4G;234;15;20;41092;510995;3;53.636824481366475;-0.9702498838305474;The Stone Bungalow, Marsh Lane, Thorne, Doncaster, South Yorkshire, England, UK;6300
 4G;234;10;110;34784;511032;11;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;6400
+4G;234;10;112;34784;511032;11;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;3725
+4G;234;10;114;34784;511032;11;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;1226
 4G;234;10;115;34784;511032;11;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;347
 4G;234;10;120;34784;511032;10;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;6400
+4G;234;10;122;34784;511032;10;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;3725
+4G;234;10;124;34784;511032;10;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;1226
 4G;234;10;125;34784;511032;10;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;347
 4G;234;10;130;34784;511032;9;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;6400
+4G;234;10;132;34784;511032;9;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;3725
+4G;234;10;134;34784;511032;9;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;1226
 4G;234;10;135;34784;511032;9;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;347
 4G;234;15;10;41086;511033;11;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;6300
+4G;234;15;15;41086;511033;11;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;223
 4G;234;15;20;41086;511033;10;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;6300
+4G;234;15;25;41086;511033;10;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;223
 4G;234;15;30;41086;511033;9;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;6300
+4G;234;15;35;41086;511033;9;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;223
 4G;234;10;114;1280;511616;459;50.82367728;-0.1450447656;Churchill Square Piazza, Western Road B2066, Brunswick, Brighton, Brighton and Hove, England, UK;1228
 4G;234;10;130;1040;511650;355;52.97527877888733;-1.442461833357811;Tower Road, Drum Hill, Morleymoor, Derbyshire, England, UK [Cornerstone];6400
 4G;234;10;110;34880;511814;250;53.57668895211821;-1.089482456445694;Thorpe Marsh Substation, South Road, Barnby Dun, Doncaster, South Yorkshire, England, UK;6400
@@ -9571,17 +9633,36 @@
 4G;234;10;135;34784;520850;366;53.729106826428655;-0.5566146969795227;Half Acre Industrial Estate, Wiske Avenue, Brough, East Riding of Yorkshire, England, UK;347
 4G;234;15;22;41086;520851;367;53.729106826428655;-0.5566146969795227;Half Acre Industrial Estate, Wiske Avenue, Brough, East Riding of Yorkshire, England, UK;3501
 4G;234;15;32;41086;520851;366;53.729106826428655;-0.5566146969795227;Half Acre Industrial Estate, Wiske Avenue, Brough, East Riding of Yorkshire, England, UK;3501
+4G;234;10;110;34784;521012;15;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;6400
+4G;234;10;112;34784;521012;15;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;3725
 4G;234;10;115;34784;521012;15;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;347
 4G;234;10;120;34784;521012;17;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;6400
 4G;234;10;122;34784;521012;17;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;3725
 4G;234;10;125;34784;521012;17;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;347
 4G;234;10;130;34784;521012;16;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;6400
+4G;234;10;132;34784;521012;16;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;3725
 4G;234;10;135;34784;521012;16;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;347
+4G;234;15;10;41086;521013;15;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;6300
+4G;234;15;12;41086;521013;15;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;3501
+4G;234;15;15;41086;521013;15;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;223
 4G;234;15;20;41086;521013;17;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;6300
+4G;234;15;22;41086;521013;17;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;3501
 4G;234;15;25;41086;521013;17;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;223
+4G;234;15;30;41086;521013;16;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;6300
+4G;234;15;32;41086;521013;16;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;3501
+4G;234;15;35;41086;521013;16;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;223
 4G;234;15;10;8271;521032;305;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;6300
 4G;234;10;110;1408;521032;305;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;6400
 4G;234;10;115;34784;521408;36;53.80493342879785;-0.42208146303892136;Park Lane, Woodmansey, East Riding of Yorkshire, England, UK;347
+4G;234;10;110;4097;521910;309;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;6400
+4G;234;10;112;4097;521910;309;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;3725
+4G;234;10;115;4097;521910;309;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;347
+4G;234;10;120;4097;521910;310;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;6400
+4G;234;10;122;4097;521910;310;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;3725
+4G;234;10;125;4097;521910;310;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;347
+4G;234;10;130;4097;521910;311;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;6400
+4G;234;10;132;4097;521910;311;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;3725
+4G;234;10;135;4097;521910;311;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;347
 4G;234;10;110;1040;521994;66;52.98282556519349;-1.4735888689756393;Eaton Bank, Duffield, Derbyshire, England, UK;6400
 4G;234;15;10;8286;522012;40;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;6300
 4G;234;15;15;8286;522012;40;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;223
@@ -9665,6 +9746,12 @@
 4G;234;15;28;41086;524770;210;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;2850
 4G;234;15;30;41086;524770;212;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6300
 4G;234;10;135;4099;524964;377;51.478680949972066;-0.6136267259716988;11 Trinity Pl, Windsor, Berkshire, England, UK;347
+4G;234;10;116;4097;525002;309;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;39250
+4G;234;10;117;4097;525002;309;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;39448
+4G;234;10;126;4097;525002;310;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;39250
+4G;234;10;127;4097;525002;310;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;39448
+4G;234;10;136;4097;525002;311;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;39250
+4G;234;10;137;4097;525002;311;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;39448
 4G;234;10;110;14467;525048;489;51.435293227977546;-0.5268797278404236;Egham Water Works, Staines-upon-Thames, Surrey, England, UK;6400
 4G;234;10;112;14467;525048;489;51.435293227977546;-0.5268797278404236;Egham Water Works, Staines-upon-Thames, Surrey, England, UK;3725
 4G;234;10;114;14467;525048;489;51.435293227977546;-0.5268797278404236;Egham Water Works, Staines-upon-Thames, Surrey, England, UK;1226
@@ -9962,12 +10049,59 @@
 4G;234;10;136;17184;548080;458;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;39250
 4G;234;10;137;17184;548080;458;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;39448
 4G;234;10;114;16625;548246;140;51.456695484874125;-2.5928790494799614;The Island, Nelson Street, Broadmead, Bristol, West of England, England, UK;1228
+4G;234;10;110;4099;600111;447;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;6400
+4G;234;10;112;4099;600111;447;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;3725
+4G;234;10;115;4099;600111;447;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;347
+4G;234;10;116;4099;600111;447;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;39250
+4G;234;10;117;4099;600111;447;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;39448
 4G;234;10;120;4099;600111;448;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;6400
-4G;234;10;122;4099;600111;400;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;3725
+4G;234;10;122;4099;600111;448;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;3725
+4G;234;10;125;4099;600111;448;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;347
+4G;234;10;126;4099;600111;448;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;39250
+4G;234;10;127;4099;600111;448;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;39448
+4G;234;10;130;4099;600111;449;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;6400
 4G;234;10;132;4099;600111;449;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;3725
-4G;234;10;142;4099;600111;281;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;3725
+4G;234;10;135;4099;600111;449;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;347
+4G;234;10;136;4099;600111;449;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;39250
+4G;234;10;137;4099;600111;449;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;39448
+4G;234;10;140;4099;600111;301;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;6400
+4G;234;10;142;4099;600111;301;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;3725
+4G;234;10;145;4099;600111;301;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;347
+4G;234;10;146;4099;600111;301;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;39250
+4G;234;10;147;4099;600111;301;51.48178754782113;-0.6064226478338242;Parish Church, Windsor, Berkshire, England, UK;39448
+4G;234;10;110;4096;600149;318;51.490099118689244;-0.45452394906010973;Lady Nafisa School, Sipson Lane, Harmondsworth, Hillingdon, Greater London, England, UK;6400
+4G;234;10;112;4096;600149;318;51.490099118689244;-0.45452394906010973;Lady Nafisa School, Sipson Lane, Harmondsworth, Hillingdon, Greater London, England, UK;3725
+4G;234;10;115;4096;600149;318;51.490099118689244;-0.45452394906010973;Lady Nafisa School, Sipson Lane, Harmondsworth, Hillingdon, Greater London, England, UK;347
+4G;234;10;116;4096;600149;318;51.490099118689244;-0.45452394906010973;Lady Nafisa School, Sipson Lane, Harmondsworth, Hillingdon, Greater London, England, UK;39250
+4G;234;10;117;4096;600149;318;51.490099118689244;-0.45452394906010973;Lady Nafisa School, Sipson Lane, Harmondsworth, Hillingdon, Greater London, England, UK;39448
+4G;234;10;120;4096;600149;319;51.490099118689244;-0.45452394906010973;Lady Nafisa School, Sipson Lane, Harmondsworth, Hillingdon, Greater London, England, UK;6400
+4G;234;10;122;4096;600149;319;51.490099118689244;-0.45452394906010973;Lady Nafisa School, Sipson Lane, Harmondsworth, Hillingdon, Greater London, England, UK;3725
+4G;234;10;125;4096;600149;319;51.490099118689244;-0.45452394906010973;Lady Nafisa School, Sipson Lane, Harmondsworth, Hillingdon, Greater London, England, UK;347
+4G;234;10;126;4096;600149;319;51.490099118689244;-0.45452394906010973;Lady Nafisa School, Sipson Lane, Harmondsworth, Hillingdon, Greater London, England, UK;39250
+4G;234;10;127;4096;600149;319;51.490099118689244;-0.45452394906010973;Lady Nafisa School, Sipson Lane, Harmondsworth, Hillingdon, Greater London, England, UK;39448
+4G;234;10;130;4096;600149;320;51.490099118689244;-0.45452394906010973;Lady Nafisa School, Sipson Lane, Harmondsworth, Hillingdon, Greater London, England, UK;6400
+4G;234;10;132;4096;600149;320;51.490099118689244;-0.45452394906010973;Lady Nafisa School, Sipson Lane, Harmondsworth, Hillingdon, Greater London, England, UK;3725
+4G;234;10;135;4096;600149;320;51.490099118689244;-0.45452394906010973;Lady Nafisa School, Sipson Lane, Harmondsworth, Hillingdon, Greater London, England, UK;347
+4G;234;10;136;4096;600149;320;51.490099118689244;-0.45452394906010973;Lady Nafisa School, Sipson Lane, Harmondsworth, Hillingdon, Greater London, England, UK;39250
+4G;234;10;137;4096;600149;320;51.490099118689244;-0.45452394906010973;Lady Nafisa School, Sipson Lane, Harmondsworth, Hillingdon, Greater London, England, UK;39448
 4G;234;10;110;4096;600195;295;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;6400
-4G;234;10;120;4096;600195;295;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;6400
+4G;234;10;112;4096;600195;295;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;3725
+4G;234;10;114;4096;600195;295;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;1226
+4G;234;10;115;4096;600195;295;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;347
+4G;234;10;116;4096;600195;295;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;39250
+4G;234;10;117;4096;600195;295;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;39448
+4G;234;10;120;4096;600195;296;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;6400
+4G;234;10;122;4096;600195;296;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;3725
+4G;234;10;124;4096;600195;296;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;1226
+4G;234;10;125;4096;600195;296;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;347
+4G;234;10;126;4096;600195;296;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;39250
+4G;234;10;127;4096;600195;296;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;39448
+4G;234;10;130;4096;600195;294;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;6400
+4G;234;10;132;4096;600195;294;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;3725
+4G;234;10;134;4096;600195;294;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;1226
+4G;234;10;135;4096;600195;294;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;347
+4G;234;10;136;4096;600195;294;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;39250
+4G;234;10;137;4096;600195;294;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;39448
 4G;234;10;110;4099;600247;45;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];6400
 4G;234;10;112;4099;600247;45;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];3725
 4G;234;10;115;4099;600247;45;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];347
@@ -10072,6 +10206,8 @@
 5G;234;10;247431693;116625;0;457;51.50974366688823;-2.54829503595829;Crest House, Lime Kiln Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;152690
 5G;234;10;247431703;116625;0;456;51.50974366688823;-2.54829503595829;Crest House, Lime Kiln Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;152690
 5G;234;10;251986435;117072;0;264;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK;152690
+5G;234;10;251986445;117072;0;265;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK;152690
+5G;234;10;251986455;117072;0;266;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK;152690
 5G;234;10;254542339;117072;0;147;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;152690
 5G;234;10;254542349;117072;0;148;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;152690
 5G;234;10;254542359;117072;0;149;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;152690
