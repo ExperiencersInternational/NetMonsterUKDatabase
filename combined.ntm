@@ -39,15 +39,15 @@
 2G;234;15;7702;null;0;17;;;-;4
 2G;234;15;7969;null;0;53;;;-;21
 2G;234;15;8050;259;0;24;;;-;7
-4G;234;15;10;24580;33;408;51.41689509282574;-1.318200079612512;Vodafone HQ, The Connection, Shaw, Newbury, West Berkshire, England, UK;6300
-4G;234;15;14;24580;33;231;51.41689509282574;-1.318200079612512;Vodafone HQ, The Connection, Shaw, Newbury, West Berkshire, England, UK;223
-4G;234;15;18;24580;33;423;51.41689509282574;-1.318200079612512;Vodafone HQ, The Connection, Shaw, Newbury, West Berkshire, England, UK;2850
-4G;234;15;20;24580;33;409;51.41689509282574;-1.318200079612512;Vodafone HQ, The Connection, Shaw, Newbury, West Berkshire, England, UK;6300
-4G;234;15;24;24580;33;232;51.41689509282574;-1.318200079612512;Vodafone HQ, The Connection, Shaw, Newbury, West Berkshire, England, UK;223
-4G;234;15;28;24580;33;424;51.41689509282574;-1.318200079612512;Vodafone HQ, The Connection, Shaw, Newbury, West Berkshire, England, UK;2850
-4G;234;15;30;24580;33;410;51.41689509282574;-1.318200079612512;Vodafone HQ, The Connection, Shaw, Newbury, West Berkshire, England, UK;6300
-4G;234;15;34;24580;33;233;51.41689509282574;-1.318200079612512;Vodafone HQ, The Connection, Shaw, Newbury, West Berkshire, England, UK;223
-4G;234;15;38;24580;33;425;51.41689509282574;-1.318200079612512;Vodafone HQ, The Connection, Shaw, Newbury, West Berkshire, England, UK;2850
+4G;234;15;10;24580;33;408;51.41689509282574;-1.318200079612512;Vodafone Group, The Connection, Shaw, Newbury, West Berkshire, England, UK;6300
+4G;234;15;14;24580;33;231;51.41689509282574;-1.318200079612512;Vodafone Group, The Connection, Shaw, Newbury, West Berkshire, England, UK;223
+4G;234;15;18;24580;33;423;51.41689509282574;-1.318200079612512;Vodafone Group, The Connection, Shaw, Newbury, West Berkshire, England, UK;2850
+4G;234;15;20;24580;33;409;51.41689509282574;-1.318200079612512;Vodafone Group, The Connection, Shaw, Newbury, West Berkshire, England, UK;6300
+4G;234;15;24;24580;33;232;51.41689509282574;-1.318200079612512;Vodafone Group, The Connection, Shaw, Newbury, West Berkshire, England, UK;223
+4G;234;15;28;24580;33;424;51.41689509282574;-1.318200079612512;Vodafone Group, The Connection, Shaw, Newbury, West Berkshire, England, UK;2850
+4G;234;15;30;24580;33;410;51.41689509282574;-1.318200079612512;Vodafone Group, The Connection, Shaw, Newbury, West Berkshire, England, UK;6300
+4G;234;15;34;24580;33;233;51.41689509282574;-1.318200079612512;Vodafone Group, The Connection, Shaw, Newbury, West Berkshire, England, UK;223
+4G;234;15;38;24580;33;425;51.41689509282574;-1.318200079612512;Vodafone Group, The Connection, Shaw, Newbury, West Berkshire, England, UK;2850
 2G;234;15;8565;null;0;57;;;-;18
 2G;234;15;9964;null;0;49;;;-;5
 2G;234;10;10002;21400;0;58;51.69202483408673;-2.460559643805027;Berkeley Library, 1 School Lane, Berkeley, Gloucestershire, England, UK;120
@@ -545,7 +545,7 @@
 4G;234;20;0;2145;1443;131;51.81149879614093;-2.283134199678898;Freemans Event Partners, Unit 11 Gabwell Business Centre, Quadrant Way, Hunts Grove, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;2;2145;1443;346;51.81149879614093;-2.283134199678898;Freemans Event Partners, Unit 11 Gabwell Business Centre, Quadrant Way, Hunts Grove, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;7;2145;1443;130;51.81149879614093;-2.283134199678898;Freemans Event Partners, Unit 11 Gabwell Business Centre, Quadrant Way, Hunts Grove, Gloucester, Gloucestershire, England, UK;6175
-3G;234;10;47947;21005;5;99;51.379538505237235;-2.359861806035042;O2 Store, 56 Southgate Street, Bath, Bath and North East Somerset, West of England, England, UK;10637
+3G;234;10;47947;21005;5;99;51.379538505237235;-2.359861806035042;O2 Store, 56 Southgate Street, Bath, Bath and North East Somerset, West of England, England, UK;10711
 4G;234;20;2;2216;1488;383;51.46017353744525;-2.5447166338562965;St George's Park, 326 Church Road A420, St George, Bristol, West of England, England, UK;1363
 4G;234;20;0;2201;1489;54;51.47659904767791;-2.525188811123371;Filwood House, Forest Road B4465, Fishponds, Bristol, West of England, England, UK;1363
 4G;234;20;0;2127;1520;281;51.55967263566932;-1.7882944643497467;21 Commercial Rd, Swindon, Wiltshire, England, UK;1363
@@ -1550,10 +1550,6 @@
 4G;234;20;8;3184;4643;374;53.80309185840097;-0.5653439462184906;Hunsley Road B1230, High Hunsley, East Riding of Yorkshire, England, UK;6175
 4G;234;20;0;2377;4665;99;51.344935731338076;-2.9469014704227448;33 Hutton Moor Rd, Weston-super-mare, North Somerset, England, UK;1363
 4G;234;20;1;2377;4665;256;51.344935731338076;-2.9469014704227448;33 Hutton Moor Rd, Weston-super-mare, North Somerset, England, UK;1363
-4G;234;10;110;16609;4690;381;51.4742347100024;-2.7129357308149338;Gordano Services, Portbury, Bristol, West of England, England, UK;6400
-4G;234;10;114;16609;4690;162;51.4742347100024;-2.7129357308149338;Gordano Services, Portbury, Bristol, West of England, England, UK;347
-4G;234;10;130;16609;4690;383;51.4742347100024;-2.7129357308149338;Gordano Services, Portbury, Bristol, West of England, England, UK;6400
-4G;234;10;134;16609;4690;164;51.4742347100024;-2.7129357308149338;Gordano Services, Portbury, Bristol, West of England, England, UK;347
 4G;234;10;130;16625;4701;63;51.43938651505879;-2.5515063107013702;Wick Road Library, Allison Road, Brislington, Bristol, West of England, England, UK;6400
 4G;234;20;1;2141;4718;394;51.45627661328436;-2.770439274609089;M5, Bristol, West of England, England, UK;1363
 4G;234;20;2;2141;4718;212;51.45627661328436;-2.770439274609089;M5, Bristol, West of England, England, UK;1363
@@ -1645,10 +1641,36 @@
 4G;234;15;34;24723;5150;336;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;223
 4G;234;15;20;24723;5176;175;51.94317652316386;-2.10569366812706;Wingmoor Farm Landfill, Cheltenham, Gloucestershire, England, UK;6300
 4G;234;15;30;24723;5176;176;51.94317652316386;-2.10569366812706;Wingmoor Farm Landfill, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;10;24610;5192;39;51.64009254490657;-2.354799807071686;2 Tabernacle Rd, Wotton-under-edge, Gloucestershire, England, UK;6300
+4G;234;15;20;24610;5192;40;51.64009254490657;-2.354799807071686;2 Tabernacle Rd, Wotton-under-edge, Gloucestershire, England, UK;6300
+4G;234;15;30;24610;5192;41;51.64009254490657;-2.354799807071686;2 Tabernacle Rd, Wotton-under-edge, Gloucestershire, England, UK;6300
+4G;234;10;110;16624;5192;461;51.64009254490657;-2.354799807071686;2 Tabernacle Rd, Wotton-under-edge, Gloucestershire, England, UK;6400
+4G;234;10;114;16624;5192;461;51.64009254490657;-2.354799807071686;2 Tabernacle Rd, Wotton-under-edge, Gloucestershire, England, UK;347
+4G;234;10;120;16624;5192;459;51.64009254490657;-2.354799807071686;2 Tabernacle Rd, Wotton-under-edge, Gloucestershire, England, UK;6400
+4G;234;10;124;16624;5192;459;51.64009254490657;-2.354799807071686;2 Tabernacle Rd, Wotton-under-edge, Gloucestershire, England, UK;347
 4G;234;10;130;16624;5192;460;51.64009254490657;-2.354799807071686;2 Tabernacle Rd, Wotton-under-edge, Gloucestershire, England, UK;6400
+4G;234;10;134;16624;5192;460;51.64009254490657;-2.354799807071686;2 Tabernacle Rd, Wotton-under-edge, Gloucestershire, England, UK;347
+4G;234;15;10;57346;5195;66;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;6300
+4G;234;15;12;57346;5195;66;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;3501
+4G;234;15;14;57346;5195;66;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;223
+4G;234;15;20;57346;5195;68;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;6300
 4G;234;15;22;57346;5195;68;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;3501
+4G;234;15;24;57346;5195;68;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;223
+4G;234;15;30;57346;5195;67;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;6300
+4G;234;15;32;57346;5195;67;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;3501
+4G;234;15;34;57346;5195;67;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;223
 4G;234;10;110;49809;5195;66;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;6400
 4G;234;10;112;49809;5195;66;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;3725
+4G;234;10;114;49809;5195;66;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;347
+4G;234;10;117;49809;5195;66;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;39448
+4G;234;10;120;49809;5195;68;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;6400
+4G;234;10;122;49809;5195;68;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;3725
+4G;234;10;124;49809;5195;68;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;347
+4G;234;10;127;49809;5195;68;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;39448
+4G;234;10;130;49809;5195;67;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;6400
+4G;234;10;132;49809;5195;67;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;3725
+4G;234;10;134;49809;5195;67;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;347
+4G;234;10;137;49809;5195;67;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;39448
 4G;234;20;1;3187;5203;239;53.742628789736536;-0.3522675856947899;Great Thornton Street Flats Block 1, Great Thornton Street, Hull, East Riding of Yorkshire, England, UK;1363
 4G;234;20;7;3187;5203;43;53.742628789736536;-0.3522675856947899;Great Thornton Street Flats Block 1, Great Thornton Street, Hull, East Riding of Yorkshire, England, UK;6175
 4G;234;15;20;24723;5212;436;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;6300
@@ -3502,7 +3524,7 @@
 3G;234;10;44671;21046;46;397;51.750632954410435;-2.2969727218151093;Muller Stonehouse (DAS System), Oldends Lane, Stonehouse, Gloucestershire, England, UK;3025
 4G;234;20;1;2143;11961;328;51.36589298923668;-2.9319220036268234;3 Newton's Rd, Worle, Weston-super-mare, North Somerset, England, UK;1363
 4G;234;20;7;2143;11961;77;51.36589298923668;-2.9319220036268234;3 Newton's Rd, Worle, Weston-super-mare, North Somerset, England, UK;6175
-3G;234;10;53806;21712;46;370;51.5997659;-2.9198145;M4 West, Langstone, Newport, Wales, UK [O2];10637
+3G;234;10;53806;21712;46;370;51.5997659;-2.9198145;M4 West, Langstone, Newport, Wales, UK [O2];10711
 4G;234;30;2;24363;12008;103;51.42883246585324;-2.4719003587961197;Bitton AFC, Bath Road A431, Bitton, Bristol, South Gloucestershire, West of England, England, UK;1617
 4G;234;30;0;24361;12009;332;51.49078686173766;-2.537833838906675;Oaklands Park Avenue Substation, Frenchay Park Road B4058, Fishponds, Bristol, West of England, England, UK;1617
 4G;234;30;1;24361;12009;330;51.49078686173766;-2.537833838906675;Oaklands Park Avenue Substation, Frenchay Park Road B4058, Fishponds, Bristol, West of England, England, UK;1617
@@ -4620,8 +4642,21 @@
 4G;234;15;32;24610;17011;367;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;3501
 4G;234;15;34;24610;17011;367;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;223
 4G;234;15;38;24610;17011;367;51.73421639299009;-2.2860169038176537;Stanley Downton Road, Leonard Stanley, Stonehouse, Gloucestershire, England, UK;2850
+4G;234;15;19;24611;17049;225;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;37900
+4G;234;15;29;24611;17049;226;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;37900
+4G;234;15;39;24611;17049;227;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;37900
+4G;234;15;10;24611;17050;225;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;6300
+4G;234;15;12;24611;17050;225;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;3501
+4G;234;15;14;24611;17050;225;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;223
 4G;234;15;18;24611;17050;225;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;2850
+4G;234;15;20;24611;17050;226;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;6300
+4G;234;15;22;24611;17050;226;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;3501
+4G;234;15;24;24611;17050;226;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;223
 4G;234;15;28;24611;17050;226;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;2850
+4G;234;15;30;24611;17050;227;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;6300
+4G;234;15;32;24611;17050;227;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;3501
+4G;234;15;34;24611;17050;227;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;223
+4G;234;15;38;24611;17050;227;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;2850
 4G;234;30;13;25160;17056;425;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;6225
 4G;234;30;0;26051;17057;462;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;1617
 4G;234;30;1;26051;17057;464;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;1617
@@ -4632,8 +4667,18 @@
 4G;234;30;12;26050;17057;126;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;6225
 4G;234;30;13;26050;17057;127;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;6225
 4G;234;30;14;26050;17057;128;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;6225
+4G;234;15;10;24610;17072;269;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;6300
+4G;234;15;12;24610;17072;269;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;3501
+4G;234;15;14;24610;17072;269;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;223
 4G;234;15;18;24610;17072;269;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;2850
+4G;234;15;20;24610;17072;268;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;6300
+4G;234;15;22;24610;17072;268;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;3501
+4G;234;15;24;24610;17072;268;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;223
 4G;234;15;28;24610;17072;268;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;2850
+4G;234;15;30;24610;17072;267;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;6300
+4G;234;15;32;24610;17072;267;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;3501
+4G;234;15;34;24610;17072;267;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;223
+4G;234;15;38;24610;17072;267;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;2850
 4G;234;30;5;25161;17075;395;52.06134870833063;-2.132023572921753;Church Lane, Strensham, Worcestershire, England, UK;1815
 4G;234;30;0;25331;17079;78;51.77253898020532;-2.473394349217415;Opposite Kingsland, A48, Blakeney, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;1;25331;17079;79;51.77253898020532;-2.473394349217415;Opposite Kingsland, A48, Blakeney, Forest of Dean, Gloucestershire, England, UK;1617
@@ -5312,6 +5357,18 @@
 4G;234;15;30;24738;21414;8;52.157227797240395;-4.454161114990711;Penyrallt, Llangrannog, Ceredigion, Wales, UK;6300
 4G;234;15;32;24738;21414;8;52.157227797240395;-4.454161114990711;Penyrallt, Llangrannog, Ceredigion, Wales, UK;3501
 4G;234;15;22;24610;21434;222;51.60927700487519;-2.849491685628891;The Bungalow, Bowdens Lane, Penhow, Newport, Wales, UK;3501
+4G;234;15;10;24607;21456;118;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;6300
+4G;234;15;12;24607;21456;447;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;3501
+4G;234;15;14;24607;21456;447;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;223
+4G;234;15;18;24607;21456;175;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;2850
+4G;234;15;20;24607;21456;119;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;6300
+4G;234;15;22;24607;21456;449;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;3501
+4G;234;15;24;24607;21456;449;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;223
+4G;234;15;28;24607;21456;176;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;2850
+4G;234;15;30;24607;21456;117;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;6300
+4G;234;15;32;24607;21456;448;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;3501
+4G;234;15;34;24607;21456;448;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;223
+4G;234;15;38;24607;21456;174;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;2850
 4G;234;15;22;57414;21515;443;52.05517086981965;-3.7240011245012283;A483, Cynghordy, Carmarthenshire, Wales, UK;3501
 4G;234;15;10;24738;21522;485;52.1378666;-4.2672524;B4338, Talgarreg, Ceredigion, Wales, UK;6300
 4G;234;15;20;24738;21522;483;52.1378666;-4.2672524;B4338, Talgarreg, Ceredigion, Wales, UK;6300
@@ -5379,13 +5436,29 @@
 4G;234;10;130;16608;22137;65;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;6400
 4G;234;10;132;16608;22137;65;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;3725
 4G;234;10;134;16608;22137;65;51.37588814164074;-2.885451391339302;Wick Rd, Weston-super-mare, North Somerset, England, UK;347
-4G;234;15;12;24607;22141;135;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;3501
+4G;234;15;10;24607;22141;27;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;6300
+4G;234;15;12;24607;22141;27;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;3501
+4G;234;15;14;24607;22141;27;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;223
 4G;234;15;18;24607;22141;27;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;2850
+4G;234;15;20;24607;22141;29;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;6300
 4G;234;15;22;24607;22141;29;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;3501
+4G;234;15;24;24607;22141;29;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;223
+4G;234;15;28;24607;22141;29;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;2850
+4G;234;15;30;24607;22141;28;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;6300
+4G;234;15;32;24607;22141;28;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;3501
+4G;234;15;34;24607;22141;28;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;223
+4G;234;15;38;24607;22141;28;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;2850
+4G;234;15;10;24606;22154;60;51.4742347100024;-2.7129357308149338;Gordano Services, Portbury, Bristol, West of England, England, UK;6300
+4G;234;15;12;24606;22154;60;51.4742347100024;-2.7129357308149338;Gordano Services, Portbury, Bristol, West of England, England, UK;3501
 4G;234;15;14;24606;22154;60;51.4742347100024;-2.7129357308149338;Gordano Services, Portbury, Bristol, West of England, England, UK;223
+4G;234;15;30;24606;22154;61;51.4742347100024;-2.7129357308149338;Gordano Services, Portbury, Bristol, West of England, England, UK;6300
+4G;234;15;32;24606;22154;61;51.4742347100024;-2.7129357308149338;Gordano Services, Portbury, Bristol, West of England, England, UK;3501
 4G;234;15;34;24606;22154;61;51.4742347100024;-2.7129357308149338;Gordano Services, Portbury, Bristol, West of England, England, UK;223
+4G;234;10;110;16608;22154;381;51.4742347100024;-2.7129357308149338;Gordano Services, Portbury, Bristol, West of England, England, UK;6400
+4G;234;10;112;16608;22154;381;51.4742347100024;-2.7129357308149338;Gordano Services, Portbury, Bristol, West of England, England, UK;3725
 4G;234;10;114;16608;22154;381;51.4742347100024;-2.7129357308149338;Gordano Services, Portbury, Bristol, West of England, England, UK;347
 4G;234;10;130;16608;22154;383;51.4742347100024;-2.7129357308149338;Gordano Services, Portbury, Bristol, West of England, England, UK;6400
+4G;234;10;132;16608;22154;383;51.4742347100024;-2.7129357308149338;Gordano Services, Portbury, Bristol, West of England, England, UK;3725
 4G;234;10;134;16608;22154;383;51.4742347100024;-2.7129357308149338;Gordano Services, Portbury, Bristol, West of England, England, UK;347
 4G;234;15;10;24626;22298;59;51.221244136124454;-2.328251509208519;7 Manor Furlong, Marston Trading Estate, The Butts, Frome, Somerset, England, UK;6300
 4G;234;15;12;24626;22298;59;51.221244136124454;-2.328251509208519;7 Manor Furlong, Marston Trading Estate, The Butts, Frome, Somerset, England, UK;3501
@@ -6770,12 +6843,12 @@
 3G;234;10;59881;21293;293;419;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];3025
 3G;234;10;61842;21293;293;174;51.236365075269674;-2.3134069922609632;Frome Cricket Club, Rodden Road, Fromefield, Frome, Somerset, England, UK;3025
 3G;234;10;10115;21736;393;201;52.19394942948659;-2.233826480805874;Hardwicke Close, Worcester, Worcestershire, England, UK;3025
-4G;234;10;110;16576;100033;408;51.41689509282574;-1.318200079612512;Vodafone HQ, The Connection, Shaw, Newbury, West Berkshire, England, UK;6400
-4G;234;10;114;16576;100033;408;51.41689509282574;-1.318200079612512;Vodafone HQ, The Connection, Shaw, Newbury, West Berkshire, England, UK;347
-4G;234;10;120;16576;100033;409;51.41689509282574;-1.318200079612512;Vodafone HQ, The Connection, Shaw, Newbury, West Berkshire, England, UK;6400
-4G;234;10;124;16576;100033;409;51.41689509282574;-1.318200079612512;Vodafone HQ, The Connection, Shaw, Newbury, West Berkshire, England, UK;347
-4G;234;10;130;16576;100033;410;51.41689509282574;-1.318200079612512;Vodafone HQ, The Connection, Shaw, Newbury, West Berkshire, England, UK;6400
-4G;234;10;134;16576;100033;410;51.41689509282574;-1.318200079612512;Vodafone HQ, The Connection, Shaw, Newbury, West Berkshire, England, UK;347
+4G;234;10;110;16576;100033;408;51.41689509282574;-1.318200079612512;Vodafone Group, The Connection, Shaw, Newbury, West Berkshire, England, UK;6400
+4G;234;10;114;16576;100033;408;51.41689509282574;-1.318200079612512;Vodafone Group, The Connection, Shaw, Newbury, West Berkshire, England, UK;347
+4G;234;10;120;16576;100033;409;51.41689509282574;-1.318200079612512;Vodafone Group, The Connection, Shaw, Newbury, West Berkshire, England, UK;6400
+4G;234;10;124;16576;100033;409;51.41689509282574;-1.318200079612512;Vodafone Group, The Connection, Shaw, Newbury, West Berkshire, England, UK;347
+4G;234;10;130;16576;100033;410;51.41689509282574;-1.318200079612512;Vodafone Group, The Connection, Shaw, Newbury, West Berkshire, England, UK;6400
+4G;234;10;134;16576;100033;410;51.41689509282574;-1.318200079612512;Vodafone Group, The Connection, Shaw, Newbury, West Berkshire, England, UK;347
 4G;234;10;110;17040;101546;3;51.462319690999;-0.5842166393995285;Toby Carvery, Old Windsor, Windsor, Berkshire, England, UK [Cornerstone];6400
 4G;234;10;120;17040;101546;4;51.462319690999;-0.5842166393995285;Toby Carvery, Old Windsor, Windsor, Berkshire, England, UK [Cornerstone];6400
 4G;234;10;130;17040;101546;5;51.462319690999;-0.5842166393995285;Toby Carvery, Old Windsor, Windsor, Berkshire, England, UK [Cornerstone];6400
@@ -7737,14 +7810,23 @@
 4G;234;10;130;16624;114530;450;51.858697035407076;-2.6726925373077393;Llangrove Road, Trewen, Herefordshire, England, UK;6400
 4G;234;10;134;16624;114530;450;51.858697035407076;-2.6726925373077393;Llangrove Road, Trewen, Herefordshire, England, UK;347
 4G;234;10;110;16625;114533;12;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;6400
+4G;234;10;112;16625;114533;12;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;3725
 4G;234;10;114;16625;114533;12;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;347
+4G;234;10;115;16625;114533;296;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;39250
 4G;234;10;116;16625;114533;12;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;1226
+4G;234;10;117;16625;114533;296;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;39448
 4G;234;10;120;16625;114533;14;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;6400
+4G;234;10;122;16625;114533;14;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;3725
 4G;234;10;124;16625;114533;14;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;347
+4G;234;10;125;16625;114533;294;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;39250
 4G;234;10;126;16625;114533;14;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;1226
+4G;234;10;127;16625;114533;294;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;39448
 4G;234;10;130;16625;114533;13;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;6400
+4G;234;10;132;16625;114533;13;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;3725
 4G;234;10;134;16625;114533;13;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;347
+4G;234;10;135;16625;114533;295;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;39250
 4G;234;10;136;16625;114533;13;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;1226
+4G;234;10;137;16625;114533;295;51.50459758218307;-2.663858011364937;Lawrence Weston Community Farm, Saltmarsh Dr, Bristol, West of England, England, UK;39448
 4G;234;10;112;16608;114540;442;51.44036500401142;-3.1681542098522186;Clive Place, Penarth Marina, Penarth, Glamorgan, Wales, UK;3725
 4G;234;10;110;16625;114543;435;51.549078851961056;-2.4394868686795235;42 Lodge Rd, Yate, Bristol, West of England, England, UK;6400
 4G;234;10;112;16625;114543;435;51.549078851961056;-2.4394868686795235;42 Lodge Rd, Yate, Bristol, West of England, England, UK;3725
@@ -7983,8 +8065,24 @@
 4G;234;10;130;16625;117046;231;51.50580443921175;-2.5519153475761414;Filton Lane, Gifford Court, Harry Stoke, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];6400
 4G;234;10;132;16625;117046;231;51.50580443921175;-2.5519153475761414;Filton Lane, Gifford Court, Harry Stoke, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];3725
 4G;234;10;134;16625;117046;231;51.50580443921175;-2.5519153475761414;Filton Lane, Gifford Court, Harry Stoke, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];347
+4G;234;10;110;16625;117048;492;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;6400
+4G;234;10;112;16625;117048;492;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;3725
+4G;234;10;114;16625;117048;492;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;347
+4G;234;10;120;16625;117048;493;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;6400
+4G;234;10;122;16625;117048;493;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;3725
 4G;234;10;124;16625;117048;493;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;347
+4G;234;10;130;16625;117048;494;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;6400
+4G;234;10;132;16625;117048;494;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;3725
+4G;234;10;134;16625;117048;494;51.505478676526664;-2.699601463973522;Unit 2 King Rd Ave, Avonmouth, Bristol, West of England, England, UK;347
+4G;234;10;110;16625;117073;269;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;6400
+4G;234;10;112;16625;117073;269;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;3725
+4G;234;10;114;16625;117073;269;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;347
+4G;234;10;120;16625;117073;268;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;6400
+4G;234;10;122;16625;117073;268;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;3725
 4G;234;10;124;16625;117073;268;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;347
+4G;234;10;130;16625;117073;267;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;6400
+4G;234;10;132;16625;117073;267;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;3725
+4G;234;10;134;16625;117073;267;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;347
 4G;234;10;132;16625;117147;329;51.51000137320367;-2.5996995717287064;Pen Park Road, Southmead, Bristol, West of England, England, UK;3725
 4G;234;10;124;16625;117213;60;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;347
 4G;234;10;110;17072;117246;414;52.04753479792539;-2.1409157663583755;Twyning Road, Strensham Business Park, Strensham, Worcestershire, England, UK;6400
@@ -8378,7 +8476,7 @@
 3G;234;10;20846;21734;734;186;51.844877710874485;-2.136452905833721;Henley Bank Lane, Witcombe, Gloucestershire, England, UK;2963
 3G;234;10;21024;21734;734;87;51.81323995389681;-2.2696738690137863;FLI Structures, Waterwells Business Park, Waterwells Drive, Quedgeley, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;21050;21734;734;124;51.861398150381724;-2.1778923645615578;Pylon near TFN Landscapes Ltd, 1 Stump Lane, Hucclecote, Gloucester, Gloucestershire, England, UK;3050
-3G;234;10;21272;21734;734;30;51.9172017911908;-2.03620667052563;Queenwood Grove, Cheltenham, Gloucestershire, England, UK;10661
+3G;234;10;21272;21734;734;30;51.9172017911908;-2.03620667052563;Queenwood Grove, Cheltenham, Gloucestershire, England, UK;10735
 3G;234;10;21288;21734;734;322;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone];3025
 3G;234;10;21408;21734;734;71;51.92667827097;-2.4199406057596207;Newent Arboretum, Bradfords Ln, Newent, Gloucestershire, England, UK;3025
 3G;234;10;21646;21734;734;125;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK;3025
@@ -8388,7 +8486,7 @@
 3G;234;10;22670;21752;734;129;51.60832504288341;-2.4837325885891914;Green Lane, Milbury Heath, South Gloucestershire, West of England, England, UK;3025
 3G;234;10;23184;21734;734;142;51.832943097361046;-2.204064354300499;Upton St Leonards Recreational Ground, Birchall Lane, M5 South, Upton St Leonards, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;23200;21734;734;153;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;3025
-3G;234;10;23363;21734;734;30;51.9172017911908;-2.03620667052563;Queenwood Grove, Cheltenham, Gloucestershire, England, UK;10637
+3G;234;10;23363;21734;734;30;51.9172017911908;-2.03620667052563;Queenwood Grove, Cheltenham, Gloucestershire, England, UK;10711
 3G;234;10;24064;21734;734;28;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];3025
 3G;234;10;24136;21734;734;112;51.884973062812115;-2.1502843871712685;Golden Valley Junction J11, M5 South, Cheltenham, Gloucestershire, England, UK [Cornerstone];3025
 3G;234;10;25119;21734;734;76;51.861398150381724;-2.1778923645615578;Pylon near TFN Landscapes Ltd, 1 Stump Lane, Hucclecote, Gloucester, Gloucestershire, England, UK;3025
@@ -8412,7 +8510,7 @@
 3G;234;10;30793;21734;734;10;51.83200039098511;-2.2452349215745926;The Fox & Elm, 2 Tuffley Lane, Stroud Road, A4173, Tuffley, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;31024;21734;734;88;51.81323995389681;-2.2696738690137863;FLI Structures, Waterwells Business Park, Waterwells Drive, Quedgeley, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;31050;21734;734;356;51.861398150381724;-2.1778923645615578;Pylon near TFN Landscapes Ltd, 1 Stump Lane, Hucclecote, Gloucester, Gloucestershire, England, UK;3050
-3G;234;10;31272;21734;734;31;51.9172017911908;-2.03620667052563;Queenwood Grove, Cheltenham, Gloucestershire, England, UK;10661
+3G;234;10;31272;21734;734;31;51.9172017911908;-2.03620667052563;Queenwood Grove, Cheltenham, Gloucestershire, England, UK;10735
 3G;234;10;31288;21734;734;323;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone];3025
 3G;234;10;31408;21734;734;150;51.92667827097;-2.4199406057596207;Newent Arboretum, Bradfords Ln, Newent, Gloucestershire, England, UK;3025
 3G;234;10;31440;21734;734;171;51.906257651711265;-2.571296989917755;Penyard Lane, Ross-on-Wye, Herefordshire, England, UK;3025
@@ -8424,7 +8522,7 @@
 3G;234;10;33091;21734;734;223;51.83200039098511;-2.2452349215745926;The Fox & Elm, 2 Tuffley Lane, Stroud Road, A4173, Tuffley, Gloucester, Gloucestershire, England, UK;3050
 3G;234;10;33184;21734;734;143;51.832943097361046;-2.204064354300499;Upton St Leonards Recreational Ground, Birchall Lane, M5 South, Upton St Leonards, Gloucester, Gloucestershire, England, UK;3025
 3G;234;10;33321;21734;734;458;51.89493809182766;-2.1314911544322968;134 B4063, Cheltenham, Gloucestershire, England, UK;3025
-3G;234;10;33363;21734;734;31;51.9172017911908;-2.03620667052563;Queenwood Grove, Cheltenham, Gloucestershire, England, UK;10637
+3G;234;10;33363;21734;734;31;51.9172017911908;-2.03620667052563;Queenwood Grove, Cheltenham, Gloucestershire, England, UK;10711
 3G;234;10;33534;21734;734;32;51.897592342600774;-2.5044409185647964;B4224, Ross-on-Wye, Herefordshire, England, UK;3025
 3G;234;10;33830;21734;734;172;51.90878837280505;-2.110939733684063;Edward Wilson House, Princess Elizabeth Way A4013, Hester's Way, Cheltenham, Gloucestershire, England, UK [Cornerstone];3025
 3G;234;10;33839;21734;734;239;51.8398128625979;-2.1030835434794426;Grove Farm, Crickley Hill, A417, Birdlip, Gloucester, Gloucestershire, England, UK;3025
@@ -8658,14 +8756,14 @@
 3G;234;10;46197;22953;953;170;51.513326801574536;-3.1528786942362785;43 Maelfa Road, Llanedeyrn, Cardiff, Wales, UK;3025
 3G;234;10;55789;22953;953;416;51.54462538931213;-3.1868074229642875;Lisvane and Thornhill Railway Station, Excalibur Drive, Thornhill, Cardiff, Wales, UK;3025
 3G;234;10;62931;22953;953;229;51.52627168795272;-3.1089146062731743;Llaneirwg Way, St Mellons, Cardiff, Wales, UK [O2];3025
-3G;234;10;25096;11811;982;2;51.38021608979318;-2.3597390444613597;O2 Boostbox, Tesco Express, 6 Stall Street, Bath, Bath and North East Somerset, West of England, England, UK;10637
-3G;234;10;51534;19211;982;1;51.8273713;-2.2793084;O2 Boostbox, Tesco Extra, Severnvale Drive, Quedgeley, Gloucester, Gloucestershire, England, UK;10637
-3G;234;10;54993;19811;982;1;51.3464727;-2.9748913;O2 Boostbox, Tesco, Station Road A370, Weston-super-mare, North Somerset, England, UK;10637
-3G;234;10;62615;19211;982;3;51.8273713;-2.2793084;O2 Boostbox, Tesco Extra, Severnvale Drive, Quedgeley, Gloucester, Gloucestershire, England, UK;10637
-3G;234;10;62831;19111;982;2;51.746845;-2.2239596;O2 Boostbox, Tesco, Stratford Road, Stroud, Gloucestershire, England, UK;10637
-3G;234;10;62832;19111;982;3;51.746845;-2.2239596;O2 Boostbox, Tesco, Stratford Road, Stroud, Gloucestershire, England, UK;10637
-3G;234;10;62907;18511;982;1;51.846714;-2.19973;O2 Boostbox, Tesco Express, Mead Road, Abbeydale, Gloucester, Gloucestershire, England, UK;10637
-3G;234;10;63517;19911;982;3;51.87106679183598;-2.249291092157364;O2 Boostbox, Tesco, St Oswalds Road, Gloucester, Gloucestershire, England, UK;10637
+3G;234;10;25096;11811;982;2;51.38021608979318;-2.3597390444613597;O2 Boostbox, Tesco Express, 6 Stall Street, Bath, Bath and North East Somerset, West of England, England, UK;10711
+3G;234;10;51534;19211;982;1;51.8273713;-2.2793084;O2 Boostbox, Tesco Extra, Severnvale Drive, Quedgeley, Gloucester, Gloucestershire, England, UK;10711
+3G;234;10;54993;19811;982;1;51.3464727;-2.9748913;O2 Boostbox, Tesco, Station Road A370, Weston-super-mare, North Somerset, England, UK;10711
+3G;234;10;62615;19211;982;3;51.8273713;-2.2793084;O2 Boostbox, Tesco Extra, Severnvale Drive, Quedgeley, Gloucester, Gloucestershire, England, UK;10711
+3G;234;10;62831;19111;982;2;51.746845;-2.2239596;O2 Boostbox, Tesco, Stratford Road, Stroud, Gloucestershire, England, UK;10711
+3G;234;10;62832;19111;982;3;51.746845;-2.2239596;O2 Boostbox, Tesco, Stratford Road, Stroud, Gloucestershire, England, UK;10711
+3G;234;10;62907;18511;982;1;51.846714;-2.19973;O2 Boostbox, Tesco Express, Mead Road, Abbeydale, Gloucester, Gloucestershire, England, UK;10711
+3G;234;10;63517;19911;982;3;51.87106679183598;-2.249291092157364;O2 Boostbox, Tesco, St Oswalds Road, Gloucester, Gloucestershire, England, UK;10711
 4G;234;15;10;6190;500003;28;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;6300
 4G;234;15;12;6190;500003;28;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;3501
 4G;234;15;15;6190;500003;28;51.50376801900035;-0.5004257708787918;11 Thorney Mill Rd, Iver, Buckinghamshire, England, UK;247
@@ -9949,10 +10047,21 @@
 4G;234;10;117;34784;545939;414;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;10;136;34784;545939;416;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;137;34784;545939;416;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;39448
+4G;234;10;110;17184;546050;95;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;6400
+4G;234;10;112;17184;546050;95;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;3725
+4G;234;10;115;17184;546050;95;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;347
 4G;234;10;120;17184;546050;93;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;6400
-4G;234;10;125;16608;546050;93;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;347
-4G;234;10;126;16608;546051;93;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;39250
+4G;234;10;122;17184;546050;93;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;3725
+4G;234;10;125;17184;546050;93;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;347
+4G;234;10;130;17184;546050;94;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;6400
+4G;234;10;132;17184;546050;94;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;3725
+4G;234;10;135;17184;546050;94;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;347
+4G;234;10;116;17184;546051;95;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;39250
+4G;234;10;117;17184;546051;95;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;39448
+4G;234;10;126;17184;546051;93;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;39250
 4G;234;10;127;17184;546051;93;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;39448
+4G;234;10;136;17184;546051;94;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;39250
+4G;234;10;137;17184;546051;94;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;39448
 4G;234;10;110;33809;546139;413;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;6400
 4G;234;10;122;33809;546139;411;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;3725
 4G;234;10;116;17184;546156;243;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;39250
@@ -9977,9 +10086,20 @@
 4G;234;10;135;17184;546647;38;51.49967382525866;-3.1401951983571053;462 Newport Road A4161, Penylan, Cardiff, Wales, UK;347
 4G;234;10;126;17184;546648;36;51.49967382525866;-3.1401951983571053;462 Newport Road A4161, Penylan, Cardiff, Wales, UK;39250
 4G;234;10;137;17184;546648;38;51.49967382525866;-3.1401951983571053;462 Newport Road A4161, Penylan, Cardiff, Wales, UK;39448
+4G;234;10;110;17184;546676;363;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;6400
 4G;234;10;112;17184;546676;363;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;3725
 4G;234;10;115;17184;546676;363;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;347
+4G;234;10;120;17184;546676;364;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;6400
 4G;234;10;122;17184;546676;364;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;3725
+4G;234;10;125;17184;546676;364;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;347
+4G;234;10;130;17184;546676;365;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;6400
+4G;234;10;132;17184;546676;365;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;3725
+4G;234;10;135;17184;546676;365;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;347
+4G;234;10;116;17184;546677;363;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;39250
+4G;234;10;117;17184;546677;363;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;39448
+4G;234;10;126;17184;546677;364;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;39250
+4G;234;10;127;17184;546677;364;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;39448
+4G;234;10;136;17184;546677;365;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;39250
 4G;234;10;137;17184;546677;365;51.49658180466445;-3.1523268297314644;CrossFit Cardiff, 48 Doe Close, Penylan, Cardiff, Wales, UK;39448
 4G;234;10;114;16625;546716;483;51.45198915193467;-2.59651188644716;Fika, 4 Broad Quay, Old City, Bristol, West of England, England, UK;1228
 4G;234;10;114;16625;546731;412;51.45379526868865;-2.59385135024786;20 St Nicholas Street, Old City, Bristol, West of England, England, UK;1228
