@@ -2135,6 +2135,16 @@
 4G;234;10;122;16624;6428;19;51.71003378432002;-2.396339848637581;Cross Country Route, Woodend Lane, Tumpy Green, Cam, Gloucestershire, England, UK;3725
 4G;234;20;0;3836;6429;264;53.70544289495225;-0.8734865114092827;Goole Railway Station, 4 St John's Court, Goole, East Riding of Yorkshire, England, UK;1363
 4G;234;20;1;3836;6429;466;53.70544289495225;-0.8734865114092827;Goole Railway Station, 4 St John's Court, Goole, East Riding of Yorkshire, England, UK;1363
+4G;234;15;10;24610;6434;9;51.6407933;-2.6759155;Upper Nelson Street, Chepstow, Monmouthshire, Wales, UK;6300
+4G;234;15;12;24610;6434;9;51.6407933;-2.6759155;Upper Nelson Street, Chepstow, Monmouthshire, Wales, UK;3501
+4G;234;15;14;24610;6434;9;51.6407933;-2.6759155;Upper Nelson Street, Chepstow, Monmouthshire, Wales, UK;223
+4G;234;15;20;24610;6434;10;51.6407933;-2.6759155;Upper Nelson Street, Chepstow, Monmouthshire, Wales, UK;6300
+4G;234;15;22;24610;6434;10;51.6407933;-2.6759155;Upper Nelson Street, Chepstow, Monmouthshire, Wales, UK;3501
+4G;234;15;24;24610;6434;10;51.6407933;-2.6759155;Upper Nelson Street, Chepstow, Monmouthshire, Wales, UK;223
+4G;234;10;110;16625;6434;9;51.6407933;-2.6759155;Upper Nelson Street, Chepstow, Monmouthshire, Wales, UK;6400
+4G;234;10;114;16625;6434;9;51.6407933;-2.6759155;Upper Nelson Street, Chepstow, Monmouthshire, Wales, UK;347
+4G;234;10;120;16625;6434;10;51.6407933;-2.6759155;Upper Nelson Street, Chepstow, Monmouthshire, Wales, UK;6400
+4G;234;10;124;16625;6434;10;51.6407933;-2.6759155;Upper Nelson Street, Chepstow, Monmouthshire, Wales, UK;347
 4G;234;20;8;2062;6444;450;52.59862967846817;-1.6744588315486908;Hedging Lane Industrial Estate, Hedging Lane, Wilnecote, Tamworth, Staffordshire, England, UK;6175
 4G;234;20;1;2198;6473;304;52.16797219965101;-2.204941436648369;Timberdine Substation, Norton Road, St Peters, Worcester, Worcestershire, England, UK;1363
 4G;234;20;1;2135;6486;214;51.51394503698764;-2.546144910156727;Church Rd, Stoke Gifford, South Gloucestershire, West of England, England, UK;1363
@@ -3903,8 +3913,30 @@
 4G;234;15;22;24606;13936;122;51.55145786298365;-3.0645498633384705;Pound Hill, M4 West, Castleton, Newport, Wales, UK;3501
 4G;234;15;14;24607;13965;259;51.44111129151109;-3.2668611779809;Pugh's Garden Village Wenvoe, Port Road A4050, Wenvoe, Glamorgan, Wales, UK [Cornerstone];223
 4G;234;15;18;24607;13965;384;51.44111129151109;-3.2668611779809;Pugh's Garden Village Wenvoe, Port Road A4050, Wenvoe, Glamorgan, Wales, UK [Cornerstone];2850
+4G;234;15;10;24610;14003;57;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;6300
+4G;234;15;12;24610;14003;57;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;3501
+4G;234;15;14;24610;14003;57;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;223
+4G;234;15;18;24610;14003;57;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;2850
+4G;234;15;20;24610;14003;59;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;6300
+4G;234;15;22;24610;14003;59;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;3501
+4G;234;15;24;24610;14003;59;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;223
 4G;234;15;28;24610;14003;59;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;2850
+4G;234;15;30;24610;14003;58;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;6300
+4G;234;15;32;24610;14003;58;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;3501
+4G;234;15;34;24610;14003;58;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;223
+4G;234;15;38;24610;14003;58;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;2850
+4G;234;15;10;24610;14019;311;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;6300
+4G;234;15;12;24610;14019;23;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;3501
+4G;234;15;14;24610;14019;293;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;223
+4G;234;15;18;24610;14019;440;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;2850
 4G;234;15;20;24610;14019;309;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;6300
+4G;234;15;22;24610;14019;21;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;3501
+4G;234;15;24;24610;14019;291;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;223
+4G;234;15;28;24610;14019;438;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;2850
+4G;234;15;30;24610;14019;310;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;6300
+4G;234;15;32;24610;14019;22;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;3501
+4G;234;15;34;24610;14019;292;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;223
+4G;234;15;38;24610;14019;439;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;2850
 4G;234;15;10;24610;14035;362;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Forest of Dean, Gloucestershire, England, UK;6300
 4G;234;15;12;24610;14035;362;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Forest of Dean, Gloucestershire, England, UK;3501
 4G;234;15;14;24610;14035;362;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Forest of Dean, Gloucestershire, England, UK;223
@@ -3978,7 +4010,18 @@
 4G;234;15;10;41086;14178;289;53.72751800817148;-0.4075630009174347;Hessle Police Station, 928A Hessle Road, Gipsyville, Hull, East Riding of Yorkshire, England, UK [Vodafone];6300
 4G;234;15;22;41086;14178;187;53.72751800817148;-0.4075630009174347;Hessle Police Station, 928A Hessle Road, Gipsyville, Hull, East Riding of Yorkshire, England, UK [Vodafone];3501
 4G;234;15;24;41086;14178;208;53.72751800817148;-0.4075630009174347;Hessle Police Station, 928A Hessle Road, Gipsyville, Hull, East Riding of Yorkshire, England, UK [Vodafone];223
+4G;234;15;10;24610;14209;36;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;6300
+4G;234;15;12;24610;14209;120;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;3501
+4G;234;15;14;24610;14209;90;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;223
+4G;234;15;18;24610;14209;60;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;2850
+4G;234;15;20;24610;14209;37;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;6300
+4G;234;15;22;24610;14209;121;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;3501
+4G;234;15;24;24610;14209;91;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;223
 4G;234;15;28;24610;14209;61;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;2850
+4G;234;15;30;24610;14209;38;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;6300
+4G;234;15;32;24610;14209;122;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;3501
+4G;234;15;34;24610;14209;92;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;223
+4G;234;15;38;24610;14209;62;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;2850
 4G;234;20;91;3122;14213;321;53.48613672;-1.321204869;Highfield Park, Park Road, Swinton, Sheffield, South Yorkshire, England, UK;9360
 4G;234;20;0;3133;14216;87;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;1363
 4G;234;20;1;3133;14216;118;53.42016741570367;-1.4095283299684525;Firth Rixson Forgings, Tinsley Viaduct M1, Tinsley, Sheffield, South Yorkshire, England, UK;1363
@@ -4134,7 +4177,12 @@
 4G;234;15;32;24610;14623;278;51.79086105391235;-2.616774092853789;Coleford Community Fire & Rescue Station, Cinder Hill, Coleford, Forest of Dean, Gloucestershire, England, UK;3501
 4G;234;15;34;24610;14623;278;51.79086105391235;-2.616774092853789;Coleford Community Fire & Rescue Station, Cinder Hill, Coleford, Forest of Dean, Gloucestershire, England, UK;223
 4G;234;15;38;24610;14623;278;51.79086105391235;-2.616774092853789;Coleford Community Fire & Rescue Station, Cinder Hill, Coleford, Forest of Dean, Gloucestershire, England, UK;2850
-4G;234;15;28;24610;14627;59;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;2850
+4G;234;15;14;24610;14627;411;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;223
+4G;234;15;18;24610;14627;171;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;2850
+4G;234;15;24;24610;14627;412;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;223
+4G;234;15;28;24610;14627;172;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;2850
+4G;234;15;34;24610;14627;413;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;223
+4G;234;15;38;24610;14627;173;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;2850
 4G;234;30;0;24391;14658;438;51.40253623484812;-2.7373408153653145;Coles Quarry, Long Lane, Backwell, North Somerset, England, UK [MBNL];1617
 4G;234;30;4;24391;14658;439;51.40253623484812;-2.7373408153653145;Coles Quarry, Long Lane, Backwell, North Somerset, England, UK [MBNL];1815
 4G;234;30;0;24391;14679;503;51.344935731338076;-2.9469014704227448;33 Hutton Moor Rd, Weston-super-mare, North Somerset, England, UK;1617
@@ -4200,7 +4248,21 @@
 4G;234;30;6;24391;14855;316;51.28496640004053;-3.011409267783165;Brean Theme Park, South Road, Brean, Somerset, England, UK [MBNL];3350
 4G;234;30;9;24391;14855;316;51.28496640004053;-3.011409267783165;Brean Theme Park, South Road, Brean, Somerset, England, UK [MBNL];3179
 4G;234;30;12;24390;14855;201;51.28496640004053;-3.011409267783165;Brean Theme Park, South Road, Brean, Somerset, England, UK [MBNL];6225
+4G;234;30;0;24361;14856;347;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;1;24361;14856;345;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;1617
+4G;234;30;2;24361;14856;346;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;1617
+4G;234;30;3;24361;14856;56;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;1815
+4G;234;30;4;24361;14856;null;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;1815
+4G;234;30;5;24361;14856;96;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;1815
+4G;234;30;6;24361;14856;347;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3350
+4G;234;30;7;24361;14856;345;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3350
+4G;234;30;8;24361;14856;346;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3350
+4G;234;30;9;24361;14856;347;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3179
+4G;234;30;10;24361;14856;345;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3179
+4G;234;30;11;24361;14856;346;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3179
+4G;234;30;18;24361;14856;483;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;497
+4G;234;30;19;24361;14856;267;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;497
+4G;234;30;20;24361;14856;465;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;497
 4G;234;15;18;24606;14893;455;51.60244750565441;-3.003363311290741;Newport Chartist Telephone Exchange, Malpas Road, Malpas Interchange J26, M4 East, Crindau, Newport, Wales, UK;2850
 4G;234;15;28;24606;14893;454;51.60244750565441;-3.003363311290741;Newport Chartist Telephone Exchange, Malpas Road, Malpas Interchange J26, M4 East, Crindau, Newport, Wales, UK;2850
 4G;234;15;30;24606;14893;128;51.60244750565441;-3.003363311290741;Newport Chartist Telephone Exchange, Malpas Road, Malpas Interchange J26, M4 East, Crindau, Newport, Wales, UK;6300
@@ -4265,6 +4327,17 @@
 4G;234;15;22;41086;15170;326;53.76475295883393;-0.2920198068022728;740 Holderness Road, Hull, East Riding of Yorkshire, England, UK [Vodafone];3501
 4G;234;15;24;41086;15170;389;53.76475295883393;-0.2920198068022728;740 Holderness Road, Hull, East Riding of Yorkshire, England, UK [Vodafone];223
 4G;234;15;24;41086;15216;0;53.78639840605294;-0.3241483122110367;Outside North Point Shopping Centre, Holwell Road, Bransholme, Hull, East Riding of Yorkshire, England, UK [Vodafone];223
+4G;234;15;10;24606;15273;400;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;6300
+4G;234;15;12;24606;15273;129;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;3501
+4G;234;15;14;24606;15273;129;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;223
+4G;234;15;18;24606;15273;55;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;2850
+4G;234;15;20;24606;15273;399;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;6300
+4G;234;15;22;24606;15273;130;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;3501
+4G;234;15;24;24606;15273;130;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;223
+4G;234;15;28;24606;15273;56;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;2850
+4G;234;15;30;24606;15273;401;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;6300
+4G;234;15;32;24606;15273;131;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;3501
+4G;234;15;34;24606;15273;131;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;223
 4G;234;15;38;24606;15273;54;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;2850
 4G;234;15;10;24611;15285;258;51.50580443921175;-2.5519153475761414;Filton Lane, Gifford Court, Harry Stoke, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];6300
 4G;234;15;12;24611;15285;258;51.50580443921175;-2.5519153475761414;Filton Lane, Gifford Court, Harry Stoke, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];3501
@@ -4480,16 +4553,31 @@
 4G;234;15;22;24610;16130;201;51.770871562607546;-2.829870991408825;Elstons Cottage, Elms Rd, Raglan, Usk, UK;3501
 4G;234;15;28;24610;16130;201;51.770871562607546;-2.829870991408825;Elstons Cottage, Elms Rd, Raglan, Usk, UK;2850
 4G;234;30;12;25340;16150;49;51.340422848173226;-1.44969642162323;Rooksnest Road, Faccombe, West Berkshire, England, UK;6225
+4G;234;15;10;24610;16157;352;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;6300
+4G;234;15;12;24610;16157;352;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3501
+4G;234;15;14;24610;16157;352;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;223
+4G;234;15;18;24610;16157;352;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;2850
+4G;234;15;20;24610;16157;353;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;6300
+4G;234;15;22;24610;16157;353;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3501
+4G;234;15;24;24610;16157;353;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;223
+4G;234;15;28;24610;16157;353;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;2850
+4G;234;15;30;24610;16157;351;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;6300
+4G;234;15;32;24610;16157;351;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3501
+4G;234;15;34;24610;16157;351;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;223
+4G;234;15;38;24610;16157;351;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;2850
 4G;234;15;18;6190;16256;402;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;2850
 4G;234;15;28;6190;16256;403;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;2850
 4G;234;15;38;6190;16256;404;51.46996806722971;-0.5090494081377983;14 Horton Rd, Colnbrook, Slough, Berkshire, England, UK;2850
 4G;234;15;10;24610;16319;360;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;6300
+4G;234;15;12;24610;16319;360;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;3501
 4G;234;15;14;24610;16319;360;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;223
 4G;234;15;18;24610;16319;360;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;2850
 4G;234;15;20;24610;16319;362;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;6300
+4G;234;15;22;24610;16319;362;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;3501
 4G;234;15;24;24610;16319;362;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;223
 4G;234;15;28;24610;16319;362;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;2850
 4G;234;15;30;24610;16319;361;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;6300
+4G;234;15;32;24610;16319;361;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;3501
 4G;234;15;34;24610;16319;361;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;223
 4G;234;15;38;24610;16319;361;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;2850
 4G;234;15;10;24611;16386;311;51.42794926309911;-2.6097524911165237;Ilchester Crescent Transmitter, 269 Ilchester Crescent, Bedminster Down, Bristol, West of England, England, UK;6300
@@ -5089,6 +5177,12 @@
 4G;234;30;14;26020;19739;121;52.12171943162457;-4.0711671486496925;2 Godre R Coed, Lampeter, Ceredigion, Wales, UK;6225
 4G;234;15;24;24607;19749;64;51.49020277981167;-3.223528079688549;78 Ely Road, Llandaff, Cardiff, Wales, UK;223
 4G;234;15;28;24607;19749;46;51.49020277981167;-3.223528079688549;78 Ely Road, Llandaff, Cardiff, Wales, UK;2850
+4G;234;10;10;24610;19759;138;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;6300
+4G;234;10;12;24610;19759;69;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3501
+4G;234;10;20;24610;19759;139;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;6300
+4G;234;10;22;24610;19759;70;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3501
+4G;234;10;30;24610;19759;140;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;6300
+4G;234;10;32;24610;19759;71;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3501
 4G;234;30;2;26022;19764;500;52.24980965582487;-4.231942780315876;5 Y Werydd, Aberarth, Aberaeron, Ceredigion, Wales, UK;1617
 4G;234;30;14;26020;19764;500;52.24980965582487;-4.231942780315876;5 Y Werydd, Aberarth, Aberaeron, Ceredigion, Wales, UK;6225
 4G;234;30;0;26011;19790;404;51.86590302986438;-2.73833692073822;Pleck Farm, Welsh Newton, Herefordshire, England, UK;1617
@@ -7807,7 +7901,15 @@
 4G;234;10;120;16624;113944;30;51.854309681542155;-2.508370019495487;Larksfield Road, Drybrook, Forest of Dean, Gloucestershire, England, UK;6400
 4G;234;10;122;16624;113944;48;51.854309681542155;-2.508370019495487;Larksfield Road, Drybrook, Forest of Dean, Gloucestershire, England, UK;3725
 4G;234;10;130;16624;113944;32;51.854309681542155;-2.508370019495487;Larksfield Road, Drybrook, Forest of Dean, Gloucestershire, England, UK;6400
+4G;234;10;110;16625;114003;57;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;6400
+4G;234;10;112;16625;114003;99;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;3725
+4G;234;10;114;16625;114003;294;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;347
+4G;234;10;120;16625;114003;59;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;6400
+4G;234;10;122;16625;114003;100;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;3725
 4G;234;10;124;16625;114003;295;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;347
+4G;234;10;130;16625;114003;58;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;6400
+4G;234;10;132;16625;114003;101;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;3725
+4G;234;10;134;16625;114003;296;51.63835344486484;-2.6875318586826324;Chepstow Community Hospital, Mounton Road, Chepstow, Monmouthshire, Wales, UK;347
 4G;234;10;110;16624;114035;284;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Forest of Dean, Gloucestershire, England, UK;6400
 4G;234;10;112;16624;114035;null;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Forest of Dean, Gloucestershire, England, UK;3725
 4G;234;10;114;16624;114035;null;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Forest of Dean, Gloucestershire, England, UK;347
@@ -8098,6 +8200,13 @@
 4G;234;10;114;16608;115108;31;51.59685974571847;-2.965894863009453;Firbank Avenue, M4 West, Beechwood, Newport, Wales, UK;347
 4G;234;10;124;16608;115108;32;51.59685974571847;-2.965894863009453;Firbank Avenue, M4 West, Beechwood, Newport, Wales, UK;347
 4G;234;10;134;16608;115108;30;51.59685974571847;-2.965894863009453;Firbank Avenue, M4 West, Beechwood, Newport, Wales, UK;347
+4G;234;10;110;16608;115274;129;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;6400
+4G;234;10;112;16608;115274;129;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;3725
+4G;234;10;114;16608;115274;129;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;347
+4G;234;10;120;16608;115274;130;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;6400
+4G;234;10;122;16608;115274;130;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;3725
+4G;234;10;124;16608;115274;130;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;347
+4G;234;10;130;16608;115274;131;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;6400
 4G;234;10;132;16608;115274;131;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;3725
 4G;234;10;134;16608;115274;131;51.5938607608946;-2.9989416897296906;Newport Savoy Telephone Exchange, Factory Road, Barrack Hill, Newport, Wales, UK;347
 4G;234;10;117;16625;115285;232;51.50580443921175;-2.5519153475761414;Filton Lane, Gifford Court, Harry Stoke, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];39448
@@ -8149,6 +8258,23 @@
 4G;234;10;110;16624;116130;202;51.770871562607546;-2.829870991408825;Elstons Cottage, Elms Rd, Raglan, Usk, UK;6400
 4G;234;10;120;16624;116130;201;51.770871562607546;-2.829870991408825;Elstons Cottage, Elms Rd, Raglan, Usk, UK;6400
 4G;234;10;130;16624;116130;203;51.770871562607546;-2.829870991408825;Elstons Cottage, Elms Rd, Raglan, Usk, UK;6400
+4G;234;10;110;16625;116157;106;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;6400
+4G;234;10;112;16625;116157;70;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3725
+4G;234;10;114;16625;116157;70;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;347
+4G;234;10;120;16625;116157;107;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;6400
+4G;234;10;122;16625;116157;71;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3725
+4G;234;10;124;16625;116157;71;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;347
+4G;234;10;130;16625;116157;105;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;6400
+4G;234;10;132;16625;116157;69;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3725
+4G;234;10;134;16625;116157;69;51.64234861467055;-2.659672759473324;Wyedean School and Sixth Form Centre, Beachley Road, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;347
+4G;234;10;110;16625;116319;360;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;6400
+4G;234;10;112;16625;116319;207;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;3725
+4G;234;10;114;16625;116319;360;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;347
+4G;234;10;120;16625;116319;362;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;6400
+4G;234;10;122;16625;116319;208;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;3725
+4G;234;10;124;16625;116319;362;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;347
+4G;234;10;130;16625;116319;361;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;6400
+4G;234;10;132;16625;116319;209;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;3725
 4G;234;10;134;16625;116319;361;51.62271581971578;-2.674088291823864;Wye Valley Link Road A466, Chepstow, Monmouthshire, Wales, UK;347
 4G;234;10;114;16609;116349;264;51.402902473129856;-3.266640566289425;16 Fryatt St, Barry, Glamorgan, Wales, UK;347
 4G;234;10;110;16625;116386;311;51.42794926309911;-2.6097524911165237;Ilchester Crescent Transmitter, 269 Ilchester Crescent, Bedminster Down, Bristol, West of England, England, UK;6400
@@ -8171,10 +8297,21 @@
 4G;234;10;127;16544;116583;5;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;39448
 4G;234;10;135;16544;116583;0;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;39250
 4G;234;10;137;16544;116583;3;51.56845444530988;-1.7874834313988686;Pegasus Building, New College Swindon: North Campus, North Star Avenue, Swindon, Wiltshire, England, UK;39448
+4G;234;10;110;16625;116616;249;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;6400
+4G;234;10;112;16625;116616;249;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;3725
+4G;234;10;114;16625;116616;249;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;347
+4G;234;10;120;16625;116616;250;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;6400
+4G;234;10;122;16625;116616;250;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;3725
+4G;234;10;124;16625;116616;250;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;347
+4G;234;10;130;16625;116616;251;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;6400
+4G;234;10;132;16625;116616;251;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;3725
+4G;234;10;134;16625;116616;251;51.63159533238554;-2.6716625690460205;Bulwark Bus & Coach Engineering, Unit 5, Bulwark Industrial Estate, Bulwark, Chepstow, Monmouthshire, Wales, UK;347
 4G;234;10;110;17072;116631;265;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;6400
 4G;234;10;112;17072;116631;265;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;3725
 4G;234;10;114;17072;116631;265;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;347
 4G;234;10;120;17072;116631;266;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;6400
+4G;234;10;122;17072;116631;266;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;3725
+4G;234;10;124;17072;116631;266;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;347
 4G;234;10;130;17072;116631;264;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;6400
 4G;234;10;132;17072;116631;264;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;3725
 4G;234;10;134;17072;116631;264;51.845899891416934;-2.2440386563539505;Ribston Hall High School, Stroud Road B4072, Gloucester, Gloucestershire, England, UK;347
@@ -8216,7 +8353,15 @@
 4G;234;10;132;16625;117073;267;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;3725
 4G;234;10;134;16625;117073;267;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;347
 4G;234;10;132;16625;117147;329;51.51000137320367;-2.5996995717287064;Pen Park Road, Southmead, Bristol, West of England, England, UK;3725
+4G;234;10;110;16625;117213;62;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;6400
+4G;234;10;112;16625;117213;62;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;3725
+4G;234;10;114;16625;117213;62;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;347
+4G;234;10;120;16625;117213;60;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;6400
+4G;234;10;122;16625;117213;60;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;3725
 4G;234;10;124;16625;117213;60;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;347
+4G;234;10;130;16625;117213;61;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;6400
+4G;234;10;132;16625;117213;61;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;3725
+4G;234;10;134;16625;117213;61;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;347
 4G;234;10;110;17072;117246;414;52.04753479792539;-2.1409157663583755;Twyning Road, Strensham Business Park, Strensham, Worcestershire, England, UK;6400
 4G;234;10;112;17072;117246;73;52.04753479792539;-2.1409157663583755;Twyning Road, Strensham Business Park, Strensham, Worcestershire, England, UK;3725
 4G;234;10;132;17072;117246;72;52.04753479792539;-2.1409157663583755;Twyning Road, Strensham Business Park, Strensham, Worcestershire, England, UK;3725
@@ -8244,8 +8389,15 @@
 4G;234;10;114;16625;117480;425;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;347
 4G;234;10;124;16625;117480;423;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;347
 4G;234;10;134;16625;117480;424;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;347
+4G;234;10;110;16625;117501;393;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;6400
+4G;234;10;112;16625;117501;393;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3725
 4G;234;10;114;16625;117501;393;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;347
+4G;234;10;120;16625;117501;394;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;6400
+4G;234;10;122;16625;117501;394;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3725
 4G;234;10;124;16625;117501;394;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;347
+4G;234;10;130;16625;117501;395;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;6400
+4G;234;10;132;16625;117501;395;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;3725
+4G;234;10;134;16625;117501;395;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;347
 4G;234;10;120;16625;117531;441;51.455464346599456;-2.5520407408475876;Unit 7 Netham Road, Blackswarth Road, Redfield, Bristol, West of England, England, UK;6400
 4G;234;10;112;16625;117684;387;51.530877835397526;-2.600403316318989;M5, Almondsbury, South Gloucestershire, West of England, England, UK;3725
 4G;234;10;114;16625;117684;198;51.530877835397526;-2.600403316318989;M5, Almondsbury, South Gloucestershire, West of England, England, UK;347
@@ -10275,9 +10427,31 @@
 4G;234;10;136;17184;546051;94;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;39250
 4G;234;10;137;17184;546051;94;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;39448
 4G;234;10;110;33809;546139;413;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;6400
+4G;234;10;112;33809;546139;413;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;3725
+4G;234;10;115;33809;546139;413;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;347
+4G;234;10;120;33809;546139;411;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;6400
 4G;234;10;122;33809;546139;411;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;3725
-4G;234;10;116;17184;546156;243;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;39250
-4G;234;10;117;17184;546156;243;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;39448
+4G;234;10;125;33809;546139;411;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;347
+4G;234;10;130;33809;546139;412;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;6400
+4G;234;10;132;33809;546139;412;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;3725
+4G;234;10;135;33809;546139;412;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;347
+4G;234;10;116;33809;546140;413;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;39250
+4G;234;10;117;33809;546140;413;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;39448
+4G;234;10;126;33809;546140;411;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;39250
+4G;234;10;127;33809;546140;411;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;39448
+4G;234;10;136;33809;546140;412;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;39250
+4G;234;10;137;33809;546140;412;52.47748380185719;-1.9066526368260381;Holiday Inn Express, 19 Holliday Street A456, Park Central, Birmingham, West Midlands, England, UK;39448
+4G;234;10;110;17184;546156;243;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;6400
+4G;234;10;112;17184;546156;243;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;3725
+4G;234;10;115;17184;546155;243;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;347
+4G;234;10;120;17184;546156;244;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;6400
+4G;234;10;122;17184;546156;244;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;3725
+4G;234;10;125;17184;546155;244;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;347
+4G;234;10;130;17184;546156;245;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;6400
+4G;234;10;132;17184;546156;245;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;3725
+4G;234;10;135;17184;546155;245;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;347
+4G;234;10;116;17184;546155;243;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;39250
+4G;234;10;117;17184;546155;243;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;39448
 4G;234;10;126;17184;546156;244;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;39250
 4G;234;10;127;17184;546156;244;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;39448
 4G;234;10;136;17184;546156;245;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;39250
