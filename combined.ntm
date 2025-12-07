@@ -5101,6 +5101,18 @@
 4G;234;15;38;8257;19247;252;52.94998529835911;-1.4792044088244438;Palm Court Island Roundabout, Darley Abbey, Derby, East Midlands, England, UK;2850
 4G;234;30;13;25320;19273;97;51.511264008746615;-2.132738381624222;Springfield Farm, Stanton Lane, Stanton St Quintin, Wiltshire, England, UK;6225
 4G;234;30;0;25321;19275;407;51.41100978991096;-2.1829654276371;Pond Close Farm, Brockleaze, Corsham, Wiltshire, England, UK;1617
+4G;234;15;10;24607;19290;null;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;6300
+4G;234;15;12;24607;19290;null;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;3501
+4G;234;15;14;24607;19290;45;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;223
+4G;234;15;18;24607;19290;207;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;2850
+4G;234;15;20;24607;19290;null;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;6300
+4G;234;15;22;24607;19290;null;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;3501
+4G;234;15;24;24607;19290;46;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;223
+4G;234;15;28;24607;19290;208;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;2850
+4G;234;15;30;24607;19290;null;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;6300
+4G;234;15;32;24607;19290;null;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;3501
+4G;234;15;34;24607;19290;47;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;223
+4G;234;15;38;24607;19290;209;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;2850
 4G;234;30;0;25321;19293;306;51.40287109931996;-1.9578405842185018;Morgan's Hill, Bishops Cannings, Wiltshire, England, UK;1617
 4G;234;30;1;25321;19307;418;51.533998604112554;-1.964118629693985;Great Wood, Trow Lane, Tockenham, Wiltshire, England, UK [MBNL];1617
 4G;234;30;2;25321;19307;419;51.533998604112554;-1.964118629693985;Great Wood, Trow Lane, Tockenham, Wiltshire, England, UK [MBNL];1617
@@ -9260,7 +9272,27 @@
 4G;234;15;25;40968;502824;24;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;223
 4G;234;15;30;40968;502824;25;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;6300
 4G;234;15;35;40968;502824;25;53.37967520764376;-1.4657507836818695;Owen Building, Sheffield Hallam University, Sheaf Valley, Sheffield, South Yorkshire, England, UK;223
+4G;234;10;110;34448;502839;285;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;6400
+4G;234;10;112;34448;502839;285;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;3725
+4G;234;10;114;34448;502839;285;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;1226
+4G;234;10;115;34448;502839;285;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;347
+4G;234;10;120;34448;502839;286;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;6400
+4G;234;10;122;34448;502839;286;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;3725
+4G;234;10;124;34448;502839;286;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;1226
+4G;234;10;125;34448;502839;286;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;347
+4G;234;10;130;34448;502839;287;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;6400
+4G;234;10;132;34448;502839;287;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;3725
+4G;234;10;134;34448;502839;287;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;1226
+4G;234;10;135;34448;502839;287;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;347
 4G;234;15;10;41065;502840;285;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;6300
+4G;234;15;12;41065;502840;285;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;3501
+4G;234;15;15;41065;502840;285;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;223
+4G;234;15;20;41065;502840;286;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;6300
+4G;234;15;22;41065;502840;286;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;3501
+4G;234;15;25;41065;502840;286;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;223
+4G;234;15;30;41065;502840;287;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;6300
+4G;234;15;32;41065;502840;287;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;3501
+4G;234;15;35;41065;502840;287;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;223
 4G;234;10;110;4096;502847;336;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;6400
 4G;234;10;112;4096;502847;336;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;3725
 4G;234;10;114;4096;502847;336;51.494317710409774;-0.4668177693051254;Opposite Holloway Farm, Harmondsworth Road, Harmondsworth, Hillingdon, Greater London, England, UK;1226
@@ -9419,7 +9451,27 @@
 4G;234;15;28;41086;505956;55;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;2850
 4G;234;15;30;41086;505956;54;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;6300
 4G;234;15;38;41086;505956;54;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;2850
+4G;234;10;110;34784;505957;178;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];6400
+4G;234;10;112;34784;505957;178;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];3725
+4G;234;10;114;34784;505957;178;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];1226
+4G;234;10;115;34784;505957;178;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];347
+4G;234;10;120;34784;505957;177;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];6400
+4G;234;10;122;34784;505957;177;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];3725
+4G;234;10;124;34784;505957;177;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];1226
+4G;234;10;125;34784;505957;177;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];347
+4G;234;10;130;34784;505957;179;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];6400
+4G;234;10;132;34784;505957;179;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];3725
+4G;234;10;134;34784;505957;179;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];1226
 4G;234;10;135;34784;505957;179;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];347
+4G;234;10;110;34784;505959;87;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];6400
+4G;234;10;112;34784;505959;87;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];3725
+4G;234;10;115;34784;505959;87;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];347
+4G;234;10;120;34784;505959;89;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];6400
+4G;234;10;122;34784;505959;89;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];3725
+4G;234;10;125;34784;505959;89;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];347
+4G;234;10;130;34784;505959;88;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];6400
+4G;234;10;132;34784;505959;88;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];3725
+4G;234;10;135;34784;505959;88;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];347
 4G;234;10;110;34784;505969;113;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;6400
 4G;234;10;112;34784;505969;113;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;3725
 4G;234;10;115;34784;505969;113;53.72128295288871;-0.42879704385995865;Itlings Lane, Hessle, East Riding of Yorkshire, England, UK;347
@@ -9542,13 +9594,13 @@
 4G;234;15;25;41086;506037;295;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;223
 4G;234;15;30;41086;506037;305;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;6300
 4G;234;15;35;41086;506037;296;53.743914461628755;-0.33429544419050217;Essex House, Manor Street, Old Town, Hull, East Riding of Yorkshire, England, UK;223
-4G;234;10;110;34784;506038;233;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;16400
+4G;234;10;110;34784;506038;233;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;112;34784;506038;233;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;3725
 4G;234;10;115;34784;506038;233;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;347
-4G;234;10;120;34784;506038;231;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;16400
+4G;234;10;120;34784;506038;231;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;122;34784;506038;231;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;3725
 4G;234;10;125;34784;506038;231;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;347
-4G;234;10;130;34784;506038;232;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;16400
+4G;234;10;130;34784;506038;232;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;132;34784;506038;232;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;3725
 4G;234;10;135;34784;506038;232;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;347
 4G;234;10;110;34784;506046;110;53.761587668708295;-0.343388132750988;142 Sculcoates Lane, Sculcoates, Hull, East Riding of Yorkshire, England, UK;6400
@@ -10376,35 +10428,147 @@
 4G;234;10;125;17184;544152;218;51.513326801574536;-3.1528786942362785;43 Maelfa Road, Llanedeyrn, Cardiff, Wales, UK;347
 4G;234;10;127;17184;544153;218;51.513326801574536;-3.1528786942362785;43 Maelfa Road, Llanedeyrn, Cardiff, Wales, UK;39448
 4G;234;10;110;4099;544354;363;51.485395220415455;-0.6632418930530548;Hatch House, 3 The Hatch, Windsor, Berkshire, England, UK;6400
+4G;234;10;110;4099;544357;469;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;6400
+4G;234;10;112;4099;544357;469;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;3725
+4G;234;10;114;4099;544357;469;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;1226
+4G;234;10;115;4099;544357;469;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;347
 4G;234;10;120;4099;544357;468;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;6400
+4G;234;10;122;4099;544357;468;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;3725
+4G;234;10;124;4099;544357;468;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;1226
+4G;234;10;125;4099;544357;468;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;347
+4G;234;10;130;4099;544357;470;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;6400
+4G;234;10;132;4099;544357;470;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;3725
+4G;234;10;134;4099;544357;470;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;1226
+4G;234;10;135;4099;544357;470;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;347
+4G;234;10;116;4099;544358;469;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;39250
+4G;234;10;117;4099;544358;469;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;39448
+4G;234;10;126;4099;544358;468;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;39250
+4G;234;10;127;4099;544358;468;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;39448
+4G;234;10;136;4099;544358;470;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;39250
+4G;234;10;137;4099;544358;470;51.50802294428322;-0.5957561731338501;Slough Borough Council, 23 Windsor Rd, Slough, Berkshire, England, UK;39448
 4G;234;10;136;32896;544594;452;53.373864343798594;-1.462593823671341;Farm Road, Sheaf Valley, Sheffield, South Yorkshire, England, UK [O2];39250
 4G;234;10;137;32896;544594;452;53.373864343798594;-1.462593823671341;Farm Road, Sheaf Valley, Sheffield, South Yorkshire, England, UK [O2];39448
 4G;234;10;110;17184;544726;127;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;6400
+4G;234;10;112;17184;544726;127;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;3725
 4G;234;10;115;17184;544726;127;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;347
 4G;234;10;120;17184;544726;128;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;6400
 4G;234;10;122;17184;544726;128;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;3725
+4G;234;10;125;17184;544726;128;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;347
+4G;234;10;130;17184;544726;126;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;6400
+4G;234;10;132;17184;544726;126;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;3725
+4G;234;10;135;17184;544726;126;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;347
+4G;234;10;116;17184;544727;127;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;39250
+4G;234;10;117;17184;544727;127;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;39448
+4G;234;10;126;17184;544727;128;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;39250
+4G;234;10;127;17184;544727;128;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;39448
+4G;234;10;136;17184;544727;126;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;39250
+4G;234;10;137;17184;544727;126;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;39448
+4G;234;10;110;33809;544908;218;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;6400
+4G;234;10;112;33809;544908;218;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;3725
+4G;234;10;115;33809;544908;218;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;347
+4G;234;10;120;33809;544908;217;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;6400
+4G;234;10;122;33809;544908;217;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;3725
+4G;234;10;125;33809;544908;217;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;347
+4G;234;10;130;33809;544908;216;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;6400
 4G;234;10;132;33809;544908;216;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;3725
+4G;234;10;135;33809;544908;216;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;347
+4G;234;10;116;33809;544909;218;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;39250
+4G;234;10;117;33809;544909;218;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;39448
+4G;234;10;126;33809;544909;217;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;39250
+4G;234;10;127;33809;544909;217;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;39448
+4G;234;10;136;33809;544909;216;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;39250
+4G;234;10;137;33809;544909;216;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;39448
 4G;234;10;110;17184;544915;424;51.522829548895004;-3.0761172249913216;Heol Las, Marshfield, Cardiff, Wales, UK;6400
+4G;234;10;112;17184;544915;424;51.522829548895004;-3.0761172249913216;Heol Las, Marshfield, Cardiff, Wales, UK;3725
 4G;234;10;115;17184;544915;424;51.522829548895004;-3.0761172249913216;Heol Las, Marshfield, Cardiff, Wales, UK;347
+4G;234;10;120;17184;544915;425;51.522829548895004;-3.0761172249913216;Heol Las, Marshfield, Cardiff, Wales, UK;6400
+4G;234;10;122;17184;544915;425;51.522829548895004;-3.0761172249913216;Heol Las, Marshfield, Cardiff, Wales, UK;3725
+4G;234;10;125;17184;544915;425;51.522829548895004;-3.0761172249913216;Heol Las, Marshfield, Cardiff, Wales, UK;347
+4G;234;10;116;17184;544916;424;51.522829548895004;-3.0761172249913216;Heol Las, Marshfield, Cardiff, Wales, UK;39250
+4G;234;10;117;17184;544916;424;51.522829548895004;-3.0761172249913216;Heol Las, Marshfield, Cardiff, Wales, UK;39448
+4G;234;10;126;17184;544916;425;51.522829548895004;-3.0761172249913216;Heol Las, Marshfield, Cardiff, Wales, UK;39250
+4G;234;10;127;17184;544916;425;51.522829548895004;-3.0761172249913216;Heol Las, Marshfield, Cardiff, Wales, UK;39448
 4G;234;10;114;1040;545024;43;52.916395;-1.461766;Derby Railway Station Eastern Entrance, Railway Terrace, Pride Park, Derby, East Midlands, England, UK;1228
 4G;234;10;114;1040;545207;122;52.916128668331226;-1.4641880616545677;32A Railway Terrace, Castleward, Derby, East Midlands, England, UK;1228
+4G;234;10;110;17184;545238;248;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;6400
+4G;234;10;112;17184;545238;248;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;3725
+4G;234;10;115;17184;545238;248;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;347
+4G;234;10;120;17184;545238;247;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;6400
+4G;234;10;122;17184;545238;247;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;3725
+4G;234;10;125;17184;545238;247;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;347
+4G;234;10;130;17184;545238;246;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;6400
+4G;234;10;132;17184;545238;246;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;3725
+4G;234;10;135;17184;545238;246;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;347
+4G;234;10;116;17184;545239;248;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;39250
+4G;234;10;117;17184;545239;248;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;39448
 4G;234;10;126;17184;545239;247;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;39250
+4G;234;10;127;17184;545239;247;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;39448
+4G;234;10;136;17184;545239;246;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;39250
+4G;234;10;137;17184;545239;246;51.47040143265824;-3.173237666487694;Anchor Works, Canal Industrial Estate, Dumballs Road, Butetown, Cardiff, Wales, UK;39448
 4G;234;10;116;34448;545247;285;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;39250
+4G;234;10;117;34448;545247;285;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;39448
+4G;234;10;126;34448;545247;286;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;39250
+4G;234;10;127;34448;545247;286;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;39448
+4G;234;10;136;34448;545247;287;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;39250
+4G;234;10;137;34448;545247;287;53.44204584996223;-1.3271419331431389;Vehicle & Workshop Safety Ltd, Unit 8, Sycamore Centre, Eastwood Trading Estate, Dalton, Rotherham, South Yorkshire, England, UK;39448
+4G;234;10;110;17184;545683;50;51.48835083968887;-3.1774507462978363;Sherman Theatre, Senghennydd Road, Cathays, Cardiff, Wales, UK;6400
+4G;234;10;112;17184;545683;50;51.48835083968887;-3.1774507462978363;Sherman Theatre, Senghennydd Road, Cathays, Cardiff, Wales, UK;3725
+4G;234;10;115;17184;545683;50;51.48835083968887;-3.1774507462978363;Sherman Theatre, Senghennydd Road, Cathays, Cardiff, Wales, UK;347
+4G;234;10;120;17184;545683;48;51.48835083968887;-3.1774507462978363;Sherman Theatre, Senghennydd Road, Cathays, Cardiff, Wales, UK;6400
 4G;234;10;122;17184;545683;48;51.48835083968887;-3.1774507462978363;Sherman Theatre, Senghennydd Road, Cathays, Cardiff, Wales, UK;3725
+4G;234;10;125;17184;545683;48;51.48835083968887;-3.1774507462978363;Sherman Theatre, Senghennydd Road, Cathays, Cardiff, Wales, UK;347
+4G;234;10;130;17184;545683;49;51.48835083968887;-3.1774507462978363;Sherman Theatre, Senghennydd Road, Cathays, Cardiff, Wales, UK;6400
+4G;234;10;132;17184;545683;49;51.48835083968887;-3.1774507462978363;Sherman Theatre, Senghennydd Road, Cathays, Cardiff, Wales, UK;3725
+4G;234;10;135;17184;545683;49;51.48835083968887;-3.1774507462978363;Sherman Theatre, Senghennydd Road, Cathays, Cardiff, Wales, UK;347
+4G;234;10;116;17184;545684;50;51.48835083968887;-3.1774507462978363;Sherman Theatre, Senghennydd Road, Cathays, Cardiff, Wales, UK;39250
+4G;234;10;117;17184;545684;50;51.48835083968887;-3.1774507462978363;Sherman Theatre, Senghennydd Road, Cathays, Cardiff, Wales, UK;39448
+4G;234;10;126;17184;545684;48;51.48835083968887;-3.1774507462978363;Sherman Theatre, Senghennydd Road, Cathays, Cardiff, Wales, UK;39250
+4G;234;10;127;17184;545684;48;51.48835083968887;-3.1774507462978363;Sherman Theatre, Senghennydd Road, Cathays, Cardiff, Wales, UK;39448
+4G;234;10;136;17184;545684;49;51.48835083968887;-3.1774507462978363;Sherman Theatre, Senghennydd Road, Cathays, Cardiff, Wales, UK;39250
+4G;234;10;137;17184;545684;49;51.48835083968887;-3.1774507462978363;Sherman Theatre, Senghennydd Road, Cathays, Cardiff, Wales, UK;39448
 4G;234;10;110;33809;545689;168;52.4978892184531;-1.862964816391468;Trevor Street Industrial Estate, Trevor Street, Nechells, Birmingham, West Midlands, England, UK;6400
+4G;234;10;112;33809;545689;168;52.4978892184531;-1.862964816391468;Trevor Street Industrial Estate, Trevor Street, Nechells, Birmingham, West Midlands, England, UK;3725
 4G;234;10;115;33809;545689;168;52.4978892184531;-1.862964816391468;Trevor Street Industrial Estate, Trevor Street, Nechells, Birmingham, West Midlands, England, UK;347
+4G;234;10;120;33809;545689;169;52.4978892184531;-1.862964816391468;Trevor Street Industrial Estate, Trevor Street, Nechells, Birmingham, West Midlands, England, UK;6400
+4G;234;10;122;33809;545689;169;52.4978892184531;-1.862964816391468;Trevor Street Industrial Estate, Trevor Street, Nechells, Birmingham, West Midlands, England, UK;3725
+4G;234;10;125;33809;545689;169;52.4978892184531;-1.862964816391468;Trevor Street Industrial Estate, Trevor Street, Nechells, Birmingham, West Midlands, England, UK;347
+4G;234;10;130;33809;545689;170;52.4978892184531;-1.862964816391468;Trevor Street Industrial Estate, Trevor Street, Nechells, Birmingham, West Midlands, England, UK;6400
+4G;234;10;132;33809;545689;170;52.4978892184531;-1.862964816391468;Trevor Street Industrial Estate, Trevor Street, Nechells, Birmingham, West Midlands, England, UK;3725
+4G;234;10;135;33809;545689;170;52.4978892184531;-1.862964816391468;Trevor Street Industrial Estate, Trevor Street, Nechells, Birmingham, West Midlands, England, UK;347
+4G;234;10;116;33809;545690;168;52.4978892184531;-1.862964816391468;Trevor Street Industrial Estate, Trevor Street, Nechells, Birmingham, West Midlands, England, UK;39250
+4G;234;10;117;33809;545690;168;52.4978892184531;-1.862964816391468;Trevor Street Industrial Estate, Trevor Street, Nechells, Birmingham, West Midlands, England, UK;39448
+4G;234;10;126;33809;545690;169;52.4978892184531;-1.862964816391468;Trevor Street Industrial Estate, Trevor Street, Nechells, Birmingham, West Midlands, England, UK;39250
+4G;234;10;127;33809;545690;169;52.4978892184531;-1.862964816391468;Trevor Street Industrial Estate, Trevor Street, Nechells, Birmingham, West Midlands, England, UK;39448
+4G;234;10;136;33809;545690;170;52.4978892184531;-1.862964816391468;Trevor Street Industrial Estate, Trevor Street, Nechells, Birmingham, West Midlands, England, UK;39250
+4G;234;10;137;33809;545690;170;52.4978892184531;-1.862964816391468;Trevor Street Industrial Estate, Trevor Street, Nechells, Birmingham, West Midlands, England, UK;39448
 4G;234;10;116;32897;545710;394;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;39250
 4G;234;10;117;32897;545710;394;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;39448
 4G;234;10;126;32897;545710;393;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;39250
 4G;234;10;127;32897;545710;393;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;39448
 4G;234;10;136;32897;545710;395;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;39250
 4G;234;10;137;32897;545710;395;53.40621132944627;-1.43076840788126;Upwell Street A6102, Grimesthorpe, Sheffield, South Yorkshire, England, UK;39448
+4G;234;10;116;34784;545743;32;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;39250
+4G;234;10;117;34784;545743;32;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;10;126;34784;545743;31;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;127;34784;545743;31;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;10;136;34784;545743;30;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;137;34784;545743;30;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;10;118;1280;545762;476;50.81949207;-0.1359789446;Brighton Aquarium, Madeira Drive, Queen's Park, Brighton, Brighton and Hove, England, UK;38100
 4G;234;10;110;33809;545820;283;52.45332593830527;-1.9422519207000732;Birmingham Women's Hospital, Queen Elizabeth Hospital, Mindelsohn Way, Metchley, Birmingham, West Midlands, England, UK;6400
+4G;234;10;112;33809;545820;283;52.45332593830527;-1.9422519207000732;Birmingham Women's Hospital, Queen Elizabeth Hospital, Mindelsohn Way, Metchley, Birmingham, West Midlands, England, UK;3725
+4G;234;10;115;33809;545820;283;52.45332593830527;-1.9422519207000732;Birmingham Women's Hospital, Queen Elizabeth Hospital, Mindelsohn Way, Metchley, Birmingham, West Midlands, England, UK;347
+4G;234;10;120;33809;545820;282;52.45332593830527;-1.9422519207000732;Birmingham Women's Hospital, Queen Elizabeth Hospital, Mindelsohn Way, Metchley, Birmingham, West Midlands, England, UK;6400
+4G;234;10;122;33809;545820;282;52.45332593830527;-1.9422519207000732;Birmingham Women's Hospital, Queen Elizabeth Hospital, Mindelsohn Way, Metchley, Birmingham, West Midlands, England, UK;3725
+4G;234;10;125;33809;545820;282;52.45332593830527;-1.9422519207000732;Birmingham Women's Hospital, Queen Elizabeth Hospital, Mindelsohn Way, Metchley, Birmingham, West Midlands, England, UK;347
+4G;234;10;130;33809;545820;284;52.45332593830527;-1.9422519207000732;Birmingham Women's Hospital, Queen Elizabeth Hospital, Mindelsohn Way, Metchley, Birmingham, West Midlands, England, UK;6400
+4G;234;10;132;33809;545820;284;52.45332593830527;-1.9422519207000732;Birmingham Women's Hospital, Queen Elizabeth Hospital, Mindelsohn Way, Metchley, Birmingham, West Midlands, England, UK;3725
+4G;234;10;135;33809;545820;284;52.45332593830527;-1.9422519207000732;Birmingham Women's Hospital, Queen Elizabeth Hospital, Mindelsohn Way, Metchley, Birmingham, West Midlands, England, UK;347
+4G;234;10;116;33809;545821;283;52.45332593830527;-1.9422519207000732;Birmingham Women's Hospital, Queen Elizabeth Hospital, Mindelsohn Way, Metchley, Birmingham, West Midlands, England, UK;39250
+4G;234;10;117;33809;545821;283;52.45332593830527;-1.9422519207000732;Birmingham Women's Hospital, Queen Elizabeth Hospital, Mindelsohn Way, Metchley, Birmingham, West Midlands, England, UK;39448
+4G;234;10;126;33809;545821;282;52.45332593830527;-1.9422519207000732;Birmingham Women's Hospital, Queen Elizabeth Hospital, Mindelsohn Way, Metchley, Birmingham, West Midlands, England, UK;39250
+4G;234;10;127;33809;545821;282;52.45332593830527;-1.9422519207000732;Birmingham Women's Hospital, Queen Elizabeth Hospital, Mindelsohn Way, Metchley, Birmingham, West Midlands, England, UK;39448
+4G;234;10;136;33809;545821;284;52.45332593830527;-1.9422519207000732;Birmingham Women's Hospital, Queen Elizabeth Hospital, Mindelsohn Way, Metchley, Birmingham, West Midlands, England, UK;39250
+4G;234;10;137;33809;545821;284;52.45332593830527;-1.9422519207000732;Birmingham Women's Hospital, Queen Elizabeth Hospital, Mindelsohn Way, Metchley, Birmingham, West Midlands, England, UK;39448
 4G;234;10;116;34784;545939;414;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;117;34784;545939;414;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;10;126;34784;545939;415;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;39250
@@ -10457,10 +10621,36 @@
 4G;234;10;136;17184;546156;245;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;39250
 4G;234;10;137;17184;546156;245;51.47445941297045;-3.1826183572411537;Taffs Mead Embankment, Grangetown, Cardiff, Wales, UK;39448
 4G;234;10;115;34880;546204;264;53.59269624130161;-0.9928930923342704;MOTO Doncaster North Services, Nettleholme Lane, Hatfield, Doncaster, South Yorkshire, England, UK;347
+4G;234;10;110;33809;546240;30;52.444976844783135;-1.9347464293241503;ALDI, 600A Bristol Road B384, Bournbrook, Birmingham, West Midlands, England, UK [O2];6400
+4G;234;10;112;33809;546240;30;52.444976844783135;-1.9347464293241503;ALDI, 600A Bristol Road B384, Bournbrook, Birmingham, West Midlands, England, UK [O2];3725
+4G;234;10;115;33809;546240;30;52.444976844783135;-1.9347464293241503;ALDI, 600A Bristol Road B384, Bournbrook, Birmingham, West Midlands, England, UK [O2];347
 4G;234;10;120;33809;546240;31;52.444976844783135;-1.9347464293241503;ALDI, 600A Bristol Road B384, Bournbrook, Birmingham, West Midlands, England, UK [O2];6400
+4G;234;10;122;33809;546240;31;52.444976844783135;-1.9347464293241503;ALDI, 600A Bristol Road B384, Bournbrook, Birmingham, West Midlands, England, UK [O2];3725
+4G;234;10;125;33809;546240;31;52.444976844783135;-1.9347464293241503;ALDI, 600A Bristol Road B384, Bournbrook, Birmingham, West Midlands, England, UK [O2];347
 4G;234;10;130;33809;546240;32;52.444976844783135;-1.9347464293241503;ALDI, 600A Bristol Road B384, Bournbrook, Birmingham, West Midlands, England, UK [O2];6400
+4G;234;10;132;33809;546240;32;52.444976844783135;-1.9347464293241503;ALDI, 600A Bristol Road B384, Bournbrook, Birmingham, West Midlands, England, UK [O2];3725
+4G;234;10;135;33809;546240;32;52.444976844783135;-1.9347464293241503;ALDI, 600A Bristol Road B384, Bournbrook, Birmingham, West Midlands, England, UK [O2];347
+4G;234;10;116;33809;546241;30;52.444976844783135;-1.9347464293241503;ALDI, 600A Bristol Road B384, Bournbrook, Birmingham, West Midlands, England, UK [O2];39250
+4G;234;10;117;33809;546241;30;52.444976844783135;-1.9347464293241503;ALDI, 600A Bristol Road B384, Bournbrook, Birmingham, West Midlands, England, UK [O2];39448
+4G;234;10;126;33809;546241;31;52.444976844783135;-1.9347464293241503;ALDI, 600A Bristol Road B384, Bournbrook, Birmingham, West Midlands, England, UK [O2];39250
+4G;234;10;127;33809;546241;31;52.444976844783135;-1.9347464293241503;ALDI, 600A Bristol Road B384, Bournbrook, Birmingham, West Midlands, England, UK [O2];39448
+4G;234;10;136;33809;546241;32;52.444976844783135;-1.9347464293241503;ALDI, 600A Bristol Road B384, Bournbrook, Birmingham, West Midlands, England, UK [O2];39250
+4G;234;10;137;33809;546241;32;52.444976844783135;-1.9347464293241503;ALDI, 600A Bristol Road B384, Bournbrook, Birmingham, West Midlands, England, UK [O2];39448
+4G;234;10;110;33809;546242;418;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;6400
+4G;234;10;112;33809;546242;418;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;3725
+4G;234;10;115;33809;546242;418;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;347
+4G;234;10;120;33809;546242;419;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;6400
+4G;234;10;122;33809;546242;419;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;3725
+4G;234;10;125;33809;546242;419;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;347
 4G;234;10;130;33809;546242;417;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;6400
+4G;234;10;132;33809;546242;417;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;3725
+4G;234;10;135;33809;546242;417;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;347
+4G;234;10;116;33809;546243;418;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;39250
+4G;234;10;117;33809;546243;418;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;39448
+4G;234;10;126;33809;546243;419;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;39250
+4G;234;10;127;33809;546243;419;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;39448
 4G;234;10;136;33809;546243;417;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;39250
+4G;234;10;137;33809;546243;417;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;39448
 4G;234;10;116;34784;546571;15;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;39250
 4G;234;10;117;34784;546571;15;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;39448
 4G;234;10;126;34784;546571;17;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;39250
@@ -10501,6 +10691,8 @@
 4G;234;10;114;16625;546731;412;51.45379526868865;-2.59385135024786;20 St Nicholas Street, Old City, Bristol, West of England, England, UK;1228
 4G;234;10;116;34784;546740;178;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];39250
 4G;234;10;117;34784;546740;178;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];39448
+4G;234;10;126;34784;546740;177;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];39250
+4G;234;10;127;34784;546740;177;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];39448
 4G;234;10;136;34784;546740;179;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];39250
 4G;234;10;137;34784;546740;179;53.79237584263233;-0.3497442975640297;Gibraltar Way, Kingswood, Hull, East Riding of Yorkshire, England, UK [O2];39448
 4G;234;10;114;16625;546775;131;51.45944093107082;-2.5836700201034546;St Paul's Substation, Bond Street South A4044, St Paul's, Bristol, West of England, England, UK;1228
@@ -10561,13 +10753,64 @@
 4G;234;10;114;16625;547326;332;51.45374199257192;-2.5942955911159515;The Old Stock Exchange, St Nicholas Street, Old City, Bristol, West of England, England, UK;1228
 4G;234;10;114;16625;547332;191;51.45350198502672;-2.5968042130473217;Caffe Moka, Baldwin Street B4053, Old City, Bristol, West of England, England, UK;1228
 4G;234;10;114;16625;547333;255;51.453401248052415;-2.6012203696622596;Frogmore Street, City Centre, Bristol, West of England, England, UK;1228
+4G;234;10;110;17184;547406;136;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;6400
+4G;234;10;112;17184;547406;136;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;3725
+4G;234;10;115;17184;547406;136;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;347
+4G;234;10;120;17184;547406;137;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;6400
+4G;234;10;122;17184;547406;137;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;3725
+4G;234;10;125;17184;547406;137;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;347
+4G;234;10;130;17184;547406;135;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;6400
+4G;234;10;132;17184;547406;135;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;3725
+4G;234;10;135;17184;547406;135;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;347
+4G;234;10;116;17184;547407;136;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;39250
 4G;234;10;117;17184;547407;136;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;39448
+4G;234;10;126;17184;547407;137;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;39250
 4G;234;10;127;17184;547407;137;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;39448
-4G;234;10;116;17184;547414;241;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;39250
+4G;234;10;136;17184;547407;135;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;39250
+4G;234;10;137;17184;547407;135;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;39448
+4G;234;10;110;17184;547413;222;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;6400
+4G;234;10;112;17184;547413;222;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;3725
+4G;234;10;115;17184;547413;222;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;347
+4G;234;10;120;17184;547413;223;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;6400
+4G;234;10;122;17184;547413;223;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;3725
+4G;234;10;125;17184;547413;223;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;347
+4G;234;10;130;17184;547413;224;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;6400
+4G;234;10;132;17184;547413;224;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;3725
+4G;234;10;135;17184;547413;224;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;347
+4G;234;10;116;17184;547414;222;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;39250
+4G;234;10;117;17184;547414;222;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;39448
+4G;234;10;126;17184;547414;223;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;39250
+4G;234;10;127;17184;547414;223;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;39448
+4G;234;10;136;17184;547414;224;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;39250
+4G;234;10;137;17184;547414;224;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;39448
 4G;234;10;114;16625;547466;439;51.44839749359798;-2.5832030728562514;Temple Gate A4, Redcliffe, Bristol, West of England, England, UK;1228
+4G;234;10;110;34880;547484;421;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;112;34880;547484;421;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;3725
+4G;234;10;115;34880;547484;421;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;347
+4G;234;10;120;34880;547484;420;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;122;34880;547484;420;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;3725
+4G;234;10;125;34880;547484;420;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;347
 4G;234;10;130;34880;547484;422;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;132;34880;547484;422;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;3725
+4G;234;10;135;34880;547484;422;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;347
+4G;234;15;10;41092;547485;421;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;15;41092;547485;421;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;247
+4G;234;15;20;41092;547485;420;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;25;41092;547485;420;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;247
+4G;234;15;30;41092;547485;422;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;35;41092;547485;422;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;247
+4G;234;10;116;34880;547486;421;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;39250
+4G;234;10;117;34880;547486;421;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;39448
+4G;234;10;126;34880;547486;420;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;39250
+4G;234;10;127;34880;547486;420;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;39448
+4G;234;10;136;34880;547486;422;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;39250
+4G;234;10;137;34880;547486;422;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;39448
 4G;234;10;116;34784;547633;233;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;117;34784;547633;233;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39448
+4G;234;10;126;34784;547633;231;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
+4G;234;10;127;34784;547633;231;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39448
+4G;234;10;136;34784;547633;232;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
+4G;234;10;137;34784;547633;232;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;10;110;17184;547731;180;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;6400
 4G;234;10;112;17184;547731;180;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;3725
 4G;234;10;115;17184;547731;180;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;347
@@ -10584,9 +10827,18 @@
 4G;234;10;136;17184;547732;182;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;39250
 4G;234;10;137;17184;547732;182;51.47811464854609;-3.1715096533298492;The Cardiff Academy, 3 A4160, City Centre, Cardiff, Wales, UK;39448
 4G;234;10;114;16625;547772;473;51.45203566147078;-2.5926054641604424;Three Brothers Burgers, 5 Welsh Back, Old City, Bristol, West of England, England, UK;1228
+4G;234;10;116;34784;547831;87;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];39250
+4G;234;10;117;34784;547831;87;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];39448
+4G;234;10;126;34784;547831;89;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];39250
+4G;234;10;127;34784;547831;89;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];39448
 4G;234;10;136;34784;547831;88;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];39250
 4G;234;10;137;34784;547831;88;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];39448
+4G;234;10;116;34880;547950;397;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;39250
+4G;234;10;117;34880;547950;397;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;39448
+4G;234;10;126;34880;547950;398;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;39250
+4G;234;10;127;34880;547950;398;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;39448
 4G;234;10;136;34880;547950;396;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;39250
+4G;234;10;137;34880;547950;396;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;39448
 4G;234;10;110;17184;548079;456;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;6400
 4G;234;10;112;17184;548079;456;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;3725
 4G;234;10;115;17184;548079;456;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;347
@@ -10671,7 +10923,24 @@
 4G;234;10;135;4099;600247;47;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];347
 4G;234;10;136;4099;600247;47;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];39250
 4G;234;10;137;4099;600247;47;51.50870781886348;-0.6436295807361603;Slough Sewage Treatment Works, Wood Lane, Slough, Berkshire, England, UK [Cornerstone];39448
+4G;234;15;10;8272;600383;380;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;6300
+4G;234;15;20;8272;600383;378;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;6300
+4G;234;15;30;8272;600383;379;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;6300
+4G;234;10;110;1248;600383;380;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;6400
+4G;234;10;112;1248;600383;380;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;3725
+4G;234;10;115;1248;600383;380;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;347
+4G;234;10;116;1248;600383;380;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;39250
+4G;234;10;117;1248;600383;380;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;39448
+4G;234;10;120;1248;600383;378;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;6400
+4G;234;10;122;1248;600383;378;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;3725
+4G;234;10;125;1248;600383;378;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;347
+4G;234;10;126;1248;600383;378;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;39250
+4G;234;10;127;1248;600383;378;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;39448
 4G;234;10;130;1248;600383;379;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;6400
+4G;234;10;132;1248;600383;379;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;3725
+4G;234;10;135;1248;600383;379;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;347
+4G;234;10;136;1248;600383;379;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;39250
+4G;234;10;137;1248;600383;379;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;39448
 4G;234;10;116;34784;600568;172;53.77208605744264;-0.3934227302670479;142 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [O2];39250
 4G;234;10;126;34784;600568;171;53.77208605744264;-0.3934227302670479;142 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [O2];39250
 4G;234;10;136;34784;600568;173;53.77208605744264;-0.3934227302670479;142 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [O2];39250
@@ -10712,16 +10981,19 @@
 4G;234;10;136;1040;600797;5;52.92741472911414;-1.4650500565767288;Pentagon House, 10 Stores Road, Little Chester, Derby, East Midlands, England, UK;39250
 4G;234;10;137;1040;600797;5;52.92741472911414;-1.4650500565767288;Pentagon House, 10 Stores Road, Little Chester, Derby, East Midlands, England, UK;39448
 4G;234;10;110;672;600923;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;6400
+4G;234;10;112;672;600923;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;3725
 4G;234;10;114;672;600923;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;1226
 4G;234;10;115;672;600923;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;347
 4G;234;10;116;672;600923;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;39250
 4G;234;10;117;672;600923;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;39448
 4G;234;10;120;672;600923;456;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;6400
+4G;234;10;122;672;600923;456;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;3725
 4G;234;10;124;672;600923;456;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;1226
 4G;234;10;125;672;600923;456;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;347
 4G;234;10;126;672;600923;456;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;39250
 4G;234;10;127;672;600923;456;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;39448
 4G;234;10;130;672;600923;457;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;6400
+4G;234;10;132;672;600923;457;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;3725
 4G;234;10;134;672;600923;457;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;1226
 4G;234;10;135;672;600923;457;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;347
 4G;234;10;136;672;600923;457;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;39250
@@ -10744,7 +11016,30 @@
 4G;234;10;135;672;600977;418;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;347
 4G;234;10;136;672;600977;418;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;39250
 4G;234;10;137;672;600977;418;51.49891722423976;-0.7134954258799553;Ascot Road, Maidenhead, Berkshire, England, UK;39448
+4G;234;15;10;8271;601003;248;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;6300
+4G;234;15;12;8271;601003;248;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;3501
+4G;234;15;15;8271;601003;248;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;223
+4G;234;15;20;8271;601003;246;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;6300
+4G;234;15;22;8271;601003;246;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;3501
+4G;234;15;25;8271;601003;246;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;223
+4G;234;15;30;8271;601003;247;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;6300
+4G;234;15;32;8271;601003;247;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;3501
+4G;234;15;35;8271;601003;247;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;223
+4G;234;10;110;1408;601003;248;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;6400
+4G;234;10;112;1408;601003;248;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;3725
+4G;234;10;115;1408;601003;248;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;347
+4G;234;10;116;1408;601003;248;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;39250
+4G;234;10;117;1408;601003;248;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;39448
+4G;234;10;120;1408;601003;246;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;6400
+4G;234;10;122;1408;601003;246;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;3725
+4G;234;10;125;1408;601003;246;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;347
+4G;234;10;126;1408;601003;246;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;39250
+4G;234;10;127;1408;601003;246;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;39448
 4G;234;10;130;1408;601003;247;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;6400
+4G;234;10;132;1408;601003;247;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;3725
+4G;234;10;135;1408;601003;247;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;347
+4G;234;10;136;1408;601003;247;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;39250
+4G;234;10;137;1408;601003;247;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;39448
 4G;234;10;110;16544;1010406;99;51.56123258067248;-1.7227037250995636;7, Dorcan Business Village, Murdock Rd, Dorcan, Swindon, Wiltshire, England, UK;6400
 4G;234;10;114;16544;1010406;166;51.56123258067248;-1.7227037250995636;7, Dorcan Business Village, Murdock Rd, Dorcan, Swindon, Wiltshire, England, UK;347
 4G;234;10;120;16544;1010406;100;51.56123258067248;-1.7227037250995636;7, Dorcan Business Village, Murdock Rd, Dorcan, Swindon, Wiltshire, England, UK;6400
