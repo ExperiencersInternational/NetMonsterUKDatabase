@@ -1,6 +1,6 @@
 # NetMonsterUKDatabase
 
-A NetMonster database of cellular transmitters across a limited area in the UK. I did initially have split files here (which were split through AI code), but I have ultimately decided not to have them now just since it makes things easier for me until this gets contributors. I'll likely only publish a new big release every month or so?
+A NetMonster database of cellular transmitters across a limited area in the UK. I'll likely only publish a new big release every month or so?
 
 Import onto your device by opening the NetMonster app > Menu > Database > Import > Pick File with the combined NTM downloaded from the releases page. I intend to eventually add downloads for other applications, but it's not in the scope of the project at the moment.
 
@@ -17,9 +17,9 @@ Aberaeron, Abergavenny, Barry, Barton-upon-Humber, Bath, Beaconsfield, Boston, B
 ## Supported networks
 
 * Wavemobile (23404): limited 4G coverage, no 2G coverage
-* O2 - UK (23410): most coverage on 3G and 4G with limited coverage on 2G and marginal coverage on 5G (also most covered network on the database)
+* O2 - UK (23410): most coverage on 3G and 4G with limited coverage on 2G and marginal coverage on 5G
 * vodafone UK (23415): most coverage on 4G only with limited 2G coverage and marginal 5G coverage
-* 3 UK (23420): most coverage on 4G only with limited coverage on 3G
-* EE (23430): most coverage on 4G only with limited coverage on 2G
+* 3 UK (23420): most coverage on 4G only
+* EE (23430): most coverage on 4G only with limited coverage on 2G and marginal coverage on 5G
 
 Support for networks in the Channel Islands is currently outside of the scope of the project, but I may look into this in the future.
