@@ -65,6 +65,7 @@
 2G;234;15;10384;null;0;41;;;-;6
 2G;234;10;10398;21400;0;34;51.39591478514866;-2.8275512158870697;Yatton Rugby Club, North End B3133, North End, Yatton, North Somerset, England, UK;117
 2G;234;10;10593;null;0;43;51.679546023840295;-2.700420208275318;Gaer Hill, Devauden Road, St Arvans, Monmouthshire, Wales, UK;123
+2G;234;10;10633;21398;0;null;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;null
 2G;234;10;11040;21785;0;10;51.65804228506359;-2.4316608533263206;Welcome Break M5 Michaelwood Services Northbound, Woodford, Gloucestershire, England, UK;119
 2G;234;10;11179;21424;0;29;52.06502989634843;-4.694034419953823;Cwm Degwel, St. Dogmaels, Pembrokeshire, Wales, UK;115
 2G;234;10;11361;null;0;62;51.69454079935601;-2.389044240117073;Oldhill Lane, Stinchcombe, Dursley, Gloucestershire, England, UK;118
@@ -191,6 +192,7 @@
 2G;234;15;20515;309;0;51;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK;22
 2G;234;30;20520;2601;0;33;;;-;667
 2G;234;15;20572;null;0;23;;;-;6
+2G;234;10;20633;21398;0;null;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;null
 2G;234;10;20793;21400;0;62;51.45489941020969;-2.528700737733065;Saint Aidan's with Saint George's Church, Firtree Lane, Saint George, Bristol, West of England, England, UK;123
 2G;234;10;20982;null;0;26;51.6407933;-2.6759155;Upper Nelson Street, Chepstow, Monmouthshire, Wales, UK;116
 2G;234;10;21004;21785;0;16;51.74798435357464;-2.187642864882946;Slad Transmitter, Bisley Road, Stroud, Gloucestershire, England, UK;119
@@ -300,6 +302,7 @@
 2G;234;10;30398;null;0;25;51.39591478514866;-2.8275512158870697;Yatton Rugby Club, North End B3133, North End, Yatton, North Somerset, England, UK;114
 2G;234;15;30405;null;0;43;;;-;5
 2G;234;15;30406;309;0;26;;;-;18
+2G;234;10;30633;21398;0;null;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;null
 2G;234;15;30855;null;0;61;;;-;16
 2G;234;10;31004;21785;0;59;51.74798435357464;-2.187642864882946;Slad Transmitter, Bisley Road, Stroud, Gloucestershire, England, UK;115
 2G;234;10;31018;null;0;4;51.71453033190051;-2.1708860993385315;Hyde House Cottage, Knapp Ln, Hyde, Chalford, Stroud, Gloucestershire, England, UK;115
@@ -2127,6 +2130,12 @@
 4G;234;15;34;24606;6290;346;51.37255959677343;-2.824183367192745;16 Weston Rd, Congresbury, Bristol, West of England, England, UK [Cornerstone];223
 4G;234;10;130;16609;6290;346;51.37255959677343;-2.824183367192745;16 Weston Rd, Congresbury, Bristol, West of England, England, UK [Cornerstone];6400
 4G;234;10;134;16609;6290;346;51.37255959677343;-2.824183367192745;16 Weston Rd, Congresbury, Bristol, West of England, England, UK [Cornerstone];347
+4G;234;20;0;1666;6324;441;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;1363
+4G;234;20;1;1666;6324;178;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;1363
+4G;234;20;2;1666;6324;152;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;1363
+4G;234;20;6;1666;6324;109;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;6175
+4G;234;20;7;1666;6324;null;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;6175
+4G;234;20;8;1666;6324;246;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;6175
 4G;234;20;0;3166;6335;324;53.54273566176043;-1.1449039354920387;Bentley High Street Primary School, High Street, Bentley, Doncaster, South Yorkshire, England, UK;1363
 4G;234;20;0;2143;6350;228;51.36429244032763;-2.9188770800828934;100 The Poplars, St Marks Rd, Worle, Weston-super-mare, North Somerset, England, UK;1363
 4G;234;20;0;3124;6353;120;53.39279088797186;-1.4475268498063087;Don Valley House, Savile Street East A6109, Atlas, Sheffield, South Yorkshire, England, UK;1363
@@ -2242,6 +2251,15 @@
 4G;234;10;130;16625;6503;126;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;6400
 4G;234;10;134;16625;6503;126;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;347
 4G;234;10;137;16625;6503;126;51.4338194047981;-2.5623349146607373;Knowle Water Tower, Talbot Road, Upper Knowle, Bristol, West of England, England, UK;39448
+4G;234;15;10;57346;6612;255;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;6300
+4G;234;15;12;57346;6612;255;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;3501
+4G;234;15;20;57346;6612;256;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;6300
+4G;234;15;22;57346;6612;256;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;3501
+4G;234;15;30;57346;6612;257;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;6300
+4G;234;15;32;57346;6612;257;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;3501
+4G;234;10;110;49808;6612;440;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;6400
+4G;234;10;120;49808;6612;438;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;6400
+4G;234;10;130;49808;6612;439;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;6400
 4G;234;20;0;2201;6618;150;51.51867114128857;-2.4858609214425087;11 Park Ln, Winterbourne, Coalpit Heath, Bristol, West of England, England, UK;1363
 4G;234;15;10;24626;6681;250;51.232414976617235;-2.318512660761119;Frome Telephone Exchange, North Parade B3090, Fromefield, Frome, Somerset, England, UK;6300
 4G;234;15;14;24626;6681;250;51.232414976617235;-2.318512660761119;Frome Telephone Exchange, North Parade B3090, Fromefield, Frome, Somerset, England, UK;223
@@ -2288,6 +2306,22 @@
 4G;234;15;20;24723;6880;21;51.867761539046825;-2.0539897307753563;Lilley Brook Golf Course, Leckhampton Hill, Cirencester Road A435, Leckhampton, Cheltenham, Gloucestershire, England, UK;6300
 4G;234;15;10;24723;6884;222;51.92206058463005;-2.5191447883844376;B4224, Bromsach, Herefordshire, England, UK;6300
 4G;234;15;30;24723;6884;224;51.92206058463005;-2.5191447883844376;B4224, Bromsach, Herefordshire, England, UK;6300
+4G;234;15;10;57346;6898;111;52.11588;-2.33003;Malvern Transmitting Station, Clare Walk, Malvern, Worcestershire, England, UK;6300
+4G;234;15;12;57346;6898;111;52.11588;-2.33003;Malvern Transmitting Station, Clare Walk, Malvern, Worcestershire, England, UK;3501
+4G;234;15;14;57346;6898;111;52.11588;-2.33003;Malvern Transmitting Station, Clare Walk, Malvern, Worcestershire, England, UK;223
+4G;234;15;18;57346;6898;111;52.11588;-2.33003;Malvern Transmitting Station, Clare Walk, Malvern, Worcestershire, England, UK;2850
+4G;234;15;20;57346;6898;112;52.11588;-2.33003;Malvern Transmitting Station, Clare Walk, Malvern, Worcestershire, England, UK;6300
+4G;234;15;22;57346;6898;112;52.11588;-2.33003;Malvern Transmitting Station, Clare Walk, Malvern, Worcestershire, England, UK;3501
+4G;234;15;24;57346;6898;112;52.11588;-2.33003;Malvern Transmitting Station, Clare Walk, Malvern, Worcestershire, England, UK;223
+4G;234;15;28;57346;6898;112;52.11588;-2.33003;Malvern Transmitting Station, Clare Walk, Malvern, Worcestershire, England, UK;2850
+4G;234;10;110;49808;6898;111;52.11588;-2.33003;Malvern Transmitting Station, Clare Walk, Malvern, Worcestershire, England, UK;6400
+4G;234;10;112;49808;6898;111;52.11588;-2.33003;Malvern Transmitting Station, Clare Walk, Malvern, Worcestershire, England, UK;3725
+4G;234;10;114;49808;6898;111;52.11588;-2.33003;Malvern Transmitting Station, Clare Walk, Malvern, Worcestershire, England, UK;347
+4G;234;10;117;49808;6898;111;52.11588;-2.33003;Malvern Transmitting Station, Clare Walk, Malvern, Worcestershire, England, UK;39448
+4G;234;10;120;49808;6898;112;52.11588;-2.33003;Malvern Transmitting Station, Clare Walk, Malvern, Worcestershire, England, UK;6400
+4G;234;10;122;49808;6898;112;52.11588;-2.33003;Malvern Transmitting Station, Clare Walk, Malvern, Worcestershire, England, UK;3725
+4G;234;10;124;49808;6898;112;52.11588;-2.33003;Malvern Transmitting Station, Clare Walk, Malvern, Worcestershire, England, UK;347
+4G;234;10;127;49808;6898;112;52.11588;-2.33003;Malvern Transmitting Station, Clare Walk, Malvern, Worcestershire, England, UK;39448
 4G;234;15;30;24581;6906;275;51.439857580063226;-1.5175113826990128;Old Hayward Ln, Hungerford, West Berkshire, England, UK;6300
 4G;234;15;32;24581;6906;312;51.439857580063226;-1.5175113826990128;Old Hayward Ln, Hungerford, West Berkshire, England, UK;3501
 4G;234;20;0;3384;6922;360;53.52474207588219;-1.1408836394548416;North Bridge Road, City Centre, Doncaster, South Yorkshire, England, UK;1363
@@ -2661,6 +2695,10 @@
 4G;234;10;110;49888;8166;300;51.93133517504143;-3.3052700757980347;Pen-y-commin, Talyllyn, Brecon, Carmarthenshire, Wales, UK;6400
 4G;234;10;120;49888;8166;301;51.93133517504143;-3.3052700757980347;Pen-y-commin, Talyllyn, Brecon, Carmarthenshire, Wales, UK;6400
 4G;234;10;130;49888;8166;302;51.93133517504143;-3.3052700757980347;Pen-y-commin, Talyllyn, Brecon, Carmarthenshire, Wales, UK;6400
+4G;234;20;0;2294;8173;441;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;1363
+4G;234;20;1;2294;8173;247;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;1363
+4G;234;20;6;2294;8173;298;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;6175
+4G;234;20;7;2294;8173;257;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;6175
 4G;234;20;2;2383;8177;350;51.539686683428435;-2.4097200483083725;Yate Bus Station, Link Road B4059, Yate, South Gloucestershire, West of England, England, UK;1363
 4G;234;15;10;57414;8179;104;51.94904973538079;-3.37721798568964;25 Hoggan Pk, Brecon, Powys, Wales, UK;6300
 4G;234;15;12;57414;8179;104;51.94904973538079;-3.37721798568964;25 Hoggan Pk, Brecon, Powys, Wales, UK;3501
@@ -3400,6 +3438,24 @@
 4G;234;30;3;24391;10108;153;51.371416400095164;-2.8247513249516487;16 Weston Road A370, Congresbury, North Somerset, England, UK [MBNL];1815
 4G;234;30;5;24391;10108;132;51.371416400095164;-2.8247513249516487;16 Weston Road A370, Congresbury, North Somerset, England, UK [MBNL];1815
 4G;234;30;12;24390;10108;389;51.371416400095164;-2.8247513249516487;16 Weston Road A370, Congresbury, North Somerset, England, UK [MBNL];6225
+4G;234;30;0;24371;10114;226;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;1617
+4G;234;30;1;24371;10114;225;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;1617
+4G;234;30;2;24371;10114;227;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;1617
+4G;234;30;3;24371;10114;177;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;1815
+4G;234;30;4;24371;10114;null;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;1815
+4G;234;30;5;24371;10114;132;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;1815
+4G;234;30;6;24371;10114;226;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;3350
+4G;234;30;7;24371;10114;225;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;3350
+4G;234;30;8;24371;10114;227;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;3350
+4G;234;30;9;24371;10114;226;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;3179
+4G;234;30;10;24371;10114;225;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;3179
+4G;234;30;11;24371;10114;227;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;3179
+4G;234;30;12;24370;10114;226;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;6225
+4G;234;30;13;24370;10114;225;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;6225
+4G;234;30;14;24370;10114;227;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;6225
+4G;234;30;18;24371;10114;474;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;497
+4G;234;30;19;24371;10114;null;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;497
+4G;234;30;20;24371;10114;231;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;497
 4G;234;30;11;24371;10116;401;51.48281711761289;-3.1898821145296097;14 Cathedral Road A4119, Pontcanna, Cardiff, Wales, UK;3179
 4G;234;20;6;2464;10214;241;51.76817248524062;-2.2383802011609077;Randwick Transmitter, Randwick Road, Whiteshill, Stroud, Gloucestershire, England, UK;6175
 4G;234;20;7;2464;10214;356;51.76817248524062;-2.2383802011609077;Randwick Transmitter, Randwick Road, Whiteshill, Stroud, Gloucestershire, England, UK;6175
@@ -4653,6 +4709,15 @@
 4G;234;15;28;24610;15480;5;51.560983918518794;-2.5548429787158966;76 Gloucester Road A38, Almondsbury, South Gloucestershire, West of England, England, UK;2850
 4G;234;15;30;24610;15480;4;51.560983918518794;-2.5548429787158966;76 Gloucester Road A38, Almondsbury, South Gloucestershire, West of England, England, UK;6300
 4G;234;15;38;24610;15480;4;51.560983918518794;-2.5548429787158966;76 Gloucester Road A38, Almondsbury, South Gloucestershire, West of England, England, UK;2850
+4G;234;30;0;22561;15564;224;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;1617
+4G;234;30;1;22561;15564;223;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;1617
+4G;234;30;2;22561;15564;222;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;1617
+4G;234;30;3;22561;15564;66;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;1815
+4G;234;30;4;22561;15564;309;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;1815
+4G;234;30;5;22561;15564;285;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;1815
+4G;234;30;12;22560;15564;395;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;6225
+4G;234;30;13;22560;15564;393;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;6225
+4G;234;30;14;22560;15564;394;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;6225
 4G;234;30;1;24371;15603;234;51.52938109195823;-3.13496220856905;Caxton House, Caxton Place, Pontprennau, Cardiff, Wales, UK;1617
 4G;234;30;13;24370;15603;127;51.52938109195823;-3.13496220856905;Caxton House, Caxton Place, Pontprennau, Cardiff, Wales, UK;6225
 4G;234;30;14;24370;15603;128;51.52938109195823;-3.13496220856905;Caxton House, Caxton Place, Pontprennau, Cardiff, Wales, UK;6225
@@ -5535,6 +5600,18 @@
 4G;234;30;0;25311;20349;186;51.22975323578663;-2.3239217547688824;Memorial Theatre, Christchurch Street West A362, Trinity, Frome, Somerset, England, UK;1617
 4G;234;30;1;25311;20349;187;51.22975323578663;-2.3239217547688824;Memorial Theatre, Christchurch Street West A362, Trinity, Frome, Somerset, England, UK;1617
 4G;234;30;2;25311;20349;188;51.22975323578663;-2.3239217547688824;Memorial Theatre, Christchurch Street West A362, Trinity, Frome, Somerset, England, UK;1617
+4G;234;15;10;24607;20353;138;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;6300
+4G;234;15;12;24607;20353;138;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;3501
+4G;234;15;14;24607;20353;138;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;223
+4G;234;15;18;24607;20353;138;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;2850
+4G;234;15;20;24607;20353;139;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;6300
+4G;234;15;22;24607;20353;139;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;3501
+4G;234;15;24;24607;20353;139;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;223
+4G;234;15;28;24607;20353;139;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;2850
+4G;234;15;30;24607;20353;140;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;6300
+4G;234;15;32;24607;20353;140;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;3501
+4G;234;15;34;24607;20353;140;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;223
+4G;234;15;38;24607;20353;140;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;2850
 4G;234;30;0;25311;20356;500;51.23855768446535;-2.2895963457343926;Clink Road, Berkley Down, Frome, Somerset, England, UK;1617
 4G;234;30;1;25311;20356;498;51.23855768446535;-2.2895963457343926;Clink Road, Berkley Down, Frome, Somerset, England, UK;1617
 4G;234;30;2;25311;20356;499;51.23855768446535;-2.2895963457343926;Clink Road, Berkley Down, Frome, Somerset, England, UK;1617
@@ -5659,7 +5736,10 @@
 4G;234;30;4;26021;20853;81;51.94904973538079;-3.37721798568964;25 Hoggan Pk, Brecon, Powys, Wales, UK;1815
 4G;234;30;5;26021;20853;82;51.94904973538079;-3.37721798568964;25 Hoggan Pk, Brecon, Powys, Wales, UK;1815
 4G;234;30;13;26020;20853;124;51.94904973538079;-3.37721798568964;25 Hoggan Pk, Brecon, Powys, Wales, UK;6225
-4G;234;30;13;26050;20859;180;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Herefordshire, England, UK;6225
+4G;234;30;0;26051;20859;214;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;1617
+4G;234;30;1;26051;20859;215;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;1617
+4G;234;30;12;26050;20859;184;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;6225
+4G;234;30;13;26050;20859;180;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;6225
 4G;234;15;10;40968;20868;329;53.36064559138506;-1.478082574903965;Abbeydale Brewery, Aizlewood Road, Heeley Bottom, Sheffield, South Yorkshire, England, UK;6300
 4G;234;15;12;40968;20868;329;53.36064559138506;-1.478082574903965;Abbeydale Brewery, Aizlewood Road, Heeley Bottom, Sheffield, South Yorkshire, England, UK;3501
 4G;234;15;18;40968;20868;329;53.36064559138506;-1.478082574903965;Abbeydale Brewery, Aizlewood Road, Heeley Bottom, Sheffield, South Yorkshire, England, UK;2850
@@ -11056,9 +11136,16 @@
 4G;234;10;135;4097;525122;256;51.48920782279738;-0.20676679909229279;Charleville Court, Charleville Road, West Kensington, Hammersmith and Fulham, Greater London, England, UK;347
 4G;234;10;115;4097;525158;239;51.50539290518255;-0.22334687411785126;BPP House, 142-144 Uxbridge Road, Shepherd's Bush, Hammersmith and Fulham, Greater London, England, UK;347
 4G;234;10;110;34448;525208;202;53.49102655169906;-1.2890424951910973;Mexborough Railway Station, Station Road, Mexborough, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;115;34448;525208;202;53.49102655169906;-1.2890424951910973;Mexborough Railway Station, Station Road, Mexborough, Doncaster, South Yorkshire, England, UK;347
 4G;234;10;120;34448;525208;201;53.49102655169906;-1.2890424951910973;Mexborough Railway Station, Station Road, Mexborough, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;125;34448;525208;201;53.49102655169906;-1.2890424951910973;Mexborough Railway Station, Station Road, Mexborough, Doncaster, South Yorkshire, England, UK;347
 4G;234;10;130;34448;525208;203;53.49102655169906;-1.2890424951910973;Mexborough Railway Station, Station Road, Mexborough, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;135;34448;525208;203;53.49102655169906;-1.2890424951910973;Mexborough Railway Station, Station Road, Mexborough, Doncaster, South Yorkshire, England, UK;347
+4G;234;15;10;41065;525209;202;53.49102655169906;-1.2890424951910973;Mexborough Railway Station, Station Road, Mexborough, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;15;41065;525209;202;53.49102655169906;-1.2890424951910973;Mexborough Railway Station, Station Road, Mexborough, Doncaster, South Yorkshire, England, UK;223
+4G;234;15;20;41065;525209;201;53.49102655169906;-1.2890424951910973;Mexborough Railway Station, Station Road, Mexborough, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;25;41065;525209;201;53.49102655169906;-1.2890424951910973;Mexborough Railway Station, Station Road, Mexborough, Doncaster, South Yorkshire, England, UK;223
+4G;234;15;30;41065;525209;203;53.49102655169906;-1.2890424951910973;Mexborough Railway Station, Station Road, Mexborough, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;35;41065;525209;203;53.49102655169906;-1.2890424951910973;Mexborough Railway Station, Station Road, Mexborough, Doncaster, South Yorkshire, England, UK;223
 4G;234;10;115;4097;526574;28;51.49065849878085;-0.2171999216079712;London Academy of Music and Dramatic Art, 171 Talgarth Road A4, Hammersmith, Hammersmith and Fulham, Greater London, England, UK;347
 4G;234;10;135;4097;526574;27;51.49065849878085;-0.2171999216079712;London Academy of Music and Dramatic Art, 171 Talgarth Road A4, Hammersmith, Hammersmith and Fulham, Greater London, England, UK;347
@@ -11273,6 +11360,21 @@
 4G;234;10;127;17184;544727;128;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;39448
 4G;234;10;136;17184;544727;126;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;39250
 4G;234;10;137;17184;544727;126;51.54623976240495;-3.0863340944051743;Olliwood Farm, Coal Pit Lane, Castleton, Cardiff, Wales, UK;39448
+4G;234;10;110;17184;544807;291;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;6400
+4G;234;10;112;17184;544807;291;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;3725
+4G;234;10;115;17184;544807;291;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;347
+4G;234;10;120;17184;544807;292;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;6400
+4G;234;10;122;17184;544807;292;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;3725
+4G;234;10;125;17184;544807;292;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;347
+4G;234;10;130;17184;544807;293;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;6400
+4G;234;10;132;17184;544807;293;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;3725
+4G;234;10;135;17184;544807;293;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;347
+4G;234;10;116;17184;544808;291;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;39250
+4G;234;10;117;17184;544808;291;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;39448
+4G;234;10;126;17184;544808;292;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;39250
+4G;234;10;127;17184;544808;292;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;39448
+4G;234;10;136;17184;544808;293;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;39250
+4G;234;10;137;17184;544808;293;51.459304;-3.2815868;Wenvoe Transmitting Station, Wenvoe, Glamorgan, Wales, UK;39448
 4G;234;10;110;33809;544908;218;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;6400
 4G;234;10;112;33809;544908;218;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;3725
 4G;234;10;115;33809;544908;218;52.47600980607302;-1.8664181604981422;Birmingham City Football Club Knighthead Park, Tilton Road, Bordesley, Birmingham, West Midlands, England, UK;347
@@ -11832,7 +11934,21 @@
 4G;234;10;135;1040;600797;5;52.92741472911414;-1.4650500565767288;Pentagon House, 10 Stores Road, Little Chester, Derby, East Midlands, England, UK;347
 4G;234;10;136;1040;600797;5;52.92741472911414;-1.4650500565767288;Pentagon House, 10 Stores Road, Little Chester, Derby, East Midlands, England, UK;39250
 4G;234;10;137;1040;600797;5;52.92741472911414;-1.4650500565767288;Pentagon House, 10 Stores Road, Little Chester, Derby, East Midlands, England, UK;39448
+4G;234;10;110;4099;600907;483;51.55271142727735;-0.47038637101650244;Uxbridge Sports Club, Park Road B483, Uxbridge, Hillingdon, Greater London, England, UK;6400
+4G;234;10;112;4099;600907;483;51.55271142727735;-0.47038637101650244;Uxbridge Sports Club, Park Road B483, Uxbridge, Hillingdon, Greater London, England, UK;3725
 4G;234;10;115;4099;600907;483;51.55271142727735;-0.47038637101650244;Uxbridge Sports Club, Park Road B483, Uxbridge, Hillingdon, Greater London, England, UK;347
+4G;234;10;116;4099;600907;483;51.55271142727735;-0.47038637101650244;Uxbridge Sports Club, Park Road B483, Uxbridge, Hillingdon, Greater London, England, UK;39250
+4G;234;10;117;4099;600907;483;51.55271142727735;-0.47038637101650244;Uxbridge Sports Club, Park Road B483, Uxbridge, Hillingdon, Greater London, England, UK;39448
+4G;234;10;120;4099;600907;484;51.55271142727735;-0.47038637101650244;Uxbridge Sports Club, Park Road B483, Uxbridge, Hillingdon, Greater London, England, UK;6400
+4G;234;10;122;4099;600907;484;51.55271142727735;-0.47038637101650244;Uxbridge Sports Club, Park Road B483, Uxbridge, Hillingdon, Greater London, England, UK;3725
+4G;234;10;125;4099;600907;484;51.55271142727735;-0.47038637101650244;Uxbridge Sports Club, Park Road B483, Uxbridge, Hillingdon, Greater London, England, UK;347
+4G;234;10;126;4099;600907;484;51.55271142727735;-0.47038637101650244;Uxbridge Sports Club, Park Road B483, Uxbridge, Hillingdon, Greater London, England, UK;39250
+4G;234;10;127;4099;600907;484;51.55271142727735;-0.47038637101650244;Uxbridge Sports Club, Park Road B483, Uxbridge, Hillingdon, Greater London, England, UK;39448
+4G;234;10;130;4099;600907;485;51.55271142727735;-0.47038637101650244;Uxbridge Sports Club, Park Road B483, Uxbridge, Hillingdon, Greater London, England, UK;6400
+4G;234;10;132;4099;600907;485;51.55271142727735;-0.47038637101650244;Uxbridge Sports Club, Park Road B483, Uxbridge, Hillingdon, Greater London, England, UK;3725
+4G;234;10;135;4099;600907;485;51.55271142727735;-0.47038637101650244;Uxbridge Sports Club, Park Road B483, Uxbridge, Hillingdon, Greater London, England, UK;347
+4G;234;10;136;4099;600907;485;51.55271142727735;-0.47038637101650244;Uxbridge Sports Club, Park Road B483, Uxbridge, Hillingdon, Greater London, England, UK;39250
+4G;234;10;137;4099;600907;485;51.55271142727735;-0.47038637101650244;Uxbridge Sports Club, Park Road B483, Uxbridge, Hillingdon, Greater London, England, UK;39448
 4G;234;10;110;672;600923;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;6400
 4G;234;10;112;672;600923;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;3725
 4G;234;10;114;672;600923;458;51.48801597516452;-0.7540873065590858;Snowball Hill, M4, Maidenhead, Berkshire, England, UK;1226
