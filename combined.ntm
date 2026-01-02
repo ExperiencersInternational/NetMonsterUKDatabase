@@ -978,8 +978,11 @@
 4G;234;15;20;24723;3220;166;51.895274073085346;-2.059669926931694;KL Precision Engineering Ltd, Athelney Way, Battledown Industrial Estate, Cheltenham, Gloucestershire, England, UK;6300
 4G;234;15;30;24723;3220;167;51.895274073085346;-2.059669926931694;KL Precision Engineering Ltd, Athelney Way, Battledown Industrial Estate, Cheltenham, Gloucestershire, England, UK;6300
 4G;234;15;10;24606;3231;156;51.43394927074392;-2.842608466744423;Units 7-10 Hither Green Industrial Estate, Clevedon, North Somerset, England, UK;6300
-4G;234;15;14;24606;3231;317;51.43394927074392;-2.842608466744423;Units 7-10 Hither Green Industrial Estate, Clevedon, North Somerset, England, UK;223
+4G;234;15;14;24606;3231;156;51.43394927074392;-2.842608466744423;Units 7-10 Hither Green Industrial Estate, Clevedon, North Somerset, England, UK;223
+4G;234;15;20;24606;3231;157;51.43394927074392;-2.842608466744423;Units 7-10 Hither Green Industrial Estate, Clevedon, North Somerset, England, UK;6300
 4G;234;15;24;24606;3231;157;51.43394927074392;-2.842608466744423;Units 7-10 Hither Green Industrial Estate, Clevedon, North Somerset, England, UK;223
+4G;234;15;30;24606;3231;158;51.43394927074392;-2.842608466744423;Units 7-10 Hither Green Industrial Estate, Clevedon, North Somerset, England, UK;6300
+4G;234;15;34;24606;3231;158;51.43394927074392;-2.842608466744423;Units 7-10 Hither Green Industrial Estate, Clevedon, North Somerset, England, UK;223
 4G;234;10;110;16609;3231;156;51.43394927074392;-2.842608466744423;Units 7-10 Hither Green Industrial Estate, Clevedon, North Somerset, England, UK;6400
 4G;234;10;114;16609;3231;156;51.43394927074392;-2.842608466744423;Units 7-10 Hither Green Industrial Estate, Clevedon, North Somerset, England, UK;347
 4G;234;10;120;16609;3231;157;51.43394927074392;-2.842608466744423;Units 7-10 Hither Green Industrial Estate, Clevedon, North Somerset, England, UK;6400
@@ -1145,6 +1148,9 @@
 4G;234;15;34;24723;3629;27;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;223
 4G;234;15;36;24723;3629;27;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;1363
 4G;234;15;38;24723;3629;27;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;2850
+4G;234;15;212;24723;3629;150;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;76
+4G;234;15;222;24723;3629;151;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;76
+4G;234;15;232;24723;3629;152;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;76
 4G;234;15;20;24723;3631;329;51.9172017911908;-2.03620667052563;Queenwood Grove, Cheltenham, Gloucestershire, England, UK;6300
 4G;234;15;24;24723;3631;28;51.9172017911908;-2.03620667052563;Queenwood Grove, Cheltenham, Gloucestershire, England, UK;223
 4G;234;15;20;24611;3635;102;51.45887230176428;-2.563607431948185;1 Jane St, Redfield, Bristol, West of England, England, UK;6300
@@ -1999,12 +2005,22 @@
 4G;234;10;134;16832;5834;85;51.382051505590645;-2.364916428923607;Kingsmead Telephone Exchange, Charles Street A367, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;347
 4G;234;20;92;2655;5840;352;52.19627196251488;-2.2529811412096024;215 Oldbury Road, Dines Green, Worcester, Worcestershire, England, UK;9360
 4G;234;20;2;2648;5844;437;51.88762210802987;-2.233373522758484;Off Tewkesbury Road A38, Longford, Gloucester, Gloucestershire, England, UK;1363
+4G;234;15;10;24606;5852;180;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;6300
+4G;234;15;12;24606;5852;180;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;3501
 4G;234;15;14;24606;5852;349;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;223
+4G;234;15;20;24606;5852;178;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;6300
 4G;234;15;22;24606;5852;178;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;3501
+4G;234;15;24;24606;5852;350;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;223
+4G;234;15;30;24606;5852;179;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;6300
+4G;234;15;32;24606;5852;179;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;3501
+4G;234;15;34;24606;5852;348;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;223
 4G;234;10;110;16609;5852;180;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;6400
 4G;234;10;112;16609;5852;180;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;3725
 4G;234;10;114;16609;5852;180;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;347
+4G;234;10;120;16609;5852;178;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;6400
 4G;234;10;122;16609;5852;178;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;3725
+4G;234;10;124;16609;5852;178;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;347
+4G;234;10;130;16609;5852;179;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;6400
 4G;234;10;132;16609;5852;179;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;3725
 4G;234;10;134;16609;5852;179;51.422687529414596;-2.864813134074211;Clevedon Transmitting Station, Colehouse Ln, Clevedon, North Somerset, England, UK;347
 4G;234;10;110;16609;5860;195;51.33565460114606;-2.9704469069838524;22 Bournville Rd, Weston-super-mare, North Somerset, England, UK;6400
@@ -2554,6 +2570,9 @@
 4G;234;15;22;24723;7709;163;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;3501
 4G;234;15;30;24723;7709;95;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;6300
 4G;234;15;32;24723;7709;164;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;3501
+4G;234;15;210;24723;7709;null;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;9360
+4G;234;15;220;24723;7709;null;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;9360
+4G;234;15;230;24723;7709;446;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;9360
 4G;234;15;28;12306;7724;381;51.49580678377214;-0.1962766796350479;St Philip’s Church, Earl's Court Road A3220, Earl's Court, Kensington and Chelsea, Greater London, England, UK;2850
 4G;234;15;38;12306;7724;382;51.49580678377214;-0.1962766796350479;St Philip’s Church, Earl's Court Road A3220, Earl's Court, Kensington and Chelsea, Greater London, England, UK;2850
 4G;234;10;124;16609;7745;218;51.36429244032763;-2.9188770800828934;100 The Poplars, St Marks Rd, Worle, Weston-super-mare, North Somerset, England, UK;347
@@ -5201,7 +5220,12 @@
 4G;234;30;18;24361;17305;393;51.51698705864591;-2.607058547437191;Elm Farm, Fishpool Hill, Filton, South Gloucestershire, West of England, England, UK;497
 4G;234;30;0;24361;17306;336;51.520175121326766;-2.624513693153858;Bristol Saracens RFC, 10 Stilwell Road, Patchway, South Gloucestershire, West of England, England, UK;1617
 4G;234;30;3;24361;17306;120;51.520175121326766;-2.624513693153858;Bristol Saracens RFC, 10 Stilwell Road, Patchway, South Gloucestershire, West of England, England, UK;1815
+4G;234;30;0;25161;17324;306;52.03547413221224;-2.15708177536726;Twyning M50 J1, Twyning, Gloucestershire, England, UK;1617
+4G;234;30;1;25161;17324;308;52.03547413221224;-2.15708177536726;Twyning M50 J1, Twyning, Gloucestershire, England, UK;1617
+4G;234;30;2;25161;17324;307;52.03547413221224;-2.15708177536726;Twyning M50 J1, Twyning, Gloucestershire, England, UK;1617
 4G;234;30;12;25160;17324;336;52.03547413221224;-2.15708177536726;Twyning M50 J1, Twyning, Gloucestershire, England, UK;6225
+4G;234;30;13;25160;17324;337;52.03547413221224;-2.15708177536726;Twyning M50 J1, Twyning, Gloucestershire, England, UK;6225
+4G;234;30;14;25160;17324;338;52.03547413221224;-2.15708177536726;Twyning M50 J1, Twyning, Gloucestershire, England, UK;6225
 4G;234;30;4;24391;17335;234;51.48150462607239;-2.7065829187631607;Marsh Ln, Bristol, West of England, England, UK;1815
 4G;234;30;5;24391;17335;204;51.48150462607239;-2.7065829187631607;Marsh Ln, Bristol, West of England, England, UK;1815
 4G;234;30;14;24390;17335;478;51.48150462607239;-2.7065829187631607;Marsh Ln, Bristol, West of England, England, UK;6225
@@ -5292,8 +5316,11 @@
 4G;234;30;1;25321;18204;187;51.52421115017949;-2.435711659491062;Westerleigh Road, Rodford, South Gloucestershire, West of England, England, UK;1617
 4G;234;30;2;25321;18204;186;51.52421115017949;-2.435711659491062;Westerleigh Road, Rodford, South Gloucestershire, West of England, England, UK;1617
 4G;234;30;12;25320;18204;436;51.52421115017949;-2.435711659491062;Westerleigh Road, Rodford, South Gloucestershire, West of England, England, UK;6225
+4G;234;30;13;25320;18204;437;51.52421115017949;-2.435711659491062;Westerleigh Road, Rodford, South Gloucestershire, West of England, England, UK;6225
+4G;234;30;14;25320;18204;435;51.52421115017949;-2.435711659491062;Westerleigh Road, Rodford, South Gloucestershire, West of England, England, UK;6225
 4G;234;30;0;25321;18205;227;51.54878800823485;-2.4383288249373436;42 Lodge Rd, Yate, Bristol, West of England, England, UK [MBNL];1617
 4G;234;30;1;25321;18205;225;51.54878800823485;-2.4383288249373436;42 Lodge Rd, Yate, Bristol, West of England, England, UK [MBNL];1617
+4G;234;30;2;25321;18205;226;51.54878800823485;-2.4383288249373436;42 Lodge Rd, Yate, Bristol, West of England, England, UK [MBNL];1617
 4G;234;15;18;12306;18248;44;51.500138215525496;-0.19677121192216873;Stafford Court, 188 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;2850
 4G;234;15;38;12306;18248;43;51.500138215525496;-0.19677121192216873;Stafford Court, 188 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;2850
 4G;234;15;38;40968;18317;391;53.38351354705498;-1.435709036886692;3 Nunnery Drive, Wybourn, Sheffield, South Yorkshire, England, UK;2850
@@ -5555,8 +5582,18 @@
 4G;234;30;4;25331;19800;93;51.57586956945023;-2.5205304846167564;Church Road, Alveston, UK;1815
 4G;234;30;12;25330;19800;384;51.57586956945023;-2.5205304846167564;Church Road, Alveston, UK;1815
 4G;234;30;13;25330;19800;176;51.57586956945023;-2.5205304846167564;Church Road, Alveston, UK;6225
+4G;234;15;10;24723;20043;254;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;6300
+4G;234;15;12;24723;20043;254;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;3501
+4G;234;15;20;24723;20043;252;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;6300
+4G;234;15;22;24723;20043;252;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;3501
+4G;234;15;30;24723;20043;253;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;6300
+4G;234;15;32;24723;20043;253;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;3501
 4G;234;10;110;17072;20046;494;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;6400
 4G;234;10;112;17072;20046;494;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;3725
+4G;234;10;120;17072;20046;492;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;6400
+4G;234;10;122;17072;20046;492;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;3725
+4G;234;10;130;17072;20046;493;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;6400
+4G;234;10;132;17072;20046;493;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;3725
 4G;234;15;30;41086;20107;56;53.781235722199376;-0.3915076330304146;Endyke Tyres, Endyke Lane, Hull, East Riding of Yorkshire, England, UK;6300
 4G;234;15;32;41086;20107;56;53.781235722199376;-0.3915076330304146;Endyke Tyres, Endyke Lane, Hull, East Riding of Yorkshire, England, UK;3501
 4G;234;15;34;41086;20107;56;53.781235722199376;-0.3915076330304146;Endyke Tyres, Endyke Lane, Hull, East Riding of Yorkshire, England, UK;223
@@ -6148,7 +6185,18 @@
 4G;234;30;12;26010;23079;244;51.80175059414253;-2.5694455951452255;New Road B4234, Cannop, Forest of Dean, Gloucestershire, England, UK;6225
 4G;234;30;14;26010;23079;243;51.80175059414253;-2.5694455951452255;New Road B4234, Cannop, Forest of Dean, Gloucestershire, England, UK;6225
 4G;234;30;12;26020;23081;323;51.96702770026756;-4.081343449652195;Unnamed Road, Pen-y-garn, Carmarthenshire, Wales, UK;6225
+4G;234;15;12;24606;23085;65;51.403423165053454;-2.7354427622178;Coles Quarry, Long Lane, Backwell, North Somerset, England, UK;3501
+4G;234;15;14;24606;23085;65;51.403423165053454;-2.7354427622178;Coles Quarry, Long Lane, Backwell, North Somerset, England, UK;223
+4G;234;15;22;24606;23085;66;51.403423165053454;-2.7354427622178;Coles Quarry, Long Lane, Backwell, North Somerset, England, UK;3501
+4G;234;15;24;24606;23085;66;51.403423165053454;-2.7354427622178;Coles Quarry, Long Lane, Backwell, North Somerset, England, UK;223
+4G;234;15;32;24606;23085;67;51.403423165053454;-2.7354427622178;Coles Quarry, Long Lane, Backwell, North Somerset, England, UK;3501
+4G;234;15;34;24606;23085;67;51.403423165053454;-2.7354427622178;Coles Quarry, Long Lane, Backwell, North Somerset, England, UK;223
+4G;234;10;112;16609;23085;23;51.403423165053454;-2.7354427622178;Coles Quarry, Long Lane, Backwell, North Somerset, England, UK;3725
+4G;234;10;114;16609;23085;23;51.403423165053454;-2.7354427622178;Coles Quarry, Long Lane, Backwell, North Somerset, England, UK;347
 4G;234;10;122;16609;23085;21;51.403423165053454;-2.7354427622178;Coles Quarry, Long Lane, Backwell, North Somerset, England, UK;3725
+4G;234;10;124;16609;23085;21;51.403423165053454;-2.7354427622178;Coles Quarry, Long Lane, Backwell, North Somerset, England, UK;347
+4G;234;10;132;16609;23085;22;51.403423165053454;-2.7354427622178;Coles Quarry, Long Lane, Backwell, North Somerset, England, UK;3725
+4G;234;10;134;16609;23085;22;51.403423165053454;-2.7354427622178;Coles Quarry, Long Lane, Backwell, North Somerset, England, UK;347
 4G;234;15;14;6144;23141;141;51.55271142727735;-0.47038637101650244;Uxbridge Sports Club, Park Road B483, Uxbridge, Hillingdon, Greater London, England, UK;223
 4G;234;15;12;24607;23239;381;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;3501
 4G;234;15;14;24607;23239;381;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;223
@@ -6162,15 +6210,17 @@
 4G;234;30;2;26021;23268;469;51.8991069476707;-3.1887247413396835;A479, Felindre, Powys, Wales, UK;1617
 4G;234;30;14;26020;23268;392;51.8991069476707;-3.1887247413396835;A479, Felindre, Powys, Wales, UK;6225
 4G;234;15;14;24723;23382;223;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;223
-4G;234;15;16;24723;23382;2;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;1363
+4G;234;15;16;24723;23382;null;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;1363
 4G;234;15;18;24723;23382;210;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;2850
-4G;234;15;19;24723;23382;324;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;37900
 4G;234;15;24;24723;23382;222;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;223
+4G;234;15;26;24723;23382;412;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;1363
 4G;234;15;28;24723;23382;211;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;2850
-4G;234;15;29;24723;23382;325;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;37900
 4G;234;15;34;24723;23382;224;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;223
+4G;234;15;36;24723;23382;null;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;1363
 4G;234;15;38;24723;23382;212;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;2850
-4G;234;15;39;24723;23382;326;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;37900
+4G;234;15;212;24723;23382;null;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;76
+4G;234;15;222;24723;23382;502;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;76
+4G;234;15;232;24723;23382;null;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;76
 4G;234;15;10;8257;23514;192;52.91073414039668;-1.450953371822834;1 Orient Way, Pride Park, Derby, East Midlands, England, UK;6300
 4G;234;15;12;8257;23514;192;52.91073414039668;-1.450953371822834;1 Orient Way, Pride Park, Derby, East Midlands, England, UK;3501
 4G;234;15;14;8257;23514;192;52.91073414039668;-1.450953371822834;1 Orient Way, Pride Park, Derby, East Midlands, England, UK;223
@@ -6191,6 +6241,9 @@
 4G;234;15;22;24723;23627;29;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;3501
 4G;234;15;30;24723;23627;27;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;6300
 4G;234;15;32;24723;23627;27;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;3501
+4G;234;15;210;24723;23627;499;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;9360
+4G;234;15;220;24723;23627;500;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;9360
+4G;234;15;230;24723;23627;498;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;9360
 4G;234;15;10;24610;23698;243;51.70362358756439;-2.2921115532517433;Tinkley Lane, The Cross, Nympsfield, Stonehouse, Gloucestershire, England, UK;6300
 4G;234;15;12;24610;23698;222;51.70362358756439;-2.2921115532517433;Tinkley Lane, The Cross, Nympsfield, Stonehouse, Gloucestershire, England, UK;3501
 4G;234;15;20;24610;23698;244;51.70362358756439;-2.2921115532517433;Tinkley Lane, The Cross, Nympsfield, Stonehouse, Gloucestershire, England, UK;6300
@@ -8540,9 +8593,12 @@
 4G;234;10;110;16624;114435;345;51.74206595464024;-2.2826436907052994;Wycliffe College, Bristol Road A419, Stonehouse, Gloucestershire, England, UK;6400
 4G;234;10;112;16624;114435;75;51.74206595464024;-2.2826436907052994;Wycliffe College, Bristol Road A419, Stonehouse, Gloucestershire, England, UK;3725
 4G;234;10;114;16624;114435;345;51.74206595464024;-2.2826436907052994;Wycliffe College, Bristol Road A419, Stonehouse, Gloucestershire, England, UK;347
-4G;234;10;120;16624;114435;367;51.74206595464024;-2.2826436907052994;Wycliffe College, Bristol Road A419, Stonehouse, Gloucestershire, England, UK;6400
+4G;234;10;120;16624;114435;346;51.74206595464024;-2.2826436907052994;Wycliffe College, Bristol Road A419, Stonehouse, Gloucestershire, England, UK;6400
+4G;234;10;122;16624;114435;76;51.74206595464024;-2.2826436907052994;Wycliffe College, Bristol Road A419, Stonehouse, Gloucestershire, England, UK;3725
+4G;234;10;124;16624;114435;346;51.74206595464024;-2.2826436907052994;Wycliffe College, Bristol Road A419, Stonehouse, Gloucestershire, England, UK;347
 4G;234;10;130;16624;114435;347;51.74206595464024;-2.2826436907052994;Wycliffe College, Bristol Road A419, Stonehouse, Gloucestershire, England, UK;6400
 4G;234;10;132;16624;114435;77;51.74206595464024;-2.2826436907052994;Wycliffe College, Bristol Road A419, Stonehouse, Gloucestershire, England, UK;3725
+4G;234;10;134;16624;114435;347;51.74206595464024;-2.2826436907052994;Wycliffe College, Bristol Road A419, Stonehouse, Gloucestershire, England, UK;347
 4G;234;10;110;16625;114448;213;51.415133899713524;-2.4994107708334923;Ashton Way Car Park, Ashton Way, Keynsham, Bath and North East Somerset, West of England, England, UK;6400
 4G;234;10;114;16625;114448;213;51.415133899713524;-2.4994107708334923;Ashton Way Car Park, Ashton Way, Keynsham, Bath and North East Somerset, West of England, England, UK;347
 4G;234;10;132;16625;114463;404;51.53055746635902;-2.4159954115748405;228 Blaisdon, Yate, Bristol, West of England, England, UK;3725
@@ -9147,22 +9203,28 @@
 4G;234;10;134;16544;123344;63;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;347
 4G;234;10;115;17072;123383;345;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;39250
 4G;234;10;117;17072;123383;345;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;39448
-4G;234;10;119;17072;123383;345;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;38100
+4G;234;10;119;17072;123383;null;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;38100
 4G;234;10;125;17072;123383;347;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;39250
 4G;234;10;127;17072;123383;347;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;39448
-4G;234;10;129;17072;123383;347;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;38100
+4G;234;10;129;17072;123383;null;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;38100
 4G;234;10;135;17072;123383;346;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;39250
 4G;234;10;137;17072;123383;346;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;39448
-4G;234;10;139;17072;123383;346;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;38100
+4G;234;10;139;17072;123383;null;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;38100
+4G;234;10;215;17072;123383;null;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;37900
+4G;234;10;225;17072;123383;null;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;37900
+4G;234;10;235;17072;123383;null;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;37900
 4G;234;10;115;17072;123629;283;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;39250
 4G;234;10;117;17072;123629;283;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;39448
-4G;234;10;119;17072;123629;283;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;38100
+4G;234;10;119;17072;123629;null;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;38100
 4G;234;10;125;17072;123629;284;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;39250
 4G;234;10;127;17072;123629;284;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;39448
-4G;234;10;129;17072;123629;284;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;38100
+4G;234;10;129;17072;123629;null;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;38100
 4G;234;10;135;17072;123629;282;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;39250
 4G;234;10;137;17072;123629;282;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;39448
-4G;234;10;139;17072;123629;282;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;38100
+4G;234;10;139;17072;123629;null;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;38100
+4G;234;10;215;17072;123629;null;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;37900
+4G;234;10;225;17072;123629;null;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;37900
+4G;234;10;235;17072;123629;null;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;37900
 4G;234;10;114;17072;123653;98;51.94570149350858;-2.081300090571369;Cheltenham North Rugby Football Club, Stoke Orchard Road, Bishop's Cleeve, Gloucestershire, England, UK;347
 4G;234;10;116;17072;123653;98;51.94570149350858;-2.081300090571369;Cheltenham North Rugby Football Club, Stoke Orchard Road, Bishop's Cleeve, Gloucestershire, England, UK;1226
 4G;234;10;124;17072;123653;97;51.94570149350858;-2.081300090571369;Cheltenham North Rugby Football Club, Stoke Orchard Road, Bishop's Cleeve, Gloucestershire, England, UK;347
