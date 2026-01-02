@@ -10043,10 +10043,26 @@
 4G;234;10;136;4099;500052;330;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;39250
 4G;234;10;137;4099;500052;330;51.49432788294217;-0.547964908182621;Poplar House, High St, Langley, Slough, Berkshire, England, UK;39448
 4G;234;15;10;8256;500113;361;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;6300
+4G;234;15;12;8256;500113;361;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;3501
+4G;234;15;15;8256;500113;361;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;247
+4G;234;15;20;8256;500113;360;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;6300
+4G;234;15;22;8256;500113;360;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;3501
+4G;234;15;25;8256;500113;360;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;247
 4G;234;15;30;8256;500113;362;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;6300
+4G;234;15;32;8256;500113;362;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;3501
+4G;234;15;35;8256;500113;362;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;247
 4G;234;10;110;672;500113;361;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;6400
+4G;234;10;112;672;500113;361;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;3725
+4G;234;10;114;672;500113;361;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;1226
 4G;234;10;115;672;500113;361;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;347
+4G;234;10;120;672;500113;360;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;6400
+4G;234;10;122;672;500113;360;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;3725
+4G;234;10;124;672;500113;360;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;1226
+4G;234;10;125;672;500113;360;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;347
+4G;234;10;130;672;500113;362;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;6400
 4G;234;10;132;672;500113;362;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;3725
+4G;234;10;134;672;500113;362;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;1226
+4G;234;10;135;672;500113;362;51.597018864042624;-0.6705975160002708;Wooburn Green Lane Sports Field, Wooburn Green Lane, Wooburn Green, Buckinghamshire, England, UK;347
 4G;234;10;110;4099;500217;370;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];6400
 4G;234;10;112;4099;500217;370;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];3725
 4G;234;10;114;4099;500217;370;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];1226
@@ -10084,7 +10100,15 @@
 4G;234;10;135;4099;500477;184;51.55469521130304;-0.4430278390645981;Long Lane Farm, Long Lane B466, Ickenham, Hillingdon, Greater London, England, UK;347
 4G;234;10;110;4289;500537;394;51.52750529592897;-0.2753223851323128;14b Johnsons Way, Matrix Industrial Park, Park Royal, Ealing, Greater London, England, UK;6400
 4G;234;10;116;4289;500538;394;51.52750529592897;-0.2753223851323128;14b Johnsons Way, Matrix Industrial Park, Park Royal, Ealing, Greater London, England, UK;39250
+4G;234;15;10;6144;500541;443;51.54775179719485;-0.39863694459199905;Polish War Memorial Roundabout, Ruislip Road A4180, Ruislip, Ealing, Greater London, England, UK;6300
+4G;234;15;20;6144;500541;441;51.54775179719485;-0.39863694459199905;Polish War Memorial Roundabout, Ruislip Road A4180, Ruislip, Ealing, Greater London, England, UK;6300
 4G;234;15;30;6144;500541;442;51.54775179719485;-0.39863694459199905;Polish War Memorial Roundabout, Ruislip Road A4180, Ruislip, Ealing, Greater London, England, UK;6300
+4G;234;10;110;4290;500541;443;51.54775179719485;-0.39863694459199905;Polish War Memorial Roundabout, Ruislip Road A4180, Ruislip, Ealing, Greater London, England, UK;6400
+4G;234;10;114;4290;500541;443;51.54775179719485;-0.39863694459199905;Polish War Memorial Roundabout, Ruislip Road A4180, Ruislip, Ealing, Greater London, England, UK;1226
+4G;234;10;120;4290;500541;441;51.54775179719485;-0.39863694459199905;Polish War Memorial Roundabout, Ruislip Road A4180, Ruislip, Ealing, Greater London, England, UK;6400
+4G;234;10;124;4290;500541;441;51.54775179719485;-0.39863694459199905;Polish War Memorial Roundabout, Ruislip Road A4180, Ruislip, Ealing, Greater London, England, UK;1226
+4G;234;10;130;4290;500541;442;51.54775179719485;-0.39863694459199905;Polish War Memorial Roundabout, Ruislip Road A4180, Ruislip, Ealing, Greater London, England, UK;6400
+4G;234;10;134;4290;500541;442;51.54775179719485;-0.39863694459199905;Polish War Memorial Roundabout, Ruislip Road A4180, Ruislip, Ealing, Greater London, England, UK;1226
 4G;234;10;117;4289;500590;389;51.51662715927233;-0.26760298758745193;Acton House, Horn Lane A4000, Park Royal, Ealing, Greater London, England, UK;39448
 4G;234;10;137;4289;500590;387;51.51662715927233;-0.26760298758745193;Acton House, Horn Lane A4000, Park Royal, Ealing, Greater London, England, UK;39448
 4G;234;10;115;4098;500839;480;51.48741680370008;-0.32499857246875763;Harlequin Avenue, Sky Campus, Brentford, Hounslow, Greater London, England, UK;347
@@ -10794,11 +10818,23 @@
 4G;234;10;135;672;508508;375;51.620706693747664;-0.78446164727211;182 New Road A4010, Booker, High Wycombe, Buckinghamshire, England, UK;347
 4G;234;10;120;160;508600;381;52.61683542179052;-1.6865596175193787;Park Farm Lodge Care Home, Peelers Way A51, Two Gates, Tamworth, Staffordshire, England, UK;6400
 4G;234;10;110;34880;508670;9;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;112;34880;508670;9;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;3725
 4G;234;10;115;34880;508670;9;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;347
 4G;234;10;120;34880;508670;11;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;122;34880;508670;11;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;3725
 4G;234;10;125;34880;508670;11;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;347
 4G;234;10;130;34880;508670;10;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;132;34880;508670;10;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;3725
 4G;234;10;135;34880;508670;10;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;347
+4G;234;15;10;41092;508671;9;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;12;41092;508671;9;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;3501
+4G;234;15;15;41092;508671;9;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;223
+4G;234;15;20;41092;508671;11;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;22;41092;508671;11;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;3501
+4G;234;15;25;41092;508671;11;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;223
+4G;234;15;30;41092;508671;10;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;32;41092;508671;10;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;3501
+4G;234;15;35;41092;508671;10;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;223
 4G;234;10;110;17072;508704;498;51.86548833810095;-2.2455118596553802;O2 Store, 10 Northgate Street, Gloucester, Gloucestershire, England, UK;6400
 4G;234;10;110;34448;508778;401;53.48338109490148;-1.2749964371323586;4 Top Fold Cottages, The Green, Old Denaby, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;115;34448;508778;401;53.48338109490148;-1.2749964371323586;4 Top Fold Cottages, The Green, Old Denaby, Doncaster, South Yorkshire, England, UK;347
@@ -10868,6 +10904,23 @@
 4G;234;10;127;4099;509415;355;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;39448
 4G;234;10;136;4099;509415;356;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;39250
 4G;234;10;137;4099;509415;356;51.50350944263422;-0.6081617251038551;2 White Hart Rd, Slough, Berkshire, England, UK;39448
+4G;234;10;110;34880;509462;300;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;112;34880;509462;300;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;3725
+4G;234;10;114;34880;509462;300;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;1226
+4G;234;10;115;34880;509462;300;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;347
+4G;234;10;120;34880;509462;302;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;122;34880;509462;302;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;3725
+4G;234;10;124;34880;509462;302;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;1226
+4G;234;10;125;34880;509462;302;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;347
+4G;234;10;130;34880;509462;301;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;6400
+4G;234;10;132;34880;509462;301;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;3725
+4G;234;10;134;34880;509462;301;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;1226
+4G;234;10;135;34880;509462;301;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;347
+4G;234;15;10;41092;509463;300;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;15;41092;509463;300;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;223
+4G;234;15;20;41092;509463;302;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;25;41092;509463;302;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;223
+4G;234;15;30;41092;509463;301;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;35;41092;509463;301;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;223
 4G;234;15;10;8258;509530;433;51.77788376179288;-1.5167499706149101;A40 West, Curbridge, Witney, West Oxfordshire, England, UK;6300
 4G;234;15;12;8258;509530;433;51.77788376179288;-1.5167499706149101;A40 West, Curbridge, Witney, West Oxfordshire, England, UK;3501
@@ -11904,6 +11957,9 @@
 4G;234;10;125;50368;542597;97;51.750632954410435;-2.2969727218151093;Muller Stonehouse (DAS System), Oldends Lane, Stonehouse, Gloucestershire, England, UK;347
 4G;234;10;130;50368;542597;98;51.750632954410435;-2.2969727218151093;Muller Stonehouse (DAS System), Oldends Lane, Stonehouse, Gloucestershire, England, UK;6400
 4G;234;10;135;50368;542597;98;51.750632954410435;-2.2969727218151093;Muller Stonehouse (DAS System), Oldends Lane, Stonehouse, Gloucestershire, England, UK;347
+4G;234;10;116;34880;543028;300;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;39250
+4G;234;10;126;34880;543028;302;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;39250
+4G;234;10;136;34880;543028;301;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;39250
 4G;234;10;116;34784;543134;368;53.729106826428655;-0.5566146969795227;Half Acre Industrial Estate, Wiske Avenue, Brough, East Riding of Yorkshire, England, UK;39250
 4G;234;10;117;34784;543134;368;53.729106826428655;-0.5566146969795227;Half Acre Industrial Estate, Wiske Avenue, Brough, East Riding of Yorkshire, England, UK;39448
 4G;234;10;126;34784;543134;367;53.729106826428655;-0.5566146969795227;Half Acre Industrial Estate, Wiske Avenue, Brough, East Riding of Yorkshire, England, UK;39250
@@ -11949,6 +12005,15 @@
 4G;234;10;127;34784;543620;297;53.780277875641275;-0.34545812755823135;Ennerdale Leisure Centre, Sutton Road, Newland, Hull, East Riding of Yorkshire, England, UK [O2];39448
 4G;234;10;136;34784;543620;299;53.780277875641275;-0.34545812755823135;Ennerdale Leisure Centre, Sutton Road, Newland, Hull, East Riding of Yorkshire, England, UK [O2];39250
 4G;234;10;137;34784;543620;299;53.780277875641275;-0.34545812755823135;Ennerdale Leisure Centre, Sutton Road, Newland, Hull, East Riding of Yorkshire, England, UK [O2];39448
+4G;234;10;114;34880;543721;9;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;1226
+4G;234;10;116;34880;543721;9;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;39250
+4G;234;10;117;34880;543721;9;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;39448
+4G;234;10;124;34880;543721;11;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;1226
+4G;234;10;126;34880;543721;11;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;39250
+4G;234;10;127;34880;543721;11;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;39448
+4G;234;10;134;34880;543721;10;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;1226
+4G;234;10;136;34880;543721;10;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;39250
+4G;234;10;137;34880;543721;10;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;39448
 4G;234;10;110;17184;543895;55;51.52627168795272;-3.1089146062731743;Llaneirwg Way, St Mellons, Cardiff, Wales, UK [O2];6400
 4G;234;10;112;17184;543895;55;51.52627168795272;-3.1089146062731743;Llaneirwg Way, St Mellons, Cardiff, Wales, UK [O2];3725
 4G;234;10;115;17184;543895;55;51.52627168795272;-3.1089146062731743;Llaneirwg Way, St Mellons, Cardiff, Wales, UK [O2];347
