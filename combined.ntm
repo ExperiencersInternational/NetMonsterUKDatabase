@@ -809,6 +809,9 @@
 4G;234;10;132;16608;2888;57;51.60095311639626;-2.9938052594661713;Thames Valley House, Crindau Industrial Estate, Albany Street, Shaftesbury, Newport, UK;3725
 4G;234;10;134;16608;2888;57;51.60095311639626;-2.9938052594661713;Thames Valley House, Crindau Industrial Estate, Albany Street, Shaftesbury, Newport, UK;347
 4G;234;20;0;3544;2893;96;53.404202780505436;-1.4427592232823372;Cyclops Street, Grimesthorpe, Sheffield, South Yorkshire, England, UK;1363
+4G;234;20;0;2174;2904;309;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;1363
+4G;234;20;1;2174;2904;169;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;1363
+4G;234;20;2;2174;2904;26;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;1363
 4G;234;15;18;24611;2919;251;51.525200336762985;-2.619360499083996;4 Cavendish Wy, Patchway, Bristol, West of England, England, UK;2850
 4G;234;15;28;24611;2919;250;51.525200336762985;-2.619360499083996;4 Cavendish Wy, Patchway, Bristol, West of England, England, UK;2850
 4G;234;15;38;24611;2919;249;51.525200336762985;-2.619360499083996;4 Cavendish Wy, Patchway, Bristol, West of England, England, UK;2850
@@ -1081,6 +1084,18 @@
 4G;234;20;2;2121;3388;290;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;1363
 4G;234;20;6;2121;3388;154;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;6175
 4G;234;20;8;2121;3388;105;51.899800822899316;-2.072180137038231;John Lewis, 127 High Street, Cheltenham, Gloucestershire, England, UK;6175
+4G;234;20;0;2350;3393;357;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;1363
+4G;234;20;1;2350;3393;274;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;1363
+4G;234;20;2;2350;3393;176;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;1363
+4G;234;20;6;2350;3393;114;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;6175
+4G;234;20;7;2350;3393;406;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;6175
+4G;234;20;8;2350;3393;323;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;6175
+4G;234;20;71;2350;3393;333;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;76
+4G;234;20;72;2350;3393;478;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;76
+4G;234;20;73;2350;3393;488;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;76
+4G;234;20;91;2350;3393;195;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;9360
+4G;234;20;92;2350;3393;241;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;9360
+4G;234;20;93;2350;3393;113;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;9360
 4G;234;15;10;24610;3463;262;51.51941573131593;-2.4416648223996162;Broad Lane, Westerleigh, South Gloucestershire, West of England, England, UK;6300
 4G;234;15;12;24610;3463;262;51.51941573131593;-2.4416648223996162;Broad Lane, Westerleigh, South Gloucestershire, West of England, England, UK;3501
 4G;234;15;20;24610;3463;261;51.51941573131593;-2.4416648223996162;Broad Lane, Westerleigh, South Gloucestershire, West of England, England, UK;6300
@@ -1836,7 +1851,10 @@
 4G;234;10;134;16625;5343;166;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;347
 4G;234;20;0;3133;5360;117;53.4175724662438;-1.411646269261837;Meadowhall Interchange Tram Station, Meadowhall Road A6109, Brightside, Sheffield, South Yorkshire, England, UK;1363
 4G;234;20;2;3133;5360;32;53.4175724662438;-1.411646269261837;Meadowhall Interchange Tram Station, Meadowhall Road A6109, Brightside, Sheffield, South Yorkshire, England, UK;1363
-4G;234;10;120;49856;5368;268;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Ceredigion, Wales, UK;6400
+4G;234;15;10;57385;5368;267;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Blaenplwyf, Ceredigion, Wales, UK;6300
+4G;234;15;20;57385;5368;268;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Blaenplwyf, Ceredigion, Wales, UK;6300
+4G;234;10;110;49856;5368;267;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Blaenplwyf, Ceredigion, Wales, UK;6400
+4G;234;10;120;49856;5368;268;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Blaenplwyf, Ceredigion, Wales, UK;6400
 4G;234;10;114;16608;5389;375;51.480753361132265;-3.1844979152083397;Holiday Inn, Castle Street A4161, Cardiff, Wales, UK;347
 4G;234;10;124;16608;5389;376;51.480753361132265;-3.1844979152083397;Holiday Inn, Castle Street A4161, Cardiff, Wales, UK;347
 4G;234;10;134;16608;5389;377;51.480753361132265;-3.1844979152083397;Holiday Inn, Castle Street A4161, Cardiff, Wales, UK;347
@@ -2288,6 +2306,39 @@
 4G;234;10;120;49808;6612;438;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;6400
 4G;234;10;130;49808;6612;439;51.997351827988766;-2.539920173585415;Ridge Hill Transmitting Station, Much Marcle, Herefordshire, England, UK;6400
 4G;234;20;0;2201;6618;150;51.51867114128857;-2.4858609214425087;11 Park Ln, Winterbourne, Coalpit Heath, Bristol, West of England, England, UK;1363
+4G;234;15;10;24621;6621;317;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;6300
+4G;234;15;12;24621;6621;317;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;3501
+4G;234;15;14;24621;6621;317;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;223
+4G;234;15;18;24621;6621;317;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;2850
+4G;234;15;20;24621;6621;315;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;6300
+4G;234;15;22;24621;6621;315;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;3501
+4G;234;15;24;24621;6621;315;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;223
+4G;234;15;28;24621;6621;315;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;2850
+4G;234;15;30;24621;6621;316;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;6300
+4G;234;15;32;24621;6621;316;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;3501
+4G;234;15;34;24621;6621;316;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;223
+4G;234;15;38;24621;6621;316;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;2850
+4G;234;10;110;16817;6621;317;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;6400
+4G;234;10;112;16817;6621;317;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;3725
+4G;234;10;114;16817;6621;317;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;347
+4G;234;10;117;16817;6621;317;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;39448
+4G;234;10;120;16817;6621;315;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;6400
+4G;234;10;122;16817;6621;315;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;3725
+4G;234;10;124;16817;6621;315;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;347
+4G;234;10;127;16817;6621;315;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;39448
+4G;234;10;130;16817;6621;316;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;6400
+4G;234;10;132;16817;6621;316;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;3725
+4G;234;10;134;16817;6621;316;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;347
+4G;234;10;137;16817;6621;316;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;39448
+4G;234;15;10;24738;6677;294;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;6300
+4G;234;15;12;24738;6677;294;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;3501
+4G;234;15;20;24738;6677;295;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;6300
+4G;234;15;22;24738;6677;295;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;3501
+4G;234;15;30;24738;6677;296;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;6300
+4G;234;15;32;24738;6677;296;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;3501
+4G;234;10;110;16816;6677;294;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;6400
+4G;234;10;120;16816;6677;295;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;6400
+4G;234;10;130;16816;6677;296;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;6400
 4G;234;15;10;24626;6681;250;51.232414976617235;-2.318512660761119;Frome Telephone Exchange, North Parade B3090, Fromefield, Frome, Somerset, England, UK;6300
 4G;234;15;14;24626;6681;250;51.232414976617235;-2.318512660761119;Frome Telephone Exchange, North Parade B3090, Fromefield, Frome, Somerset, England, UK;223
 4G;234;15;20;24626;6681;249;51.232414976617235;-2.318512660761119;Frome Telephone Exchange, North Parade B3090, Fromefield, Frome, Somerset, England, UK;6300
@@ -2428,6 +2479,24 @@
 4G;234;20;6;2460;7296;103;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Forest of Dean, Gloucestershire, England, UK;6175
 4G;234;20;7;2460;7296;293;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Forest of Dean, Gloucestershire, England, UK;6175
 4G;234;20;8;2460;7296;417;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Forest of Dean, Gloucestershire, England, UK;6175
+4G;234;15;10;24626;7321;489;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;6300
+4G;234;15;12;24626;7321;489;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;3501
+4G;234;15;14;24626;7321;489;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;223
+4G;234;15;20;24626;7321;490;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;6300
+4G;234;15;22;24626;7321;490;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;3501
+4G;234;15;24;24626;7321;490;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;223
+4G;234;15;30;24626;7321;491;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;6300
+4G;234;15;32;24626;7321;491;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;3501
+4G;234;15;34;24626;7321;491;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;223
+4G;234;10;110;16832;7321;489;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;6400
+4G;234;10;112;16832;7321;489;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;3725
+4G;234;10;114;16832;7321;489;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;347
+4G;234;10;120;16832;7321;490;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;6400
+4G;234;10;122;16832;7321;490;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;3725
+4G;234;10;124;16832;7321;490;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;347
+4G;234;10;130;16832;7321;491;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;6400
+4G;234;10;132;16832;7321;491;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;3725
+4G;234;10;134;16832;7321;491;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;347
 4G;234;20;1;2107;7339;109;52.92800934225499;-1.4692094922065735;St Mary's Wharf Police Station, Prime Parkway, Little Chester, Derby, East Midlands, England, UK;1363
 4G;234;20;1;1407;7370;125;51.505669000684485;-0.5297376215457916;Market Lane, Langley, Slough, Berkshire, England, UK;1363
 4G;234;15;10;57346;7402;27;52.03955136139569;-2.446519620716572;Wall Hills Farm, Hereford Road A438, Ledbury, Herefordshire, England, UK;6300
@@ -2972,6 +3041,18 @@
 4G;234;20;2;2607;8889;38;51.63943628072319;-1.8763507157564163;B4040, Swindon, Wiltshire, England, UK;1363
 4G;234;20;6;2607;8889;130;51.63943628072319;-1.8763507157564163;B4040, Swindon, Wiltshire, England, UK;6175
 4G;234;20;8;2607;8889;61;51.63943628072319;-1.8763507157564163;B4040, Swindon, Wiltshire, England, UK;6175
+4G;234;20;0;2373;8893;375;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;1363
+4G;234;20;1;2373;8893;259;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;1363
+4G;234;20;2;2373;8893;353;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;1363
+4G;234;20;6;2373;8893;156;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;6175
+4G;234;20;7;2373;8893;238;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;6175
+4G;234;20;8;2373;8893;464;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;6175
+4G;234;20;71;2373;8893;60;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;99
+4G;234;20;72;2373;8893;115;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;99
+4G;234;20;73;2373;8893;338;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;99
+4G;234;20;91;2373;8893;483;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;9360
+4G;234;20;92;2373;8893;385;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;9360
+4G;234;20;93;2373;8893;485;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;9360
 4G;234;15;30;24626;8905;445;51.29760292493352;-2.809532806277275;Callow Hill Quarry, Axbridge, Somerset, England, UK;6300
 4G;234;10;130;16609;8905;262;51.29760292493352;-2.809532806277275;Callow Hill Quarry, Axbridge, Somerset, England, UK;6400
 4G;234;15;20;24607;8935;34;51.48349756884848;-3.173336237668991;Summit House, 9-10 Windsor Place, Cardiff, Wales, UK;6300
@@ -3017,6 +3098,12 @@
 4G;234;20;8;1391;9042;153;51.45418992786806;-1.101907454431057;Unnamed Road, Reading, Berkshire, England, UK;6175
 4G;234;20;0;2383;9045;366;51.5234119835372;-2.4013612791895866;Sodbury Lane, Chipping Sodbury, South Gloucestershire, West of England, England, UK;1363
 4G;234;20;6;2383;9045;328;51.5234119835372;-2.4013612791895866;Sodbury Lane, Chipping Sodbury, South Gloucestershire, West of England, England, UK;6175
+4G;234;15;10;24617;9102;160;51.702;-3.3985016;Aberdare Transmitting Station, Cefnpennar Road, Cefnpennar, Mountain Ash, Rhondda Cynon Taf, Glamorgan, Wales, UK;6300
+4G;234;15;12;24617;9102;160;51.702;-3.3985016;Aberdare Transmitting Station, Cefnpennar Road, Cefnpennar, Mountain Ash, Rhondda Cynon Taf, Glamorgan, Wales, UK;3501
+4G;234;15;30;24617;9102;159;51.702;-3.3985016;Aberdare Transmitting Station, Cefnpennar Road, Cefnpennar, Mountain Ash, Rhondda Cynon Taf, Glamorgan, Wales, UK;6300
+4G;234;15;32;24617;9102;159;51.702;-3.3985016;Aberdare Transmitting Station, Cefnpennar Road, Cefnpennar, Mountain Ash, Rhondda Cynon Taf, Glamorgan, Wales, UK;3501
+4G;234;10;110;16800;9102;160;51.702;-3.3985016;Aberdare Transmitting Station, Cefnpennar Road, Cefnpennar, Mountain Ash, Rhondda Cynon Taf, Glamorgan, Wales, UK;6400
+4G;234;10;130;16800;9102;159;51.702;-3.3985016;Aberdare Transmitting Station, Cefnpennar Road, Cefnpennar, Mountain Ash, Rhondda Cynon Taf, Glamorgan, Wales, UK;6400
 4G;234;20;0;2460;9104;282;51.7934896302159;-2.625197401963593;Coleford Cemetry, Victoria Road, Coleford, Forest of Dean, Gloucestershire, England, UK;1363
 4G;234;20;1;2460;9104;298;51.7934896302159;-2.625197401963593;Coleford Cemetry, Victoria Road, Coleford, Forest of Dean, Gloucestershire, England, UK;1363
 4G;234;20;2;2460;9104;null;51.7934896302159;-2.625197401963593;Coleford Cemetry, Victoria Road, Coleford, Forest of Dean, Gloucestershire, England, UK;1363
@@ -4246,11 +4333,14 @@
 4G;234;30;5;24361;12599;495;51.498108638673806;-2.6805926486849785;Barrack's Ln, Bristol, West of England, England, UK;1815
 4G;234;30;18;24361;12599;60;51.498108638673806;-2.6805926486849785;Barrack's Ln, Bristol, West of England, England, UK;497
 4G;234;30;20;24361;12599;48;51.498108638673806;-2.6805926486849785;Barrack's Ln, Bristol, West of England, England, UK;497
+4G;234;20;6;2291;12621;477;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Blaenplwyf, Ceredigion, Wales, UK;6175
+4G;234;20;7;2291;12621;196;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Blaenplwyf, Ceredigion, Wales, UK;6175
+4G;234;20;8;2291;12621;425;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Blaenplwyf, Ceredigion, Wales, UK;6175
 4G;234;20;0;2248;12640;405;52.41249394211231;-1.946917958557606;GKN Aerospace Transparency Systems (Kings Norton) Limited, Catesby Park, Cotteridge, Birmingham, West Midlands, England, UK [MBNL];1363
 4G;234;20;2;1582;12650;17;51.441625597921195;-0.8328047767281532;Pound Lane, M4, Reading, Berkshire, England, UK;1363
 4G;234;20;72;1582;12650;439;51.441625597921195;-0.8328047767281532;Pound Lane, M4, Reading, Berkshire, England, UK;76
 4G;234;15;28;6190;12670;325;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];2850
-4G;234;20;0;2123;12799;87;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK;1363
+4G;234;20;0;2123;12799;438;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;1;2123;12799;304;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;2;2123;12799;395;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;6;2123;12799;72;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK;6175
@@ -5053,6 +5143,24 @@
 4G;234;15;10;40968;15741;239;53.368794666124586;-1.4648743718862534;Queens Road Retail Park, Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [Vodafone];6300
 4G;234;15;20;40968;15741;237;53.368794666124586;-1.4648743718862534;Queens Road Retail Park, Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [Vodafone];6300
 4G;234;15;30;40968;15741;238;53.368794666124586;-1.4648743718862534;Queens Road Retail Park, Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [Vodafone];6300
+4G;234;30;0;24381;15756;460;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;1617
+4G;234;30;1;24381;15756;459;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;1617
+4G;234;30;2;24381;15756;461;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;1617
+4G;234;30;3;24381;15756;460;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;1815
+4G;234;30;4;24381;15756;459;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;1815
+4G;234;30;5;24381;15756;461;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;1815
+4G;234;30;6;24381;15756;460;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;3350
+4G;234;30;7;24381;15756;459;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;3350
+4G;234;30;8;24381;15756;461;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;3350
+4G;234;30;9;24381;15756;460;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;3179
+4G;234;30;10;24381;15756;459;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;3179
+4G;234;30;11;24381;15756;461;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;3179
+4G;234;30;12;24380;15756;219;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;1617
+4G;234;30;13;24380;15756;220;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;1617
+4G;234;30;14;24380;15756;221;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;1617
+4G;234;30;18;24381;15756;460;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;497
+4G;234;30;19;24381;15756;459;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;497
+4G;234;30;20;24381;15756;461;51.62922;-3.92026;Kilvey Hill Transmitting Station, Mansel Road, Foxhole, Swansea, Wales, UK;497
 4G;234;15;34;24611;15757;476;51.50706635634019;-2.513536959886551;Marigold Court, Mill Ln, Hambrook, Winterbourne, Bristol, West of England, England, UK;223
 4G;234;15;18;24611;15767;400;51.43737095402637;-2.536092661321163;Bonville Road, Broomhill, Bridlington, Bristol, West of England, England, UK;2850
 4G;234;30;0;26051;15769;179;51.85247111910595;-2.2141799703240395;St. Oswald's Parish Church Coney Hill, Coney Hill Road, Coney Hill, Gloucester, Gloucestershire, England, UK;1617
@@ -5588,6 +5696,15 @@
 4G;234;15;12;6192;18113;474;51.56189143501016;-0.5444492027163506;Opposite Paradise Farm, Hawkswood Lane, Fulmer, Buckinghamshire, England, UK;3501
 4G;234;15;18;6192;18113;81;51.56189143501016;-0.5444492027163506;Opposite Paradise Farm, Hawkswood Lane, Fulmer, Buckinghamshire, England, UK;2850
 4G;234;30;13;26020;18119;114;51.97284945814981;-3.3530831336975098;Pentwyn Farm, Llanddrew, Powys, Wales, UK;6225
+4G;234;30;0;26381;18160;136;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;1617
+4G;234;30;1;26381;18160;135;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;1617
+4G;234;30;2;26381;18160;137;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;1617
+4G;234;30;3;26381;18160;null;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;1815
+4G;234;30;4;26381;18160;360;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;1815
+4G;234;30;5;26381;18160;258;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;1815
+4G;234;30;18;26381;18160;null;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;497
+4G;234;30;19;26381;18160;null;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;497
+4G;234;30;20;26381;18160;null;51.322543;-2.2152368;CrossFit Trowbridge, Riverway, Trowbridge, Wiltshire, England, UK;497
 4G;234;15;10;24701;18175;383;51.41749126296178;-1.0781903564929962;Folly Farm Partners, St Michaels Ln, Sulhamstead, Reading, Berkshire, England, UK;6300
 4G;234;15;24;6144;18177;55;51.54349328497866;-0.37685539573431015;Northolt Methodist Church, 167 Church Road A312, Northolt, Ealing, Greater London, England, UK;223
 4G;234;15;12;12305;18187;233;51.435293227977546;-0.5268797278404236;Egham Water Works, Staines-upon-Thames, Surrey, England, UK;3624
@@ -5739,6 +5856,21 @@
 4G;234;30;13;26010;19165;395;51.8228520065517;-3.1166303157806396;Church Rd, Maesygwartha, Monmouthshire, Wales, UK;6225
 4G;234;10;120;16625;19168;472;51.42767625069896;-2.514139451086521;Keynsham Motocross, A4174, Keynsham, Bath and North East Somerset, West of England, England, UK;6400
 4G;234;10;130;16625;19168;473;51.42767625069896;-2.514139451086521;Keynsham Motocross, A4174, Keynsham, Bath and North East Somerset, West of England, England, UK;6400
+4G;234;30;0;26031;19198;413;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;1617
+4G;234;30;1;26031;19198;412;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;1617
+4G;234;30;2;26031;19198;411;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;1617
+4G;234;30;3;26031;19198;413;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;1815
+4G;234;30;4;26031;19198;412;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;1815
+4G;234;30;5;26031;19198;411;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;1815
+4G;234;30;6;26031;19198;413;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;3350
+4G;234;30;7;26031;19198;412;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;3350
+4G;234;30;8;26031;19198;411;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;3350
+4G;234;30;9;26031;19198;413;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;3179
+4G;234;30;10;26031;19198;412;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;3179
+4G;234;30;11;26031;19198;411;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;3179
+4G;234;30;12;26030;19198;392;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;6225
+4G;234;30;13;26030;19198;390;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;6225
+4G;234;30;14;26030;19198;391;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;6225
 4G;234;15;10;8257;19247;253;52.94998529835911;-1.4792044088244438;Palm Court Island Roundabout, Darley Abbey, Derby, East Midlands, England, UK;6300
 4G;234;15;12;8257;19247;253;52.94998529835911;-1.4792044088244438;Palm Court Island Roundabout, Darley Abbey, Derby, East Midlands, England, UK;3501
 4G;234;15;14;8257;19247;253;52.94998529835911;-1.4792044088244438;Palm Court Island Roundabout, Darley Abbey, Derby, East Midlands, England, UK;223
@@ -6168,6 +6300,15 @@
 4G;234;30;2;25341;21262;446;51.459634372048804;-1.1774153262376785;Scratchface Ln, Reading, Berkshire, England, UK;1617
 4G;234;30;13;25340;21262;264;51.459634372048804;-1.1774153262376785;Scratchface Ln, Reading, Berkshire, England, UK;6225
 4G;234;30;14;25340;21262;266;51.459634372048804;-1.1774153262376785;Scratchface Ln, Reading, Berkshire, England, UK;6225
+4G;234;30;0;26381;21263;435;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;1617
+4G;234;30;1;26381;21263;436;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;1617
+4G;234;30;2;26381;21263;437;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;1617
+4G;234;30;3;26381;21263;435;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;1815
+4G;234;30;4;26381;21263;436;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;1815
+4G;234;30;5;26381;21263;437;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;1815
+4G;234;30;12;26380;21263;179;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;6225
+4G;234;30;13;26380;21263;177;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;6225
+4G;234;30;14;26380;21263;178;51.336884;-2.2641397;Jones Hill, Westwood, Bradford-on-Avon, Wiltshire, England, UK;6225
 4G;234;30;1;25321;21265;78;51.51923610451927;-2.096959389746189;Scotland Hill, Upper Seagry, Wiltshire, England, UK;1617
 4G;234;30;13;25320;21265;187;51.51923610451927;-2.096959389746189;Scotland Hill, Upper Seagry, Wiltshire, England, UK;6225
 4G;234;30;1;25321;21266;88;51.563900246097965;-1.8919983878731725;Flaxlands House, Hook, Royal Wootton Bassett, Swindon, Wiltshire, England, UK;1617
@@ -6243,6 +6384,12 @@
 4G;234;15;18;41086;21377;65;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;2850
 4G;234;15;30;41086;21377;40;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;6300
 4G;234;15;34;41086;21377;451;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;223
+4G;234;30;0;26022;21413;123;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Blaenplwyf, Ceredigion, Wales, UK;1617
+4G;234;30;1;26022;21413;125;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Blaenplwyf, Ceredigion, Wales, UK;1617
+4G;234;30;2;26022;21413;124;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Blaenplwyf, Ceredigion, Wales, UK;1617
+4G;234;30;12;26022;21413;342;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Blaenplwyf, Ceredigion, Wales, UK;6225
+4G;234;30;13;26022;21413;344;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Blaenplwyf, Ceredigion, Wales, UK;6225
+4G;234;30;14;26022;21413;343;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Blaenplwyf, Ceredigion, Wales, UK;6225
 4G;234;15;10;24738;21414;6;52.157227797240395;-4.454161114990711;Penyrallt, Llangrannog, Ceredigion, Wales, UK;6300
 4G;234;15;12;24738;21414;6;52.157227797240395;-4.454161114990711;Penyrallt, Llangrannog, Ceredigion, Wales, UK;3501
 4G;234;15;20;24738;21414;7;52.157227797240395;-4.454161114990711;Penyrallt, Llangrannog, Ceredigion, Wales, UK;6300
@@ -6407,6 +6554,15 @@
 4G;234;15;32;24611;22558;186;51.459898419749365;-2.591574154794216;South Plaza, Marlborough Street B4051, Stokes Croft, City Centre, Bristol, West of England, England, UK;3501
 4G;234;15;34;24611;22558;186;51.459898419749365;-2.591574154794216;South Plaza, Marlborough Street B4051, Stokes Croft, City Centre, Bristol, West of England, England, UK;223
 4G;234;15;38;24611;22558;186;51.459898419749365;-2.591574154794216;South Plaza, Marlborough Street B4051, Stokes Croft, City Centre, Bristol, West of England, England, UK;2850
+4G;234;30;0;26381;22576;482;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;1617
+4G;234;30;1;26381;22576;480;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;1617
+4G;234;30;2;26381;22576;481;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;1617
+4G;234;30;3;26381;22576;null;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;1815
+4G;234;30;4;26381;22576;null;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;1815
+4G;234;30;5;26381;22576;null;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;1815
+4G;234;30;12;26380;22576;337;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;6225
+4G;234;30;13;26380;22576;336;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;6225
+4G;234;30;14;26380;22576;338;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;6225
 4G;234;30;2;26022;22583;205;52.42277526045216;-4.064079411327839;Penglais Farm Mast, Penglais, Aberystwyth, UK;1617
 4G;234;30;5;26022;22583;205;52.42277526045216;-4.064079411327839;Penglais Farm Mast, Penglais, Aberystwyth, UK;1815
 4G;234;30;11;26022;22583;205;52.42277526045216;-4.064079411327839;Penglais Farm Mast, Penglais, Aberystwyth, UK;3179
@@ -9890,7 +10046,7 @@
 3G;234;10;43103;21736;736;441;52.178623;-2.231331;Worcester Sewage Treatment Works, Bromwich Road A449, Lower Wick, Worcester, Worcestershire, England, UK;3025
 3G;234;10;48950;21736;736;265;52.18630976015476;-2.213788703083992;49 London Road A44, Red Hill, Worcester, Worcestershire, England, UK;3025
 3G;234;10;58950;21736;736;273;52.18630976015476;-2.213788703083992;49 London Road A44, Red Hill, Worcester, Worcestershire, England, UK;3025
-3G;234;10;28437;21737;737;383;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Ceredigion, Wales, UK;3025
+3G;234;10;28437;21737;737;383;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Blaenplwyf, Ceredigion, Wales, UK;3025
 3G;234;10;12013;21749;749;408;51.46178974208351;-2.1144594624638557;Chippenham Telephone Exchange, Cocklebury Road, Chippenham, Wiltshire, England, UK;3025
 3G;234;10;8146;21752;752;406;51.51404957073207;-2.5289901718497276;41 Thornmarsh Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;3025
 3G;234;10;9008;21752;752;487;51.46578749806549;-2.563820332288742;Bristol Hawks Gymnastics Club, 11 Roman Road, Easton, Bristol, West of England, England, UK;3025
