@@ -5807,6 +5807,12 @@
 4G;234;15;18;24611;17684;198;51.530877835397526;-2.600403316318989;M5, Almondsbury, South Gloucestershire, West of England, England, UK;2850
 4G;234;15;28;24611;17684;200;51.530877835397526;-2.600403316318989;M5, Almondsbury, South Gloucestershire, West of England, England, UK;2850
 4G;234;15;38;24611;17684;199;51.530877835397526;-2.600403316318989;M5, Almondsbury, South Gloucestershire, West of England, England, UK;2850
+4G;234;30;0;25281;17723;203;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;1617
+4G;234;30;1;25281;17723;202;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;1617
+4G;234;30;2;25281;17723;201;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;1617
+4G;234;30;12;25280;17723;406;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;6225
+4G;234;30;13;25280;17723;405;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;6225
+4G;234;30;14;25280;17723;407;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;6225
 4G;234;15;12;24611;17729;162;51.52912641541243;-2.4652082473039627;2 Woodside Rd, Coalpit Heath, Bristol, West of England, England, UK;3501
 4G;234;15;18;24611;17729;87;51.52912641541243;-2.4652082473039627;2 Woodside Rd, Coalpit Heath, Bristol, West of England, England, UK;2850
 4G;234;15;28;24611;17729;88;51.52912641541243;-2.4652082473039627;2 Woodside Rd, Coalpit Heath, Bristol, West of England, England, UK;2850
@@ -12014,6 +12020,33 @@
 4G;234;15;10;41065;512421;254;53.48235281797299;-1.2341178953647614;Conisbrough Telephone Exchange, 13 Old Road, Conisbrough, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;30;41092;512429;32;53.55804163472538;-0.9712402895092963;Woodhouse Grange Fishery, Bawtry Road A614, Hatfield Woodhouse, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;20;41092;512607;20;53.593296003709526;-1.1201250180602074;East Coast Main Line, Thorpe-in-Balne, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;10;8286;512634;417;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;6300
+4G;234;15;12;8286;512634;417;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;3501
+4G;234;15;15;8286;512634;417;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;223
+4G;234;15;20;8286;512634;419;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;6300
+4G;234;15;22;8286;512634;419;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;3501
+4G;234;15;25;8286;512634;419;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;223
+4G;234;15;30;8286;512634;418;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;6300
+4G;234;15;32;8286;512634;418;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;3501
+4G;234;15;35;8286;512634;418;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;223
+4G;234;10;110;1248;512634;417;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;6400
+4G;234;10;112;1248;512634;417;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;3725
+4G;234;10;114;1248;512634;417;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;1226
+4G;234;10;115;1248;512634;417;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;347
+4G;234;10;120;1248;512634;419;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;6400
+4G;234;10;122;1248;512634;419;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;3725
+4G;234;10;124;1248;512634;419;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;1226
+4G;234;10;125;1248;512634;419;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;347
+4G;234;10;130;1248;512634;418;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;6400
+4G;234;10;132;1248;512634;418;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;3725
+4G;234;10;134;1248;512634;418;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;1226
+4G;234;10;135;1248;512634;418;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;347
+4G;234;10;116;1248;512635;417;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;39250
+4G;234;10;117;1248;512635;417;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;39448
+4G;234;10;126;1248;512635;419;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;39250
+4G;234;10;127;1248;512635;419;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;39448
+4G;234;10;136;1248;512635;418;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;39250
+4G;234;10;137;1248;512635;418;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;39448
 4G;234;15;10;8256;512654;84;51.62689136149456;-0.861312635242939;M40 West, Cadmore End, Buckinghamshire, England, UK;6300
 4G;234;15;20;8256;512654;85;51.62689136149456;-0.861312635242939;M40 West, Cadmore End, Buckinghamshire, England, UK;6300
 4G;234;10;110;672;512654;84;51.62689136149456;-0.861312635242939;M40 West, Cadmore End, Buckinghamshire, England, UK;6400
@@ -12094,6 +12127,36 @@
 4G;234;10;125;672;513936;60;51.6142136861523;-0.7596290856599808;National Highways M40 Depot, Marlow Hill A404, Daws Hill, High Wycombe, Buckinghamshire, England, UK;347
 4G;234;10;130;672;513936;62;51.6142136861523;-0.7596290856599808;National Highways M40 Depot, Marlow Hill A404, Daws Hill, High Wycombe, Buckinghamshire, England, UK;6400
 4G;234;10;135;672;513936;62;51.6142136861523;-0.7596290856599808;National Highways M40 Depot, Marlow Hill A404, Daws Hill, High Wycombe, Buckinghamshire, England, UK;347
+4G;234;15;10;8263;514070;211;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;6300
+4G;234;15;12;8263;514070;211;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;3501
+4G;234;15;15;8263;514070;211;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;223
+4G;234;15;20;8263;514070;210;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;6300
+4G;234;15;22;8263;514070;210;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;3501
+4G;234;15;25;8263;514070;210;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;223
+4G;234;15;30;8263;514070;212;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;6300
+4G;234;15;32;8263;514070;212;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;3501
+4G;234;15;35;8263;514070;212;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;223
+4G;234;10;110;1248;514070;211;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;6400
+4G;234;10;112;1248;514070;211;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;3725
+4G;234;10;115;1248;514070;211;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;347
+4G;234;10;120;1248;514070;210;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;6400
+4G;234;10;122;1248;514070;210;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;3725
+4G;234;10;125;1248;514070;210;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;347
+4G;234;10;130;1248;514070;212;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;6400
+4G;234;10;132;1248;514070;212;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;3725
+4G;234;10;135;1248;514070;212;52.77953;-0.279257;Grange Farm, 69 Spalding Road A151, Bourne, Lincolnshire, England, UK;347
+4G;234;15;10;8286;520012;40;52.97275;-0.01379;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, England, UK;6300
+4G;234;15;15;8286;520012;40;52.97275;-0.01379;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, England, UK;223
+4G;234;15;20;8286;520012;41;52.97275;-0.01379;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, England, UK;6300
+4G;234;15;25;8286;520012;41;52.97275;-0.01379;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, England, UK;223
+4G;234;15;30;8286;520012;39;52.97275;-0.01379;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, England, UK;6300
+4G;234;15;35;8286;520012;39;52.97275;-0.01379;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, England, UK;223
+4G;234;10;110;1248;520012;40;52.97275;-0.01379;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, England, UK;6400
+4G;234;10;115;1248;520012;40;52.97275;-0.01379;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, England, UK;347
+4G;234;10;120;1248;520012;41;52.97275;-0.01379;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, England, UK;6400
+4G;234;10;125;1248;520012;41;52.97275;-0.01379;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, England, UK;347
+4G;234;10;130;1248;520012;39;52.97275;-0.01379;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, England, UK;6400
+4G;234;10;135;1248;520012;39;52.97275;-0.01379;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, England, UK;347
 4G;234;10;135;4290;520038;74;51.55394473571695;-0.38654621690511703;Victoria Road Waste Transfer Station, Civic Way, Northolt, Hillingdon, Greater London, England, UK;347
 4G;234;10;110;4099;520042;465;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;6400
 4G;234;10;114;4099;520042;465;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;1226
@@ -12154,6 +12217,36 @@
 4G;234;10;125;672;521106;196;51.64219402452095;-0.8860144391655922;Penley Hollies, M40 East, Stokenchurch, Buckinghamshire, England, UK;347
 4G;234;10;130;672;521106;197;51.64219402452095;-0.8860144391655922;Penley Hollies, M40 East, Stokenchurch, Buckinghamshire, England, UK;6400
 4G;234;10;135;672;521106;197;51.64219402452095;-0.8860144391655922;Penley Hollies, M40 East, Stokenchurch, Buckinghamshire, England, UK;347
+4G;234;15;10;8286;521144;301;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;6300
+4G;234;15;12;8286;521144;301;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;3501
+4G;234;15;15;8286;521144;301;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;223
+4G;234;15;20;8286;521144;302;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;6300
+4G;234;15;22;8286;521144;302;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;3501
+4G;234;15;25;8286;521144;302;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;223
+4G;234;15;30;8286;521144;300;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;6300
+4G;234;15;32;8286;521144;300;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;3501
+4G;234;15;35;8286;521144;300;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;223
+4G;234;10;110;1248;521144;301;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;6400
+4G;234;10;112;1248;521144;301;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;3725
+4G;234;10;114;1248;521144;301;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;1226
+4G;234;10;115;1248;521144;301;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;347
+4G;234;10;119;1248;521144;301;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;9260
+4G;234;10;120;1248;521144;302;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;6400
+4G;234;10;122;1248;521144;302;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;3725
+4G;234;10;124;1248;521144;302;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;1226
+4G;234;10;125;1248;521144;302;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;347
+4G;234;10;129;1248;521144;302;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;9260
+4G;234;10;130;1248;521144;300;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;6400
+4G;234;10;132;1248;521144;300;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;3725
+4G;234;10;134;1248;521144;300;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;1226
+4G;234;10;135;1248;521144;300;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;347
+4G;234;10;139;1248;521144;300;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;9260
+4G;234;10;116;1248;521145;301;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;39250
+4G;234;10;117;1248;521145;301;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;39448
+4G;234;10;126;1248;521145;302;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;39250
+4G;234;10;127;1248;521145;302;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;39448
+4G;234;10;136;1248;521145;300;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;39250
+4G;234;10;137;1248;521145;300;52.962856;-0.01682;Tenens Way, Riverside Industrial Estate, Skirbeck, Boston, Lincolnshire, England, UK;39448
 4G;234;10;115;34784;521408;36;53.80493342879785;-0.42208146303892136;Park Lane, Woodmansey, East Riding of Yorkshire, England, UK;347
 4G;234;15;10;8256;521536;429;51.611627465950896;-0.7852602750062943;John Lewis, Buckmaster Road, Booker, High Wycombe, Buckinghamshire, England, UK;6300
 4G;234;15;15;8256;521536;429;51.611627465950896;-0.7852602750062943;John Lewis, Buckmaster Road, Booker, High Wycombe, Buckinghamshire, England, UK;223
@@ -12173,18 +12266,6 @@
 4G;234;10;132;4097;521910;311;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;3725
 4G;234;10;135;4097;521910;311;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;347
 4G;234;10;110;1040;521994;66;52.98282556519349;-1.4735888689756393;Eaton Bank, Duffield, Derbyshire, England, UK;6400
-4G;234;15;10;8286;522012;40;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;6300
-4G;234;15;15;8286;522012;40;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;223
-4G;234;15;20;8286;522012;41;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;6300
-4G;234;15;25;8286;522012;41;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;223
-4G;234;15;30;8286;522012;39;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;6300
-4G;234;15;35;8286;522012;39;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;223
-4G;234;10;110;1248;522012;40;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;6400
-4G;234;10;115;1248;522012;40;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;347
-4G;234;10;120;1248;522012;41;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;6400
-4G;234;10;125;1248;522012;41;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;347
-4G;234;10;130;1248;522012;39;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;6400
-4G;234;10;135;1248;522012;39;52.97269688809436;-0.013804392811113437;Windsor Bank, Skirbeck, Boston, Lincolnshire, England, UK;347
 4G;234;10;120;1040;522136;359;52.98814955228728;-1.4852383732795715;Duffield Railway Station, Donald Hawley Way, Duffield, Derbyshire, England, UK;6400
 4G;234;10;130;1040;522136;358;52.98814955228728;-1.4852383732795715;Duffield Railway Station, Donald Hawley Way, Duffield, Derbyshire, England, UK;6400
 4G;234;10;120;4099;522416;124;51.567040216464655;-0.5575920268893242;M40 East, Fulmer, Buckinghamshire, England, UK;6400
@@ -13490,6 +13571,18 @@
 4G;234;10;135;1248;600383;379;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;347
 4G;234;10;136;1248;600383;379;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;39250
 4G;234;10;137;1248;600383;379;53.67009563270908;-0.6020429357886314;Northlands Road, Winterton, North Lincolnshire, England, UK;39448
+4G;234;15;10;8286;600525;1;52.808645;-0.160793;Burma Avenue, Pinchbeck, Spalding, Lincolnshire, England, UK;6300
+4G;234;15;20;8286;600525;2;52.808645;-0.160793;Burma Avenue, Pinchbeck, Spalding, Lincolnshire, England, UK;6300
+4G;234;15;30;8286;600525;0;52.808645;-0.160793;Burma Avenue, Pinchbeck, Spalding, Lincolnshire, England, UK;6300
+4G;234;10;110;1248;600525;1;52.808645;-0.160793;Burma Avenue, Pinchbeck, Spalding, Lincolnshire, England, UK;6400
+4G;234;10;112;1248;600525;1;52.808645;-0.160793;Burma Avenue, Pinchbeck, Spalding, Lincolnshire, England, UK;3725
+4G;234;10;115;1248;600525;1;52.808645;-0.160793;Burma Avenue, Pinchbeck, Spalding, Lincolnshire, England, UK;347
+4G;234;10;120;1248;600525;2;52.808645;-0.160793;Burma Avenue, Pinchbeck, Spalding, Lincolnshire, England, UK;6400
+4G;234;10;122;1248;600525;2;52.808645;-0.160793;Burma Avenue, Pinchbeck, Spalding, Lincolnshire, England, UK;3725
+4G;234;10;125;1248;600525;2;52.808645;-0.160793;Burma Avenue, Pinchbeck, Spalding, Lincolnshire, England, UK;347
+4G;234;10;130;1248;600525;0;52.808645;-0.160793;Burma Avenue, Pinchbeck, Spalding, Lincolnshire, England, UK;6400
+4G;234;10;132;1248;600525;0;52.808645;-0.160793;Burma Avenue, Pinchbeck, Spalding, Lincolnshire, England, UK;3725
+4G;234;10;135;1248;600525;0;52.808645;-0.160793;Burma Avenue, Pinchbeck, Spalding, Lincolnshire, England, UK;347
 4G;234;10;116;34784;600568;172;53.77208605744264;-0.3934227302670479;142 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [O2];39250
 4G;234;10;126;34784;600568;171;53.77208605744264;-0.3934227302670479;142 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [O2];39250
 4G;234;10;136;34784;600568;173;53.77208605744264;-0.3934227302670479;142 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [O2];39250
@@ -13511,6 +13604,45 @@
 4G;234;10;135;4099;600583;326;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;347
 4G;234;10;136;4099;600583;326;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;39250
 4G;234;10;137;4099;600583;326;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;39448
+4G;234;15;10;8286;600597;7;52.925384;-0.051665;Graves Park, Wash Road, Kirton, Lincolnshire, England, UK;6300
+4G;234;15;15;8286;600597;7;52.925384;-0.051665;Graves Park, Wash Road, Kirton, Lincolnshire, England, UK;223
+4G;234;15;20;8286;600597;6;52.925384;-0.051665;Graves Park, Wash Road, Kirton, Lincolnshire, England, UK;6300
+4G;234;15;25;8286;600597;6;52.925384;-0.051665;Graves Park, Wash Road, Kirton, Lincolnshire, England, UK;223
+4G;234;15;30;8286;600597;8;52.925384;-0.051665;Graves Park, Wash Road, Kirton, Lincolnshire, England, UK;6300
+4G;234;15;35;8286;600597;8;52.925384;-0.051665;Graves Park, Wash Road, Kirton, Lincolnshire, England, UK;223
+4G;234;10;110;1248;600597;7;52.925384;-0.051665;Graves Park, Wash Road, Kirton, Lincolnshire, England, UK;6400
+4G;234;10;112;1248;600597;7;52.925384;-0.051665;Graves Park, Wash Road, Kirton, Lincolnshire, England, UK;3725
+4G;234;10;115;1248;600597;7;52.925384;-0.051665;Graves Park, Wash Road, Kirton, Lincolnshire, England, UK;347
+4G;234;10;120;1248;600597;6;52.925384;-0.051665;Graves Park, Wash Road, Kirton, Lincolnshire, England, UK;6400
+4G;234;10;122;1248;600597;6;52.925384;-0.051665;Graves Park, Wash Road, Kirton, Lincolnshire, England, UK;3725
+4G;234;10;125;1248;600597;6;52.925384;-0.051665;Graves Park, Wash Road, Kirton, Lincolnshire, England, UK;347
+4G;234;10;130;1248;600597;8;52.925384;-0.051665;Graves Park, Wash Road, Kirton, Lincolnshire, England, UK;6400
+4G;234;10;132;1248;600597;8;52.925384;-0.051665;Graves Park, Wash Road, Kirton, Lincolnshire, England, UK;3725
+4G;234;10;135;1248;600597;8;52.925384;-0.051665;Graves Park, Wash Road, Kirton, Lincolnshire, England, UK;347
+4G;234;15;10;8286;600613;309;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;6300
+4G;234;15;12;8286;600613;309;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;3501
+4G;234;15;15;8286;600613;309;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;223
+4G;234;15;20;8286;600613;310;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;6300
+4G;234;15;22;8286;600613;310;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;3501
+4G;234;15;25;8286;600613;310;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;223
+4G;234;15;30;8286;600613;311;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;6300
+4G;234;15;32;8286;600613;311;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;3501
+4G;234;15;35;8286;600613;311;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;223
+4G;234;10;110;1248;600613;309;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;6400
+4G;234;10;112;1248;600613;309;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;3725
+4G;234;10;115;1248;600613;309;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;347
+4G;234;10;116;1248;600613;309;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;39250
+4G;234;10;117;1248;600613;309;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;39448
+4G;234;10;120;1248;600613;310;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;6400
+4G;234;10;122;1248;600613;310;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;3725
+4G;234;10;125;1248;600613;310;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;347
+4G;234;10;126;1248;600613;310;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;39250
+4G;234;10;127;1248;600613;310;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;39448
+4G;234;10;130;1248;600613;311;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;6400
+4G;234;10;132;1248;600613;311;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;3725
+4G;234;10;135;1248;600613;311;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;347
+4G;234;10;136;1248;600613;311;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;39250
+4G;234;10;137;1248;600613;311;52.81771;-0.16725;Pinchbeck Water Tower, Knight Street, Pinchbeck, Spalding, Lincolnshire, England, UK;39448
 4G;234;15;10;8256;600641;450;51.5234835357033;-0.722489207983017;Maidenhead Telephone Exchange, 10 West St, Maidenhead, Berkshire, England, UK;6300
 4G;234;15;12;8256;600641;450;51.5234835357033;-0.722489207983017;Maidenhead Telephone Exchange, 10 West St, Maidenhead, Berkshire, England, UK;3501
 4G;234;15;15;8256;600641;450;51.5234835357033;-0.722489207983017;Maidenhead Telephone Exchange, 10 West St, Maidenhead, Berkshire, England, UK;223
@@ -13682,6 +13814,33 @@
 4G;234;10;135;1408;601003;247;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;347
 4G;234;10;136;1408;601003;247;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;39250
 4G;234;10;137;1408;601003;247;52.820491768398426;-1.625247672200203;Wetmore Road, Eton Park, Burton-on-Trent, Staffordshire, England, UK;39448
+4G;234;15;10;8286;601109;146;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;6300
+4G;234;15;12;8286;601109;146;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;3501
+4G;234;15;15;8286;601109;146;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;223
+4G;234;15;20;8286;601109;144;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;6300
+4G;234;15;22;8286;601109;144;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;3501
+4G;234;15;25;8286;601109;144;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;223
+4G;234;15;30;8286;601109;145;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;6300
+4G;234;15;32;8286;601109;145;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;3501
+4G;234;15;35;8286;601109;145;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;223
+4G;234;10;110;1248;601109;146;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;6400
+4G;234;10;112;1248;601109;146;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;3725
+4G;234;10;114;1248;601109;146;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;1226
+4G;234;10;115;1248;601109;146;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;347
+4G;234;10;116;1248;601109;146;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;39250
+4G;234;10;117;1248;601109;146;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;39448
+4G;234;10;120;1248;601109;144;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;6400
+4G;234;10;122;1248;601109;144;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;3725
+4G;234;10;124;1248;601109;144;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;1226
+4G;234;10;125;1248;601109;144;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;347
+4G;234;10;126;1248;601109;144;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;39250
+4G;234;10;127;1248;601109;144;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;39448
+4G;234;10;130;1248;601109;145;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;6400
+4G;234;10;132;1248;601109;145;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;3725
+4G;234;10;134;1248;601109;145;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;1226
+4G;234;10;135;1248;601109;145;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;347
+4G;234;10;136;1248;601109;145;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;39250
+4G;234;10;137;1248;601109;145;52.787354;-0.129688;Spalding Bypass A16, Spalding, Lincolnshire, England, UK;39448
 4G;234;10;110;1057;601119;43;51.78822446096353;-1.282331943511963;Northern Bypass Road A40, Wolvercote, Oxford, Oxfordshire, England, UK [O2];6400
 4G;234;10;112;1057;601119;43;51.78822446096353;-1.282331943511963;Northern Bypass Road A40, Wolvercote, Oxford, Oxfordshire, England, UK [O2];3725
 4G;234;10;114;1057;601119;43;51.78822446096353;-1.282331943511963;Northern Bypass Road A40, Wolvercote, Oxford, Oxfordshire, England, UK [O2];1226
@@ -13784,6 +13943,18 @@
 4G;234;10;135;4099;601707;226;51.56189143501016;-0.5444492027163506;Opposite Paradise Farm, Hawkswood Lane, Fulmer, Buckinghamshire, England, UK;347
 4G;234;10;136;4099;601707;226;51.56189143501016;-0.5444492027163506;Opposite Paradise Farm, Hawkswood Lane, Fulmer, Buckinghamshire, England, UK;39250
 4G;234;10;137;4099;601707;226;51.56189143501016;-0.5444492027163506;Opposite Paradise Farm, Hawkswood Lane, Fulmer, Buckinghamshire, England, UK;39448
+4G;234;15;10;8263;601727;352;52.570855;-0.244954;Peterborough Telephone Exchange, Wentworth Street, Peterborough, Cambridgeshire, England, UK;6300
+4G;234;15;12;8263;601727;352;52.570855;-0.244954;Peterborough Telephone Exchange, Wentworth Street, Peterborough, Cambridgeshire, England, UK;3501
+4G;234;15;15;8263;601727;352;52.570855;-0.244954;Peterborough Telephone Exchange, Wentworth Street, Peterborough, Cambridgeshire, England, UK;223
+4G;234;15;18;8263;601727;352;52.570855;-0.244954;Peterborough Telephone Exchange, Wentworth Street, Peterborough, Cambridgeshire, England, UK;2850
+4G;234;15;20;8263;601727;351;52.570855;-0.244954;Peterborough Telephone Exchange, Wentworth Street, Peterborough, Cambridgeshire, England, UK;6300
+4G;234;15;22;8263;601727;351;52.570855;-0.244954;Peterborough Telephone Exchange, Wentworth Street, Peterborough, Cambridgeshire, England, UK;3501
+4G;234;15;25;8263;601727;351;52.570855;-0.244954;Peterborough Telephone Exchange, Wentworth Street, Peterborough, Cambridgeshire, England, UK;223
+4G;234;15;28;8263;601727;351;52.570855;-0.244954;Peterborough Telephone Exchange, Wentworth Street, Peterborough, Cambridgeshire, England, UK;2850
+4G;234;15;30;8263;601727;353;52.570855;-0.244954;Peterborough Telephone Exchange, Wentworth Street, Peterborough, Cambridgeshire, England, UK;6300
+4G;234;15;32;8263;601727;353;52.570855;-0.244954;Peterborough Telephone Exchange, Wentworth Street, Peterborough, Cambridgeshire, England, UK;3501
+4G;234;15;35;8263;601727;353;52.570855;-0.244954;Peterborough Telephone Exchange, Wentworth Street, Peterborough, Cambridgeshire, England, UK;223
+4G;234;15;38;8263;601727;353;52.570855;-0.244954;Peterborough Telephone Exchange, Wentworth Street, Peterborough, Cambridgeshire, England, UK;2850
 4G;234;10;110;496;601727;352;52.570855;-0.244954;Peterborough Telephone Exchange, Wentworth Street, Peterborough, Cambridgeshire, England, UK;6400
 4G;234;10;112;496;601727;352;52.570855;-0.244954;Peterborough Telephone Exchange, Wentworth Street, Peterborough, Cambridgeshire, England, UK;3725
 4G;234;10;114;496;601727;352;52.570855;-0.244954;Peterborough Telephone Exchange, Wentworth Street, Peterborough, Cambridgeshire, England, UK;1226
@@ -13829,6 +14000,12 @@
 
 5G;234;10;2504070;104224;0;475;51.71474;-0.36795;Lye Lane, M25 J21/21A, Bricket Wood, St Albans, Hertfordshire, England, UK;648768
 5G;234;10;77591942;104224;0;62;51.66502;-0.3983;Holiday Inn Express, 19 Bridle Path, North Watford, Watford, Hertfordshire, England, UK;648768
+5G;234;10;73034189;101248;0;132;52.970342;-0.052488;Willoughby Foods, Chain Bridge Road, Staniland, Boston, Lincolnshire, England, UK;152690
+5G;234;10;73034190;101248;0;133;52.970342;-0.052488;Willoughby Foods, Chain Bridge Road, Staniland, Boston, Lincolnshire, England, UK;152690
+5G;234;10;73034191;101248;0;134;52.970342;-0.052488;Willoughby Foods, Chain Bridge Road, Staniland, Boston, Lincolnshire, England, UK;152690
+5G;234;10;86829517;101248;0;625;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;152690
+5G;234;10;86829518;101248;0;624;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;152690
+5G;234;10;86829519;101248;0;626;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;152690
 5G;234;10;173992397;104224;0;390;51.63304508;-0.26654782;London Gateway Services, M1 J2/4, Broadfields, Barnet, Greater London, England, UK;152690
 5G;234;10;173992398;104224;0;391;51.63304508;-0.26654782;London Gateway Services, M1 J2/4, Broadfields, Barnet, Greater London, England, UK;152690
 5G;234;10;173995397;104224;0;390;51.63304508;-0.26654782;London Gateway Services, M1 J2/4, Broadfields, Barnet, Greater London, England, UK;648768
