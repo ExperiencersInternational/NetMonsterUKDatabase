@@ -3095,7 +3095,7 @@
 4G;234;10;130;16832;8736;26;51.32219558119425;-2.3050712771694593;Road leading to Lodge Farm, Hinton Charterhouse, Bath and North East Somerset, West of England, England, UK;6400
 4G;234;10;134;16832;8736;26;51.32219558119425;-2.3050712771694593;Road leading to Lodge Farm, Hinton Charterhouse, Bath and North East Somerset, West of England, England, UK;347
 4G;234;15;28;8200;8742;469;51.4971244993031;-0.49140080809593195;Thorney Interchange J4B / J15, M4 / M25, Donkey Lane, Thorney, Buckinghamshire, England, UK;2850
-4G;234;15;32;8200;8742;424;51.4971244993031;-0.49140080809593195;Thorney Interchange J4B / J15, M4 / M25, Donkey Lane, Thorney, Buckinghamshire, England, UK;3624
+4G;234;15;32;8200;8742;424;51.4971244993031;-0.49140080809593195;Thorney Interchange J4B / J15, M4 / M25, Donkey Lane, Thorney, Buckinghamshire, England, UK;3501
 4G;234;20;8;3487;8744;417;53.65500170287475;-0.7793339341878891;Sand House Farm, Field Lane A161, Eastoft, North Lincolnshire, England, UK;6175
 4G;234;15;10;24738;8758;444;52.07518781575685;-4.678388424217701;15 Bryngwyn, St Dogmaels, Cardigan, Ceredigion, Wales, UK;6300
 4G;234;15;12;24738;8758;444;52.07518781575685;-4.678388424217701;15 Bryngwyn, St Dogmaels, Cardigan, Ceredigion, Wales, UK;3501
@@ -3258,9 +3258,14 @@
 4G;234;20;0;2494;9244;149;51.54878800823485;-2.4383288249373436;42 Lodge Rd, Yate, Bristol, West of England, England, UK [MBNL];1363
 4G;234;20;6;2494;9244;58;51.54878800823485;-2.4383288249373436;42 Lodge Rd, Yate, Bristol, West of England, England, UK [MBNL];6175
 4G;234;20;7;2494;9244;38;51.54878800823485;-2.4383288249373436;42 Lodge Rd, Yate, Bristol, West of England, England, UK [MBNL];6175
+4G;234;15;10;57414;9249;285;52.02607068896756;-3.9484145119786263;A482, Crug-y-bar, Carmarthenshire, Wales, UK;6300
 4G;234;15;12;57414;9249;285;52.02607068896756;-3.9484145119786263;A482, Crug-y-bar, Carmarthenshire, Wales, UK;3501
+4G;234;15;20;57414;9249;287;52.02607068896756;-3.9484145119786263;A482, Crug-y-bar, Carmarthenshire, Wales, UK;6300
+4G;234;15;22;57414;9249;287;52.02607068896756;-3.9484145119786263;A482, Crug-y-bar, Carmarthenshire, Wales, UK;3501
+4G;234;15;30;57414;9249;286;52.02607068896756;-3.9484145119786263;A482, Crug-y-bar, Carmarthenshire, Wales, UK;6300
 4G;234;15;32;57414;9249;286;52.02607068896756;-3.9484145119786263;A482, Crug-y-bar, Carmarthenshire, Wales, UK;3501
 4G;234;10;110;49888;9249;285;52.02607068896756;-3.9484145119786263;A482, Crug-y-bar, Carmarthenshire, Wales, UK;6400
+4G;234;10;120;49888;9249;287;52.02607068896756;-3.9484145119786263;A482, Crug-y-bar, Carmarthenshire, Wales, UK;6400
 4G;234;10;130;49888;9249;286;52.02607068896756;-3.9484145119786263;A482, Crug-y-bar, Carmarthenshire, Wales, UK;6400
 4G;234;10;130;16833;9265;455;51.160823078111186;-2.9530420526862144;Crancombe Lane, Woolavington, Somerset, England, UK;6400
 4G;234;20;2;2291;9292;341;52.31087593035955;-4.141976460814476;A487, Llanrhystud, UK;1363
@@ -3283,8 +3288,15 @@
 4G;234;10;124;16625;9307;20;51.46578749806549;-2.563820332288742;Bristol Hawks Gymnastics Club, 11 Roman Road, Easton, Bristol, West of England, England, UK;347
 4G;234;10;132;16625;9307;19;51.46578749806549;-2.563820332288742;Bristol Hawks Gymnastics Club, 11 Roman Road, Easton, Bristol, West of England, England, UK;3725
 4G;234;10;134;16625;9307;19;51.46578749806549;-2.563820332288742;Bristol Hawks Gymnastics Club, 11 Roman Road, Easton, Bristol, West of England, England, UK;347
+4G;234;15;20;57414;9317;327;51.95003255892701;-3.8658001273870464;A4069, Llangadog, Carmarthenshire, Wales, UK;6300
+4G;234;15;22;57414;9317;327;51.95003255892701;-3.8658001273870464;A4069, Llangadog, Carmarthenshire, Wales, UK;3501
 4G;234;15;30;57414;9317;329;51.95003255892701;-3.8658001273870464;A4069, Llangadog, Carmarthenshire, Wales, UK;6300
 4G;234;15;32;57414;9317;329;51.95003255892701;-3.8658001273870464;A4069, Llangadog, Carmarthenshire, Wales, UK;3501
+4G;234;10;120;49888;9317;327;51.95003255892701;-3.8658001273870464;A4069, Llangadog, Carmarthenshire, Wales, UK;6300
+4G;234;10;130;49888;9317;329;51.95003255892701;-3.8658001273870464;A4069, Llangadog, Carmarthenshire, Wales, UK;6300
+4G;234;20;0;2430;9347;276;51.88302;-2.07434;Leckhampton Bathrooms and Kitchens, Mead Road, Naunton, Cheltenham, Gloucestershire, England, UK;1363
+4G;234;20;1;2430;9347;448;51.88302;-2.07434;Leckhampton Bathrooms and Kitchens, Mead Road, Naunton, Cheltenham, Gloucestershire, England, UK;1363
+4G;234;20;2;2430;9347;236;51.88302;-2.07434;Leckhampton Bathrooms and Kitchens, Mead Road, Naunton, Cheltenham, Gloucestershire, England, UK;1363
 4G;234;20;0;2484;9353;159;51.593948031880004;-1.7804345861077309;Cleverton Court, Alton Close, Penhill, Swindon, Wiltshire, England, UK [MBNL];1363
 4G;234;20;2;2484;9353;215;51.593948031880004;-1.7804345861077309;Cleverton Court, Alton Close, Penhill, Swindon, Wiltshire, England, UK [MBNL];1363
 4G;234;20;73;2484;9353;353;51.593948031880004;-1.7804345861077309;Cleverton Court, Alton Close, Penhill, Swindon, Wiltshire, England, UK [MBNL];99
@@ -3354,9 +3366,6 @@
 4G;234;10;110;49888;9599;215;52.01776979110675;-3.9137831702828407;A482, Carmarthenshire, Wales, UK;6400
 4G;234;10;120;49888;9599;213;52.01776979110675;-3.9137831702828407;A482, Carmarthenshire, Wales, UK;6400
 4G;234;10;130;49888;9599;214;52.01776979110675;-3.9137831702828407;A482, Carmarthenshire, Wales, UK;6400
-4G;234;10;114;16608;9614;360;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;347
-4G;234;10;124;16608;9614;361;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;347
-4G;234;10;134;16608;9614;362;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;347
 4G;234;15;10;24738;9617;60;52.06502989634843;-4.694034419953823;Cwm Degwel, St. Dogmaels, Pembrokeshire, Wales, UK;6300
 4G;234;15;20;24738;9617;61;52.06502989634843;-4.694034419953823;Cwm Degwel, St. Dogmaels, Pembrokeshire, Wales, UK;6300
 4G;234;15;30;24738;9617;62;52.06502989634843;-4.694034419953823;Cwm Degwel, St. Dogmaels, Pembrokeshire, Wales, UK;6300
@@ -4009,7 +4018,30 @@
 4G;234;15;30;24611;10280;386;51.42044668190076;-2.4481048062443733;Bath Road A431, Swineford, South Gloucestershire, West of England, England, UK;6300
 4G;234;15;32;24611;10280;386;51.42044668190076;-2.4481048062443733;Bath Road A431, Swineford, South Gloucestershire, West of England, England, UK;3501
 4G;234;10;130;16832;10280;386;51.42044668190076;-2.4481048062443733;Bath Road A431, Swineford, South Gloucestershire, West of England, England, UK;6400
+4G;234;30;0;24371;10288;430;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;1617
+4G;234;30;1;24371;10288;431;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;1617
+4G;234;30;2;24371;10288;429;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;1617
+4G;234;30;3;24371;10288;273;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;1815
+4G;234;30;4;24371;10288;324;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;1815
+4G;234;30;5;24371;10288;null;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;1815
+4G;234;30;6;24371;10288;430;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;3350
+4G;234;30;7;24371;10288;431;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;3350
+4G;234;30;8;24371;10288;429;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;3350
+4G;234;30;9;24371;10288;430;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;3179
+4G;234;30;10;24371;10288;431;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;3179
+4G;234;30;11;24371;10288;429;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;3179
+4G;234;30;12;24370;10288;125;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;6225
+4G;234;30;13;24370;10288;124;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;6225
+4G;234;30;14;24370;10288;123;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;6225
+4G;234;30;18;24371;10288;300;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;497
+4G;234;30;19;24371;10288;72;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;497
+4G;234;30;20;24371;10288;null;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;497
 4G;234;30;0;24371;10289;499;51.4797865956544;-3.179550915956497;Hodge House, 114-116 Saint Mary Street, Cardiff, Wales, UK;1617
+4G;234;30;1;24371;10289;500;51.4797865956544;-3.179550915956497;Hodge House, 114-116 Saint Mary Street, Cardiff, Wales, UK;1617
+4G;234;30;2;24371;10289;498;51.4797865956544;-3.179550915956497;Hodge House, 114-116 Saint Mary Street, Cardiff, Wales, UK;1617
+4G;234;30;3;24371;10289;402;51.4797865956544;-3.179550915956497;Hodge House, 114-116 Saint Mary Street, Cardiff, Wales, UK;1815
+4G;234;30;4;24371;10289;291;51.4797865956544;-3.179550915956497;Hodge House, 114-116 Saint Mary Street, Cardiff, Wales, UK;1815
+4G;234;30;5;24371;10289;171;51.4797865956544;-3.179550915956497;Hodge House, 114-116 Saint Mary Street, Cardiff, Wales, UK;1815
 4G;234;20;0;2484;10307;480;51.586283167204336;-1.7516806349158287;31 Ermin Street B4006, Stratton St Margaret, Swindon, Wiltshire, England, UK;1363
 4G;234;15;10;24738;10320;471;52.19791375429979;-4.3313997611403465;Cefn Coed, New Quay, Ceredigion, Wales, UK;6300
 4G;234;15;12;24738;10320;471;52.19791375429979;-4.3313997611403465;Cefn Coed, New Quay, Ceredigion, Wales, UK;3501
@@ -4275,7 +4307,15 @@
 4G;234;30;6;24362;11673;430;51.44899431862987;-2.5659744814038277;Kenneth Steele House, Off Feeder Road, St Philip's Marsh, Bristol, West of England, England, UK;3350
 4G;234;30;8;24362;11673;431;51.44899431862987;-2.5659744814038277;Kenneth Steele House, Off Feeder Road, St Philip's Marsh, Bristol, West of England, England, UK;3350
 4G;234;30;11;24362;11673;481;51.44899431862987;-2.5659744814038277;Kenneth Steele House, Off Feeder Road, St Philip's Marsh, Bristol, West of England, England, UK;3179
-4G;234;30;1;24391;11687;191;51.419328098694386;-2.6723502203822136;Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK [MBNL];1617
+4G;234;30;0;24391;11687;301;51.419328098694386;-2.6723502203822136;Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK [MBNL];1617
+4G;234;30;1;24391;11687;300;51.419328098694386;-2.6723502203822136;Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK [MBNL];1617
+4G;234;30;2;24391;11687;302;51.419328098694386;-2.6723502203822136;Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK [MBNL];1617
+4G;234;30;3;24391;11687;189;51.419328098694386;-2.6723502203822136;Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK [MBNL];1815
+4G;234;30;4;24391;11687;390;51.419328098694386;-2.6723502203822136;Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK [MBNL];1815
+4G;234;30;5;24391;11687;468;51.419328098694386;-2.6723502203822136;Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK [MBNL];1815
+4G;234;30;18;24391;11687;null;51.419328098694386;-2.6723502203822136;Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK [MBNL];497
+4G;234;30;19;24391;11687;345;51.419328098694386;-2.6723502203822136;Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK [MBNL];497
+4G;234;30;20;24391;11687;321;51.419328098694386;-2.6723502203822136;Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK [MBNL];497
 4G;234;30;0;24361;11688;164;51.60512170659749;-2.6213523745536804;MOTO Severn View Services, Aust, South Gloucestershire, West of England, England, UK;1617
 4G;234;30;1;24361;11688;163;51.60512170659749;-2.6213523745536804;MOTO Severn View Services, Aust, South Gloucestershire, West of England, England, UK;1617
 4G;234;30;2;24361;11688;162;51.60512170659749;-2.6213523745536804;MOTO Severn View Services, Aust, South Gloucestershire, West of England, England, UK;1617
@@ -4390,13 +4430,39 @@
 4G;234;15;14;6144;12167;297;51.55974788277498;-0.3941700607538223;St Mary Church, 9 The Fairway, Ruislip, Hillingdon, Greater London, England, UK;223
 4G;234;20;6;2607;12189;454;51.66191572039551;-1.9232477992773056;South Cerney, Cirencester, Gloucestershire, England, UK;6175
 4G;234;30;10;22581;12197;133;51.496304610448306;-0.3804750367999077;Unit 9 Endsleigh Industrial Estate, Endsleigh Road, North Hyde, Ealing, Greater London, England, UK;3179
+4G;234;30;0;24371;12210;414;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;1617
+4G;234;30;1;24371;12210;415;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;1617
 4G;234;30;2;24371;12210;416;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;1617
+4G;234;30;3;24371;12210;318;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;1815
+4G;234;30;4;24371;12210;126;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;1815
+4G;234;30;5;24371;12210;444;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;1815
+4G;234;30;6;24371;12210;414;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;3350
+4G;234;30;7;24371;12210;415;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;3350
 4G;234;30;8;24371;12210;416;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;3350
+4G;234;30;9;24371;12210;414;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;3179
+4G;234;30;10;24371;12210;415;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;3179
 4G;234;30;11;24371;12210;416;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;3179
+4G;234;30;12;24370;12210;412;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;6225
+4G;234;30;13;24370;12210;413;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;6225
+4G;234;30;14;24370;12210;411;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;6225
+4G;234;30;18;24371;12210;null;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;497
+4G;234;30;19;24371;12210;360;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;497
+4G;234;30;20;24371;12210;255;51.47709666646714;-3.175221160054207;Cardiff Marriott Hotel, Canal Street, Cardiff, Wales, UK;497
+4G;234;30;0;24371;12211;264;51.48318647089352;-3.1774909794330597;Capital Tower, Greyfriars Road, Cardiff, Wales, UK;1617
+4G;234;30;1;24371;12211;265;51.48318647089352;-3.1774909794330597;Capital Tower, Greyfriars Road, Cardiff, Wales, UK;1617
 4G;234;30;2;24371;12211;266;51.48318647089352;-3.1774909794330597;Capital Tower, Greyfriars Road, Cardiff, Wales, UK;1617
+4G;234;30;3;24371;12211;381;51.48318647089352;-3.1774909794330597;Capital Tower, Greyfriars Road, Cardiff, Wales, UK;1815
+4G;234;30;4;24371;12211;288;51.48318647089352;-3.1774909794330597;Capital Tower, Greyfriars Road, Cardiff, Wales, UK;1815
+4G;234;30;5;24371;12211;39;51.48318647089352;-3.1774909794330597;Capital Tower, Greyfriars Road, Cardiff, Wales, UK;1815
+4G;234;30;6;24371;12211;333;51.48318647089352;-3.1774909794330597;Capital Tower, Greyfriars Road, Cardiff, Wales, UK;3350
+4G;234;30;7;24371;12211;334;51.48318647089352;-3.1774909794330597;Capital Tower, Greyfriars Road, Cardiff, Wales, UK;3350
 4G;234;30;8;24371;12211;335;51.48318647089352;-3.1774909794330597;Capital Tower, Greyfriars Road, Cardiff, Wales, UK;3350
+4G;234;30;9;24371;12211;210;51.48318647089352;-3.1774909794330597;Capital Tower, Greyfriars Road, Cardiff, Wales, UK;3179
 4G;234;30;10;24371;12211;211;51.48318647089352;-3.1774909794330597;Capital Tower, Greyfriars Road, Cardiff, Wales, UK;3179
-4G;234;30;11;24371;12211;265;51.48318647089352;-3.1774909794330597;Capital Tower, Greyfriars Road, Cardiff, Wales, UK;3179
+4G;234;30;11;24371;12211;212;51.48318647089352;-3.1774909794330597;Capital Tower, Greyfriars Road, Cardiff, Wales, UK;3179
+4G;234;30;18;24371;12211;219;51.48318647089352;-3.1774909794330597;Capital Tower, Greyfriars Road, Cardiff, Wales, UK;497
+4G;234;30;19;24371;12211;495;51.48318647089352;-3.1774909794330597;Capital Tower, Greyfriars Road, Cardiff, Wales, UK;497
+4G;234;30;20;24371;12211;249;51.48318647089352;-3.1774909794330597;Capital Tower, Greyfriars Road, Cardiff, Wales, UK;497
 4G;234;15;10;24626;12216;426;51.236365075269674;-2.3134069922609632;Frome Cricket Club, Rodden Road, Fromefield, Frome, Somerset, England, UK;6300
 4G;234;15;12;24626;12216;426;51.236365075269674;-2.3134069922609632;Frome Cricket Club, Rodden Road, Fromefield, Frome, Somerset, England, UK;3501
 4G;234;15;14;24626;12216;426;51.236365075269674;-2.3134069922609632;Frome Cricket Club, Rodden Road, Fromefield, Frome, Somerset, England, UK;223
@@ -6875,6 +6941,18 @@
 4G;234;30;14;26020;22583;256;52.42277526045216;-4.064079411327839;Penglais Farm Mast, Penglais, Aberystwyth, Ceredigion, Wales, UK;6225
 4G;234;15;20;6144;22617;55;51.55464976618919;-0.35954106599092484;Northolt Fire Station, 1 Whitton Avenue West A4090, Northolt, Ealing, Greater London, England, UK;6300
 4G;234;15;28;6144;22617;270;51.55464976618919;-0.35954106599092484;Northolt Fire Station, 1 Whitton Avenue West A4090, Northolt, Ealing, Greater London, England, UK;2850
+4G;234;15;10;24607;22629;50;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;6300
+4G;234;15;12;24607;22629;50;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;3501
+4G;234;15;14;24607;22629;18;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;223
+4G;234;15;18;24607;22629;188;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;2850
+4G;234;15;20;24607;22629;49;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;6300
+4G;234;15;22;24607;22629;49;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;3501
+4G;234;15;24;24607;22629;19;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;223
+4G;234;15;28;24607;22629;186;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;2850
+4G;234;15;30;24607;22629;48;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;6300
+4G;234;15;32;24607;22629;48;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;3501
+4G;234;15;34;24607;22629;20;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;223
+4G;234;15;38;24607;22629;187;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;2850
 4G;234;30;0;25331;22654;48;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;1617
 4G;234;30;1;25331;22654;49;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;1617
 4G;234;30;2;25331;22654;50;51.745136934459474;-2.2091149538755417;Cotswold Playhouse, 45 Parliament Street, Stroud, Gloucestershire, England, UK;1617
@@ -7226,7 +7304,14 @@
 4G;234;30;1;22581;27320;208;51.45561560311639;-0.576406717300415;Malt House Close, Old Windsor, Windsor, Berkshire, England, UK;1617
 4G;234;30;2;22581;27320;207;51.45561560311639;-0.576406717300415;Malt House Close, Old Windsor, Windsor, Berkshire, England, UK;1617
 4G;234;30;0;26051;27355;256;51.888337681462104;-2.1536364778876305;A40, Churchdown, Cheltenham, Gloucestershire, England, UK;1617
-4G;234;30;2;26051;27355;71;51.888337681462104;-2.1536364778876305;A40, Churchdown, Cheltenham, Gloucestershire, England, UK;1617
+4G;234;30;1;26051;27355;257;51.888337681462104;-2.1536364778876305;A40, Churchdown, Cheltenham, Gloucestershire, England, UK;1617
+4G;234;30;2;26051;27355;255;51.888337681462104;-2.1536364778876305;A40, Churchdown, Cheltenham, Gloucestershire, England, UK;1617
+4G;234;30;3;26051;27355;256;51.888337681462104;-2.1536364778876305;A40, Churchdown, Cheltenham, Gloucestershire, England, UK;1815
+4G;234;30;4;26051;27355;257;51.888337681462104;-2.1536364778876305;A40, Churchdown, Cheltenham, Gloucestershire, England, UK;1815
+4G;234;30;5;26051;27355;255;51.888337681462104;-2.1536364778876305;A40, Churchdown, Cheltenham, Gloucestershire, England, UK;1815
+4G;234;30;18;26051;27355;342;51.888337681462104;-2.1536364778876305;A40, Churchdown, Cheltenham, Gloucestershire, England, UK;497
+4G;234;30;19;26051;27355;453;51.888337681462104;-2.1536364778876305;A40, Churchdown, Cheltenham, Gloucestershire, England, UK;497
+4G;234;30;20;26051;27355;174;51.888337681462104;-2.1536364778876305;A40, Churchdown, Cheltenham, Gloucestershire, England, UK;497
 4G;234;30;0;26051;27356;422;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Road, Churchdown, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;1;26051;27356;421;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Road, Churchdown, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;2;26051;27356;420;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Road, Churchdown, Gloucester, Gloucestershire, England, UK;1617
@@ -7234,7 +7319,7 @@
 4G;234;30;4;26051;27356;421;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Road, Churchdown, Gloucester, Gloucestershire, England, UK;1815
 4G;234;30;5;26051;27356;420;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Road, Churchdown, Gloucester, Gloucestershire, England, UK;1815
 4G;234;30;12;26050;27356;164;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Road, Churchdown, Gloucester, Gloucestershire, England, UK;6225
-4G;234;30;14;26050;27356;162;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Road, Churchdown, Gloucester, Gloucestershire, England, UK;6225
+4G;234;30;13;26050;27356;162;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Road, Churchdown, Gloucester, Gloucestershire, England, UK;6225
 4G;234;30;14;26050;27356;163;51.885338322056874;-2.174294851720333;Old Orchard House, Parton Road, Churchdown, Gloucester, Gloucestershire, England, UK;6225
 4G;234;30;2;20271;27365;398;51.472046930691725;-0.6061520799994469;73 Fountain Gardens, Windsor, Berkshire, England, UK;1617
 4G;234;30;4;20271;27365;397;51.472046930691725;-0.6061520799994469;73 Fountain Gardens, Windsor, Berkshire, England, UK;1761
@@ -7280,7 +7365,18 @@
 4G;234;30;4;24391;28225;54;51.38168991323882;-2.8714143857359886;M5, Weston-super-mare, North Somerset, England, UK;1815
 4G;234;30;0;22571;28261;321;51.41125759831284;-0.972849279642105;Three Mile Cross Interchange, A33, Reading, Berkshire, England, UK [MBNL];1617
 4G;234;30;1;22571;28261;322;51.41125759831284;-0.972849279642105;Three Mile Cross Interchange, A33, Reading, Berkshire, England, UK [MBNL];1617
-4G;234;30;2;26051;28454;408;51.90815131055327;-2.150394022464752;Old Gloucester Road B4634, Staverton, Gloucestershire, England, UK;1617
+4G;234;30;0;26051;28454;409;51.90815131055327;-2.150394022464752;Old Gloucester Road B4634, Staverton, Gloucestershire, England, UK;1617
+4G;234;30;1;26051;28454;408;51.90815131055327;-2.150394022464752;Old Gloucester Road B4634, Staverton, Gloucestershire, England, UK;1617
+4G;234;30;2;26051;28454;410;51.90815131055327;-2.150394022464752;Old Gloucester Road B4634, Staverton, Gloucestershire, England, UK;1617
+4G;234;30;3;26051;28454;409;51.90815131055327;-2.150394022464752;Old Gloucester Road B4634, Staverton, Gloucestershire, England, UK;1815
+4G;234;30;4;26051;28454;408;51.90815131055327;-2.150394022464752;Old Gloucester Road B4634, Staverton, Gloucestershire, England, UK;1815
+4G;234;30;5;26051;28454;410;51.90815131055327;-2.150394022464752;Old Gloucester Road B4634, Staverton, Gloucestershire, England, UK;1815
+4G;234;30;12;26050;28454;171;51.90815131055327;-2.150394022464752;Old Gloucester Road B4634, Staverton, Gloucestershire, England, UK;6225
+4G;234;30;13;26050;28454;172;51.90815131055327;-2.150394022464752;Old Gloucester Road B4634, Staverton, Gloucestershire, England, UK;6225
+4G;234;30;14;26050;28454;173;51.90815131055327;-2.150394022464752;Old Gloucester Road B4634, Staverton, Gloucestershire, England, UK;6225
+4G;234;30;18;26051;28454;39;51.90815131055327;-2.150394022464752;Old Gloucester Road B4634, Staverton, Gloucestershire, England, UK;497
+4G;234;30;19;26051;28454;42;51.90815131055327;-2.150394022464752;Old Gloucester Road B4634, Staverton, Gloucestershire, England, UK;497
+4G;234;30;20;26051;28454;306;51.90815131055327;-2.150394022464752;Old Gloucester Road B4634, Staverton, Gloucestershire, England, UK;497
 4G;234;30;2;22571;28477;491;51.44843203664471;-1.0503456741571426;46 Curlew Dr, Reading, Berkshire, England, UK;1617
 4G;234;30;0;26051;28525;281;51.844123125827274;-2.157275564968586;Abbotswood Shopping Centre, 53 Abbotswood Road, Brockworth, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;1;26051;28525;279;51.844123125827274;-2.157275564968586;Abbotswood Shopping Centre, 53 Abbotswood Road, Brockworth, Gloucester, Gloucestershire, England, UK;1617
@@ -7387,6 +7483,18 @@
 4G;234;30;1;24391;29430;311;51.36589298923668;-2.9319220036268234;3 Newton's Rd, Worle, Weston-super-mare, North Somerset, England, UK;1617
 4G;234;30;1;24391;29482;476;51.419715110672946;-2.7510321512818336;Nailsea and Backwell Railway Station Car Park, 1 Station Close, Backwell, North Somerset, England, UK;1617
 4G;234;30;2;24391;29482;475;51.419715110672946;-2.7510321512818336;Nailsea and Backwell Railway Station Car Park, 1 Station Close, Backwell, North Somerset, England, UK;1617
+4G;234;30;0;26051;29489;498;51.88302;-2.07434;Leckhampton Bathrooms and Kitchens, Mead Road, Naunton, Cheltenham, Gloucestershire, England, UK;1617
+4G;234;30;1;26051;29489;500;51.88302;-2.07434;Leckhampton Bathrooms and Kitchens, Mead Road, Naunton, Cheltenham, Gloucestershire, England, UK;1617
+4G;234;30;2;26051;29489;499;51.88302;-2.07434;Leckhampton Bathrooms and Kitchens, Mead Road, Naunton, Cheltenham, Gloucestershire, England, UK;1617
+4G;234;30;3;26051;29489;498;51.88302;-2.07434;Leckhampton Bathrooms and Kitchens, Mead Road, Naunton, Cheltenham, Gloucestershire, England, UK;1815
+4G;234;30;4;26051;29489;500;51.88302;-2.07434;Leckhampton Bathrooms and Kitchens, Mead Road, Naunton, Cheltenham, Gloucestershire, England, UK;1815
+4G;234;30;5;26051;29489;499;51.88302;-2.07434;Leckhampton Bathrooms and Kitchens, Mead Road, Naunton, Cheltenham, Gloucestershire, England, UK;1815
+4G;234;30;6;26051;29489;498;51.88302;-2.07434;Leckhampton Bathrooms and Kitchens, Mead Road, Naunton, Cheltenham, Gloucestershire, England, UK;3350
+4G;234;30;7;26051;29489;500;51.88302;-2.07434;Leckhampton Bathrooms and Kitchens, Mead Road, Naunton, Cheltenham, Gloucestershire, England, UK;3350
+4G;234;30;8;26051;29489;499;51.88302;-2.07434;Leckhampton Bathrooms and Kitchens, Mead Road, Naunton, Cheltenham, Gloucestershire, England, UK;3350
+4G;234;30;18;26051;29489;null;51.88302;-2.07434;Leckhampton Bathrooms and Kitchens, Mead Road, Naunton, Cheltenham, Gloucestershire, England, UK;497
+4G;234;30;19;26051;29489;123;51.88302;-2.07434;Leckhampton Bathrooms and Kitchens, Mead Road, Naunton, Cheltenham, Gloucestershire, England, UK;497
+4G;234;30;20;26051;29489;null;51.88302;-2.07434;Leckhampton Bathrooms and Kitchens, Mead Road, Naunton, Cheltenham, Gloucestershire, England, UK;497
 4G;234;30;5;26051;29491;252;51.87332791184152;-2.1111905202269554;Oak Farm, Chargrove Ln, Shurdington, Cheltenham, Gloucestershire, England, UK;1761
 4G;234;30;11;26051;29491;200;51.87332791184152;-2.1111905202269554;Oak Farm, Chargrove Ln, Shurdington, Cheltenham, Gloucestershire, England, UK;3179
 4G;234;30;0;24391;30585;427;51.342342155370105;-2.95943945646286;Winterstoke Commercial Centre, Searle Cres, Weston-super-mare, North Somerset, England, UK;1617
@@ -7676,7 +7784,12 @@
 4G;234;30;20;26051;32124;290;51.89870157297676;-2.0992849111862872;Farrar & Tanner, Lansdown Industrial Estate, Lansdown, Cheltenham, Gloucestershire, England, UK;497
 4G;234;30;0;24371;32139;257;51.48318020715452;-3.1793172284960747;Friary Gardens, North Road A4161, Cardiff, Wales, UK;1617
 4G;234;30;1;24371;32139;255;51.48318020715452;-3.1793172284960747;Friary Gardens, North Road A4161, Cardiff, Wales, UK;1617
+4G;234;30;2;24371;32139;256;51.48318020715452;-3.1793172284960747;Friary Gardens, North Road A4161, Cardiff, Wales, UK;1617
+4G;234;30;3;24371;32139;123;51.48318020715452;-3.1793172284960747;Friary Gardens, North Road A4161, Cardiff, Wales, UK;1815
+4G;234;30;4;24371;32139;null;51.48318020715452;-3.1793172284960747;Friary Gardens, North Road A4161, Cardiff, Wales, UK;1815
+4G;234;30;5;24371;32139;222;51.48318020715452;-3.1793172284960747;Friary Gardens, North Road A4161, Cardiff, Wales, UK;1815
 4G;234;30;18;24371;32139;201;51.48318020715452;-3.1793172284960747;Friary Gardens, North Road A4161, Cardiff, Wales, UK;497
+4G;234;30;19;24371;32139;207;51.48318020715452;-3.1793172284960747;Friary Gardens, North Road A4161, Cardiff, Wales, UK;497
 4G;234;30;20;24371;32139;168;51.48318020715452;-3.1793172284960747;Friary Gardens, North Road A4161, Cardiff, Wales, UK;497
 4G;234;30;0;26051;32365;202;51.863836779352084;-2.1978647634387016;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [MBNL];1617
 4G;234;30;1;26051;32365;201;51.863836779352084;-2.1978647634387016;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [MBNL];1617
@@ -7769,10 +7882,23 @@
 4G;234;30;19;26051;32985;123;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK;497
 4G;234;30;20;26051;32985;246;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK;497
 4G;234;30;0;26051;33044;501;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];1617
+4G;234;30;1;26051;33044;503;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];1617
 4G;234;30;2;26051;33044;502;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];1617
-4G;234;30;4;26051;33044;503;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];1761
-4G;234;30;5;26051;33044;502;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];1761
+4G;234;30;3;26051;33044;501;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];1815
+4G;234;30;4;26051;33044;503;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];1815
+4G;234;30;5;26051;33044;502;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];1815
+4G;234;30;6;26051;33044;501;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];3350
+4G;234;30;7;26051;33044;503;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];3350
+4G;234;30;8;26051;33044;502;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];3350
+4G;234;30;9;26051;33044;501;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];3179
+4G;234;30;10;26051;33044;503;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];3179
+4G;234;30;11;26051;33044;502;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];3179
+4G;234;30;12;26050;33044;216;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];6225
 4G;234;30;13;26050;33044;217;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];6225
+4G;234;30;14;26050;33044;218;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];6225
+4G;234;30;18;26051;33044;501;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];497
+4G;234;30;19;26051;33044;503;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];497
+4G;234;30;20;26051;33044;502;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];497
 4G;234;30;0;25341;33079;71;51.563698910453155;-1.7998671904206276;189 Rodbourne Rd, Swindon, Wiltshire, England, UK;1617
 4G;234;30;1;25341;33079;286;51.563698910453155;-1.7998671904206276;189 Rodbourne Rd, Swindon, Wiltshire, England, UK;1617
 4G;234;30;4;25341;33079;69;51.563698910453155;-1.7998671904206276;189 Rodbourne Rd, Swindon, Wiltshire, England, UK;1761
@@ -7847,17 +7973,42 @@
 4G;234;30;1;24363;33855;339;51.38749199562505;-2.4119338765740395;Stony Lane, Newton St Loe, Bath and North East Somerset, West of England, England, UK;1617
 4G;234;30;1;24391;33882;365;51.48404208955654;-2.7806900069117546;Hanover House, Friary Road, West Hill, Portishead, North Somerset, England, UK;1617
 4G;234;30;10;24391;33882;365;51.48404208955654;-2.7806900069117546;Hanover House, Friary Road, West Hill, Portishead, North Somerset, England, UK;3179
+4G;234;30;0;26051;33883;396;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;1617
+4G;234;30;1;26051;33883;397;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;1617
 4G;234;30;2;26051;33883;398;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;1617
+4G;234;30;3;26051;33883;396;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;1815
+4G;234;30;4;26051;33883;397;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;1815
+4G;234;30;5;26051;33883;398;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;1815
+4G;234;30;6;26051;33883;396;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;3350
+4G;234;30;7;26051;33883;397;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;3350
+4G;234;30;8;26051;33883;398;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;3350
+4G;234;30;9;26051;33883;396;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;3179
+4G;234;30;10;26051;33883;397;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;3179
+4G;234;30;11;26051;33883;398;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;3179
+4G;234;30;12;26050;33883;366;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;6225
 4G;234;30;13;26050;33883;367;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;6225
 4G;234;30;14;26050;33883;368;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;6225
+4G;234;30;18;26051;33883;360;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;497
+4G;234;30;19;26051;33883;426;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;497
+4G;234;30;20;26051;33883;324;51.911783892107124;-2.1257150173187256;Hope Farm/Hesters Way Lane, Cheltenham, Gloucestershire, England, UK;497
+4G;234;30;0;24371;33940;121;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;1617
 4G;234;30;1;24371;33940;122;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;1617
 4G;234;30;2;24371;33940;120;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;1617
-4G;234;30;4;24371;33940;122;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;1815
+4G;234;30;3;24371;33940;453;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;1815
+4G;234;30;4;24371;33940;384;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;1815
+4G;234;30;5;24371;33940;null;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;1815
+4G;234;30;6;24371;33940;121;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;3350
+4G;234;30;7;24371;33940;122;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;3350
 4G;234;30;8;24371;33940;120;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;3350
+4G;234;30;9;24371;33940;121;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;3179
 4G;234;30;10;24371;33940;122;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;3179
 4G;234;30;11;24371;33940;120;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;3179
 4G;234;30;12;24370;33940;137;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;6225
 4G;234;30;13;24370;33940;136;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;6225
+4G;234;30;14;24370;33940;135;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;6225
+4G;234;30;18;24371;33940;402;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;497
+4G;234;30;19;24371;33940;87;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;497
+4G;234;30;20;24371;33940;null;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;497
 4G;234;30;1;26051;34016;316;51.85966154567009;-2.167176604270935;Brockworth Interchange J11A, M5, Brockworth, Gloucestershire, England, UK;1617
 4G;234;30;2;26051;34016;317;51.85966154567009;-2.167176604270935;Brockworth Interchange J11A, M5, Brockworth, Gloucestershire, England, UK;1617
 4G;234;30;5;26051;34016;317;51.85966154567009;-2.167176604270935;Brockworth Interchange J11A, M5, Brockworth, Gloucestershire, England, UK;1761
@@ -8097,11 +8248,12 @@
 4G;234;20;93;2383;50461;464;51.54069138191565;-2.4168604239821434;Yate Leisure Centre, Kennedy Way A432, Yate, South Gloucestershire, West of England, England, UK;9360
 4G;234;20;0;2123;50539;348;51.87081755037558;-2.2226936370134354;University of Gloucestershire Oxstalls Campus, Cheltenham Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;1;2123;50539;175;51.87081755037558;-2.2226936370134354;University of Gloucestershire Oxstalls Campus, Cheltenham Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;1363
-4G;234;20;2;2123;50539;206;51.87081755037558;-2.2226936370134354;University of Gloucestershire Oxstalls Campus, Cheltenham Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;1363
+4G;234;20;2;2123;50539;185;51.87081755037558;-2.2226936370134354;University of Gloucestershire Oxstalls Campus, Cheltenham Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;6;2123;50539;195;51.87081755037558;-2.2226936370134354;University of Gloucestershire Oxstalls Campus, Cheltenham Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;6175
 4G;234;20;7;2123;50539;484;51.87081755037558;-2.2226936370134354;University of Gloucestershire Oxstalls Campus, Cheltenham Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;6175
+4G;234;20;71;2123;50539;264;51.87081755037558;-2.2226936370134354;University of Gloucestershire Oxstalls Campus, Cheltenham Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;76
 4G;234;20;72;2123;50539;136;51.87081755037558;-2.2226936370134354;University of Gloucestershire Oxstalls Campus, Cheltenham Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;76
-4G;234;20;73;2123;50539;149;51.87081755037558;-2.2226936370134354;University of Gloucestershire Oxstalls Campus, Cheltenham Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;76
+4G;234;20;73;2123;50539;206;51.87081755037558;-2.2226936370134354;University of Gloucestershire Oxstalls Campus, Cheltenham Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;76
 4G;234;20;91;2123;50539;24;51.87081755037558;-2.2226936370134354;University of Gloucestershire Oxstalls Campus, Cheltenham Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;9360
 4G;234;20;92;2123;50539;25;51.87081755037558;-2.2226936370134354;University of Gloucestershire Oxstalls Campus, Cheltenham Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;9360
 4G;234;20;93;2123;50539;26;51.87081755037558;-2.2226936370134354;University of Gloucestershire Oxstalls Campus, Cheltenham Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;9360
@@ -8253,11 +8405,12 @@
 4G;234;20;93;2120;52823;62;51.84967544077416;-2.2581899911165237;SK Heating and Cooling, 227 Bristol Road, Tuffley, Gloucester, Gloucestershire, England, UK;9360
 4G;234;20;2;2126;52868;398;51.602605146692646;-1.8194496631622314;140 Redhouse Way, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;1363
 4G;234;20;0;2648;52902;348;51.87383112650691;-2.211441434919834;Esso, Cheltenham Road B4063, Longlevens, Gloucester, Gloucestershire, England, UK;1363
-4G;234;20;2;2648;52902;108;51.87383112650691;-2.211441434919834;Esso, Cheltenham Road B4063, Longlevens, Gloucester, Gloucestershire, England, UK;1363
+4G;234;20;2;2648;52902;183;51.87383112650691;-2.211441434919834;Esso, Cheltenham Road B4063, Longlevens, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;7;2648;52902;289;51.87383112650691;-2.211441434919834;Esso, Cheltenham Road B4063, Longlevens, Gloucester, Gloucestershire, England, UK;6175
 4G;234;20;8;2648;52902;227;51.87383112650691;-2.211441434919834;Esso, Cheltenham Road B4063, Longlevens, Gloucester, Gloucestershire, England, UK;6175
+4G;234;20;73;2648;52902;88;51.87383112650691;-2.211441434919834;Esso, Cheltenham Road B4063, Longlevens, Gloucester, Gloucestershire, England, UK;76
 4G;234;20;91;2648;52902;138;51.87383112650691;-2.211441434919834;Esso, Cheltenham Road B4063, Longlevens, Gloucester, Gloucestershire, England, UK;9360
-4G;234;20;92;2648;52902;106;51.87383112650691;-2.211441434919834;Esso, Cheltenham Road B4063, Longlevens, Gloucester, Gloucestershire, England, UK;9360
+4G;234;20;92;2648;52902;238;51.87383112650691;-2.211441434919834;Esso, Cheltenham Road B4063, Longlevens, Gloucester, Gloucestershire, England, UK;9360
 4G;234;20;93;2648;52902;476;51.87383112650691;-2.211441434919834;Esso, Cheltenham Road B4063, Longlevens, Gloucester, Gloucestershire, England, UK;9360
 4G;234;20;0;2459;52909;52;51.8412900566689;-2.2074006870388985;Heron Primary School, Heron Way, Abbeydale, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;1;2459;52909;115;51.8412900566689;-2.2074006870388985;Heron Primary School, Heron Way, Abbeydale, Gloucester, Gloucestershire, England, UK;1363
@@ -8638,11 +8791,11 @@
 4G;234;10;114;17072;103263;392;51.89345934814277;-2.091987244784832;Polefield House, Hatherley Road, Lansdown, Cheltenham, Gloucestershire, England, UK;347
 4G;234;10;120;17072;103263;451;51.89345934814277;-2.091987244784832;Polefield House, Hatherley Road, Lansdown, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;130;17072;103263;452;51.89345934814277;-2.091987244784832;Polefield House, Hatherley Road, Lansdown, Cheltenham, Gloucestershire, England, UK;6400
-4G;234;10;110;17072;103264;56;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;110;17072;103264;4256;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;112;17072;103264;56;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;3725
 4G;234;10;114;17072;103264;56;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;347
 4G;234;10;116;17072;103264;56;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;1226
-4G;234;10;120;17072;103264;54;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;120;17072;103264;423;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;122;17072;103264;54;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;3725
 4G;234;10;124;17072;103264;54;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;347
 4G;234;10;126;17072;103264;54;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;1226
@@ -8866,9 +9019,9 @@
 4G;234;10;132;17072;104283;22;51.89493809182766;-2.1314911544322968;134 B4063, Cheltenham, Gloucestershire, England, UK;3725
 4G;234;10;134;17072;104283;239;51.89493809182766;-2.1314911544322968;134 B4063, Cheltenham, Gloucestershire, England, UK;347
 4G;234;10;110;17072;104287;189;51.83200039098511;-2.2452349215745926;The Fox & Elm, 2 Tuffley Lane, Stroud Road, A4173, Tuffley, Gloucester, Gloucestershire, England, UK;6400
-4G;234;10;112;17072;104287;null;51.83200039098511;-2.2452349215745926;The Fox & Elm, 2 Tuffley Lane, Stroud Road, A4173, Tuffley, Gloucester, Gloucestershire, England, UK;3725
+4G;234;10;112;17072;104287;438;51.83200039098511;-2.2452349215745926;The Fox & Elm, 2 Tuffley Lane, Stroud Road, A4173, Tuffley, Gloucester, Gloucestershire, England, UK;3725
 4G;234;10;120;17072;104287;190;51.83200039098511;-2.2452349215745926;The Fox & Elm, 2 Tuffley Lane, Stroud Road, A4173, Tuffley, Gloucester, Gloucestershire, England, UK;6400
-4G;234;10;122;17072;104287;null;51.83200039098511;-2.2452349215745926;The Fox & Elm, 2 Tuffley Lane, Stroud Road, A4173, Tuffley, Gloucester, Gloucestershire, England, UK;3725
+4G;234;10;122;17072;104287;439;51.83200039098511;-2.2452349215745926;The Fox & Elm, 2 Tuffley Lane, Stroud Road, A4173, Tuffley, Gloucester, Gloucestershire, England, UK;3725
 4G;234;10;124;17072;104287;155;51.83200039098511;-2.2452349215745926;The Fox & Elm, 2 Tuffley Lane, Stroud Road, A4173, Tuffley, Gloucester, Gloucestershire, England, UK;347
 4G;234;10;130;17072;104287;191;51.83200039098511;-2.2452349215745926;The Fox & Elm, 2 Tuffley Lane, Stroud Road, A4173, Tuffley, Gloucester, Gloucestershire, England, UK;6400
 4G;234;10;132;17072;104287;440;51.83200039098511;-2.2452349215745926;The Fox & Elm, 2 Tuffley Lane, Stroud Road, A4173, Tuffley, Gloucester, Gloucestershire, England, UK;3725
@@ -13394,6 +13547,21 @@
 4G;234;10;127;17184;547414;223;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;39448
 4G;234;10;136;17184;547414;224;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;39250
 4G;234;10;137;17184;547414;224;51.47366584735462;-3.2030024752020836;Cardiff City Stadium, Leckwith Road, Leckwith, Cardiff, Wales, UK;39448
+4G;234;10;110;17184;547450;471;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;6400
+4G;234;10;112;17184;547450;471;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;3725
+4G;234;10;115;17184;547450;471;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;347
+4G;234;10;120;17184;547450;473;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;6400
+4G;234;10;122;17184;547450;473;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;3725
+4G;234;10;125;17184;547450;473;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;347
+4G;234;10;130;17184;547450;472;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;6400
+4G;234;10;132;17184;547450;472;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;3725
+4G;234;10;135;17184;547450;472;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;347
+4G;234;10;116;17184;547451;471;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;39250
+4G;234;10;117;17184;547451;471;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;39448
+4G;234;10;126;17184;547451;473;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;39250
+4G;234;10;127;17184;547451;473;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;39448
+4G;234;10;136;17184;547451;472;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;39250
+4G;234;10;137;17184;547451;472;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;39448
 4G;234;10;114;16625;547466;439;51.44839749359798;-2.5832030728562514;Temple Gate A4, Redcliffe, Bristol, West of England, England, UK;1228
 4G;234;10;110;34880;547484;421;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;112;34880;547484;421;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;3725
@@ -14086,6 +14254,7 @@
 5G;234;30;8439463943;398011;0;559;51.99761048253535;-2.1223441511392593;M5 South, Northway Trading Estate, Northway, Tewkesbury, Gloucestershire, England, UK;156510
 5G;234;30;8439463949;398011;0;909;51.99761048253535;-2.1223441511392593;M5 South, Northway Trading Estate, Northway, Tewkesbury, Gloucestershire, England, UK;372490
 5G;234;30;8439463950;398011;0;438;51.99761048253535;-2.1223441511392593;M5 South, Northway Trading Estate, Northway, Tewkesbury, Gloucestershire, England, UK;372490
+5G;234;30;9486565385;109011;0;792;51.222093492190965;-2.325799986158331;Grove Lane, Marston Trading Estate, The Butts, Frome, Somerset, England, UK;431070
 5G;234;30;9683664902;389011;0;987;51.84558112271105;-2.185492403805256;Lobleys Drive, M5 South, Hucclecote, Gloucester, Gloucestershire, England, UK [EE];156510
 5G;234;30;9683664903;389011;0;988;51.84558112271105;-2.185492403805256;Lobleys Drive, M5 South, Hucclecote, Gloucester, Gloucestershire, England, UK [EE];156510
 5G;234;30;9683664904;389011;0;989;51.84558112271105;-2.185492403805256;Lobleys Drive, M5 South, Hucclecote, Gloucester, Gloucestershire, England, UK [EE];156510
