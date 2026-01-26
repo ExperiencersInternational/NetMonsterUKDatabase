@@ -735,6 +735,15 @@
 4G;234;20;8;3125;1971;257;53.381341737004874;-1.4628100767731667;Sheffield Hallam University Aspect Court, Pond Hill, Castlegate, Sheffield, South Yorkshire, England, UK;1363
 4G;234;20;2;2130;1984;323;51.38196487434992;-2.3771462962031364;Redbridge House, Midland Road, East Twerton, Bath, Bath and North East Somerset, West of England, England, UK;1363
 4G;234;20;0;3166;1989;30;53.54734556515601;-1.1392870545387268;Prime Business Centre, Millfield Road, Bentley, Doncaster, South Yorkshire, England, UK;1363
+4G;234;15;10;24737;2012;123;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;6300
+4G;234;15;12;24737;2012;272;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;3501
+4G;234;15;14;24737;2012;158;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;223
+4G;234;15;20;24737;2012;124;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;6300
+4G;234;15;22;24737;2012;270;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;3501
+4G;234;15;24;24737;2012;156;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;223
+4G;234;15;30;24737;2012;125;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;6300
+4G;234;15;32;24737;2012;271;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;3501
+4G;234;15;34;24737;2012;157;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;223
 4G;234;15;10;24582;2026;468;51.509367225245654;-1.7938650771975517;Orbital Road, Swindon, Wiltshire, England, UK;6300
 4G;234;20;0;2135;2045;177;51.49894936699366;-2.5664958357810974;Lockleaze Sports Centre, Cheswick, Bristol, South Gloucestershire, West of England, England, UK;1363
 4G;234;20;2;2135;2045;308;51.49894936699366;-2.5664958357810974;Lockleaze Sports Centre, Cheswick, Bristol, South Gloucestershire, West of England, England, UK;1363
@@ -797,6 +806,18 @@
 4G;234;20;0;2240;2351;78;51.51698705864591;-2.607058547437191;Elm Farm, Fishpool Hill, Filton, South Gloucestershire, West of England, England, UK;1363
 4G;234;20;0;2131;2370;0;51.386027786737785;-2.4469883367419243;Church Farm Business Park, Ashton Hill, Corston, Bath and North East Somerset, West of England, England, UK;1363
 4G;234;20;72;2131;2370;220;51.386027786737785;-2.4469883367419243;Church Farm Business Park, Ashton Hill, Corston, Bath and North East Somerset, West of England, England, UK;99
+4G;234;20;0;2188;2404;69;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;1363
+4G;234;20;1;2188;2404;115;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;1363
+4G;234;20;2;2188;2404;149;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;1363
+4G;234;20;6;2188;2404;228;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;6175
+4G;234;20;7;2188;2404;133;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;6175
+4G;234;20;8;2188;2404;158;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;6175
+4G;234;20;71;2188;2404;60;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;76
+4G;234;20;72;2188;2404;106;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;76
+4G;234;20;73;2188;2404;398;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;76
+4G;234;20;91;2188;2404;81;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;9360
+4G;234;20;92;2188;2404;82;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;9360
+4G;234;20;93;2188;2404;83;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;9360
 4G;234;20;0;2377;2407;259;51.34731765412403;-2.9775262624025345;70-74 Regent Street, Weston-super-Mare, North Somerset, England, UK;1363
 4G;234;20;1;2377;2407;128;51.34731765412403;-2.9775262624025345;70-74 Regent Street, Weston-super-Mare, North Somerset, England, UK;1363
 4G;234;20;2;2377;2407;408;51.34731765412403;-2.9775262624025345;70-74 Regent Street, Weston-super-Mare, North Somerset, England, UK;1363
@@ -835,7 +856,12 @@
 4G;234;15;24;24581;2689;414;51.48488662664157;-1.5587929263710976;14 15 M4, Lambourn Woodlands, Berkshire, England, UK;223
 4G;234;15;30;24581;2689;179;51.48488662664157;-1.5587929263710976;14 15 M4, Lambourn Woodlands, Berkshire, England, UK;6300
 4G;234;10;114;16608;2729;342;51.48281711761289;-3.1898821145296097;14 Cathedral Road A4119, Pontcanna, Cardiff, Wales, UK;347
-4G;234;15;20;24723;2757;99;51.67921069436748;-2.0324619859457016;Burnt Covert, Station Road, Kemble, Gloucestershire, England, UK;6225
+4G;234;15;10;24723;2757;434;51.67921069436748;-2.0324619859457016;Burnt Covert, Station Road, Kemble, Gloucestershire, England, UK;6300
+4G;234;15;12;24723;2757;411;51.67921069436748;-2.0324619859457016;Burnt Covert, Station Road, Kemble, Gloucestershire, England, UK;3501
+4G;234;15;20;24723;2757;432;51.67921069436748;-2.0324619859457016;Burnt Covert, Station Road, Kemble, Gloucestershire, England, UK;6300
+4G;234;15;22;24723;2757;412;51.67921069436748;-2.0324619859457016;Burnt Covert, Station Road, Kemble, Gloucestershire, England, UK;3501
+4G;234;15;30;24723;2757;433;51.67921069436748;-2.0324619859457016;Burnt Covert, Station Road, Kemble, Gloucestershire, England, UK;6300
+4G;234;15;32;24723;2757;413;51.67921069436748;-2.0324619859457016;Burnt Covert, Station Road, Kemble, Gloucestershire, England, UK;3501
 4G;234;20;0;2382;2759;30;51.523556130789004;-2.56816316395998;6 B4057, Filton, South Gloucestershire, West of England, England, UK;1363
 4G;234;20;6;2382;2759;255;51.523556130789004;-2.56816316395998;6 B4057, Filton, South Gloucestershire, West of England, England, UK;6175
 4G;234;20;2;2135;2760;5;51.505710112267664;-2.551668919622898;Filton Road A4174, Stoke Gifford, South Gloucestershire, West of England, England, UK [MBNL];1363
@@ -1183,6 +1209,9 @@
 4G;234;10;114;16609;3471;190;51.4621448524036;-2.750675082206726;Naish Hill, Bristol, West of England, England, UK;347
 4G;234;10;130;16609;3471;491;51.4621448524036;-2.750675082206726;Naish Hill, Bristol, West of England, England, UK;6400
 4G;234;10;134;16609;3471;191;51.4621448524036;-2.750675082206726;Naish Hill, Bristol, West of England, England, UK;347
+4G;234;20;6;2659;3488;169;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;6175
+4G;234;20;7;2659;3488;260;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;6175
+4G;234;20;8;2659;3488;81;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;6175
 4G;234;10;114;49904;3495;404;52.48981193040289;-1.8690356612205503;Matty's Wholesale Carpets, 15 Cato Street, Vauxhall, Birmingham, West Midlands, England, UK;347
 4G;234;20;1;1740;3537;277;51.427466577740546;-0.9238701313734055;Loddon Valley Police Station, Rushey Way, Lower Earley, Earley, Reading, Berkshire, England, UK;1363
 4G;234;20;2;1740;3537;440;51.427466577740546;-0.9238701313734055;Loddon Valley Police Station, Rushey Way, Lower Earley, Earley, Reading, Berkshire, England, UK;1363
@@ -1404,6 +1433,12 @@
 4G;234;10;110;16609;3895;417;51.42418840511654;-2.674192562699318;4 Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK;6400
 4G;234;10;120;16609;3895;419;51.42418840511654;-2.674192562699318;4 Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK;6400
 4G;234;10;130;16609;3895;418;51.42418840511654;-2.674192562699318;4 Wild Country Lane, Long Ashton, Bristol, North Somerset, England, UK;6400
+4G;234;15;10;24723;3900;462;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;6300
+4G;234;15;14;24723;3900;384;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;223
+4G;234;15;20;24723;3900;463;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;6300
+4G;234;15;24;24723;3900;385;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;223
+4G;234;15;30;24723;3900;464;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;6300
+4G;234;15;34;24723;3900;386;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;223
 4G;234;15;10;24607;3907;183;51.53255493886307;-3.097590319812298;Wyevale Garden Centre, Newport Road A48, St Mellons, Cardiff, Wales, UK [Vodafone];6300
 4G;234;15;14;24607;3907;477;51.53255493886307;-3.097590319812298;Wyevale Garden Centre, Newport Road A48, St Mellons, Cardiff, Wales, UK [Vodafone];223
 4G;234;15;20;24607;3907;185;51.53255493886307;-3.097590319812298;Wyevale Garden Centre, Newport Road A48, St Mellons, Cardiff, Wales, UK [Vodafone];6300
@@ -1444,6 +1479,7 @@
 4G;234;15;30;24723;3971;350;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK;6300
 4G;234;15;32;24723;3971;311;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK;3501
 4G;234;15;34;24723;3971;428;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK;223
+4G;234;15;18;24723;3983;499;51.71702;-1.96855;Vodafone Store, 2 Castle Street, Cirencester, Cotswolds District, Gloucestershire, England, UK;2850
 4G;234;20;0;1235;3988;114;51.52264284280365;-0.6794196367263794;Bishops Gate, Bath Rd, Taplow, Maidenhead, Berkshire, England, UK;1363
 4G;234;15;10;24723;3989;148;51.63943628072319;-1.8763507157564163;B4040, Swindon, Wiltshire, England, UK;6300
 4G;234;15;12;24723;3989;148;51.63943628072319;-1.8763507157564163;B4040, Swindon, Wiltshire, England, UK;3501
@@ -1905,6 +1941,9 @@
 4G;234;10;130;16625;5232;377;51.51867114128857;-2.4858609214425087;11 Park Ln, Winterbourne, Coalpit Heath, Bristol, West of England, England, UK;6400
 4G;234;10;134;16625;5232;377;51.51867114128857;-2.4858609214425087;11 Park Ln, Winterbourne, Coalpit Heath, Bristol, West of England, England, UK;347
 4G;234;20;8;3112;5259;4;53.793077138833674;-0.34821175038814545;John Newton Way, Kingswood, Hull, East Riding of Yorkshire, England, UK;6175
+4G;234;20;6;2460;5275;73;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;6175
+4G;234;20;7;2460;5275;98;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;6175
+4G;234;20;8;2460;5275;477;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;6175
 4G;234;15;24;24607;5301;30;51.5257602126866;-3.238816000521183;Coryton Roundabout A4054, Coryton, Cardiff, Wales, UK;223
 4G;234;20;0;3135;5313;293;53.374294790531444;-1.4342542737722397;250 Manor Lane, Wybourn, Sheffield, South Yorkshire, England, UK;1363
 4G;234;15;10;24581;5318;390;51.45370292338015;-1.4808760955929756;Wickham Interchange, Hungerford, West Berkshire, England, UK;6300
@@ -1998,15 +2037,6 @@
 4G;234;15;32;24611;5607;338;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;3501
 4G;234;15;34;24611;5607;338;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;223
 4G;234;15;38;24611;5607;338;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;2850
-4G;234;10;110;16625;5607;336;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;6400
-4G;234;10;112;16625;5607;336;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;3725
-4G;234;10;114;16625;5607;336;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;347
-4G;234;10;120;16625;5607;337;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;6400
-4G;234;10;122;16625;5607;337;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;3725
-4G;234;10;124;16625;5607;337;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;347
-4G;234;10;130;16625;5607;338;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;6400
-4G;234;10;132;16625;5607;338;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;3725
-4G;234;10;134;16625;5607;338;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;347
 4G;234;20;1;3122;5615;22;53.4933890333043;-1.284194067120552;Mexborough Athletic Sports and Social Club, 52 Rock Pottery Yard, Mexborough, Doncaster, South Yorkshire, England, UK;1363
 4G;234;20;2;3122;5615;314;53.4933890333043;-1.284194067120552;Mexborough Athletic Sports and Social Club, 52 Rock Pottery Yard, Mexborough, Doncaster, South Yorkshire, England, UK;1363
 4G;234;20;0;3490;5618;238;53.729106826428655;-0.5566146969795227;Half Acre Industrial Estate, Wiske Avenue, Brough, East Riding of Yorkshire, England, UK;1363
@@ -2505,6 +2535,12 @@
 4G;234;10;110;16816;6937;249;52.11866649950607;-4.3774184212088585;Pen Garnwen, Ceredigion, Wales, UK;6400
 4G;234;10;120;16816;6937;250;52.11866649950607;-4.3774184212088585;Pen Garnwen, Ceredigion, Wales, UK;6400
 4G;234;10;130;16816;6937;251;52.11866649950607;-4.3774184212088585;Pen Garnwen, Ceredigion, Wales, UK;6400
+4G;234;15;10;24723;6955;453;51.667135;-2.080818;Stonehill Lane, Cotswold Airport, Haresdown Hill A433, Rodmarton, The Cotswolds, Gloucestershire, England, UK;6300
+4G;234;15;12;24723;6955;null;51.667135;-2.080818;Stonehill Lane, Cotswold Airport, Haresdown Hill A433, Rodmarton, The Cotswolds, Gloucestershire, England, UK;3501
+4G;234;15;20;24723;6955;454;51.667135;-2.080818;Stonehill Lane, Cotswold Airport, Haresdown Hill A433, Rodmarton, The Cotswolds, Gloucestershire, England, UK;6300
+4G;234;15;22;24723;6955;256;51.667135;-2.080818;Stonehill Lane, Cotswold Airport, Haresdown Hill A433, Rodmarton, The Cotswolds, Gloucestershire, England, UK;3501
+4G;234;15;30;24723;6955;455;51.667135;-2.080818;Stonehill Lane, Cotswold Airport, Haresdown Hill A433, Rodmarton, The Cotswolds, Gloucestershire, England, UK;6300
+4G;234;15;32;24723;6955;null;51.667135;-2.080818;Stonehill Lane, Cotswold Airport, Haresdown Hill A433, Rodmarton, The Cotswolds, Gloucestershire, England, UK;3501
 4G;234;20;1;1540;6962;97;51.487526826367514;-0.7539424672722816;Snowball Hill, M4, Maidenhead, Berkshire, England, UK [MBNL];1363
 4G;234;20;2;1540;6962;89;51.487526826367514;-0.7539424672722816;Snowball Hill, M4, Maidenhead, Berkshire, England, UK [MBNL];1363
 4G;234;15;20;12305;7039;144;51.43621537296095;-0.5078766122460365;3 Fairfield Ave, Staines-upon-Thames, Surrey, England, UK;6300
@@ -2894,6 +2930,9 @@
 4G;234;20;6;2464;8147;18;51.74026391702845;-2.2386853024363518;Dudbridge Substation, Dudbridge Hill, Dudbridge, Stroud, Gloucestershire, England, UK;6175
 4G;234;20;71;2464;8147;462;51.74026391702845;-2.2386853024363518;Dudbridge Substation, Dudbridge Hill, Dudbridge, Stroud, Gloucestershire, England, UK;99
 4G;234;20;91;2464;8147;18;51.74026391702845;-2.2386853024363518;Dudbridge Substation, Dudbridge Hill, Dudbridge, Stroud, Gloucestershire, England, UK;9360
+4G;234;20;0;2188;8157;372;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;1363
+4G;234;20;1;2188;8157;310;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;1363
+4G;234;20;2;2188;8157;449;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;1363
 4G;234;15;10;57414;8166;300;51.93133517504143;-3.3052700757980347;Pen-y-commin, Talyllyn, Brecon, Carmarthenshire, Wales, UK;6300
 4G;234;15;12;57414;8166;300;51.93133517504143;-3.3052700757980347;Pen-y-commin, Talyllyn, Brecon, Carmarthenshire, Wales, UK;3501
 4G;234;15;20;57414;8166;301;51.93133517504143;-3.3052700757980347;Pen-y-commin, Talyllyn, Brecon, Carmarthenshire, Wales, UK;6300
@@ -3007,6 +3046,12 @@
 4G;234;20;1;2198;8395;103;52.18126594235408;-2.19074584543705;Worcester Telephone Exchange, Whittington Road A44, Nunnery Wood, Worcester, Worcestershire, England, UK;1363
 4G;234;20;2;2198;8395;59;52.18126594235408;-2.19074584543705;Worcester Telephone Exchange, Whittington Road A44, Nunnery Wood, Worcester, Worcestershire, England, UK;1363
 4G;234;20;0;2363;8427;231;52.178721203862196;-2.2312327846884727;Bromwich Road A449, Lower Wick, Worcester, Worcestershire, England, UK;1363
+4G;234;20;0;2563;8429;285;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;1363
+4G;234;20;1;2563;8429;220;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;1363
+4G;234;20;2;2563;8429;170;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;1363
+4G;234;20;6;2563;8429;100;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;6175
+4G;234;20;7;2563;8429;365;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;6175
+4G;234;20;8;2563;8429;426;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;6175
 4G;234;15;18;24607;8446;270;51.48628107032792;-3.1609296798706055;62 Newport Road A4161, Adamsdown, Cardiff, Wales, UK;2850
 4G;234;15;38;24607;8446;270;51.48628107032792;-3.1609296798706055;62 Newport Road A4161, Adamsdown, Cardiff, Wales, UK;2850
 4G;234;10;112;16608;8446;270;51.48628107032792;-3.1609296798706055;62 Newport Road A4161, Adamsdown, Cardiff, Wales, UK;3725
@@ -3255,6 +3300,9 @@
 4G;234;15;24;6190;9234;8;51.46447117443179;-0.5069784075021744;22 Colne Reach, Staines-upon-Thames, Stanwell Moor, Staines-upon-Thames, Surrey, England, UK;223
 4G;234;20;2;2126;9236;5;51.60893345134038;-1.8329710140824316;1 Ilett Cres, Swindon, Wiltshire, England, UK [MBNL];1363
 4G;234;20;8;2126;9236;459;51.60893345134038;-1.8329710140824316;1 Ilett Cres, Swindon, Wiltshire, England, UK [MBNL];6175
+4G;234;15;10;24723;9236;324;51.73217;-1.98268;Gloucester Road, Stratton, Cotswolds District, Gloucestershire, England, UK;6300
+4G;234;15;20;24723;9236;325;51.73217;-1.98268;Gloucester Road, Stratton, Cotswolds District, Gloucestershire, England, UK;6300
+4G;234;15;30;24723;9236;326;51.73217;-1.98268;Gloucester Road, Stratton, Cotswolds District, Gloucestershire, England, UK;6300
 4G;234;20;0;2494;9244;149;51.54878800823485;-2.4383288249373436;42 Lodge Rd, Yate, Bristol, West of England, England, UK [MBNL];1363
 4G;234;20;6;2494;9244;58;51.54878800823485;-2.4383288249373436;42 Lodge Rd, Yate, Bristol, West of England, England, UK [MBNL];6175
 4G;234;20;7;2494;9244;38;51.54878800823485;-2.4383288249373436;42 Lodge Rd, Yate, Bristol, West of England, England, UK [MBNL];6175
@@ -4165,6 +4213,18 @@
 4G;234;10;126;16609;10780;101;51.38624769306287;-2.710967995226383;Bristol Airport (BRS) DAS System, North Side Road, North Somerset, England, UK;1226
 4G;234;20;7;3728;10823;44;53.74313203860159;-0.7868001982569695;East Lynton Farm, Main Road B1230, Newland, East Riding of Yorkshire, England, UK;6175
 4G;234;20;8;3728;10823;66;53.74313203860159;-0.7868001982569695;East Lynton Farm, Main Road B1230, Newland, East Riding of Yorkshire, England, UK;6175
+4G;234;20;0;2663;10841;249;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;1363
+4G;234;20;1;2663;10841;337;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;1363
+4G;234;20;2;2663;10841;275;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;1363
+4G;234;20;6;2663;10841;459;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;6175
+4G;234;20;7;2663;10841;463;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;6175
+4G;234;20;8;2663;10841;482;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;6175
+4G;234;20;71;2663;10841;null;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;76
+4G;234;20;72;2663;10841;null;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;76
+4G;234;20;73;2663;10841;null;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;76
+4G;234;20;91;2663;10841;360;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;9360
+4G;234;20;92;2663;10841;205;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;9360
+4G;234;20;93;2663;10841;98;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;9360
 4G;234;20;8;1552;10850;192;51.44132988811676;-1.42486821860075;107 Newbury Rd, Wickham, Newbury, West Berkshire, England, UK;6175
 4G;234;30;7;23541;10863;315;51.4973534727566;-0.17432145774364471;Science Museum, 64 Exhibition Road, Brompton, Kensington and Chelsea, Greater London, England, UK;3350
 4G;234;30;10;23541;10863;315;51.4973534727566;-0.17432145774364471;Science Museum, 64 Exhibition Road, Brompton, Kensington and Chelsea, Greater London, England, UK;3179
@@ -4335,27 +4395,6 @@
 4G;234;20;6;1495;11763;393;51.41572042907235;-0.7170386239886284;1 Long Hill Rd, Bracknell, Berkshire, England, UK;6175
 4G;234;20;1;3333;11787;85;53.66363870600085;-0.9489407390356063;Johnny Moor Long Lane, Snaith, East Riding of Yorkshire, England, UK;1363
 4G;234;30;5;24541;11842;84;51.516776335299774;-0.3304789960384369;Drayton Green Railway Station, Drayton Bridge Road, Hanwell, Ealing, Greater London, England, UK;1815
-4G;234;15;10;24611;11850;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;6300
-4G;234;15;12;24611;11850;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;3501
-4G;234;15;14;24611;11850;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;223
-4G;234;15;18;24611;11850;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;2850
-4G;234;15;20;24611;11850;27;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;6300
-4G;234;15;22;24611;11850;27;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;3501
-4G;234;15;24;24611;11850;27;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;223
-4G;234;15;28;24611;11850;27;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;2850
-4G;234;15;30;24611;11850;29;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;6300
-4G;234;15;32;24611;11850;29;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;3501
-4G;234;15;34;24611;11850;29;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;223
-4G;234;15;38;24611;11850;29;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;2850
-4G;234;10;110;16625;11850;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;6400
-4G;234;10;112;16625;11850;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;3725
-4G;234;10;114;16625;11850;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;347
-4G;234;10;120;16625;11850;27;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;6400
-4G;234;10;122;16625;11850;27;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;3725
-4G;234;10;124;16625;11850;27;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;347
-4G;234;10;130;16625;11850;29;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;6400
-4G;234;10;132;16625;11850;29;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;3725
-4G;234;10;134;16625;11850;29;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;347
 4G;234;30;9;24481;11857;390;51.461781804291846;-0.3008194640278816;1-152 Lichfield Court, Sheen Road A305, Richmond, Richmond upon Thames, Greater London, England, UK;3179
 4G;234;30;7;24541;11882;229;51.4947967111801;-0.3017079457640648;65-81 Clayponds Avenue, Brentford, Hounslow, Greater London, England, UK;3350
 4G;234;30;10;24541;11882;229;51.4947967111801;-0.3017079457640648;65-81 Clayponds Avenue, Brentford, Hounslow, Greater London, England, UK;3179
@@ -4746,8 +4785,18 @@
 4G;234;15;34;24701;13603;287;51.439709615181464;-1.0683748126029968;High St, Theale, Reading, Berkshire, England, UK;223
 4G;234;15;38;24701;13603;289;51.439709615181464;-1.0683748126029968;High St, Theale, Reading, Berkshire, England, UK;2850
 4G;234;30;8;24541;13610;57;51.49267337752885;-0.2812899649143219;Chiswick Place, 272 Gunnersbury Avenue, Chiswick, Hounslow, Greater London, England, UK;3350
-4G;234;15;32;24611;13630;84;51.49142129074615;-2.471756860613823;Emersons Green, Emersons Green, Bristol, West of England, England, UK;3624
-4G;234;15;38;24611;13630;16;51.49142129074615;-2.471756860613823;Emersons Green, Emersons Green, Bristol, West of England, England, UK;2850
+4G;234;15;10;24611;13630;265;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];6300
+4G;234;15;12;24611;13630;85;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];3501
+4G;234;15;14;24611;13630;315;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];223
+4G;234;15;18;24611;13630;15;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];2850
+4G;234;15;20;24611;13630;266;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];6300
+4G;234;15;22;24611;13630;86;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];3501
+4G;234;15;24;24611;13630;317;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];223
+4G;234;15;28;24611;13630;17;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];2850
+4G;234;15;30;24611;13630;264;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];6300
+4G;234;15;32;24611;13630;84;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];3501
+4G;234;15;34;24611;13630;316;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];223
+4G;234;15;38;24611;13630;16;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];2850
 4G;234;30;0;24373;13650;245;51.58924265771204;-3.0206038802862167;Allt-yr-yn View, Ridgeway, Newport, Wales, UK;1617
 4G;234;30;2;24373;13650;243;51.58924265771204;-3.0206038802862167;Allt-yr-yn View, Ridgeway, Newport, Wales, UK;1617
 4G;234;30;13;24370;13650;160;51.58924265771204;-3.0206038802862167;Allt-yr-yn View, Ridgeway, Newport, Wales, UK;6225
@@ -5096,6 +5145,18 @@
 4G;234;15;28;24610;14627;172;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;2850
 4G;234;15;34;24610;14627;413;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;223
 4G;234;15;38;24610;14627;173;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;2850
+4G;234;15;10;24610;14640;447;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;6300
+4G;234;15;12;24610;14640;303;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;3501
+4G;234;15;14;24610;14640;447;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;223
+4G;234;15;18;24610;14640;447;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;2850
+4G;234;15;20;24610;14640;447;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;6300
+4G;234;15;22;24610;14640;304;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;3501
+4G;234;15;24;24610;14640;447;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;223
+4G;234;15;28;24610;14640;447;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;2850
+4G;234;15;30;24610;14640;447;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;6300
+4G;234;15;32;24610;14640;305;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;3501
+4G;234;15;34;24610;14640;447;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;223
+4G;234;15;38;24610;14640;447;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;2850
 4G;234;15;14;6192;14644;269;51.567040216464655;-0.5575920268893242;M40 East, Fulmer, Buckinghamshire, England, UK;223
 4G;234;15;10;24611;14655;345;51.497995;-2.3589376;Off Bath Road, Tormarton, South Gloucestershire, West of England, England, UK;6300
 4G;234;15;12;24611;14655;267;51.497995;-2.3589376;Off Bath Road, Tormarton, South Gloucestershire, West of England, England, UK;3501
@@ -5321,6 +5382,21 @@
 4G;234;30;11;26051;15466;458;51.83661987801387;-2.2440876066684723;Newsham House, Larchwood Drive (near 262 Stroud Road B4173), Tuffley, Gloucester, Gloucestershire, England, UK;3179
 4G;234;30;18;26051;15466;162;51.83661987801387;-2.2440876066684723;Newsham House, Larchwood Drive (near 262 Stroud Road B4173), Tuffley, Gloucester, Gloucestershire, England, UK;497
 4G;234;30;20;26051;15466;144;51.83661987801387;-2.2440876066684723;Newsham House, Larchwood Drive (near 262 Stroud Road B4173), Tuffley, Gloucester, Gloucestershire, England, UK;497
+4G;234;30;0;25271;15470;445;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;1617
+4G;234;30;1;25271;15470;446;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;1617
+4G;234;30;2;25271;15470;444;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;1617
+4G;234;30;3;25271;15470;445;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;1815
+4G;234;30;4;25271;15470;446;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;1815
+4G;234;30;5;25271;15470;444;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;1815
+4G;234;30;6;25271;15470;445;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;3350
+4G;234;30;7;25271;15470;446;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;3350
+4G;234;30;8;25271;15470;444;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;3350
+4G;234;30;9;25271;15470;445;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;3179
+4G;234;30;10;25271;15470;446;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;3179
+4G;234;30;11;25271;15470;444;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;3179
+4G;234;30;18;25271;15470;366;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;497
+4G;234;30;19;25271;15470;471;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;497
+4G;234;30;20;25271;15470;null;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;497
 4G;234;15;10;24610;15480;3;51.560983918518794;-2.5548429787158966;76 Gloucester Road A38, Almondsbury, South Gloucestershire, West of England, England, UK;6300
 4G;234;15;20;24610;15480;5;51.560983918518794;-2.5548429787158966;76 Gloucester Road A38, Almondsbury, South Gloucestershire, West of England, England, UK;6300
 4G;234;15;28;24610;15480;5;51.560983918518794;-2.5548429787158966;76 Gloucester Road A38, Almondsbury, South Gloucestershire, West of England, England, UK;2850
@@ -5836,6 +5912,10 @@
 4G;234;30;2;20271;17141;317;51.460803147556646;-0.784827433526516;Spining Wheel Ln, Bracknell, Berkshire, England, UK [MBNL];1617
 4G;234;30;3;20271;17141;303;51.460803147556646;-0.784827433526516;Spining Wheel Ln, Bracknell, Berkshire, England, UK [MBNL];1617
 4G;234;30;12;20270;17141;194;51.460803147556646;-0.784827433526516;Spining Wheel Ln, Bracknell, Berkshire, England, UK [MBNL];6225
+4G;234;30;0;26391;17151;212;51.75185;-2.54580;Corner Road, Whitecroft, Forest of Dean, Gloucestershire, England, UK;1617
+4G;234;30;1;26391;17151;211;51.75185;-2.54580;Corner Road, Whitecroft, Forest of Dean, Gloucestershire, England, UK;1617
+4G;234;30;12;26390;17151;269;51.75185;-2.54580;Corner Road, Whitecroft, Forest of Dean, Gloucestershire, England, UK;6225
+4G;234;30;13;26390;17151;267;51.75185;-2.54580;Corner Road, Whitecroft, Forest of Dean, Gloucestershire, England, UK;6225
 4G;234;30;0;24541;17200;226;51.49243937059141;-0.3390369191765785;Wyke Green Golf Club, Windmill Lane B454, Osterley, Hounslow, Greater London, England, UK;1617
 4G;234;30;18;24541;17200;177;51.49243937059141;-0.3390369191765785;Wyke Green Golf Club, Windmill Lane B454, Osterley, Hounslow, Greater London, England, UK;497
 4G;234;30;20;24541;17200;426;51.49243937059141;-0.3390369191765785;Wyke Green Golf Club, Windmill Lane B454, Osterley, Hounslow, Greater London, England, UK;497
@@ -6123,6 +6203,12 @@
 4G;234;30;13;26010;19165;395;51.8228520065517;-3.1166303157806396;Church Rd, Maesygwartha, Monmouthshire, Wales, UK;6225
 4G;234;10;120;16625;19168;472;51.42767625069896;-2.514139451086521;Keynsham Motocross, A4174, Keynsham, Bath and North East Somerset, West of England, England, UK;6400
 4G;234;10;130;16625;19168;473;51.42767625069896;-2.514139451086521;Keynsham Motocross, A4174, Keynsham, Bath and North East Somerset, West of England, England, UK;6400
+4G;234;30;0;26411;19171;207;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;1617
+4G;234;30;1;26411;19171;209;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;1617
+4G;234;30;2;26411;19171;208;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;1617
+4G;234;30;12;26410;19171;238;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;6225
+4G;234;30;13;26410;19171;239;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;6225
+4G;234;30;14;26410;19171;237;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;6225
 4G;234;30;0;26031;19198;413;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;1617
 4G;234;30;1;26031;19198;412;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;1617
 4G;234;30;2;26031;19198;411;51.818514;-4.066101;Carmel Transmitting Station, B4297, Carmel, Carmarthenshire, Wales, UK;1617
@@ -6560,8 +6646,12 @@
 4G;234;15;24;41086;21062;202;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;223
 4G;234;15;28;41086;21062;184;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;2850
 4G;234;15;38;41086;21062;185;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;2850
-4G;234;30;0;25331;21067;251;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;1617
-4G;234;30;12;25330;21067;284;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;6225
+4G;234;30;0;26391;21067;251;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;1617
+4G;234;30;1;26391;21067;249;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;1617
+4G;234;30;2;26391;21067;250;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;1617
+4G;234;30;12;26390;21067;284;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;6225
+4G;234;30;13;26390;21067;283;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;6225
+4G;234;30;14;26390;21067;282;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;6225
 4G;234;30;4;26011;21075;490;51.80873166787944;-2.732746861875057;Wonastow Road Industrial Estate, Wonastow Rd, Monmouth, Monmouthshire, Wales, UK;1815
 4G;234;30;0;25921;21081;443;51.055908;-1.8066903;Salisbury Transmitting Station, Old Blandford Road, Harnham Hill, Salisbury, Wiltshire, England, UK;1617
 4G;234;30;1;25921;21081;441;51.055908;-1.8066903;Salisbury Transmitting Station, Old Blandford Road, Harnham Hill, Salisbury, Wiltshire, England, UK;1617
@@ -6638,6 +6728,15 @@
 4G;234;30;20;25331;21251;381;51.76817248524062;-2.2383802011609077;Randwick Transmitter, Randwick Road, Whiteshill, Stroud, Gloucestershire, England, UK;497
 4G;234;30;0;25331;21252;344;51.60832504288341;-2.4837325885891914;Green Lane, Milbury Heath, South Gloucestershire, West of England, England, UK;1617
 4G;234;30;1;25331;21252;343;51.60832504288341;-2.4837325885891914;Green Lane, Milbury Heath, South Gloucestershire, West of England, England, UK;1617
+4G;234;30;0;26391;21255;110;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;1617
+4G;234;30;1;26391;21255;109;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;1617
+4G;234;30;2;26391;21255;108;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;1617
+4G;234;30;3;26391;21255;null;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;1815
+4G;234;30;4;26391;21255;229;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;1815
+4G;234;30;5;26391;21255;null;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;1815
+4G;234;30;12;26390;21255;48;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;6225
+4G;234;30;13;26390;21255;49;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;6225
+4G;234;30;14;26390;21255;50;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;6225
 4G;234;30;0;25341;21257;213;51.48702618977052;-1.700764261186123;Whitefield Hill Reservoir, Aldbourne, Marlborough, Wiltshire, England, UK;1617
 4G;234;30;0;25341;21258;453;51.46413697006757;-1.2748462334275246;2 Oareborough Ln, Hermitage, Thatcham, West Berkshire, England, UK;1617
 4G;234;30;1;25341;21258;455;51.46413697006757;-1.2748462334275246;2 Oareborough Ln, Hermitage, Thatcham, West Berkshire, England, UK;1617
@@ -6816,6 +6915,9 @@
 4G;234;15;20;24610;21875;345;51.77268;-2.55686;Woodland Rise, Parkend, Forest of Dean, Gloucestershire, England, UK;6300
 4G;234;15;30;24610;21875;346;51.77268;-2.55686;Woodland Rise, Parkend, Forest of Dean, Gloucestershire, England, UK;6300
 4G;234;15;20;24581;21891;245;51.56042218299875;-1.5098818391561508;New Road B4001, Sparsholt, Oxfordshire, England, UK;6300
+4G;234;15;10;24723;21897;224;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;6300
+4G;234;15;20;24723;21897;222;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;6300
+4G;234;15;30;24723;21897;223;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;6300
 4G;234;15;10;24738;21999;203;52.05747023064046;-4.551242949051744;South of Bailey Farm, Llandygwydd, Ceredigion, Wales, UK;6300
 4G;234;15;20;24738;21999;201;52.05747023064046;-4.551242949051744;South of Bailey Farm, Llandygwydd, Ceredigion, Wales, UK;6300
 4G;234;15;30;24738;21999;202;52.05747023064046;-4.551242949051744;South of Bailey Farm, Llandygwydd, Ceredigion, Wales, UK;6300
@@ -6970,6 +7072,15 @@
 4G;234;30;13;26050;22656;189;51.826328;-2.4932514;Cinderford Town Football Club, Edge Hills Road, Cinderford, Forest of Dean, Gloucestershire, England, UK;6225
 4G;234;30;14;26050;22656;190;51.826328;-2.4932514;Cinderford Town Football Club, Edge Hills Road, Cinderford, Forest of Dean, Gloucestershire, England, UK;6225
 4G;234;30;2;25331;22657;144;51.6656020813947;-1.9295623898506165;1, Broadway Industrial Estate, Broadway Ln, South Cerney, Cirencester, Gloucestershire, England, UK;1617
+4G;234;30;0;26411;22658;282;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;1617
+4G;234;30;1;26411;22658;283;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;1617
+4G;234;30;2;26411;22658;284;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;1617
+4G;234;30;3;26411;22658;null;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;1815
+4G;234;30;4;26411;22658;null;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;1815
+4G;234;30;5;26411;22658;42;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;1815
+4G;234;30;12;26410;22658;282;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;6225
+4G;234;30;13;26410;22658;283;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;6225
+4G;234;30;14;26410;22658;284;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;6225
 4G;234;30;0;26011;22662;135;51.7934896302159;-2.625197401963593;Coleford Cemetry, Victoria Road, Coleford, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;1;26011;22662;137;51.7934896302159;-2.625197401963593;Coleford Cemetry, Victoria Road, Coleford, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;2;26011;22662;136;51.7934896302159;-2.625197401963593;Coleford Cemetry, Victoria Road, Coleford, Forest of Dean, Gloucestershire, England, UK;1617
@@ -7092,8 +7203,9 @@
 4G;234;15;22;24610;23698;223;51.70362358756439;-2.2921115532517433;Tinkley Lane, The Cross, Nympsfield, Stonehouse, Gloucestershire, England, UK;3501
 4G;234;15;30;24610;23698;245;51.70362358756439;-2.2921115532517433;Tinkley Lane, The Cross, Nympsfield, Stonehouse, Gloucestershire, England, UK;6300
 4G;234;15;32;24610;23698;224;51.70362358756439;-2.2921115532517433;Tinkley Lane, The Cross, Nympsfield, Stonehouse, Gloucestershire, England, UK;3501
-4G;234;30;1;25331;23810;286;51.71003378432002;-2.396339848637581;Cross Country Route, Woodend Lane, Tumpy Green, Cam, Gloucestershire, England, UK;1617
-4G;234;30;13;25330;23810;298;51.71003378432002;-2.396339848637581;Cross Country Route, Woodend Lane, Tumpy Green, Cam, Gloucestershire, England, UK;6225
+4G;234;30;1;26391;23810;286;51.76989;-2.51779;Tower Road, Yorkley, Forest of Dean, Gloucestershire, England, UK;1617
+4G;234;30;12;26390;23810;297;51.76989;-2.51779;Tower Road, Yorkley, Forest of Dean, Gloucestershire, England, UK;6225
+4G;234;30;13;26390;23810;298;51.76989;-2.51779;Tower Road, Yorkley, Forest of Dean, Gloucestershire, England, UK;6225
 4G;234;30;12;25350;23831;280;51.30811369406958;-2.721567749977112;Rains Batch, Charterhouse, Somerset, England, UK [MBNL];6225
 4G;234;15;10;24611;23888;null;51.50835;-2.30253;M4 West, Tormarton, South Gloucestershire, West of England, England, UK [Cornerstone];6300
 4G;234;15;12;24611;23888;null;51.50835;-2.30253;M4 West, Tormarton, South Gloucestershire, West of England, England, UK [Cornerstone];3501
@@ -7107,6 +7219,18 @@
 4G;234;15;28;24611;23889;null;51.50835;-2.30253;M4 West, Tormarton, South Gloucestershire, West of England, England, UK [Cornerstone];2850
 4G;234;15;34;24611;23889;43;51.50835;-2.30253;M4 West, Tormarton, South Gloucestershire, West of England, England, UK [Cornerstone];223
 4G;234;15;38;24611;23889;43;51.50835;-2.30253;M4 West, Tormarton, South Gloucestershire, West of England, England, UK [Cornerstone];2850
+4G;234;15;14;24611;23954;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;223
+4G;234;15;18;24611;23954;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;2850
+4G;234;15;24;24611;23954;27;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;223
+4G;234;15;28;24611;23954;27;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;2850
+4G;234;15;34;24611;23954;29;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;223
+4G;234;15;38;24611;23954;29;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;2850
+4G;234;15;10;24611;24167;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;6300
+4G;234;15;12;24611;24167;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;3501
+4G;234;15;20;24611;24167;27;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;6300
+4G;234;15;22;24611;24167;27;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;3501
+4G;234;15;30;24611;24167;29;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;6300
+4G;234;15;32;24611;24167;29;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;3501
 4G;234;30;0;26011;24396;95;51.82207881557707;-3.030652776360512;Union Road Industrial Estate, Abergavenny, Monmouthshire, Wales, UK;1617
 4G;234;30;1;26011;24396;93;51.82207881557707;-3.030652776360512;Union Road Industrial Estate, Abergavenny, Monmouthshire, Wales, UK;1617
 4G;234;30;6;26011;24396;95;51.82207881557707;-3.030652776360512;Union Road Industrial Estate, Abergavenny, Monmouthshire, Wales, UK;3350
@@ -8017,6 +8141,21 @@
 4G;234;30;0;24363;34084;373;51.399354377140476;-2.4496936798095703;2 The Shallows, Saltford, Bath and North East Somerset, West of England, England, UK;1617
 4G;234;30;1;24363;34084;372;51.399354377140476;-2.4496936798095703;2 The Shallows, Saltford, Bath and North East Somerset, West of England, England, UK;1617
 4G;234;30;2;24363;34084;374;51.399354377140476;-2.4496936798095703;2 The Shallows, Saltford, Bath and North East Somerset, West of England, England, UK;1617
+4G;234;30;0;25271;34103;350;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;1617
+4G;234;30;1;25271;34103;349;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;1617
+4G;234;30;2;25271;34103;348;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;1617
+4G;234;30;3;25271;34103;350;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;1815
+4G;234;30;4;25271;34103;349;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;1815
+4G;234;30;5;25271;34103;348;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;1815
+4G;234;30;6;25271;34103;350;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;3350
+4G;234;30;7;25271;34103;349;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;3350
+4G;234;30;8;25271;34103;348;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;3350
+4G;234;30;9;25271;34103;350;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;3179
+4G;234;30;10;25271;34103;349;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;3179
+4G;234;30;11;25271;34103;348;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;3179
+4G;234;30;18;25271;34103;258;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;497
+4G;234;30;19;25271;34103;285;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;497
+4G;234;30;20;25271;34103;120;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;497
 4G;234;30;0;24363;34112;408;51.35806831442068;-2.303191867798132;Conkwell Wood, Blackberry Lane, Conkwell, Bath and North East Somerset, West of England, England, UK;1617
 4G;234;30;1;24363;34112;409;51.35806831442068;-2.303191867798132;Conkwell Wood, Blackberry Lane, Conkwell, Bath and North East Somerset, West of England, England, UK;1617
 4G;234;30;2;24363;34112;410;51.35806831442068;-2.303191867798132;Conkwell Wood, Blackberry Lane, Conkwell, Bath and North East Somerset, West of England, England, UK;1617
@@ -8168,7 +8307,18 @@
 4G;234;30;1;24362;43134;340;51.44216685684379;-2.6131830364465714;131 Raleigh Road B3120, Ashton Gate, Bristol, West of England, England, UK;1617
 4G;234;30;2;24362;43134;341;51.44216685684379;-2.6131830364465714;131 Raleigh Road B3120, Ashton Gate, Bristol, West of England, England, UK;1617
 4G;234;30;9;24362;43134;48;51.44216685684379;-2.6131830364465714;131 Raleigh Road B3120, Ashton Gate, Bristol, West of England, England, UK;3179
-4G;234;30;0;24362;43158;198;51.490853268714424;-2.472792863845825;Emerson Way, Emersons Green, South Gloucestershire, West of England, England, UK;1617
+4G;234;30;0;24362;43158;198;51.490853268714424;-2.472792863845825;Emerson Way, Emersons Green, South Gloucestershire, West of England, England, UK [MBNL];1617
+4G;234;30;1;24362;43158;199;51.490853268714424;-2.472792863845825;Emerson Way, Emersons Green, South Gloucestershire, West of England, England, UK [MBNL];1617
+4G;234;30;2;24362;43158;200;51.490853268714424;-2.472792863845825;Emerson Way, Emersons Green, South Gloucestershire, West of England, England, UK [MBNL];1617
+4G;234;30;3;24362;43158;225;51.490853268714424;-2.472792863845825;Emerson Way, Emersons Green, South Gloucestershire, West of England, England, UK [MBNL];1815
+4G;234;30;4;24362;43158;84;51.490853268714424;-2.472792863845825;Emerson Way, Emersons Green, South Gloucestershire, West of England, England, UK [MBNL];1815
+4G;234;30;5;24362;43158;null;51.490853268714424;-2.472792863845825;Emerson Way, Emersons Green, South Gloucestershire, West of England, England, UK [MBNL];1815
+4G;234;30;12;24360;43158;54;51.490853268714424;-2.472792863845825;Emerson Way, Emersons Green, South Gloucestershire, West of England, England, UK [MBNL];6225
+4G;234;30;13;24360;43158;null;51.490853268714424;-2.472792863845825;Emerson Way, Emersons Green, South Gloucestershire, West of England, England, UK [MBNL];6225
+4G;234;30;14;24360;43158;null;51.490853268714424;-2.472792863845825;Emerson Way, Emersons Green, South Gloucestershire, West of England, England, UK [MBNL];6225
+4G;234;30;18;24362;43158;414;51.490853268714424;-2.472792863845825;Emerson Way, Emersons Green, South Gloucestershire, West of England, England, UK [MBNL];497
+4G;234;30;19;24362;43158;null;51.490853268714424;-2.472792863845825;Emerson Way, Emersons Green, South Gloucestershire, West of England, England, UK [MBNL];497
+4G;234;30;20;24362;43158;null;51.490853268714424;-2.472792863845825;Emerson Way, Emersons Green, South Gloucestershire, West of England, England, UK [MBNL];497
 4G;234;30;0;24391;43179;117;51.38669179311458;-2.701603544821496;Easirent Bristol Airport, Bristol Road A38, Lulsgate Bottom, North Somerset, England, UK;1617
 4G;234;30;1;24391;43179;118;51.38669179311458;-2.701603544821496;Easirent Bristol Airport, Bristol Road A38, Lulsgate Bottom, North Somerset, England, UK;1617
 4G;234;30;2;24391;43179;119;51.38669179311458;-2.701603544821496;Easirent Bristol Airport, Bristol Road A38, Lulsgate Bottom, North Somerset, England, UK;1617
@@ -8342,7 +8492,15 @@
 4G;234;20;91;2383;52226;438;51.55599781892022;-2.41939736324265;Eastfield Drive, Ladden Garden Village, Yate, South Gloucestershire, West of England, England, UK;9360
 4G;234;20;92;2383;52226;412;51.55599781892022;-2.41939736324265;Eastfield Drive, Ladden Garden Village, Yate, South Gloucestershire, West of England, England, UK;9360
 4G;234;20;93;2383;52226;413;51.55599781892022;-2.41939736324265;Eastfield Drive, Ladden Garden Village, Yate, South Gloucestershire, West of England, England, UK;9360
-4G;234;20;91;3645;52240;352;;;-;9360
+4G;234;20;0;3645;52240;312;53.78244;-0.37829;Farmfoods, 26th Avenue, Orchard Park, Hull, East Riding of Yorkshire, England, UK [Three];1363
+4G;234;20;1;3645;52240;313;53.78244;-0.37829;Farmfoods, 26th Avenue, Orchard Park, Hull, East Riding of Yorkshire, England, UK [Three];1363
+4G;234;20;2;3645;52240;314;53.78244;-0.37829;Farmfoods, 26th Avenue, Orchard Park, Hull, East Riding of Yorkshire, England, UK [Three];1363
+4G;234;20;71;3645;52240;405;53.78244;-0.37829;Farmfoods, 26th Avenue, Orchard Park, Hull, East Riding of Yorkshire, England, UK [Three];76
+4G;234;20;72;3645;52240;406;53.78244;-0.37829;Farmfoods, 26th Avenue, Orchard Park, Hull, East Riding of Yorkshire, England, UK [Three];76
+4G;234;20;73;3645;52240;407;53.78244;-0.37829;Farmfoods, 26th Avenue, Orchard Park, Hull, East Riding of Yorkshire, England, UK [Three];76
+4G;234;20;91;3645;52240;96;53.78244;-0.37829;Farmfoods, 26th Avenue, Orchard Park, Hull, East Riding of Yorkshire, England, UK [Three];9360
+4G;234;20;92;3645;52240;97;53.78244;-0.37829;Farmfoods, 26th Avenue, Orchard Park, Hull, East Riding of Yorkshire, England, UK [Three];9360
+4G;234;20;93;3645;52240;98;53.78244;-0.37829;Farmfoods, 26th Avenue, Orchard Park, Hull, East Riding of Yorkshire, England, UK [Three];9360
 4G;234;20;0;3544;52302;147;53.39723818370823;-1.4422814548015594;26 Atlas Way, Atlas, Sheffield, South Yorkshire, England, UK;1363
 4G;234;20;2;3544;52302;134;53.39723818370823;-1.4422814548015594;26 Atlas Way, Atlas, Sheffield, South Yorkshire, England, UK;1363
 4G;234;20;0;2125;52340;174;51.5649133718739;-1.735154539346695;19 The Harriers, Covingham, Swindon, Wiltshire, England, UK;1363
@@ -8472,36 +8630,46 @@
 4G;234;20;92;2145;53345;163;51.82752817172209;-2.281099408864975;Beech Green Primary School, St James', Quedgeley, Gloucester, Gloucestershire, England, UK;9360
 4G;234;20;0;2219;53489;396;51.493444485555166;-2.4682072922587395;Lyde Green Park and Ride, Lyde Green, South Gloucestershire, West of England, England, UK;1363
 4G;234;20;91;2219;53489;303;51.493444485555166;-2.4682072922587395;Lyde Green Park and Ride, Lyde Green, South Gloucestershire, West of England, England, UK;9360
-4G;234;20;1;1058;53584;97;;;-;1363
-4G;234;20;2;1058;53584;467;;;-;1363
-4G;234;20;93;1058;53584;407;;;-;9360
+4G;234;20;1;1058;53584;97;;;Unlocated Tower | Commit Tower Locations at github.com/ExperiencersInternational/NetMonsterUKDatabase;1363
+4G;234;20;2;1058;53584;467;;;Unlocated Tower | Commit Tower Locations at github.com/ExperiencersInternational/NetMonsterUKDatabase;1363
+4G;234;20;93;1058;53584;407;;;Unlocated Tower | Commit Tower Locations at github.com/ExperiencersInternational/NetMonsterUKDatabase;9360
 4G;234;20;92;2301;53623;109;52.11389601529959;-2.308499084308039;Prospect View, Pickersleigh Road B4208, Barnard's Green, Malvern, Worcestershire, England, UK;9360
 4G;234;20;2;2429;53653;260;51.90503660793875;-2.094983272254467;Cheltenham Trade Park, 58 Arle Road, Alstone, Cheltenham, Gloucestershire, England, UK;1363
 4G;234;20;91;2429;53653;273;51.90503660793875;-2.094983272254467;Cheltenham Trade Park, 58 Arle Road, Alstone, Cheltenham, Gloucestershire, England, UK;9360
 4G;234;20;93;2429;53653;151;51.90503660793875;-2.094983272254467;Cheltenham Trade Park, 58 Arle Road, Alstone, Cheltenham, Gloucestershire, England, UK;9360
 4G;234;20;91;2255;53671;60;52.632559873061595;-1.6780070587992668;The Amington Inn, 95 Thomas Street, Bolehall, Tamworth, Staffordshire, England, UK;9360
-4G;234;20;1;2484;53886;373;;;-;1363
-4G;234;20;0;2125;53967;96;;;-;1363
-4G;234;20;2;2125;53967;275;;;-;1363
-4G;234;20;73;2125;53967;113;;;-;76
+4G;234;20;1;2484;53886;373;;;Unlocated Tower | Commit Tower Locations at github.com/ExperiencersInternational/NetMonsterUKDatabase;1363
+4G;234;20;0;2125;53967;96;;;Unlocated Tower | Commit Tower Locations at github.com/ExperiencersInternational/NetMonsterUKDatabase;1363
+4G;234;20;2;2125;53967;275;;;Unlocated Tower | Commit Tower Locations at github.com/ExperiencersInternational/NetMonsterUKDatabase;1363
+4G;234;20;73;2125;53967;113;;;Unlocated Tower | Commit Tower Locations at github.com/ExperiencersInternational/NetMonsterUKDatabase;76
 4G;234;20;0;3179;53985;294;53.631067652236496;-0.9463400021195412;Park Road, Moorends, Doncaster, South Yorkshire, England, UK;1363
 4G;234;20;2;3179;53985;143;53.631067652236496;-0.9463400021195412;Park Road, Moorends, Doncaster, South Yorkshire, England, UK;1363
-4G;234;20;1;2514;54063;130;;;-;1363
-4G;234;20;72;2145;54088;304;;;-;1363
-4G;234;20;92;2145;54088;156;;;-;9360
+4G;234;20;1;2514;54063;130;51.46925;-2.57793;York Street, St Werburgh's, Bristol, West of England, England, UK;1363
+4G;234;20;0;2145;54088;486;51.82108;-2.26720;Kingdom Hall, Valley Gardens, Kingsway, Gloucester, Gloucestershire, England, UK;1363
+4G;234;20;1;2145;54088;364;51.82108;-2.26720;Kingdom Hall, Valley Gardens, Kingsway, Gloucester, Gloucestershire, England, UK;1363
+4G;234;20;2;2145;54088;251;51.82108;-2.26720;Kingdom Hall, Valley Gardens, Kingsway, Gloucester, Gloucestershire, England, UK;1363
+4G;234;20;6;2145;54088;6;51.82108;-2.26720;Kingdom Hall, Valley Gardens, Kingsway, Gloucester, Gloucestershire, England, UK;6175
+4G;234;20;7;2145;54088;262;51.82108;-2.26720;Kingdom Hall, Valley Gardens, Kingsway, Gloucester, Gloucestershire, England, UK;6175
+4G;234;20;8;2145;54088;338;51.82108;-2.26720;Kingdom Hall, Valley Gardens, Kingsway, Gloucester, Gloucestershire, England, UK;6175
+4G;234;20;71;2145;54088;324;51.82108;-2.26720;Kingdom Hall, Valley Gardens, Kingsway, Gloucester, Gloucestershire, England, UK;76
+4G;234;20;72;2145;54088;325;51.82108;-2.26720;Kingdom Hall, Valley Gardens, Kingsway, Gloucester, Gloucestershire, England, UK;76
+4G;234;20;73;2145;54088;326;51.82108;-2.26720;Kingdom Hall, Valley Gardens, Kingsway, Gloucester, Gloucestershire, England, UK;76
+4G;234;20;91;2145;54088;null;51.82108;-2.26720;Kingdom Hall, Valley Gardens, Kingsway, Gloucester, Gloucestershire, England, UK;9360
+4G;234;20;92;2145;54088;148;51.82108;-2.26720;Kingdom Hall, Valley Gardens, Kingsway, Gloucester, Gloucestershire, England, UK;9360
+4G;234;20;93;2145;54088;353;51.82108;-2.26720;Kingdom Hall, Valley Gardens, Kingsway, Gloucester, Gloucestershire, England, UK;9360
 4G;234;20;0;2648;54253;21;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;1;2648;54253;22;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;2;2648;54253;23;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;7;2648;54253;427;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK;6175
 4G;234;20;72;2648;54253;379;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK;76
 4G;234;20;92;2648;54253;61;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK;9360
-4G;234;20;1;2131;54259;172;;;-;1363
-4G;234;20;2;2131;54259;173;;;-;1363
-4G;234;20;6;2010;54345;109;;;-;6175
-4G;234;20;71;2010;54345;484;;;-;76
-4G;234;20;91;2010;54345;162;;;-;9360
-4G;234;20;0;1266;54656;210;;;-;1363
-4G;234;20;2;1266;54656;149;;;-;1363
+4G;234;20;1;2131;54259;172;51.40857701383911;-2.462133765220642;Great Western Main Line, Saltford, Bath and North East Somerset, West of England, England, UK;1363
+4G;234;20;2;2131;54259;173;51.40857701383911;-2.462133765220642;Great Western Main Line, Saltford, Bath and North East Somerset, West of England, England, UK;1363
+4G;234;20;6;2010;54345;109;;;Unlocated Tower | Commit Tower Locations at github.com/ExperiencersInternational/NetMonsterUKDatabase;6175
+4G;234;20;71;2010;54345;484;;;Unlocated Tower | Commit Tower Locations at github.com/ExperiencersInternational/NetMonsterUKDatabase;76
+4G;234;20;91;2010;54345;162;;;Unlocated Tower | Commit Tower Locations at github.com/ExperiencersInternational/NetMonsterUKDatabase;9360
+4G;234;20;0;1266;54656;210;;;Unlocated Tower | Commit Tower Locations at github.com/ExperiencersInternational/NetMonsterUKDatabase;1363
+4G;234;20;2;1266;54656;149;;;Unlocated Tower | Commit Tower Locations at github.com/ExperiencersInternational/NetMonsterUKDatabase;1363
 3G;234;10;8998;21217;217;297;51.87525110955312;-3.1539398431777954;A40, Crickhowell, Powys, Wales, UK;3025
 3G;234;10;42922;21217;217;96;51.94904973538079;-3.37721798568964;25 Hoggan Pk, Brecon, Powys, Wales, UK;3025
 3G;234;10;43916;21217;217;81;52.02607068896756;-3.9484145119786263;A482, Crug-y-bar, Carmarthenshire, Wales, UK;3025
@@ -8548,6 +8716,12 @@
 4G;234;10;110;17040;101546;3;51.462319690999;-0.5842166393995285;Toby Carvery, Old Windsor, Windsor, Berkshire, England, UK [Cornerstone];6400
 4G;234;10;120;17040;101546;4;51.462319690999;-0.5842166393995285;Toby Carvery, Old Windsor, Windsor, Berkshire, England, UK [Cornerstone];6400
 4G;234;10;130;17040;101546;5;51.462319690999;-0.5842166393995285;Toby Carvery, Old Windsor, Windsor, Berkshire, England, UK [Cornerstone];6400
+4G;234;10;110;16544;101717;0;51.64121;-2.15680;Priory Industrial Estate, London Road A433, Tetbury, Cotswolds District, Gloucestershire, England, UK;6400
+4G;234;10;112;16544;101717;486;51.64121;-2.15680;Priory Industrial Estate, London Road A433, Tetbury, Cotswolds District, Gloucestershire, England, UK;3725
+4G;234;10;120;16544;101717;1;51.64121;-2.15680;Priory Industrial Estate, London Road A433, Tetbury, Cotswolds District, Gloucestershire, England, UK;6400
+4G;234;10;122;16544;101717;487;51.64121;-2.15680;Priory Industrial Estate, London Road A433, Tetbury, Cotswolds District, Gloucestershire, England, UK;3725
+4G;234;10;130;16544;101717;2;51.64121;-2.15680;Priory Industrial Estate, London Road A433, Tetbury, Cotswolds District, Gloucestershire, England, UK;6400
+4G;234;10;132;16544;101717;488;51.64121;-2.15680;Priory Industrial Estate, London Road A433, Tetbury, Cotswolds District, Gloucestershire, England, UK;3725
 4G;234;10;120;16576;101720;259;51.49312447939502;-1.2453281879425049;Water Street, Hampstead Norreys, Thatcham, West Berkshire, England, UK;6400
 4G;234;10;120;17153;101722;493;51.438168912818675;-2.27575846016407;Azimghur Barracks, Bath Road, Colerne, Wiltshire, England, UK;6400
 4G;234;10;130;16576;101754;428;51.38786295737144;-1.4460506290197372;Blandys Hill, Kintbury, West Berkshire, England, UK;6400
@@ -8665,7 +8839,12 @@
 4G;234;10;124;16576;101924;169;51.459634372048804;-1.1774153262376785;Scratchface Ln, Reading, Berkshire, England, UK;347
 4G;234;10;130;16576;101924;113;51.459634372048804;-1.1774153262376785;Scratchface Ln, Reading, Berkshire, England, UK;6400
 4G;234;10;134;16576;101924;170;51.459634372048804;-1.1774153262376785;Scratchface Ln, Reading, Berkshire, England, UK;347
-4G;234;10;110;16544;102012;278;51.59191638650792;-2.08946630358696;57 Crudwell Rd, Malmesbury, UK;6400
+4G;234;10;110;16544;102012;278;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;6400
+4G;234;10;114;16544;102012;134;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;347
+4G;234;10;120;16544;102012;276;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;6400
+4G;234;10;124;16544;102012;132;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;347
+4G;234;10;130;16544;102012;277;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;6400
+4G;234;10;134;16544;102012;133;51.59191638650792;-2.08946630358696;Whychurch Water Tower, 57 Crudwell Road A429, Malmesbury, Wiltshire, England, UK;347
 4G;234;10;112;16544;102026;77;51.509367225245654;-1.7938650771975517;Orbital Road, Swindon, Wiltshire, England, UK;3725
 4G;234;10;110;17072;102262;351;51.782144363017736;-2.0360950380563736;BP, Gloucester Road, Cirencester, Gloucestershire, England, UK;6400
 4G;234;10;120;17072;102262;353;51.782144363017736;-2.0360950380563736;BP, Gloucester Road, Cirencester, Gloucestershire, England, UK;6400
@@ -8905,6 +9084,12 @@
 4G;234;10;130;17072;103881;401;51.91267032729536;-2.095259539783001;Unit 6, Manchester Park, Tewkesbury Road, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;132;17072;103881;277;51.91267032729536;-2.095259539783001;Unit 6, Manchester Park, Tewkesbury Road, Cheltenham, Gloucestershire, England, UK;3725
 4G;234;10;134;17072;103881;141;51.91267032729536;-2.095259539783001;Unit 6, Manchester Park, Tewkesbury Road, Cheltenham, Gloucestershire, England, UK;347
+4G;234;10;110;16544;103900;258;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;6400
+4G;234;10;114;16544;103900;368;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;347
+4G;234;10;120;16544;103900;259;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;6400
+4G;234;10;124;16544;103900;366;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;347
+4G;234;10;130;16544;103900;260;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;6400
+4G;234;10;134;16544;103900;367;51.715374;-1.9646347;The Forum, South Way, Cirencester, Cotswolds District, Gloucestershire, England, UK;347
 4G;234;10;110;17072;103915;480;51.8811650842959;-2.0933357253670692;Greenway Chase, Shurdington Road A46, Warden Hill, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;114;17072;103915;319;51.8811650842959;-2.0933357253670692;Greenway Chase, Shurdington Road A46, Warden Hill, Cheltenham, Gloucestershire, England, UK;347
 4G;234;10;120;17072;103915;481;51.8811650842959;-2.0933357253670692;Greenway Chase, Shurdington Road A46, Warden Hill, Cheltenham, Gloucestershire, England, UK;6400
@@ -9193,6 +9378,9 @@
 4G;234;10;110;16576;106906;273;51.439857580063226;-1.5175113826990128;Old Hayward Ln, Hungerford, West Berkshire, England, UK;6400
 4G;234;10;120;16576;106906;274;51.439857580063226;-1.5175113826990128;Old Hayward Ln, Hungerford, West Berkshire, England, UK;6400
 4G;234;10;130;16576;106906;275;51.439857580063226;-1.5175113826990128;Old Hayward Ln, Hungerford, West Berkshire, England, UK;6400
+4G;234;10;110;16544;106955;63;51.667135;-2.080818;Stonehill Lane, Cotswold Airport, Haresdown Hill A433, Rodmarton, The Cotswolds, Gloucestershire, England, UK;6400
+4G;234;10;120;16544;106955;64;51.667135;-2.080818;Stonehill Lane, Cotswold Airport, Haresdown Hill A433, Rodmarton, The Cotswolds, Gloucestershire, England, UK;6400
+4G;234;10;130;16544;106955;65;51.667135;-2.080818;Stonehill Lane, Cotswold Airport, Haresdown Hill A433, Rodmarton, The Cotswolds, Gloucestershire, England, UK;6400
 4G;234;10;124;17153;107003;141;51.46147807827879;-2.15094655752182;Frogwell, West Cepen Way A350, Chippenham, Wiltshire, England, UK;347
 4G;234;10;110;17072;107144;326;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;6400
 4G;234;10;130;17072;107144;324;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;6400
@@ -9289,6 +9477,9 @@
 4G;234;10;130;16576;109095;80;51.83777068782443;-1.83566864579916;A40, Northleach, Cotswolds District, Gloucestershire, England, UK;6400
 4G;234;10;110;17072;109172;255;51.8236695312217;-2.0766302570700645;Unnamed Road, Cowley Junction, Birdlip, Gloucestershire, England, UK;6400
 4G;234;10;130;17072;109172;257;51.8236695312217;-2.0766302570700645;Unnamed Road, Cowley Junction, Birdlip, Gloucestershire, England, UK;6400
+4G;234;10;110;16544;109236;66;51.73217;-1.98268;Gloucester Road, Stratton, Cotswolds District, Gloucestershire, England, UK;6400
+4G;234;10;120;16544;109236;67;51.73217;-1.98268;Gloucester Road, Stratton, Cotswolds District, Gloucestershire, England, UK;6400
+4G;234;10;130;16544;109236;68;51.73217;-1.98268;Gloucester Road, Stratton, Cotswolds District, Gloucestershire, England, UK;6400
 4G;234;10;130;17153;109258;182;51.42859478669635;-2.0053113251924515;Kingsbury Green Academy, 8 Summers Drive, Calne, Wiltshire, England, UK;6400
 4G;234;10;134;17153;109311;12;51.400552515202484;-2.148006521165371;Westlands Lane, Beanacre, Wiltshire, England, UK;347
 4G;234;10;110;16576;109396;99;51.772902870295084;-1.5670209378004074;8 Minster Road, Brize Norton, Carterton, West Oxfordshire, England, UK;6400
@@ -9489,8 +9680,23 @@
 4G;234;10;130;17056;113603;144;51.439709615181464;-1.0683748126029968;High St, Theale, Reading, Berkshire, England, UK;6400
 4G;234;10;132;17056;113603;139;51.439709615181464;-1.0683748126029968;High St, Theale, Reading, Berkshire, England, UK;3725
 4G;234;10;134;17056;113603;144;51.439709615181464;-1.0683748126029968;High St, Theale, Reading, Berkshire, England, UK;347
-4G;234;10;134;16625;113630;108;51.49142129074615;-2.471756860613823;Emersons Green, Emersons Green, Bristol, West of England, England, UK;347
+4G;234;10;110;16625;113630;451;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];6400
+4G;234;10;112;16625;113630;247;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];3725
+4G;234;10;114;16625;113630;109;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];347
+4G;234;10;120;16625;113630;452;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];6400
+4G;234;10;122;16625;113630;248;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];3725
+4G;234;10;124;16625;113630;110;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];347
+4G;234;10;130;16625;113630;450;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];6400
+4G;234;10;132;16625;113630;246;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];3725
+4G;234;10;134;16625;113630;108;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];347
+4G;234;10;110;16625;113663;492;51.50974366688823;-2.54829503595829;Crest House, Lime Kiln Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;6400
+4G;234;10;112;16625;113663;269;51.50974366688823;-2.54829503595829;Crest House, Lime Kiln Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;3725
+4G;234;10;114;16625;113663;268;51.50974366688823;-2.54829503595829;Crest House, Lime Kiln Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;347
+4G;234;10;120;16625;113663;494;51.50974366688823;-2.54829503595829;Crest House, Lime Kiln Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;6400
+4G;234;10;122;16625;113663;267;51.50974366688823;-2.54829503595829;Crest House, Lime Kiln Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;3725
+4G;234;10;124;16625;113663;269;51.50974366688823;-2.54829503595829;Crest House, Lime Kiln Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;347
 4G;234;10;130;16625;113663;493;51.50974366688823;-2.54829503595829;Crest House, Lime Kiln Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;6400
+4G;234;10;132;16625;113663;268;51.50974366688823;-2.54829503595829;Crest House, Lime Kiln Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;3725
 4G;234;10;134;16625;113663;267;51.50974366688823;-2.54829503595829;Crest House, Lime Kiln Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;347
 4G;234;10;110;17056;113664;106;51.45769094233228;-0.8956395462155343;4 St Johns Cl, Woodley, Reading, Berkshire, England, UK;6400
 4G;234;10;112;16608;113678;366;51.58830819029867;-3.0317534878849983;Brickyard Lane, M4 West, High Cross, Newport, Wales, UK;3725
@@ -9759,7 +9965,14 @@
 4G;234;10;130;16624;114629;239;51.824458236779115;-2.4954628944396973;10 Southwood Cl, Cinderford, Forest of Dean, Gloucestershire, England, UK;6400
 4G;234;10;134;16624;114629;238;51.824458236779115;-2.4954628944396973;10 Southwood Cl, Cinderford, Forest of Dean, Gloucestershire, England, UK;347
 4G;234;10;110;16624;114640;447;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;6400
-4G;234;10;130;16624;114640;447;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;6400
+4G;234;10;112;16624;114640;447;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;3725
+4G;234;10;114;16624;114640;447;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;347
+4G;234;10;120;16624;114640;448;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;6400
+4G;234;10;122;16624;114640;448;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;3725
+4G;234;10;124;16624;114640;448;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;347
+4G;234;10;130;16624;114640;449;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;6400
+4G;234;10;132;16624;114640;449;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;3725
+4G;234;10;134;16624;114640;449;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;347
 4G;234;10;110;16608;114646;32;51.61674854694593;-3.008640557527542;573 Malpas Road A4051, Malpas, Newport, Wales, UK;6400
 4G;234;10;122;16608;114646;14;51.61674854694593;-3.008640557527542;573 Malpas Road A4051, Malpas, Newport, Wales, UK;3725
 4G;234;10;110;16625;114655;483;51.497995;-2.3589376;Off Bath Road, Tormarton, South Gloucestershire, West of England, England, UK;6400
@@ -10249,14 +10462,24 @@
 4G;234;10;110;16624;121588;218;51.77927793951657;-2.7512701973319054;Craig-y-Dorth, Mitchel Troy, Monmouthshire, Wales, UK;6400
 4G;234;10;120;16624;121588;216;51.77927793951657;-2.7512701973319054;Craig-y-Dorth, Mitchel Troy, Monmouthshire, Wales, UK;6400
 4G;234;10;130;16624;121588;217;51.77927793951657;-2.7512701973319054;Craig-y-Dorth, Mitchel Troy, Monmouthshire, Wales, UK;6400
+4G;234;10;115;16625;121710;321;51.46953678622256;-2.5679663568735123;M32, Easton, Bristol, West of England, England, UK;39250
 4G;234;10;117;16625;121710;324;51.46953678622256;-2.5679663568735123;M32, Easton, Bristol, West of England, England, UK;39448
+4G;234;10;125;16625;121710;323;51.46953678622256;-2.5679663568735123;M32, Easton, Bristol, West of England, England, UK;39250
 4G;234;10;127;16625;121710;326;51.46953678622256;-2.5679663568735123;M32, Easton, Bristol, West of England, England, UK;39448
+4G;234;10;135;16625;121710;322;51.46953678622256;-2.5679663568735123;M32, Easton, Bristol, West of England, England, UK;39250
 4G;234;10;137;16625;121710;325;51.46953678622256;-2.5679663568735123;M32, Easton, Bristol, West of England, England, UK;39448
+4G;234;10;110;16625;121711;321;51.46953678622256;-2.5679663568735123;M32, Easton, Bristol, West of England, England, UK;6400
+4G;234;10;112;16625;121711;321;51.46953678622256;-2.5679663568735123;M32, Easton, Bristol, West of England, England, UK;3725
 4G;234;10;114;16625;121711;321;51.46953678622256;-2.5679663568735123;M32, Easton, Bristol, West of England, England, UK;347
+4G;234;10;120;16625;121711;323;51.46953678622256;-2.5679663568735123;M32, Easton, Bristol, West of England, England, UK;6400
 4G;234;10;122;16625;121711;323;51.46953678622256;-2.5679663568735123;M32, Easton, Bristol, West of England, England, UK;3725
 4G;234;10;124;16625;121711;323;51.46953678622256;-2.5679663568735123;M32, Easton, Bristol, West of England, England, UK;347
+4G;234;10;130;16625;121711;322;51.46953678622256;-2.5679663568735123;M32, Easton, Bristol, West of England, England, UK;6400
 4G;234;10;132;16625;121711;322;51.46953678622256;-2.5679663568735123;M32, Easton, Bristol, West of England, England, UK;3725
 4G;234;10;134;16625;121711;322;51.46953678622256;-2.5679663568735123;M32, Easton, Bristol, West of England, England, UK;347
+4G;234;10;110;16576;121898;122;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;6400
+4G;234;10;120;16576;121898;120;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;6400
+4G;234;10;130;16576;121898;121;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;6400
 4G;234;10;110;16816;122000;115;52.05747023064046;-4.551242949051744;South of Bailey Farm, Llandygwydd, Ceredigion, Wales, UK;6400
 4G;234;10;120;16816;122000;185;52.05747023064046;-4.551242949051744;South of Bailey Farm, Llandygwydd, Ceredigion, Wales, UK;6400
 4G;234;10;130;16816;122000;137;52.05747023064046;-4.551242949051744;South of Bailey Farm, Llandygwydd, Ceredigion, Wales, UK;6400
@@ -10287,6 +10510,18 @@
 4G;234;10;124;16609;122681;13;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;347
 4G;234;10;130;16609;122681;74;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;6400
 4G;234;10;134;16609;122681;14;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;347
+4G;234;10;115;16625;122739;292;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];39250
+4G;234;10;117;16625;122739;292;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];39448
+4G;234;10;125;16625;122739;293;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];39250
+4G;234;10;127;16625;122739;293;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];39448
+4G;234;10;135;16625;122739;291;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];39250
+4G;234;10;137;16625;122739;291;51.49142129074615;-2.471756860613823;Sainsbury's, Emersons Way, Emersons Green, South Gloucestershire, West of England, England, UK [Cornerstone];39448
+4G;234;10;115;16625;122760;268;51.50974366688823;-2.54829503595829;Crest House, Lime Kiln Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;39250
+4G;234;10;117;16625;122760;268;51.50974366688823;-2.54829503595829;Crest House, Lime Kiln Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;39448
+4G;234;10;125;16625;122760;269;51.50974366688823;-2.54829503595829;Crest House, Lime Kiln Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;39250
+4G;234;10;127;16625;122760;269;51.50974366688823;-2.54829503595829;Crest House, Lime Kiln Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;39448
+4G;234;10;135;16625;122760;267;51.50974366688823;-2.54829503595829;Crest House, Lime Kiln Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;39250
+4G;234;10;137;16625;122760;267;51.50974366688823;-2.54829503595829;Crest House, Lime Kiln Cl, Stoke Gifford, South Gloucestershire, West of England, England, UK;39448
 4G;234;10;110;17072;122841;77;52.0712892187182;-2.1623462811112404;M5 North, Hill Croome, Worcestershire, England, UK [Cornerstone];3725
 4G;234;10;110;16544;123344;64;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;6400
 4G;234;10;112;16544;123344;64;51.61006862560756;-1.7908385396003723;23 Ermin St, Blunsdon, Blunsdon St Andrew, Swindon, Wiltshire, England, UK;3725
@@ -10327,6 +10562,15 @@
 4G;234;10;126;17072;123653;97;51.94570149350858;-2.081300090571369;Cheltenham North Rugby Football Club, Stoke Orchard Road, Bishop's Cleeve, Gloucestershire, England, UK;1226
 4G;234;10;134;17072;123653;96;51.94570149350858;-2.081300090571369;Cheltenham North Rugby Football Club, Stoke Orchard Road, Bishop's Cleeve, Gloucestershire, England, UK;347
 4G;234;10;136;17072;123653;96;51.94570149350858;-2.081300090571369;Cheltenham North Rugby Football Club, Stoke Orchard Road, Bishop's Cleeve, Gloucestershire, England, UK;1226
+4G;234;10;110;16625;123964;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;6400
+4G;234;10;112;16625;123964;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;3725
+4G;234;10;114;16625;123964;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;347
+4G;234;10;120;16625;123964;27;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;6400
+4G;234;10;122;16625;123964;27;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;3725
+4G;234;10;124;16625;123964;27;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;347
+4G;234;10;130;16625;123964;29;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;6400
+4G;234;10;132;16625;123964;29;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;3725
+4G;234;10;134;16625;123964;29;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;347
 4G;234;10;115;17072;124050;56;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;39250
 4G;234;10;117;17072;124050;56;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;39448
 4G;234;10;119;17072;124050;56;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;38100
@@ -10345,6 +10589,15 @@
 4G;234;10;135;16625;124061;425;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;39250
 4G;234;10;137;16625;124061;425;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;39448
 4G;234;10;139;16625;124061;425;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;38100
+4G;234;10;110;16625;124110;336;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;6400
+4G;234;10;112;16625;124110;336;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;3725
+4G;234;10;114;16625;124110;336;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;347
+4G;234;10;120;16625;124110;337;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;6400
+4G;234;10;122;16625;124110;337;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;3725
+4G;234;10;124;16625;124110;337;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;347
+4G;234;10;130;16625;124110;338;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;6400
+4G;234;10;132;16625;124110;338;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;3725
+4G;234;10;134;16625;124110;338;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;347
 3G;234;10;11170;22005;639;218;;;-;3025
 3G;234;10;50698;22005;639;209;;;-;3025
 3G;234;10;46380;21646;646;98;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;3025
@@ -12026,6 +12279,30 @@
 4G;234;15;30;41086;511033;9;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;6300
 4G;234;15;35;41086;511033;9;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;223
 4G;234;10;130;1057;511318;117;51.73930785291766;-1.331120990216732;7 Denman's Lane, Cumnor, Oxfordshire, England, UK;6400
+4G;234;15;10;8272;511402;445;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;6300
+4G;234;15;12;8272;511402;445;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;3501
+4G;234;15;20;8272;511402;446;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;6300
+4G;234;15;22;8272;511402;446;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;3501
+4G;234;15;30;8272;511402;444;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;6300
+4G;234;15;32;8272;511402;444;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;3501
+4G;234;10;110;1248;511402;445;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;6400
+4G;234;10;112;1248;511402;445;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;3725
+4G;234;10;114;1248;511402;445;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;1226
+4G;234;10;115;1248;511402;445;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;347
+4G;234;10;120;1248;511402;446;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;6400
+4G;234;10;122;1248;511402;446;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;3725
+4G;234;10;124;1248;511402;446;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;1226
+4G;234;10;125;1248;511402;446;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;347
+4G;234;10;130;1248;511402;444;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;6400
+4G;234;10;132;1248;511402;444;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;3725
+4G;234;10;134;1248;511402;444;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;1226
+4G;234;10;135;1248;511402;444;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;347
+4G;234;10;116;1248;511403;445;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;39250
+4G;234;10;117;1248;511403;445;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;39448
+4G;234;10;126;1248;511403;446;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;39250
+4G;234;10;127;1248;511403;446;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;39448
+4G;234;10;136;1248;511403;444;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;39250
+4G;234;10;137;1248;511403;444;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;39448
 4G;234;10;114;1280;511616;459;50.82367728;-0.1450447656;Churchill Square Piazza, Western Road B2066, Brunswick, Brighton, Brighton and Hove, England, UK;1228
 4G;234;10;130;1040;511650;355;52.97527877888733;-1.442461833357811;Tower Road, Drum Hill, Morleymoor, Derbyshire, England, UK [Cornerstone];6400
 4G;234;10;110;34880;511814;250;53.57668895211821;-1.089482456445694;Thorpe Marsh Substation, South Road, Barnby Dun, Doncaster, South Yorkshire, England, UK;6400
@@ -13856,6 +14133,33 @@
 4G;234;10;135;4099;600671;299;51.49776862770733;-0.36426208913326263;Tentelow Meadow, 63 Tentelow Lane A4127, Norwood Green, Ealing, Greater London, England, UK;347
 4G;234;10;136;4099;600671;299;51.49776862770733;-0.36426208913326263;Tentelow Meadow, 63 Tentelow Lane A4127, Norwood Green, Ealing, Greater London, England, UK;39250
 4G;234;10;137;4099;600671;299;51.49776862770733;-0.36426208913326263;Tentelow Meadow, 63 Tentelow Lane A4127, Norwood Green, Ealing, Greater London, England, UK;39448
+4G;234;15;10;8272;600721;77;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;6300
+4G;234;15;12;8272;600721;77;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;3501
+4G;234;15;15;8272;600721;77;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;223
+4G;234;15;20;8272;600721;76;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;6300
+4G;234;15;22;8272;600721;76;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;3501
+4G;234;15;25;8272;600721;76;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;223
+4G;234;15;30;8272;600721;75;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;6300
+4G;234;15;32;8272;600721;75;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;3501
+4G;234;15;35;8272;600721;75;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;223
+4G;234;10;110;1248;600721;77;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;6400
+4G;234;10;112;1248;600721;77;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;3725
+4G;234;10;114;1248;600721;77;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;1226
+4G;234;10;115;1248;600721;77;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;347
+4G;234;10;116;1248;600721;77;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;39250
+4G;234;10;117;1248;600721;77;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;39448
+4G;234;10;120;1248;600721;76;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;6400
+4G;234;10;122;1248;600721;76;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;3725
+4G;234;10;124;1248;600721;76;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;1226
+4G;234;10;125;1248;600721;76;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;347
+4G;234;10;126;1248;600721;76;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;39250
+4G;234;10;127;1248;600721;76;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;39448
+4G;234;10;130;1248;600721;75;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;6400
+4G;234;10;132;1248;600721;75;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;3725
+4G;234;10;134;1248;600721;75;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;1226
+4G;234;10;135;1248;600721;75;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;347
+4G;234;10;136;1248;600721;75;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;39250
+4G;234;10;137;1248;600721;75;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;39448
 4G;234;10;110;4289;600737;292;51.5264984290242;-0.2810629829764366;Burger King, Western Avenue A40, Park Royal, Ealing, Greater London, England, UK;6400
 4G;234;10;112;4289;600737;292;51.5264984290242;-0.2810629829764366;Burger King, Western Avenue A40, Park Royal, Ealing, Greater London, England, UK;3725
 4G;234;10;115;4289;600737;292;51.5264984290242;-0.2810629829764366;Burger King, Western Avenue A40, Park Royal, Ealing, Greater London, England, UK;347
@@ -14167,10 +14471,13 @@
 4G;234;10;134;16544;1010406;165;51.56123258067248;-1.7227037250995636;7, Dorcan Business Village, Murdock Rd, Dorcan, Swindon, Wiltshire, England, UK;347
 
 5G;234;10;2504070;104224;0;475;51.71474;-0.36795;Lye Lane, M25 J21/21A, Bricket Wood, St Albans, Hertfordshire, England, UK;648768
-5G;234;10;77591942;104224;0;62;51.66502;-0.3983;Holiday Inn Express, 19 Bridle Path, North Watford, Watford, Hertfordshire, England, UK;648768
+5G;234;10;52292045;101248;0;699;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;152690
+5G;234;10;52292046;101248;0;700;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;152690
+5G;234;10;52292047;101248;0;701;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;152690
 5G;234;10;73034189;101248;0;132;52.970342;-0.052488;Willoughby Foods, Chain Bridge Road, Staniland, Boston, Lincolnshire, England, UK;152690
 5G;234;10;73034190;101248;0;133;52.970342;-0.052488;Willoughby Foods, Chain Bridge Road, Staniland, Boston, Lincolnshire, England, UK;152690
 5G;234;10;73034191;101248;0;134;52.970342;-0.052488;Willoughby Foods, Chain Bridge Road, Staniland, Boston, Lincolnshire, England, UK;152690
+5G;234;10;77591942;104224;0;62;51.66502;-0.3983;Holiday Inn Express, 19 Bridle Path, North Watford, Watford, Hertfordshire, England, UK;648768
 5G;234;10;86829517;101248;0;625;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;152690
 5G;234;10;86829518;101248;0;624;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;152690
 5G;234;10;86829519;101248;0;626;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;152690
@@ -14215,6 +14522,12 @@
 5G;234;10;1656390157;117072;0;389;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;152690
 5G;234;10;1656390167;117072;0;387;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;152690
 5G;234;10;9831541198;104224;0;743;51.67502;-0.34276;High Cross, Aldenham, Hertfordshire, England, UK;152690
+5G;234;10;9842223565;101248;0;627;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;152690
+5G;234;10;9842223566;101248;0;629;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;152690
+5G;234;10;9842223567;101248;0;628;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;152690
+5G;234;10;9842226565;101248;0;627;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;651360
+5G;234;10;9842226566;101248;0;629;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;651360
+5G;234;10;9842226567;101248;0;628;53.56795;-0.079757487;Grimsby Telephone Exchange, Grime Street, Grimsby, North East Lincolnshire, England, UK;651360
 
 5G;234;15;18202639;124723;0;3;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK;628032
 5G;234;15;18202641;124723;0;732;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK;426010
