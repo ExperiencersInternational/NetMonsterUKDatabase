@@ -965,6 +965,10 @@
 4G;234;15;32;24737;2987;373;51.46178974208351;-2.1144594624638557;Chippenham Telephone Exchange, Cocklebury Road, Chippenham, Wiltshire, England, UK;3501
 4G;234;15;34;24737;2987;449;51.46178974208351;-2.1144594624638557;Chippenham Telephone Exchange, Cocklebury Road, Chippenham, Wiltshire, England, UK;223
 4G;234;15;38;24737;2987;341;51.46178974208351;-2.1144594624638557;Chippenham Telephone Exchange, Cocklebury Road, Chippenham, Wiltshire, England, UK;2850
+4G;234;20;0;3206;2988;276;54.54585;-1.39860;Darlington Road, Longnewton, Stockton-on-Tees, County Durham, England, UK;1363
+4G;234;20;1;3206;2988;469;54.54585;-1.39860;Darlington Road, Longnewton, Stockton-on-Tees, County Durham, England, UK;1363
+4G;234;20;6;3206;2988;225;54.54585;-1.39860;Darlington Road, Longnewton, Stockton-on-Tees, County Durham, England, UK;6175
+4G;234;20;7;3206;2988;316;54.54585;-1.39860;Darlington Road, Longnewton, Stockton-on-Tees, County Durham, England, UK;6175
 4G;234;15;10;24723;2988;99;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK;6300
 4G;234;15;14;24723;2988;420;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK;223
 4G;234;15;18;24723;2988;300;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK;2850
@@ -2180,6 +2184,27 @@
 4G;234;10;130;16625;5874;481;51.52876369181204;-2.5945162028074265;Cribbs Causeway Substation, Highwood Lane, Patchway, South Gloucestershire, West of England, England, UK [Cornerstone];6400
 4G;234;10;132;16625;5894;287;51.50912412242113;-2.622658610343933;Brookridge House, 26 Standfast Road, Henbury, Bristol, West of England, England, UK;3725
 4G;234;10;134;16625;5894;253;51.50912412242113;-2.622658610343933;Brookridge House, 26 Standfast Road, Henbury, Bristol, West of England, England, UK;347
+4G;234;15;10;57414;5897;206;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];6300
+4G;234;15;12;57414;5897;206;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];3501
+4G;234;15;14;57414;5897;206;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];223
+4G;234;15;20;57414;5897;204;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];6300
+4G;234;15;22;57414;5897;204;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];3501
+4G;234;15;24;57414;5897;204;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];223
+4G;234;15;30;57414;5897;205;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];6300
+4G;234;15;32;57414;5897;205;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];3501
+4G;234;15;34;57414;5897;205;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];223
+4G;234;10;110;49888;5897;206;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];6400
+4G;234;10;112;49888;5897;206;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];3725
+4G;234;10;114;49888;5897;206;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];347
+4G;234;10;117;49888;5897;206;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];39448
+4G;234;10;120;49888;5897;204;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];6400
+4G;234;10;122;49888;5897;204;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];3725
+4G;234;10;124;49888;5897;204;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];347
+4G;234;10;127;49888;5897;204;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];39448
+4G;234;10;130;49888;5897;205;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];6400
+4G;234;10;132;49888;5897;205;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];3725
+4G;234;10;134;49888;5897;205;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];347
+4G;234;10;137;49888;5897;205;52.05656;-2.7046808;Hereford County Hospital, Stonebow Road, Portfields, Hereford, Herefordshire, England, UK [Cornerstone];39448
 4G;234;20;1;3132;5911;220;53.4390875554886;-1.3863325864076614;42 Warren Mount, Kimberworth, Rotherham, South Yorkshire, England, UK;1363
 4G;234;10;134;16609;5937;119;51.433874;-2.759431;Stock Way North, Nailsea, North Somerset, England, UK;347
 4G;234;15;10;24723;5942;53;51.87332791184152;-2.1111905202269554;Oak Farm, Chargrove Ln, Shurdington, Cheltenham, Gloucestershire, England, UK;6300
@@ -3289,6 +3314,9 @@
 4G;234;10;110;16609;9184;192;51.42100533601057;-2.744910679757595;Moorside Farm, Station Road, Backwell, North Somerset, England, UK;6400
 4G;234;10;120;16609;9184;193;51.42100533601057;-2.744910679757595;Moorside Farm, Station Road, Backwell, North Somerset, England, UK;6400
 4G;234;10;130;16609;9184;194;51.42100533601057;-2.744910679757595;Moorside Farm, Station Road, Backwell, North Somerset, England, UK;6400
+4G;234;20;6;2616;9200;424;51.852036007902676;-1.811704784631729;Farmington Quarry, Fosse Way A429, Farmington, Cotswolds District, Gloucestershire, England, UK;6175
+4G;234;20;7;2616;9200;434;51.852036007902676;-1.811704784631729;Farmington Quarry, Fosse Way A429, Farmington, Cotswolds District, Gloucestershire, England, UK;6175
+4G;234;20;8;2616;9200;78;51.852036007902676;-1.811704784631729;Farmington Quarry, Fosse Way A429, Farmington, Cotswolds District, Gloucestershire, England, UK;6175
 4G;234;20;6;2460;9212;109;51.78581;-2.45502;Bullo Telephone Exchange, Off A48, Bullo Pill, Newnham on Severn, Forest of Dean, Gloucestershire, England, UK;6175
 4G;234;20;7;2460;9212;182;51.78581;-2.45502;Bullo Telephone Exchange, Off A48, Bullo Pill, Newnham on Severn, Forest of Dean, Gloucestershire, England, UK;6175
 4G;234;20;6;2591;9214;55;51.57586956945023;-2.5205304846167564;Church Road, Alveston, UK;6175
@@ -4281,6 +4309,15 @@
 4G;234;20;91;2123;11096;336;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK;9360
 4G;234;20;92;2123;11096;157;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK;9360
 4G;234;20;93;2123;11096;215;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK;9360
+4G;234;20;0;2178;11114;177;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;1363
+4G;234;20;1;2178;11114;179;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;1363
+4G;234;20;2;2178;11114;178;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;1363
+4G;234;20;6;2178;11114;112;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;6225
+4G;234;20;7;2178;11114;56;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;6225
+4G;234;20;8;2178;11114;465;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;6225
+4G;234;20;71;2178;11114;118;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;99
+4G;234;20;72;2178;11114;117;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;99
+4G;234;20;73;2178;11114;119;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;99
 4G;234;20;0;2421;11145;219;51.222093492190965;-2.325799986158331;Grove Lane, Marston Trading Estate, The Butts, Frome, Somerset, England, UK;1363
 4G;234;20;1;2421;11145;85;51.222093492190965;-2.325799986158331;Grove Lane, Marston Trading Estate, The Butts, Frome, Somerset, England, UK;1363
 4G;234;20;2;2421;11145;179;51.222093492190965;-2.325799986158331;Grove Lane, Marston Trading Estate, The Butts, Frome, Somerset, England, UK;1363
@@ -4394,6 +4431,18 @@
 4G;234;15;24;6144;11752;235;51.55976997746934;-0.4037022963166237;47 Braintree Road, Braintree Road Industrial Estate, Ruislip, Hillingdon, Greater London, England, UK;223
 4G;234;20;6;1495;11763;393;51.41572042907235;-0.7170386239886284;1 Long Hill Rd, Bracknell, Berkshire, England, UK;6175
 4G;234;20;1;3333;11787;85;53.66363870600085;-0.9489407390356063;Johnny Moor Long Lane, Snaith, East Riding of Yorkshire, England, UK;1363
+4G;234;20;0;2430;11812;472;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;1363
+4G;234;20;1;2430;11812;119;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;1363
+4G;234;20;2;2430;11812;93;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;1363
+4G;234;20;6;2430;11812;192;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;6175
+4G;234;20;7;2430;11812;397;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;6175
+4G;234;20;8;2430;11812;482;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;6175
+4G;234;20;71;2430;11812;79;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;76
+4G;234;20;72;2430;11812;275;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;76
+4G;234;20;73;2430;11812;124;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;76
+4G;234;20;91;2430;11812;96;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;9360
+4G;234;20;92;2430;11812;175;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;9360
+4G;234;20;93;2430;11812;347;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;9360
 4G;234;30;5;24541;11842;84;51.516776335299774;-0.3304789960384369;Drayton Green Railway Station, Drayton Bridge Road, Hanwell, Ealing, Greater London, England, UK;1815
 4G;234;30;9;24481;11857;390;51.461781804291846;-0.3008194640278816;1-152 Lichfield Court, Sheen Road A305, Richmond, Richmond upon Thames, Greater London, England, UK;3179
 4G;234;30;7;24541;11882;229;51.4947967111801;-0.3017079457640648;65-81 Clayponds Avenue, Brentford, Hounslow, Greater London, England, UK;3350
@@ -5370,6 +5419,10 @@
 4G;234;30;18;26051;15449;258;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK;497
 4G;234;30;19;26051;15449;78;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK;497
 4G;234;30;20;26051;15449;276;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK;497
+4G;234;30;0;21841;15460;208;54.54585;-1.39860;Darlington Road, Longnewton, Stockton-on-Tees, County Durham, England, UK;1617
+4G;234;30;1;21841;15460;209;54.54585;-1.39860;Darlington Road, Longnewton, Stockton-on-Tees, County Durham, England, UK;1617
+4G;234;30;3;21841;15460;208;54.54585;-1.39860;Darlington Road, Longnewton, Stockton-on-Tees, County Durham, England, UK;1761
+4G;234;30;4;21841;15460;209;54.54585;-1.39860;Darlington Road, Longnewton, Stockton-on-Tees, County Durham, England, UK;1761
 4G;234;30;0;26051;15466;456;51.83661987801387;-2.2440876066684723;Newsham House, Larchwood Drive (near 262 Stroud Road B4173), Tuffley, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;1;26051;15466;457;51.83661987801387;-2.2440876066684723;Newsham House, Larchwood Drive (near 262 Stroud Road B4173), Tuffley, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;2;26051;15466;458;51.83661987801387;-2.2440876066684723;Newsham House, Larchwood Drive (near 262 Stroud Road B4173), Tuffley, Gloucester, Gloucestershire, England, UK;1617
@@ -6642,6 +6695,12 @@
 4G;234;30;2;25331;21044;366;51.750741510520186;-1.994215026497841;Daglingworth Quarry Junction, Gloucester Road, Cirencester, Gloucestershire, England, UK;1617
 4G;234;30;12;25330;21044;132;51.750741510520186;-1.994215026497841;Daglingworth Quarry Junction, Gloucester Road, Cirencester, Gloucestershire, England, UK;6225
 4G;234;30;14;25330;21044;438;51.750741510520186;-1.994215026497841;Daglingworth Quarry Junction, Gloucester Road, Cirencester, Gloucestershire, England, UK;6225
+4G;234;30;0;26411;21048;174;51.852036007902676;-1.811704784631729;Farmington Quarry, Fosse Way A429, Farmington, Cotswolds District, Gloucestershire, England, UK;1617
+4G;234;30;1;26411;21048;175;51.852036007902676;-1.811704784631729;Farmington Quarry, Fosse Way A429, Farmington, Cotswolds District, Gloucestershire, England, UK;1617
+4G;234;30;2;26411;21048;176;51.852036007902676;-1.811704784631729;Farmington Quarry, Fosse Way A429, Farmington, Cotswolds District, Gloucestershire, England, UK;1617
+4G;234;30;12;26410;21048;174;51.852036007902676;-1.811704784631729;Farmington Quarry, Fosse Way A429, Farmington, Cotswolds District, Gloucestershire, England, UK;6225
+4G;234;30;13;26410;21048;175;51.852036007902676;-1.811704784631729;Farmington Quarry, Fosse Way A429, Farmington, Cotswolds District, Gloucestershire, England, UK;6225
+4G;234;30;14;26410;21048;176;51.852036007902676;-1.811704784631729;Farmington Quarry, Fosse Way A429, Farmington, Cotswolds District, Gloucestershire, England, UK;6225
 4G;234;15;22;41086;21062;184;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;3501
 4G;234;15;24;41086;21062;202;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;223
 4G;234;15;28;41086;21062;184;53.77485983640877;-0.2938443794846535;Bluebell Fields, Bayswater Court, Sutton, Hull, East Riding of Yorkshire, England, UK;2850
@@ -7133,6 +7192,15 @@
 4G;234;30;13;26030;22957;481;52.05747023064046;-4.551242949051744;South of Bailey Farm, Llandygwydd, Ceredigion, Wales, UK;6225
 4G;234;30;14;26030;22957;482;52.05747023064046;-4.551242949051744;South of Bailey Farm, Llandygwydd, Ceredigion, Wales, UK;6225
 4G;234;15;10;41086;22974;357;;;-;6300
+4G;234;30;0;25172;22988;182;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;1617
+4G;234;30;1;25172;22988;181;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;1617
+4G;234;30;2;25172;22988;180;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;1617
+4G;234;30;3;25172;22988;182;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;1815
+4G;234;30;4;25172;22988;181;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;1815
+4G;234;30;5;25172;22988;180;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;1815
+4G;234;30;12;25170;22988;401;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;6225
+4G;234;30;13;25170;22988;399;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;6225
+4G;234;30;14;25170;22988;400;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;6225
 4G;234;30;0;26011;23079;239;51.80175059414253;-2.5694455951452255;New Road B4234, Cannop, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;2;26011;23079;238;51.80175059414253;-2.5694455951452255;New Road B4234, Cannop, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;12;26010;23079;244;51.80175059414253;-2.5694455951452255;New Road B4234, Cannop, Forest of Dean, Gloucestershire, England, UK;6225
@@ -7810,6 +7878,18 @@
 4G;234;30;10;26051;31897;267;51.84328774420786;-2.262568026781082;RT Trailers, 11 Saint Albans Road, Podsmead, Gloucester, Gloucestershire, England, UK;3179
 4G;234;30;11;26051;31897;268;51.84328774420786;-2.262568026781082;RT Trailers, 11 Saint Albans Road, Podsmead, Gloucester, Gloucestershire, England, UK;3179
 4G;234;30;1;20271;31908;497;51.422142276390865;-0.9371313080191612;30 Tilney Way, Earley, Reading, Berkshire, England, UK;1617
+4G;234;30;0;26051;31919;205;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;1617
+4G;234;30;1;26051;31919;206;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;1617
+4G;234;30;2;26051;31919;204;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;1617
+4G;234;30;3;26051;31919;205;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;1815
+4G;234;30;4;26051;31919;206;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;1815
+4G;234;30;5;26051;31919;204;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;1815
+4G;234;30;12;26051;31919;469;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;6225
+4G;234;30;13;26051;31919;468;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;6225
+4G;234;30;14;26051;31919;470;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;6225
+4G;234;30;18;26051;31919;205;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;497
+4G;234;30;19;26051;31919;206;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;497
+4G;234;30;20;26051;31919;204;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;497
 4G;234;30;0;26051;31929;183;51.86828883071959;-2.2355491295456886;65 London Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;1;26051;31929;184;51.86828883071959;-2.2355491295456886;65 London Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;2;26051;31929;185;51.86828883071959;-2.2355491295456886;65 London Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;1617
@@ -8133,9 +8213,13 @@
 4G;234;30;18;24371;33940;402;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;497
 4G;234;30;19;24371;33940;87;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;497
 4G;234;30;20;24371;33940;null;51.478243278100706;-3.180643916130066;Stadium House, 5 Park Street, Cardiff, Wales, UK;497
+4G;234;30;0;26051;34016;315;51.85966154567009;-2.167176604270935;Brockworth Interchange J11A, M5, Brockworth, Gloucestershire, England, UK;1617
 4G;234;30;1;26051;34016;316;51.85966154567009;-2.167176604270935;Brockworth Interchange J11A, M5, Brockworth, Gloucestershire, England, UK;1617
 4G;234;30;2;26051;34016;317;51.85966154567009;-2.167176604270935;Brockworth Interchange J11A, M5, Brockworth, Gloucestershire, England, UK;1617
-4G;234;30;5;26051;34016;317;51.85966154567009;-2.167176604270935;Brockworth Interchange J11A, M5, Brockworth, Gloucestershire, England, UK;1761
+4G;234;30;3;26051;34016;315;51.85966154567009;-2.167176604270935;Brockworth Interchange J11A, M5, Brockworth, Gloucestershire, England, UK;1815
+4G;234;30;4;26051;34016;316;51.85966154567009;-2.167176604270935;Brockworth Interchange J11A, M5, Brockworth, Gloucestershire, England, UK;1815
+4G;234;30;5;26051;34016;317;51.85966154567009;-2.167176604270935;Brockworth Interchange J11A, M5, Brockworth, Gloucestershire, England, UK;1815
+4G;234;30;12;26050;34016;393;51.85966154567009;-2.167176604270935;Brockworth Interchange J11A, M5, Brockworth, Gloucestershire, England, UK;6225
 4G;234;30;13;26050;34016;395;51.85966154567009;-2.167176604270935;Brockworth Interchange J11A, M5, Brockworth, Gloucestershire, England, UK;6225
 4G;234;30;14;26050;34016;394;51.85966154567009;-2.167176604270935;Brockworth Interchange J11A, M5, Brockworth, Gloucestershire, England, UK;6225
 4G;234;30;0;24363;34084;373;51.399354377140476;-2.4496936798095703;2 The Shallows, Saltford, Bath and North East Somerset, West of England, England, UK;1617
@@ -9385,6 +9469,7 @@
 4G;234;10;110;17072;107144;326;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;6400
 4G;234;10;130;17072;107144;324;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;6400
 4G;234;10;110;16576;107220;303;51.34113202101915;-1.571633331477642;Wayfarer's Walk, Marlborough, Wiltshire, England, UK;6400
+4G;234;10;110;16576;107222;156;51.852036007902676;-1.811704784631729;Farmington Quarry, Fosse Way A429, Farmington, Cotswolds District, Gloucestershire, England, UK;6400
 4G;234;10;120;16576;107222;157;51.852036007902676;-1.811704784631729;Farmington Quarry, Fosse Way A429, Farmington, Cotswolds District, Gloucestershire, England, UK;6400
 4G;234;10;130;16576;107222;158;51.852036007902676;-1.811704784631729;Farmington Quarry, Fosse Way A429, Farmington, Cotswolds District, Gloucestershire, England, UK;6400
 4G;234;10;110;17072;107227;291;52.10904396933609;-2.192336730659008;M5 South, High Green, Worcestershire, England, UK;6400
