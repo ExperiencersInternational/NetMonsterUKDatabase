@@ -13405,7 +13405,21 @@
 4G;234;15;25;41086;511033;10;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;223
 4G;234;15;30;41086;511033;9;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;6300
 4G;234;15;35;41086;511033;9;53.78148652184352;-0.4166989400982857;201 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;223
+4G;234;10;110;1057;511318;119;51.73930785291766;-1.331120990216732;7 Denman's Lane, Cumnor, Oxfordshire, England, UK;6400
+4G;234;10;112;1057;511318;119;51.73930785291766;-1.331120990216732;7 Denman's Lane, Cumnor, Oxfordshire, England, UK;3725
+4G;234;10;115;1057;511318;119;51.73930785291766;-1.331120990216732;7 Denman's Lane, Cumnor, Oxfordshire, England, UK;347
+4G;234;10;120;1057;511318;118;51.73930785291766;-1.331120990216732;7 Denman's Lane, Cumnor, Oxfordshire, England, UK;6400
+4G;234;10;122;1057;511318;118;51.73930785291766;-1.331120990216732;7 Denman's Lane, Cumnor, Oxfordshire, England, UK;3725
+4G;234;10;125;1057;511318;118;51.73930785291766;-1.331120990216732;7 Denman's Lane, Cumnor, Oxfordshire, England, UK;347
 4G;234;10;130;1057;511318;117;51.73930785291766;-1.331120990216732;7 Denman's Lane, Cumnor, Oxfordshire, England, UK;6400
+4G;234;10;132;1057;511318;117;51.73930785291766;-1.331120990216732;7 Denman's Lane, Cumnor, Oxfordshire, England, UK;3725
+4G;234;10;135;1057;511318;117;51.73930785291766;-1.331120990216732;7 Denman's Lane, Cumnor, Oxfordshire, England, UK;347
+4G;234;10;116;1057;511319;119;51.73930785291766;-1.331120990216732;7 Denman's Lane, Cumnor, Oxfordshire, England, UK;39250
+4G;234;10;117;1057;511319;119;51.73930785291766;-1.331120990216732;7 Denman's Lane, Cumnor, Oxfordshire, England, UK;39448
+4G;234;10;126;1057;511319;118;51.73930785291766;-1.331120990216732;7 Denman's Lane, Cumnor, Oxfordshire, England, UK;39250
+4G;234;10;127;1057;511319;118;51.73930785291766;-1.331120990216732;7 Denman's Lane, Cumnor, Oxfordshire, England, UK;39448
+4G;234;10;136;1057;511319;117;51.73930785291766;-1.331120990216732;7 Denman's Lane, Cumnor, Oxfordshire, England, UK;39250
+4G;234;10;137;1057;511319;117;51.73930785291766;-1.331120990216732;7 Denman's Lane, Cumnor, Oxfordshire, England, UK;39448
 4G;234;15;10;8272;511402;445;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;6300
 4G;234;15;12;8272;511402;445;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;3501
 4G;234;15;20;8272;511402;446;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;6300
@@ -13730,7 +13744,24 @@
 4G;234;10;127;4099;520043;466;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;39448
 4G;234;10;136;4099;520043;467;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;39250
 4G;234;10;137;4099;520043;467;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;39448
+4G;234;10;110;34448;520176;380;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;6400
+4G;234;10;112;34448;520176;380;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;3725
+4G;234;10;115;34448;520176;380;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;347
 4G;234;10;120;34448;520176;379;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;6400
+4G;234;10;122;34448;520176;379;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;3725
+4G;234;10;125;34448;520176;379;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;347
+4G;234;10;130;34448;520176;378;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;6400
+4G;234;10;132;34448;520176;378;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;3725
+4G;234;10;135;34448;520176;378;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;347
+4G;234;15;10;41065;520177;380;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;6300
+4G;234;15;12;41065;520177;380;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;3501
+4G;234;15;15;41065;520177;380;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;223
+4G;234;15;20;41065;520177;379;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;6300
+4G;234;15;22;41065;520177;379;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;3501
+4G;234;15;25;41065;520177;379;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;223
+4G;234;15;30;41065;520177;378;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;6300
+4G;234;15;32;41065;520177;378;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;3501
+4G;234;15;35;41065;520177;378;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;223
 4G;234;15;10;8258;520564;144;51.77008980324731;-1.2233860418200493;Plowman Tower, 66 Westlands Drive, Northway, Oxford, Oxfordshire, England, UK;6300
 4G;234;10;130;1057;520564;146;51.77008980324731;-1.2233860418200493;Plowman Tower, 66 Westlands Drive, Northway, Oxford, Oxfordshire, England, UK;6400
 4G;234;10;116;1057;520565;144;51.77008980324731;-1.2233860418200493;Plowman Tower, 66 Westlands Drive, Northway, Oxford, Oxfordshire, England, UK;39250
@@ -13766,7 +13797,23 @@
 4G;234;15;32;41086;521013;16;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;3501
 4G;234;15;35;41086;521013;16;53.79111977816439;-0.4094003140926361;Millhouse Woods Lane, Cottingham, East Riding of Yorkshire, England, UK;223
 4G;234;15;10;8271;521032;305;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;6300
+4G;234;15;15;8271;521032;305;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;223
+4G;234;15;20;8271;521032;304;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;6300
+4G;234;15;25;8271;521032;304;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;223
+4G;234;15;30;8271;521032;303;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;6300
+4G;234;15;35;8271;521032;303;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;223
 4G;234;10;110;1408;521032;305;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;6400
+4G;234;10;112;1408;521032;305;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;3725
+4G;234;10;114;1408;521032;305;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;1226
+4G;234;10;115;1408;521032;305;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;347
+4G;234;10;120;1408;521032;304;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;6400
+4G;234;10;122;1408;521032;304;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;3725
+4G;234;10;124;1408;521032;304;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;1226
+4G;234;10;125;1408;521032;304;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;347
+4G;234;10;130;1408;521032;303;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;6400
+4G;234;10;132;1408;521032;303;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;3725
+4G;234;10;134;1408;521032;303;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;1226
+4G;234;10;135;1408;521032;303;52.80266351373158;-1.6530759260058403;Wellington Street Substation, Wellington Road A5121, Burton-on-Trent, Staffordshire, England, UK;347
 4G;234;15;20;8256;521106;196;51.64219402452095;-0.8860144391655922;Penley Hollies, M40 East, Stokenchurch, Buckinghamshire, England, UK;6300
 4G;234;15;30;8256;521106;197;51.64219402452095;-0.8860144391655922;Penley Hollies, M40 East, Stokenchurch, Buckinghamshire, England, UK;6300
 4G;234;15;32;8256;521106;197;51.64219402452095;-0.8860144391655922;Penley Hollies, M40 East, Stokenchurch, Buckinghamshire, England, UK;3501
@@ -14008,20 +14055,52 @@
 4G;234;15;20;41092;524466;274;53.7030797389942;-0.9008205682039261;4A Lidice Road, Goole, East Riding of Yorkshire, England, UK;6300
 4G;234;15;25;41092;524466;274;53.7030797389942;-0.9008205682039261;4A Lidice Road, Goole, East Riding of Yorkshire, England, UK;223
 4G;234;15;30;41092;524466;275;53.7030797389942;-0.9008205682039261;4A Lidice Road, Goole, East Riding of Yorkshire, England, UK;6300
+4G;234;15;10;8266;524567;355;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;6300
+4G;234;15;12;8266;524567;355;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;3501
+4G;234;15;15;8266;524567;355;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;223
+4G;234;15;20;8266;524567;356;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;6300
 4G;234;15;22;8266;524567;356;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;3501
+4G;234;15;25;8266;524567;356;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;223
+4G;234;15;30;8266;524567;354;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;6300
 4G;234;15;32;8266;524567;354;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;3501
 4G;234;15;35;8266;524567;354;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;223
+4G;234;10;110;1328;524567;355;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;6400
+4G;234;10;112;1328;524567;355;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;3725
+4G;234;10;115;1328;524567;355;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;347
 4G;234;10;120;1328;524567;356;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;6400
+4G;234;10;122;1328;524567;356;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;3725
+4G;234;10;125;1328;524567;356;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;347
 4G;234;10;130;1328;524567;354;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;6400
+4G;234;10;132;1328;524567;354;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;3725
 4G;234;10;135;1328;524567;354;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;347
+4G;234;10;110;34784;524769;211;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;115;34784;524769;211;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;347
+4G;234;10;116;34784;524769;211;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
+4G;234;10;117;34784;524769;211;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;10;120;34784;524769;210;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6400
+4G;234;10;125;34784;524769;210;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;347
 4G;234;10;126;34784;524769;210;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;127;34784;524769;210;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39448
+4G;234;10;130;34784;524769;212;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;135;34784;524769;212;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;347
+4G;234;10;136;34784;524769;212;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
+4G;234;10;137;34784;524769;212;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;10;140;34784;524769;81;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;145;34784;524769;81;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;347
+4G;234;10;146;34784;524769;81;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
+4G;234;10;147;34784;524769;81;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39448
+4G;234;15;10;41086;524770;211;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6300
+4G;234;15;15;41086;524770;211;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;223
+4G;234;15;18;41086;524770;211;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;2850
+4G;234;15;20;41086;524770;210;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6300
+4G;234;15;25;41086;524770;210;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;223
 4G;234;15;28;41086;524770;210;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;2850
 4G;234;15;30;41086;524770;212;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6300
+4G;234;15;35;41086;524770;212;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;223
+4G;234;15;38;41086;524770;212;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;2850
+4G;234;15;40;41086;524770;81;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;6300
+4G;234;15;45;41086;524770;81;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;223
+4G;234;15;48;41086;524770;81;53.754920970865214;-0.3597667068243027;Princes Avenue Methodist Church, 91 Princes Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;2850
 4G;234;10;135;4099;524964;377;51.478680949972066;-0.6136267259716988;11 Trinity Pl, Windsor, Berkshire, England, UK;347
 4G;234;10;116;4097;525002;309;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;39250
 4G;234;10;117;4097;525002;309;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;39448
@@ -14128,9 +14207,14 @@
 4G;234;10;136;14467;534307;479;51.40477984273623;-0.5077642947435379;Thorpe Park Car Park, Chertsey, Surrey, England, UK;39250
 4G;234;10;137;14467;534307;479;51.40477984273623;-0.5077642947435379;Thorpe Park Car Park, Chertsey, Surrey, England, UK;39448
 4G;234;10;110;32896;534526;126;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];6400
+4G;234;10;112;32896;534526;126;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];3725
+4G;234;10;115;32896;534526;126;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];347
+4G;234;10;120;32896;534526;128;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];6400
 4G;234;10;122;32896;534526;128;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];3725
-4G;234;10;126;17184;534640;412;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;39250
-4G;234;10;136;17184;534640;413;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;39250
+4G;234;10;125;32896;534526;128;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];347
+4G;234;10;130;32896;534526;127;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];6400
+4G;234;10;132;32896;534526;127;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];3725
+4G;234;10;135;32896;534526;127;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];347
 4G;234;10;110;17184;534644;438;51.48147476780761;-3.17875899374485;4 Queen Street, Cardiff, Wales, UK;6400
 4G;234;10;115;17184;534644;438;51.48147476780761;-3.17875899374485;4 Queen Street, Cardiff, Wales, UK;347
 4G;234;10;116;17184;534644;438;51.48147476780761;-3.17875899374485;4 Queen Street, Cardiff, Wales, UK;39250
@@ -14155,9 +14239,19 @@
 4G;234;10;115;4320;535107;19;51.495487002930204;-0.17945218831300735;Baden-Powell House, 10 Cromwell Road A4, South Kensington, Kensington and Chelsea, Greater London, England, UK;347
 4G;234;10;125;4320;535107;20;51.495487002930204;-0.17945218831300735;Baden-Powell House, 10 Cromwell Road A4, South Kensington, Kensington and Chelsea, Greater London, England, UK;347
 4G;234;10;120;34880;535135;147;53.702286036538055;-0.9609942510724068;Rawcliffe Road A614, Rawcliffe, East Riding of Yorkshire, England, UK;6400
+4G;234;10;110;4097;535310;408;51.48683829304854;-0.2505340799689293;Fuller's Brewery, 160 Chiswick Lane South, Chiswick, Hounslow, Greater London, England, UK;6400
+4G;234;10;114;4097;535310;408;51.48683829304854;-0.2505340799689293;Fuller's Brewery, 160 Chiswick Lane South, Chiswick, Hounslow, Greater London, England, UK;1226
 4G;234;10;115;4097;535310;408;51.48683829304854;-0.2505340799689293;Fuller's Brewery, 160 Chiswick Lane South, Chiswick, Hounslow, Greater London, England, UK;347
+4G;234;10;120;4097;535310;409;51.48683829304854;-0.2505340799689293;Fuller's Brewery, 160 Chiswick Lane South, Chiswick, Hounslow, Greater London, England, UK;6400
+4G;234;10;124;4097;535310;409;51.48683829304854;-0.2505340799689293;Fuller's Brewery, 160 Chiswick Lane South, Chiswick, Hounslow, Greater London, England, UK;1226
+4G;234;10;125;4097;535310;409;51.48683829304854;-0.2505340799689293;Fuller's Brewery, 160 Chiswick Lane South, Chiswick, Hounslow, Greater London, England, UK;347
+4G;234;10;130;4097;535310;410;51.48683829304854;-0.2505340799689293;Fuller's Brewery, 160 Chiswick Lane South, Chiswick, Hounslow, Greater London, England, UK;6400
+4G;234;10;134;4097;535310;410;51.48683829304854;-0.2505340799689293;Fuller's Brewery, 160 Chiswick Lane South, Chiswick, Hounslow, Greater London, England, UK;1226
 4G;234;10;135;4097;535310;410;51.48683829304854;-0.2505340799689293;Fuller's Brewery, 160 Chiswick Lane South, Chiswick, Hounslow, Greater London, England, UK;347
 4G;234;10;116;4097;535311;408;51.48683829304854;-0.2505340799689293;Fuller's Brewery, 160 Chiswick Lane South, Chiswick, Hounslow, Greater London, England, UK;39250
+4G;234;10;117;4097;535311;408;51.48683829304854;-0.2505340799689293;Fuller's Brewery, 160 Chiswick Lane South, Chiswick, Hounslow, Greater London, England, UK;39448
+4G;234;10;126;4097;535311;409;51.48683829304854;-0.2505340799689293;Fuller's Brewery, 160 Chiswick Lane South, Chiswick, Hounslow, Greater London, England, UK;39250
+4G;234;10;127;4097;535311;409;51.48683829304854;-0.2505340799689293;Fuller's Brewery, 160 Chiswick Lane South, Chiswick, Hounslow, Greater London, England, UK;39448
 4G;234;10;136;4097;535311;410;51.48683829304854;-0.2505340799689293;Fuller's Brewery, 160 Chiswick Lane South, Chiswick, Hounslow, Greater London, England, UK;39250
 4G;234;10;137;4097;535311;410;51.48683829304854;-0.2505340799689293;Fuller's Brewery, 160 Chiswick Lane South, Chiswick, Hounslow, Greater London, England, UK;39448
 4G;234;10;110;34880;535586;57;53.61709496067365;-1.0140208527445793;10 Pinfold Lane, Fishlake, Doncaster, South Yorkshire, England, UK;6400
@@ -14247,8 +14341,24 @@
 4G;234;10;127;17184;538927;453;51.50412551562743;-3.199075721204281;Western Avenue A48, Gabalfa Interchange, Gabalfa, Cardiff, Wales, UK;39448
 4G;234;10;136;17184;538927;455;51.50412551562743;-3.199075721204281;Western Avenue A48, Gabalfa Interchange, Gabalfa, Cardiff, Wales, UK;39250
 4G;234;10;137;17184;538927;455;51.50412551562743;-3.199075721204281;Western Avenue A48, Gabalfa Interchange, Gabalfa, Cardiff, Wales, UK;39448
-4G;234;10;125;4099;538944;448;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;347
-4G;234;10;132;4099;538944;267;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;3725
+4G;234;10;110;4099;538944;279;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;6400
+4G;234;10;112;4099;538944;279;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;3725
+4G;234;10;114;4099;538944;279;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;1226
+4G;234;10;115;4099;538944;279;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;347
+4G;234;10;120;4099;538944;280;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;6400
+4G;234;10;122;4099;538944;280;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;3725
+4G;234;10;124;4099;538944;280;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;1226
+4G;234;10;125;4099;538944;280;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;347
+4G;234;10;130;4099;538944;281;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;6400
+4G;234;10;132;4099;538944;281;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;3725
+4G;234;10;134;4099;538944;281;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;1226
+4G;234;10;135;4099;538944;281;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;347
+4G;234;10;116;4099;538945;279;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;39250
+4G;234;10;117;4099;538945;279;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;39448
+4G;234;10;126;4099;538945;280;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;39250
+4G;234;10;127;4099;538945;280;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;39448
+4G;234;10;136;4099;538945;281;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;39250
+4G;234;10;137;4099;538945;281;51.480290235000425;-0.6111077964305878;29-33 William St, Windsor, Berkshire, England, UK;39448
 4G;234;10;116;34448;540311;434;53.23750438816362;-1.4240756258368492;1 Holywell Street B6543, Chesterfield, Derbyshire, England, UK [Cornerstone];39250
 4G;234;10;117;34448;540311;434;53.23750438816362;-1.4240756258368492;1 Holywell Street B6543, Chesterfield, Derbyshire, England, UK [Cornerstone];39448
 4G;234;10;126;34448;540311;433;53.23750438816362;-1.4240756258368492;1 Holywell Street B6543, Chesterfield, Derbyshire, England, UK [Cornerstone];39250
@@ -14419,6 +14529,12 @@
 4G;234;10;116;34880;543028;300;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;39250
 4G;234;10;126;34880;543028;302;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;39250
 4G;234;10;136;34880;543028;301;53.52173014285301;-1.1291127651929855;Consort House, Waterdale, City Centre, Doncaster, South Yorkshire, England, UK;39250
+4G;234;10;116;34448;543128;380;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;39250
+4G;234;10;117;34448;543128;380;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;39448
+4G;234;10;126;34448;543128;379;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;39250
+4G;234;10;127;34448;543128;379;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;39448
+4G;234;10;136;34448;543128;378;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;39250
+4G;234;10;137;34448;543128;378;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;39448
 4G;234;10;116;34784;543134;368;53.729106826428655;-0.5566146969795227;Half Acre Industrial Estate, Wiske Avenue, Brough, East Riding of Yorkshire, England, UK;39250
 4G;234;10;117;34784;543134;368;53.729106826428655;-0.5566146969795227;Half Acre Industrial Estate, Wiske Avenue, Brough, East Riding of Yorkshire, England, UK;39448
 4G;234;10;126;34784;543134;367;53.729106826428655;-0.5566146969795227;Half Acre Industrial Estate, Wiske Avenue, Brough, East Riding of Yorkshire, England, UK;39250
@@ -14479,6 +14595,12 @@
 4G;234;10;134;34880;543721;10;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;1226
 4G;234;10;136;34880;543721;10;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;39250
 4G;234;10;137;34880;543721;10;53.52304149915994;-1.1353817582130432;24 Priory Place, City Centre, Doncaster, South Yorkshire, England, UK;39448
+4G;234;10;116;1328;543834;355;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;39250
+4G;234;10;117;1328;543834;355;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;39448
+4G;234;10;126;1328;543834;356;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;39250
+4G;234;10;127;1328;543834;356;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;39448
+4G;234;10;136;1328;543834;354;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;39250
+4G;234;10;137;1328;543834;354;51.71872899115165;-0.99852304905653;Judd's Lane, Tetsworth, South Oxfordshire, England, UK;39448
 4G;234;10;110;17184;543895;55;51.52627168795272;-3.1089146062731743;Llaneirwg Way, St Mellons, Cardiff, Wales, UK [O2];6400
 4G;234;10;112;17184;543895;55;51.52627168795272;-3.1089146062731743;Llaneirwg Way, St Mellons, Cardiff, Wales, UK [O2];3725
 4G;234;10;115;17184;543895;55;51.52627168795272;-3.1089146062731743;Llaneirwg Way, St Mellons, Cardiff, Wales, UK [O2];347
@@ -14921,6 +15043,12 @@
 4G;234;10;127;17184;546819;10;51.51793425847841;-3.117707557976246;St Illtyds Roman Catholic High School, Newport Road B4487, Llanrumney, Cardiff, Wales, UK;39448
 4G;234;10;136;17184;546819;11;51.51793425847841;-3.117707557976246;St Illtyds Roman Catholic High School, Newport Road B4487, Llanrumney, Cardiff, Wales, UK;39250
 4G;234;10;137;17184;546819;11;51.51793425847841;-3.117707557976246;St Illtyds Roman Catholic High School, Newport Road B4487, Llanrumney, Cardiff, Wales, UK;39448
+4G;234;10;116;32896;546831;126;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];39250
+4G;234;10;117;32896;546831;126;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];39448
+4G;234;10;126;32896;546831;128;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];39250
+4G;234;10;127;32896;546831;128;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];39448
+4G;234;10;136;32896;546831;127;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];39250
+4G;234;10;137;32896;546831;127;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];39448
 4G;234;10;116;34880;546893;126;53.557657658758544;-1.0786815360188484;Sandall Carr Road, Kirk Sandall, Doncaster, South Yorkshire, England, UK;39250
 4G;234;10;117;34880;546893;126;53.557657658758544;-1.0786815360188484;Sandall Carr Road, Kirk Sandall, Doncaster, South Yorkshire, England, UK;39448
 4G;234;10;126;34880;546893;127;53.557657658758544;-1.0786815360188484;Sandall Carr Road, Kirk Sandall, Doncaster, South Yorkshire, England, UK;39250
