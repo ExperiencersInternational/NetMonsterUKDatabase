@@ -571,6 +571,15 @@
 4G;234;10;130;49904;1221;36;52.47894059539017;-1.893059201538563;Moor Street Queensway, Chinese Quarter, Birmingham, West Midlands, England, UK;6400
 4G;234;10;134;49904;1221;441;52.47894059539017;-1.893059201538563;Moor Street Queensway, Chinese Quarter, Birmingham, West Midlands, England, UK;347
 4G;234;10;136;49904;1221;201;52.47894059539017;-1.893059201538563;Moor Street Queensway, Chinese Quarter, Birmingham, West Midlands, England, UK;1226
+4G;234;20;0;1337;1251;390;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];1363
+4G;234;20;1;1337;1251;391;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];1363
+4G;234;20;2;1337;1251;392;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];1363
+4G;234;20;6;1337;1251;2;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];6175
+4G;234;20;7;1337;1251;null;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];6175
+4G;234;20;8;1337;1251;null;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];6175
+4G;234;20;71;1337;1251;145;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];99
+4G;234;20;72;1337;1251;146;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];99
+4G;234;20;73;1337;1251;144;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];99
 4G;234;20;2;2216;1311;374;51.470556190110216;-2.5634609162807465;Ashbourne House, 1 Fishponds Road, Eastville, Bristol, West of England, England, UK;1363
 4G;234;20;0;2132;1328;36;51.51094600566976;-2.671271301805973;Bristol Bioreserves & Renewable Energy Park, Avonmouth, Bristol, West of England, England, UK;1363
 4G;234;20;0;2382;1399;333;51.54252451371725;-2.5796034559607506;1340 Park Ave, Almondsbury, South Gloucestershire, West of England, England, UK;1363
@@ -1527,6 +1536,7 @@
 4G;234;20;1;2131;3940;281;51.412871352325574;-2.496906593441963;Keynsham Leisure Centre, 52 Temple Street, Keynsham, Bath and North East Somerset, West of England, England, UK;1363
 4G;234;20;2;1639;3947;164;51.460803147556646;-0.784827433526516;Spining Wheel Ln, Bracknell, Berkshire, England, UK [MBNL];1363
 4G;234;20;6;1639;3947;39;51.460803147556646;-0.784827433526516;Spining Wheel Ln, Bracknell, Berkshire, England, UK [MBNL];6175
+4G;234;15;18;8273;3950;465;52.62568;1.28978;Vodafone Store, 120 Merchants Hall, Chantry Place Shopping Centre, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR2 1SH];2850
 4G;234;20;0;3179;3954;33;53.6125352222823;-0.9637673199176788;Sainsbury's, 74 King Street A614, Thorne, Doncaster, South Yorkshire, England, UK;1363
 4G;234;20;8;3179;3954;316;53.6125352222823;-0.9637673199176788;Sainsbury's, 74 King Street A614, Thorne, Doncaster, South Yorkshire, England, UK;6175
 4G;234;20;73;3179;3954;441;53.6125352222823;-0.9637673199176788;Sainsbury's, 74 King Street A614, Thorne, Doncaster, South Yorkshire, England, UK;99
@@ -1754,6 +1764,12 @@
 4G;234;10;130;16832;4215;216;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;6400
 4G;234;10;132;16832;4215;216;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;3725
 4G;234;10;134;16832;4215;218;51.319862;-2.207180;St Stephens Place Car Park, St Stephens Place, Trowbridge, Wiltshire, England, UK;347
+4G;234;20;0;1337;4227;324;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];1363
+4G;234;20;1;1337;4227;325;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];1363
+4G;234;20;2;1337;4227;326;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];1363
+4G;234;20;71;1337;4227;312;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];99
+4G;234;20;72;1337;4227;313;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];99
+4G;234;20;73;1337;4227;314;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];99
 4G;234;20;1;2255;4244;293;52.6357779052039;-1.6918881610035896;38 Marmion Street, Tamworth, Staffordshire, England, UK;1363
 4G;234;20;2;2363;4246;125;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;1363
 4G;234;20;92;2363;4246;481;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;9360
@@ -2011,6 +2027,10 @@
 4G;234;10;137;49809;5195;67;52.19440979431774;-2.209821380674839;Elgar House, 1d Shrub Hill, Worcester, Worcestershire, England, UK;39448
 4G;234;20;1;3187;5203;239;53.742628789736536;-0.3522675856947899;Great Thornton Street Flats Block 1, Great Thornton Street, Hull, East Riding of Yorkshire, England, UK;1363
 4G;234;20;7;3187;5203;43;53.742628789736536;-0.3522675856947899;Great Thornton Street Flats Block 1, Great Thornton Street, Hull, East Riding of Yorkshire, England, UK;6175
+4G;234;20;0;1337;5211;484;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];1363
+4G;234;20;1;1337;5211;null;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];1363
+4G;234;20;71;1337;5211;442;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];99
+4G;234;20;72;1337;5211;443;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];99
 4G;234;15;10;24723;5212;435;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;6300
 4G;234;15;12;24723;5212;380;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;3501
 4G;234;15;20;24723;5212;436;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;6300
@@ -3368,6 +3388,12 @@
 4G;234;15;32;6190;8806;33;51.47904803983933;-0.5001511797308922;Moor Bridge (Stop D), Longford, West Drayton, Hillingdon, Greater London, England, UK;3501
 4G;234;15;34;6190;8806;200;51.47904803983933;-0.5001511797308922;Moor Bridge (Stop D), Longford, West Drayton, Hillingdon, Greater London, England, UK;223
 4G;234;15;38;6190;8806;364;51.47904803983933;-0.5001511797308922;Moor Bridge (Stop D), Longford, West Drayton, Hillingdon, Greater London, England, UK;2850
+4G;234;20;0;2397;8826;285;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];1363
+4G;234;20;1;2397;8826;331;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];1363
+4G;234;20;2;2397;8826;314;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];1363
+4G;234;20;6;2397;8826;457;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];6175
+4G;234;20;7;2397;8826;332;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];6175
+4G;234;20;8;2397;8826;381;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];6175
 4G;234;20;7;3728;8838;317;53.71865939474694;-0.8553319796919823;Springbalk Lane, Hook, East Riding of Yorkshire, England, UK;6175
 4G;234;20;0;2384;8841;213;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];1363
 4G;234;20;2;2384;8841;218;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];1363
@@ -3634,6 +3660,9 @@
 4G;234;10;110;49888;9599;215;52.01776979110675;-3.9137831702828407;A482, Carmarthenshire, Wales, UK;6400
 4G;234;10;120;49888;9599;213;52.01776979110675;-3.9137831702828407;A482, Carmarthenshire, Wales, UK;6400
 4G;234;10;130;49888;9599;214;52.01776979110675;-3.9137831702828407;A482, Carmarthenshire, Wales, UK;6400
+4G;234;20;6;2397;9610;331;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];6175
+4G;234;20;7;2397;9610;167;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];6175
+4G;234;20;8;2397;9610;495;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];6175
 4G;234;15;10;24738;9617;60;52.06502989634843;-4.694034419953823;Cwm Degwel, St. Dogmaels, Pembrokeshire, Wales, UK;6300
 4G;234;15;20;24738;9617;61;52.06502989634843;-4.694034419953823;Cwm Degwel, St. Dogmaels, Pembrokeshire, Wales, UK;6300
 4G;234;15;30;24738;9617;62;52.06502989634843;-4.694034419953823;Cwm Degwel, St. Dogmaels, Pembrokeshire, Wales, UK;6300
@@ -4103,14 +4132,20 @@
 4G;234;30;11;24362;10053;279;51.45665704494828;-2.6131149753928185;Richmond Building, 105 Queens Road B3129, Clifton, Bristol, West of England, England, UK;3179
 4G;234;30;3;24361;10054;363;51.53129581348791;-2.5761253014206886;Patchway Fire Station, Durban Road, Patchway, South Gloucestershire, West of England, England, UK [EE];1815
 4G;234;20;92;2363;10054;487;52.1864924994163;-2.242848426103592;Bransford Trading Estate, Bransford Road B4485, St John's, Worcester, Worcestershire, England, UK;1363
+4G;234;20;0;1337;10055;207;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];1363
 4G;234;30;0;24363;10055;143;51.406023;-2.5999611;Middleford House, Withers Lane, Hartcliffe, Bristol, West of England, England, UK;1617
+4G;234;20;1;1337;10055;202;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];1363
 4G;234;30;1;24363;10055;141;51.406023;-2.5999611;Middleford House, Withers Lane, Hartcliffe, Bristol, West of England, England, UK;1617
+4G;234;20;2;1337;10055;446;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];1363
 4G;234;30;2;24363;10055;142;51.406023;-2.5999611;Middleford House, Withers Lane, Hartcliffe, Bristol, West of England, England, UK;1617
 4G;234;30;3;24363;10055;143;51.406023;-2.5999611;Middleford House, Withers Lane, Hartcliffe, Bristol, West of England, England, UK;1815
 4G;234;30;4;24363;10055;141;51.406023;-2.5999611;Middleford House, Withers Lane, Hartcliffe, Bristol, West of England, England, UK;1815
 4G;234;30;5;24363;10055;142;51.406023;-2.5999611;Middleford House, Withers Lane, Hartcliffe, Bristol, West of England, England, UK;1815
+4G;234;20;6;1337;10055;307;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];6175
 4G;234;30;6;24363;10055;143;51.406023;-2.5999611;Middleford House, Withers Lane, Hartcliffe, Bristol, West of England, England, UK;3350
+4G;234;20;7;1337;10055;308;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];6175
 4G;234;30;7;24363;10055;141;51.406023;-2.5999611;Middleford House, Withers Lane, Hartcliffe, Bristol, West of England, England, UK;3350
+4G;234;20;8;1337;10055;306;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];6175
 4G;234;30;8;24363;10055;142;51.406023;-2.5999611;Middleford House, Withers Lane, Hartcliffe, Bristol, West of England, England, UK;3350
 4G;234;30;9;24363;10055;143;51.406023;-2.5999611;Middleford House, Withers Lane, Hartcliffe, Bristol, West of England, England, UK;3179
 4G;234;30;10;24363;10055;141;51.406023;-2.5999611;Middleford House, Withers Lane, Hartcliffe, Bristol, West of England, England, UK;3179
@@ -4650,6 +4685,18 @@
 4G;234;20;0;2142;11618;306;51.151432997815405;-3.1832637637853622;Duke's Plantation, A39, Nether Stowey, Somerset, England, UK;1363
 4G;234;20;0;2120;11620;387;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;1363
 4G;234;20;1;2120;11620;304;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;1363
+4G;234;15;10;8273;11632;345;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];6300
+4G;234;15;12;8273;11632;429;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];3501
+4G;234;15;14;8273;11632;177;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];223
+4G;234;15;18;8273;11632;273;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];2850
+4G;234;15;20;8273;11632;346;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];6300
+4G;234;15;22;8273;11632;430;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];3501
+4G;234;15;24;8273;11632;178;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];223
+4G;234;15;28;8273;11632;274;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];2850
+4G;234;15;30;8273;11632;347;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];6300
+4G;234;15;32;8273;11632;431;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];3501
+4G;234;15;34;8273;11632;179;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];223
+4G;234;15;38;8273;11632;275;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];2850
 4G;234;30;2;24363;11671;468;51.43380964741422;-2.562294825911522;2 Jubilee Road, Knowle, Bristol, West of England, England, UK;1617
 4G;234;30;0;24362;11673;430;51.44899431862987;-2.5659744814038277;Kenneth Steele House, Off Feeder Road, St Philip's Marsh, Bristol, West of England, England, UK;1617
 4G;234;30;1;24362;11673;429;51.44899431862987;-2.5659744814038277;Kenneth Steele House, Off Feeder Road, St Philip's Marsh, Bristol, West of England, England, UK;1617
@@ -5872,6 +5919,21 @@
 4G;234;15;38;24611;15285;260;51.50580443921175;-2.5519153475761414;Filton Lane, Gifford Court, Harry Stoke, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];2850
 4G;234;30;1;20271;15317;468;51.441625597921195;-0.8328047767281532;Pound Lane, M4, Reading, Berkshire, England, UK;1617
 4G;234;30;2;20271;15317;470;51.441625597921195;-0.8328047767281532;Pound Lane, M4, Reading, Berkshire, England, UK;1617
+4G;234;30;0;25241;15446;344;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];1617
+4G;234;30;1;25241;15446;342;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];1617
+4G;234;30;2;25241;15446;343;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];1617
+4G;234;30;3;25241;15446;344;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];1815
+4G;234;30;4;25241;15446;342;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];1815
+4G;234;30;5;25241;15446;343;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];1815
+4G;234;30;6;25241;15446;344;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];3350
+4G;234;30;7;25241;15446;342;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];3350
+4G;234;30;8;25241;15446;343;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];3350
+4G;234;30;9;25241;15446;344;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];3179
+4G;234;30;10;25241;15446;342;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];3179
+4G;234;30;11;25241;15446;343;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];3179
+4G;234;30;18;25241;15446;99;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];497
+4G;234;30;19;25241;15446;93;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];497
+4G;234;30;20;25241;15446;315;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];497
 4G;234;30;0;24363;15447;91;51.38196487434992;-2.3771462962031364;Redbridge House, Midland Road, East Twerton, Bath, Bath and North East Somerset, West of England, England, UK;1617
 4G;234;30;1;24363;15447;90;51.38196487434992;-2.3771462962031364;Redbridge House, Midland Road, East Twerton, Bath, Bath and North East Somerset, West of England, England, UK;1617
 4G;234;30;2;24363;15447;92;51.38196487434992;-2.3771462962031364;Redbridge House, Midland Road, East Twerton, Bath, Bath and North East Somerset, West of England, England, UK;1617
@@ -5986,6 +6048,21 @@
 4G;234;15;28;24610;15480;5;51.560983918518794;-2.5548429787158966;76 Gloucester Road A38, Almondsbury, South Gloucestershire, West of England, England, UK;2850
 4G;234;15;30;24610;15480;4;51.560983918518794;-2.5548429787158966;76 Gloucester Road A38, Almondsbury, South Gloucestershire, West of England, England, UK;6300
 4G;234;15;38;24610;15480;4;51.560983918518794;-2.5548429787158966;76 Gloucester Road A38, Almondsbury, South Gloucestershire, West of England, England, UK;2850
+4G;234;30;0;25241;15530;481;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];1617
+4G;234;30;1;25241;15530;482;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];1617
+4G;234;30;2;25241;15530;480;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];1617
+4G;234;30;3;25241;15530;481;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];1815
+4G;234;30;4;25241;15530;482;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];1815
+4G;234;30;5;25241;15530;480;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];1815
+4G;234;30;6;25241;15530;481;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];3350
+4G;234;30;7;25241;15530;482;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];3350
+4G;234;30;8;25241;15530;480;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];3350
+4G;234;30;9;25241;15530;481;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];3179
+4G;234;30;10;25241;15530;482;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];3179
+4G;234;30;11;25241;15530;480;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];3179
+4G;234;30;18;25241;15530;255;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];497
+4G;234;30;19;25241;15530;375;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];497
+4G;234;30;20;25241;15530;null;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];497
 4G;234;30;0;22561;15564;224;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;1617
 4G;234;30;1;22561;15564;223;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;1617
 4G;234;30;2;22561;15564;222;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;1617
@@ -7326,7 +7403,7 @@
 4G;234;30;20;26381;20356;453;51.23855768446535;-2.2895963457343926;Clink Road, Berkley Down, Frome, Somerset, England, UK;497
 4G;234;30;1;25341;20452;408;51.46097339564702;-1.502075269818306;1 Chalkpit Cottages, Shefford Woodlands, Hungerford, West Berkshire, England, UK;1617
 4G;234;30;2;25341;20452;410;51.46097339564702;-1.502075269818306;1 Chalkpit Cottages, Shefford Woodlands, Hungerford, West Berkshire, England, UK;1617
-4G;234;15;20;57414;20508;337;52.00817770963296;-3.4636417776346207;Transmitter near Nantygwreiddyn, Merthyr Cynog, Brecon, Powys, Wales, UK;6300
+4G;234;15;20;57414;20508;337;52.00823;-3.46371;Transmitter near Nantygwreiddyn, Merthyr Cynog, Powys, Wales, UK [LD3 9RY];6300
 4G;234;30;0;26011;20512;279;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;1;26011;20512;281;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;2;26011;20512;280;51.8052595;-2.6165968;Lower Lane A4136, Christchurch, Coleford, Forest of Dean, Gloucestershire, England, UK;1617
@@ -7891,6 +7968,12 @@
 4G;234;15;32;6190;21801;271;51.52264284280365;-0.6794196367263794;Bishops Gate, Bath Rd, Taplow, Maidenhead, Berkshire, England, UK;3501
 4G;234;15;34;6190;21801;395;51.52264284280365;-0.6794196367263794;Bishops Gate, Bath Rd, Taplow, Maidenhead, Berkshire, England, UK;223
 4G;234;15;38;6190;21801;151;51.52264284280365;-0.6794196367263794;Bishops Gate, Bath Rd, Taplow, Maidenhead, Berkshire, England, UK;2850
+4G;234;30;0;26261;21843;253;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];1617
+4G;234;30;1;26261;21843;252;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];1617
+4G;234;30;2;26261;21843;254;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];1617
+4G;234;30;12;26260;21843;127;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];6225
+4G;234;30;13;26260;21843;126;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];6225
+4G;234;30;14;26260;21843;128;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];6225
 4G;234;15;10;24610;21875;347;51.77268;-2.55686;Woodland Rise, Parkend, Forest of Dean, Gloucestershire, England, UK;6300
 4G;234;15;20;24610;21875;345;51.77268;-2.55686;Woodland Rise, Parkend, Forest of Dean, Gloucestershire, England, UK;6300
 4G;234;15;30;24610;21875;346;51.77268;-2.55686;Woodland Rise, Parkend, Forest of Dean, Gloucestershire, England, UK;6300
@@ -7903,6 +7986,15 @@
 4G;234;15;10;24738;21904;282;52.10667096017292;-4.211982116103172;1 Cae Sarn, Cwrtnewydd, Ceredigion, Wales, UK;6300
 4G;234;15;20;24738;21904;283;52.10667096017292;-4.211982116103172;1 Cae Sarn, Cwrtnewydd, Ceredigion, Wales, UK;6300
 4G;234;15;30;24738;21904;284;52.10667096017292;-4.211982116103172;1 Cae Sarn, Cwrtnewydd, Ceredigion, Wales, UK;6300
+4G;234;30;0;26261;21913;469;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];1617
+4G;234;30;1;26261;21913;468;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];1617
+4G;234;30;2;26261;21913;470;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];1617
+4G;234;30;3;26261;21913;469;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];1815
+4G;234;30;4;26261;21913;468;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];1815
+4G;234;30;5;26261;21913;470;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];1815
+4G;234;30;12;26260;21913;55;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];6225
+4G;234;30;13;26260;21913;54;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];6225
+4G;234;30;14;26260;21913;56;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];6225
 4G;234;30;0;25271;21933;409;52.99125;-0.01004;Pilgrim Hospital, Sibsey Road A16, Trinity, Boston, Lincolnshire, England, UK [PE21 9QS];1617
 4G;234;30;1;25271;21933;410;52.99125;-0.01004;Pilgrim Hospital, Sibsey Road A16, Trinity, Boston, Lincolnshire, England, UK [PE21 9QS];1617
 4G;234;30;2;25271;21933;408;52.99125;-0.01004;Pilgrim Hospital, Sibsey Road A16, Trinity, Boston, Lincolnshire, England, UK [PE21 9QS];1617
@@ -8622,6 +8714,15 @@
 4G;234;30;3;24391;27984;117;51.356788415011124;-2.7881351485848427;Churchill Substation, Iwood Lane, Stock, North Somerset, England, UK;1815
 4G;234;30;0;24391;28030;370;51.4055269207014;-2.8503047302365303;M5, Clevedon, North Somerset, England, UK;1617
 4G;234;30;2;24391;28030;272;51.4055269207014;-2.8503047302365303;M5, Clevedon, North Somerset, England, UK;1617
+4G;234;30;0;25241;28045;319;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];1617
+4G;234;30;1;25241;28045;318;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];1617
+4G;234;30;2;25241;28045;320;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];1617
+4G;234;30;3;25241;28045;319;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];1815
+4G;234;30;4;25241;28045;318;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];1815
+4G;234;30;5;25241;28045;320;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];1815
+4G;234;30;6;25241;28045;319;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];3350
+4G;234;30;7;25241;28045;318;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];3350
+4G;234;30;8;25241;28045;320;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];3350
 4G;234;30;9;24362;28113;259;51.481695050350254;-2.480515278875828;The Hayfields Cleve RFC, Cossham Street B4465, Mangotsfield, South Gloucestershire, West of England, England, UK;3179
 4G;234;30;1;22571;28167;413;51.45418992786806;-1.101907454431057;Unnamed Road, Reading, Berkshire, England, UK;1617
 4G;234;30;2;22571;28167;412;51.45418992786806;-1.101907454431057;Unnamed Road, Reading, Berkshire, England, UK;1617
@@ -8745,6 +8846,33 @@
 4G;234;30;18;26051;29413;215;51.8944897357586;-2.0763687416911125;Montpellier House, Montpellier Dr, Cheltenham, Gloucestershire, England, UK;497
 4G;234;30;19;26051;29413;214;51.8944897357586;-2.0763687416911125;Montpellier House, Montpellier Dr, Cheltenham, Gloucestershire, England, UK;497
 4G;234;30;20;26051;29413;213;51.8944897357586;-2.0763687416911125;Montpellier House, Montpellier Dr, Cheltenham, Gloucestershire, England, UK;497
+4G;234;30;0;25241;29428;287;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];1617
+4G;234;30;1;25241;29428;286;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];1617
+4G;234;30;2;25241;29428;285;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];1617
+4G;234;30;3;25241;29428;287;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];1815
+4G;234;30;4;25241;29428;286;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];1815
+4G;234;30;5;25241;29428;285;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];1815
+4G;234;30;6;25241;29428;87;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];3350
+4G;234;30;7;25241;29428;88;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];3350
+4G;234;30;8;25241;29428;89;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];3350
+4G;234;30;9;25241;29428;489;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];3179
+4G;234;30;10;25241;29428;490;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];3179
+4G;234;30;11;25241;29428;491;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];3179
+4G;234;30;18;25241;29428;45;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];497
+4G;234;30;19;25241;29428;null;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];497
+4G;234;30;20;25241;29428;null;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];497
+4G;234;30;0;25241;29429;191;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];1617
+4G;234;30;1;25241;29429;189;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];1617
+4G;234;30;2;25241;29429;190;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];1617
+4G;234;30;3;25241;29429;191;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];1761
+4G;234;30;4;25241;29429;189;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];1761
+4G;234;30;5;25241;29429;190;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];1761
+4G;234;30;6;25241;29429;191;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];3350
+4G;234;30;7;25241;29429;189;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];3350
+4G;234;30;8;25241;29429;190;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];3350
+4G;234;30;9;25241;29429;191;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];3179
+4G;234;30;10;25241;29429;189;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];3179
+4G;234;30;11;25241;29429;190;52.627392620315796;1.2896738201379776;Dencora House, Theatre Street, Norwich, Norfolk, England, UK [NR2 1SF];3179
 4G;234;30;1;24391;29430;311;51.36589298923668;-2.9319220036268234;3 Newton's Rd, Worle, Weston-super-mare, North Somerset, England, UK;1617
 4G;234;30;1;24391;29482;476;51.419715110672946;-2.7510321512818336;Nailsea and Backwell Railway Station Car Park, 1 Station Close, Backwell, North Somerset, England, UK;1617
 4G;234;30;2;24391;29482;475;51.419715110672946;-2.7510321512818336;Nailsea and Backwell Railway Station Car Park, 1 Station Close, Backwell, North Somerset, England, UK;1617
@@ -9410,6 +9538,18 @@
 4G;234;30;11;24391;35241;86;51.38624769306287;-2.710967995226383;Bristol Airport (BRS) DAS System, North Side Road, North Somerset, England, UK;3179
 4G;234;30;0;20271;35245;259;51.50562538480185;-0.6912843883037567;Monkey Island Ln, Bray, Maidenhead, Berkshire, England, UK;1617
 4G;234;30;1;20271;35245;258;51.50562538480185;-0.6912843883037567;Monkey Island Ln, Bray, Maidenhead, Berkshire, England, UK;1617
+4G;234;30;0;25241;35288;48;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];1617
+4G;234;30;1;25241;35288;49;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];1617
+4G;234;30;2;25241;35288;50;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];1617
+4G;234;30;3;25241;35288;48;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];1761
+4G;234;30;4;25241;35288;49;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];1761
+4G;234;30;5;25241;35288;50;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];1761
+4G;234;30;6;25241;35288;48;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];3350
+4G;234;30;7;25241;35288;49;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];3350
+4G;234;30;8;25241;35288;50;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];3350
+4G;234;30;9;25241;35288;48;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];3179
+4G;234;30;10;25241;35288;49;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];3179
+4G;234;30;11;25241;35288;50;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];3179
 4G;234;30;0;22581;35729;72;51.43093138880093;-0.5164751037955284;2 Pine Trees, Chertsey Ln, Staines-upon-Thames, Surrey, England, UK;1617
 4G;234;30;1;22581;35729;74;51.43093138880093;-0.5164751037955284;2 Pine Trees, Chertsey Ln, Staines-upon-Thames, Surrey, England, UK;1617
 4G;234;30;4;22581;35729;87;51.43093138880093;-0.5164751037955284;2 Pine Trees, Chertsey Ln, Staines-upon-Thames, Surrey, England, UK;1815
@@ -9441,18 +9581,24 @@
 4G;234;30;18;26051;39619;475;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK;497
 4G;234;30;19;26051;39619;476;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK;497
 4G;234;30;20;26051;39619;474;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK;497
-4G;234;30;1;26021;41143;73;52.00818204358931;-3.4636367484927177;Merthyr Cynog, Powys, Wales, UK [LD3 9RY];1617
-4G;234;30;2;26021;41143;null;52.00818204358931;-3.4636367484927177;Merthyr Cynog, Powys, Wales, UK [LD3 9RY];1617
-4G;234;30;4;26021;41143;73;52.00818204358931;-3.4636367484927177;Merthyr Cynog, Powys, Wales, UK [LD3 9RY];1815
-4G;234;30;5;26021;41143;null;52.00818204358931;-3.4636367484927177;Merthyr Cynog, Powys, Wales, UK [LD3 9RY];1815
-4G;234;30;13;26020;41143;185;52.00818204358931;-3.4636367484927177;Merthyr Cynog, Powys, Wales, UK [LD3 9RY];6225
-4G;234;30;14;26020;41143;183;52.00818204358931;-3.4636367484927177;Merthyr Cynog, Powys, Wales, UK [LD3 9RY];6225
+4G;234;30;1;26021;41143;73;52.00823;-3.46371;Transmitter near Nantygwreiddyn, Merthyr Cynog, Powys, Wales, UK [LD3 9RY];1617
+4G;234;30;2;26021;41143;null;52.00818204358931;52.00823;-3.46371;Transmitter near Nantygwreiddyn, Merthyr Cynog, Powys, Wales, UK [LD3 9RY];1617
+4G;234;30;4;26021;41143;73;52.00823;-3.46371;Transmitter near Nantygwreiddyn, Merthyr Cynog, Powys, Wales, UK [LD3 9RY];1815
+4G;234;30;5;26021;41143;null;52.00823;-3.46371;Transmitter near Nantygwreiddyn, Merthyr Cynog, Powys, Wales, UK [LD3 9RY];1815
+4G;234;30;13;26020;41143;185;52.00823;-3.46371;Transmitter near Nantygwreiddyn, Merthyr Cynog, Powys, Wales, UK [LD3 9RY];6225
+4G;234;30;14;26020;41143;183;52.00823;-3.46371;Transmitter near Nantygwreiddyn, Merthyr Cynog, Powys, Wales, UK [LD3 9RY];6225
 4G;234;30;15;26050;41251;114;51.86495625170644;-2.2453006356954575;BT Street Hub, Three Store, 2 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PD];3026
 4G;234;30;24;26050;41251;114;51.86495625170644;-2.2453006356954575;BT Street Hub, Three Store, 2 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PD];1791
 4G;234;30;15;26050;41252;144;51.86584920089483;-2.2465626150369644;BT Street Hub, McDonald's, 20 Westgate Street, Gloucester, Gloucestershire, England, UK [GL1 2NG];3026
 4G;234;30;24;26050;41252;144;51.86584920089483;-2.2465626150369644;BT Street Hub, McDonald's, 20 Westgate Street, Gloucester, Gloucestershire, England, UK [GL1 2NG];1791
 4G;234;30;15;26050;41253;125;51.864190408917054;-2.2440671548247337;BT Street Hub, TUI, 36 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PU];3026
 4G;234;30;24;26050;41253;125;51.864190408917054;-2.2440671548247337;BT Street Hub, TUI, 36 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PU];1791
+4G;234;30;15;25240;41254;300;52.62691741895068;1.2934165075421333;BT Street Hub, Pavers, 1 Brigg Street, Norwich, Norfolk, England, UK [NR2 1QN];3026
+4G;234;30;24;25240;41254;300;52.62691741895068;1.2934165075421333;BT Street Hub, Pavers, 1 Brigg Street, Norwich, Norfolk, England, UK [NR2 1QN];1791
+4G;234;30;15;25240;41255;79;52.62519505058867;1.2918799370527267;BT Street Hub, Starbucks Coffee, 34 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];3026
+4G;234;30;24;25240;41255;79;52.62519505058867;1.2918799370527267;BT Street Hub, Starbucks Coffee, 34 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];1791
+4G;234;30;15;25240;41256;193;52.62593;1.29347;BT Street Hub, M&S, 12 St Stephens Street, Norwich, Norfolk, England, UK [NR2 1QR];3026
+4G;234;30;24;25240;41256;193;52.62593;1.29347;BT Street Hub, M&S, 12 St Stephens Street, Norwich, Norfolk, England, UK [NR2 1QR];1791
 4G;234;30;15;26050;41321;483;51.86486598272866;-2.240871973335743;BT Street Hub, Gloucester Transport Hub, Station Road, Gloucester, Gloucestershire, England, UK [GL1 1SZ];3026
 4G;234;30;24;26050;41321;483;51.86486598272866;-2.240871973335743;BT Street Hub, Gloucester Transport Hub, Station Road, Gloucester, Gloucestershire, England, UK [GL1 1SZ];1791
 4G;234;30;0;26021;41356;420;51.84258;-3.31474;Ty Canol Mast, Llangynidr, Powys, Wales, UK [NP8 1NU];1617
@@ -9910,6 +10056,8 @@
 3G;234;10;57810;21293;293;104;51.39374710062071;-2.3714305087924004;Bath School of Art & Design Sion Hill Campus, Sion Road, Lansdown, Bath, Bath and North East Somerset, West of England, England, UK;3025
 3G;234;10;59881;21293;293;419;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];3025
 3G;234;10;61842;21293;293;174;51.236365075269674;-2.3134069922609632;Frome Cricket Club, Rodden Road, Fromefield, Frome, Somerset, England, UK;3025
+4G;234;20;10;1337;80125;498;52.62550;1.29019;Three Store, 115 Merchants Hall, Chantry Place Shopping Centre, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];1363
+4G;234;20;110;1337;80125;498;52.62550;1.29019;Three Store, 115 Merchants Hall, Chantry Place Shopping Centre, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];76
 3G;234;10;10115;21736;393;201;52.19394942948659;-2.233826480805874;Hardwicke Close, Worcester, Worcestershire, England, UK;3025
 4G;234;10;110;16576;100033;408;51.41689509282574;-1.318200079612512;Vodafone Group, The Connection, Shaw, Newbury, West Berkshire, England, UK [RG14 2FN];6400
 4G;234;10;114;16576;100033;408;51.41689509282574;-1.318200079612512;Vodafone Group, The Connection, Shaw, Newbury, West Berkshire, England, UK [RG14 2FN];347
@@ -11751,7 +11899,7 @@
 4G;234;10;130;17072;120106;107;51.90878837280505;-2.110939733684063;Edward Wilson House, Princess Elizabeth Way A4013, Hester's Way, Cheltenham, Gloucestershire, England, UK [Cornerstone];6400
 4G;234;10;132;17072;120106;405;51.90878837280505;-2.110939733684063;Edward Wilson House, Princess Elizabeth Way A4013, Hester's Way, Cheltenham, Gloucestershire, England, UK [Cornerstone];3725
 4G;234;10;134;17072;120106;107;51.90878837280505;-2.110939733684063;Edward Wilson House, Princess Elizabeth Way A4013, Hester's Way, Cheltenham, Gloucestershire, England, UK [Cornerstone];347
-4G;234;10;120;49888;120508;259;52.00817770963296;-3.4636417776346207;Transmitter near Nantygwreiddyn, Merthyr Cynog, Brecon, Powys, Wales, UK;6400
+4G;234;10;120;49888;120508;259;52.00823;-3.46371;Transmitter near Nantygwreiddyn, Merthyr Cynog, Powys, Wales, UK [LD3 9RY];6400
 4G;234;10;110;16609;120544;439;51.30803488745493;-2.7207791805267334;Rains Batch, Charterhouse, Somerset, England, UK [Cornerstone];6400
 4G;234;10;112;16609;120544;439;51.30803488745493;-2.7207791805267334;Rains Batch, Charterhouse, Somerset, England, UK [Cornerstone];3725
 4G;234;10;120;16609;120544;440;51.30803488745493;-2.7207791805267334;Rains Batch, Charterhouse, Somerset, England, UK [Cornerstone];6400
@@ -13097,6 +13245,30 @@
 4G;234;10;120;1040;505735;371;52.89672872530965;-1.4725052565336227;Osmaston Park Road, Peartree, Derby, East Midlands, England, UK [O2];6400
 4G;234;10;130;1040;505735;369;52.89672872530965;-1.4725052565336227;Osmaston Park Road, Peartree, Derby, East Midlands, England, UK [O2];6400
 4G;234;10;120;4289;505745;491;51.55464976618919;-0.35954106599092484;Northolt Fire Station, 1 Whitton Avenue West A4090, Northolt, Ealing, Greater London, England, UK;6400
+4G;234;15;10;8273;505913;281;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];6300
+4G;234;15;15;8273;505913;281;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];247
+4G;234;15;18;8273;505913;281;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];2850
+4G;234;15;20;8273;505913;280;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];6300
+4G;234;15;25;8273;505913;280;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];247
+4G;234;15;28;8273;505913;280;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];2850
+4G;234;15;30;8273;505913;279;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];6300
+4G;234;15;35;8273;505913;279;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];247
+4G;234;15;38;8273;505913;279;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];2850
+4G;234;10;110;2000;505913;281;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];6400
+4G;234;10;114;2000;505913;281;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];1226
+4G;234;10;115;2000;505913;281;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];347
+4G;234;10;120;2000;505913;280;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];6400
+4G;234;10;124;2000;505913;280;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];1226
+4G;234;10;125;2000;505913;280;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];347
+4G;234;10;130;2000;505913;279;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];6400
+4G;234;10;134;2000;505913;279;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];1226
+4G;234;10;135;2000;505913;279;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];347
+4G;234;10;116;2000;505914;281;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];39250
+4G;234;10;117;2000;505914;281;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];39448
+4G;234;10;126;2000;505914;280;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];39250
+4G;234;10;127;2000;505914;280;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];39448
+4G;234;10;136;2000;505914;279;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];39250
+4G;234;10;137;2000;505914;279;52.62634106501738;1.2989261001348495;Rouen House, Rouen Road, Norwich, Norfolk, England, UK [NR1 1RB];39448
 4G;234;10;125;4098;505925;415;51.49565106831601;-0.3056437522172928;Clayponds Recreational Ground, 222 South Ealing Road B455, Brentford, Hounslow, Greater London, England, UK;347
 4G;234;10;110;34784;505953;60;53.744267994675134;-0.40811318904161453;1008 Anlaby Road B1231, East Ella, Hull, East Riding of Yorkshire, England, UK;6400
 4G;234;10;110;34784;505955;56;53.742277027495014;-0.38972463458776474;63 Boothferry Road A1105, Gipsyville, Hull, East Riding of Yorkshire, England, UK;6400
@@ -13657,6 +13829,30 @@
 4G;234;15;35;41092;509875;396;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;223
 4G;234;10;110;49809;509976;51;52.19206229489194;-2.2206149250268936;O2 Store, 47 High Street, Worcester, Worcestershire, England, UK;6400
 4G;234;10;120;34448;510016;471;53.05808513793301;-1.476283147931099;9 Lynton Road, Ambergate, Derbyshire, England, UK;6400
+4G;234;15;10;8273;510348;287;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];6300
+4G;234;15;15;8273;510348;287;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];247
+4G;234;15;18;8273;510348;287;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];2850
+4G;234;15;20;8273;510348;285;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];6300
+4G;234;15;25;8273;510348;285;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];247
+4G;234;15;28;8273;510348;285;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];2850
+4G;234;15;30;8273;510348;286;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];6300
+4G;234;15;35;8273;510348;286;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];247
+4G;234;15;38;8273;510348;286;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];2850
+4G;234;10;110;2000;510348;287;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];6400
+4G;234;10;114;2000;510348;287;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];1226
+4G;234;10;115;2000;510348;287;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];347
+4G;234;10;120;2000;510348;285;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];6400
+4G;234;10;124;2000;510348;285;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];1226
+4G;234;10;125;2000;510348;285;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];347
+4G;234;10;130;2000;510348;286;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];6400
+4G;234;10;134;2000;510348;286;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];1226
+4G;234;10;135;2000;510348;286;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];347
+4G;234;10;116;2000;510349;287;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];39250
+4G;234;10;117;2000;510349;287;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];39448
+4G;234;10;126;2000;510349;285;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];39250
+4G;234;10;127;2000;510349;285;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];39448
+4G;234;10;136;2000;510349;286;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];39250
+4G;234;10;137;2000;510349;286;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];39448
 4G;234;10;110;34880;510380;228;53.703614819774266;-0.8687758818268776;Victoria Street, Goole, East Riding of Yorkshire, England, UK;6400
 4G;234;10;115;34880;510380;228;53.703614819774266;-0.8687758818268776;Victoria Street, Goole, East Riding of Yorkshire, England, UK;347
 4G;234;10;120;34880;510380;229;53.703614819774266;-0.8687758818268776;Victoria Street, Goole, East Riding of Yorkshire, England, UK;6400
@@ -14147,6 +14343,15 @@
 4G;234;10;127;4099;520043;466;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;39448
 4G;234;10;136;4099;520043;467;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;39250
 4G;234;10;137;4099;520043;467;51.48764603468854;-0.5747916921973228;Riding Court Road, M4, Slough, Berkshire, England, UK;39448
+4G;234;10;110;2000;520140;99;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];6400
+4G;234;10;114;2000;520140;99;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];1226
+4G;234;10;115;2000;520140;99;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];347
+4G;234;10;120;2000;520140;100;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];6400
+4G;234;10;124;2000;520140;100;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];1226
+4G;234;10;125;2000;520140;100;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];347
+4G;234;10;130;2000;520140;101;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];6400
+4G;234;10;134;2000;520140;101;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];1226
+4G;234;10;135;2000;520140;101;52.62563;1.29048;Chantry Place Shopping Centre DAS System, 40-46 St Stephens Street, Norwich, Norfolk, England, UK [NR1 3SH];347
 4G;234;10;110;34448;520176;380;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;6400
 4G;234;10;112;34448;520176;380;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;3725
 4G;234;10;115;34448;520176;380;53.23720901188889;-1.428830511868;Chesterfield Telephone Exchange, 27 Glumangate, Chesterfield, Derbyshire, England, UK;347
@@ -14272,6 +14477,24 @@
 4G;234;10;130;4097;521910;311;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;6400
 4G;234;10;132;4097;521910;311;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;3725
 4G;234;10;135;4097;521910;311;51.49721239832738;-0.20485270604892433;M.E.I.C House, 344 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;347
+4G;234;15;10;8281;521930;135;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];6300
+4G;234;15;12;8281;521930;135;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];3501
+4G;234;15;15;8281;521930;135;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];223
+4G;234;15;20;8281;521930;137;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];6300
+4G;234;15;22;8281;521930;137;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];3501
+4G;234;15;25;8281;521930;137;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];223
+4G;234;15;30;8281;521930;136;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];6300
+4G;234;15;32;8281;521930;136;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];3501
+4G;234;15;35;8281;521930;136;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];223
+4G;234;10;110;1104;521930;135;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];6400
+4G;234;10;112;1104;521930;135;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];3725
+4G;234;10;115;1104;521930;135;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];347
+4G;234;10;120;1104;521930;137;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];6400
+4G;234;10;122;1104;521930;137;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];3725
+4G;234;10;125;1104;521930;137;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];347
+4G;234;10;130;1104;521930;136;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];6400
+4G;234;10;132;1104;521930;136;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];3725
+4G;234;10;135;1104;521930;136;52.92445;1.25116;Holgate Lane, West Runton, Norwich, England, UK [NR27 9RN];347
 4G;234;10;110;1040;521994;66;52.98282556519349;-1.4735888689756393;Eaton Bank, Duffield, Derbyshire, England, UK;6400
 4G;234;10;120;1040;522136;359;52.98814955228728;-1.4852383732795715;Duffield Railway Station, Donald Hawley Way, Duffield, Derbyshire, England, UK;6400
 4G;234;10;130;1040;522136;358;52.98814955228728;-1.4852383732795715;Duffield Railway Station, Donald Hawley Way, Duffield, Derbyshire, England, UK;6400
@@ -14384,6 +14607,12 @@
 4G;234;10;127;1248;523353;352;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;39448
 4G;234;10;136;1248;523353;353;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;39250
 4G;234;10;137;1248;523353;353;52.978594210110174;-0.020601586403521555;Boston Telephone Exchange, Pescod Square, Boston, Lincolnshire, England, UK;39448
+4G;234;15;10;8273;523362;236;52.843405;1.344884;Cromer Road A149, Antingham, Norfolk, England, UK [NR28 0NJ];6300
+4G;234;15;20;8273;523362;234;52.843405;1.344884;Cromer Road A149, Antingham, Norfolk, England, UK [NR28 0NJ];6300
+4G;234;15;30;8273;523362;235;52.843405;1.344884;Cromer Road A149, Antingham, Norfolk, England, UK [NR28 0NJ];6300
+4G;234;10;110;2000;523362;236;52.843405;1.344884;Cromer Road A149, Antingham, Norfolk, England, UK [NR28 0NJ];6400
+4G;234;10;120;2000;523362;234;52.843405;1.344884;Cromer Road A149, Antingham, Norfolk, England, UK [NR28 0NJ];6400
+4G;234;10;130;2000;523362;235;52.843405;1.344884;Cromer Road A149, Antingham, Norfolk, England, UK [NR28 0NJ];6400
 4G;234;10;110;34448;523690;183;53.264721222437394;-1.4412625506520271;Chesterfield Panthers, Dunston Road B6050, Chesterfield, Derbyshire, England, UK;6400
 4G;234;10;112;34448;523690;183;53.264721222437394;-1.4412625506520271;Chesterfield Panthers, Dunston Road B6050, Chesterfield, Derbyshire, England, UK;3725
 4G;234;10;115;34448;523690;183;53.264721222437394;-1.4412625506520271;Chesterfield Panthers, Dunston Road B6050, Chesterfield, Derbyshire, England, UK;347
@@ -14450,6 +14679,24 @@
 4G;234;10;136;4097;524231;149;51.49427277547729;-0.1948510855436325;Sullivan Court, 109 Earl's Court Road A3220, Earl's Court, Kensington and Chelsea, Greater London, England, UK;39250
 4G;234;10;137;4097;524231;149;51.49427277547729;-0.1948510855436325;Sullivan Court, 109 Earl's Court Road A3220, Earl's Court, Kensington and Chelsea, Greater London, England, UK;39448
 4G;234;10;125;4097;524375;412;51.495712018665145;-0.21302204579114914;Kensington West, 72 Blythe Road, Brook Green, Hammersmith and Fulham, Greater London, England, UK;347
+4G;234;15;10;8273;524386;303;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];6300
+4G;234;15;15;8273;524386;303;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];247
+4G;234;15;18;8273;524386;303;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];2850
+4G;234;15;20;8273;524386;304;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];6300
+4G;234;15;25;8273;524386;304;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];247
+4G;234;15;28;8273;524386;304;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];2850
+4G;234;15;30;8273;524386;305;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];6300
+4G;234;15;35;8273;524386;305;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];247
+4G;234;15;38;8273;524386;305;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];2850
+4G;234;10;110;2000;524386;303;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];6400
+4G;234;10;114;2000;524386;303;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];1226
+4G;234;10;115;2000;524386;303;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];347
+4G;234;10;120;2000;524386;304;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];6400
+4G;234;10;124;2000;524386;304;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];1226
+4G;234;10;125;2000;524386;304;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];347
+4G;234;10;130;2000;524386;305;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];6400
+4G;234;10;134;2000;524386;305;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];1226
+4G;234;10;135;2000;524386;305;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];347
 4G;234;10;135;4097;524439;92;51.50222593048025;-0.2156093716621399;K West Hotel & Spa, Richmond Way, Brook Green, Hammersmith and Fulham, Greater London, England, UK;347
 4G;234;10;125;4290;524450;91;51.557909399845315;-0.4150708392262459;RAF Station Northolt, West End Road A4180, Ruislip, Greater London, England, UK;347
 4G;234;10;125;34880;524465;274;53.7030797389942;-0.9008205682039261;4A Lidice Road, Goole, East Riding of Yorkshire, England, UK;347
@@ -14574,6 +14821,12 @@
 4G;234;10;110;160;529606;349;52.63828135626393;-1.6927377507090569;George Crook Building, South Staffordshire College - Tamworth Campus, 20 Croft Street, Leyfields, Tamworth, Staffordshire, England, UK;6400
 4G;234;10;114;4320;530795;188;51.494006421791184;-0.18434017896652222;Opposite Holiday Inn Kensington Forum, 95 Ashburn Place, South Kensington, Kensington and Chelsea, Greater London, England, UK;1228
 4G;234;10;126;4320;531129;273;51.499436723504445;-0.17907902598381042;Imperial College London Blackett Laboratory, Prince Consort Road, South Kensington, Westminster, Greater London, England, UK;39250
+4G;234;10;116;2000;531767;303;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];39250
+4G;234;10;117;2000;531767;303;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];39448
+4G;234;10;126;2000;531767;304;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];39250
+4G;234;10;127;2000;531767;304;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];39448
+4G;234;10;136;2000;531767;305;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];39250
+4G;234;10;137;2000;531767;305;52.630299071568146;1.294456198811531;Norwich City Telephone Exchange, Saint Andrews Street, Norwich, Norfolk, England, UK [Cornerstone] [NR2 4AE];39448
 4G;234;10;114;1280;531964;223;51.16058329;-0.1777880467;London Gatwick Airport North Terminal DAS System, Airport Way A23, Crawley, West Sussex, England, UK;1226
 4G;234;10;114;1280;532144;60;51.15584303;-0.1635430604;London Gatwick Airport South Terminal DAS System, London Road A23, Crawley, West Sussex, England, UK;1226
 4G;234;10;115;4097;532632;195;51.491080603629484;-0.2829676866531372;Chiswick Roundabout, 531 Chiswick High Road A205, Chiswick, Hounslow, Greater London, England, UK;347
@@ -14592,6 +14845,12 @@
 4G;234;10;130;34784;533246;173;53.77208605744264;-0.3934227302670479;142 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [O2];6400
 4G;234;10;132;34784;533246;173;53.77208605744264;-0.3934227302670479;142 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [O2];3725
 4G;234;10;135;34784;533246;173;53.77208605744264;-0.3934227302670479;142 Hull Road B1233, Cottingham, East Riding of Yorkshire, England, UK [O2];347
+4G;234;10;116;2000;533508;27;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];39250
+4G;234;10;117;2000;533508;27;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];39448
+4G;234;10;126;2000;533508;29;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];39250
+4G;234;10;127;2000;533508;29;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];39448
+4G;234;10;136;2000;533508;28;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];39250
+4G;234;10;137;2000;533508;28;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];39448
 4G;234;10;130;32896;533826;173;53.379543410447106;-1.4559100940823555;Manor and Park Group Practice, 190 Duke Street A6070, Park Hill, Sheffield, South Yorkshire, England, UK;6400
 4G;234;15;30;40968;533827;173;53.379543410447106;-1.4559100940823555;Manor and Park Group Practice, 190 Duke Street A6070, Park Hill, Sheffield, South Yorkshire, England, UK;6300
 4G;234;10;125;4097;534106;84;51.49088499964298;-0.26867419481277466;Chiswick Fire Station, Sutton Lane North, Chiswick, Hounslow, Greater London, England, UK;347
@@ -14609,6 +14868,24 @@
 4G;234;10;127;14467;534307;478;51.40477984273623;-0.5077642947435379;Thorpe Park Car Park, Chertsey, Surrey, England, UK;39448
 4G;234;10;136;14467;534307;479;51.40477984273623;-0.5077642947435379;Thorpe Park Car Park, Chertsey, Surrey, England, UK;39250
 4G;234;10;137;14467;534307;479;51.40477984273623;-0.5077642947435379;Thorpe Park Car Park, Chertsey, Surrey, England, UK;39448
+4G;234;15;10;8273;534466;264;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];6300
+4G;234;15;15;8273;534466;264;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];247
+4G;234;15;20;8273;534466;265;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];6300
+4G;234;15;25;8273;534466;265;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];247
+4G;234;15;30;8273;534466;266;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];6300
+4G;234;15;35;8273;534466;266;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];247
+4G;234;10;110;2000;534466;264;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];6400
+4G;234;10;112;2000;534466;264;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];3725
+4G;234;10;114;2000;534466;264;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];1226
+4G;234;10;115;2000;534466;264;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];347
+4G;234;10;120;2000;534466;265;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];6400
+4G;234;10;122;2000;534466;265;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];3725
+4G;234;10;124;2000;534466;265;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];1226
+4G;234;10;125;2000;534466;265;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];347
+4G;234;10;130;2000;534466;266;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];6400
+4G;234;10;132;2000;534466;266;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];3725
+4G;234;10;134;2000;534466;266;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];1226
+4G;234;10;135;2000;534466;266;52.623492560326994;1.2956595048308372;Norfolk Tower, Surrey Street, Norwich, Norfolk, England, UK [NR1 3PA];347
 4G;234;10;110;32896;534526;126;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];6400
 4G;234;10;112;32896;534526;126;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];3725
 4G;234;10;115;32896;534526;126;53.36965005651739;-1.4645390957593918;Screwfix, 240 Queens Road A61, Lowfield, Sheffield, South Yorkshire, England, UK [O2];347
@@ -15562,6 +15839,15 @@
 4G;234;10;127;34880;547486;420;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;39448
 4G;234;10;136;34880;547486;422;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;39250
 4G;234;10;137;34880;547486;422;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;39448
+4G;234;10;110;2000;547599;27;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];6400
+4G;234;10;112;2000;547599;27;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];3725
+4G;234;10;115;2000;547599;27;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];347
+4G;234;10;120;2000;547599;29;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];6400
+4G;234;10;122;2000;547599;29;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];3725
+4G;234;10;125;2000;547599;29;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];347
+4G;234;10;130;2000;547599;28;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];6400
+4G;234;10;132;2000;547599;28;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];3725
+4G;234;10;135;2000;547599;28;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];347
 4G;234;10;116;34784;547633;233;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;117;34784;547633;233;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;10;126;34784;547633;231;53.757566647140955;-0.39008136838674545;5 Bontoft Avenue, Avenues, Hull, East Riding of Yorkshire, England, UK;39250
@@ -16095,6 +16381,30 @@
 4G;234;10;130;1057;601305;168;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;6400
 4G;234;10;132;1057;601305;168;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;3725
 4G;234;10;135;1057;601305;168;51.790289620413255;-1.1786876991391182;Oxford Transmitting Station, 5 New Road, Beckley, South Oxfordshire, England, UK;347
+4G;234;15;10;8281;600371;113;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];6300
+4G;234;15;12;8281;600371;113;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];3501
+4G;234;15;15;8281;600371;113;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];223
+4G;234;15;20;8281;600371;111;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];6300
+4G;234;15;22;8281;600371;111;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];3501
+4G;234;15;25;8281;600371;111;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];223
+4G;234;15;30;8281;600371;112;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];6300
+4G;234;15;32;8281;600371;112;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];3501
+4G;234;15;35;8281;600371;112;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];223
+4G;234;10;110;1104;600371;113;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];6400
+4G;234;10;112;1104;600371;113;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];3725
+4G;234;10;115;1104;600371;113;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];347
+4G;234;10;116;1104;600371;113;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];39250
+4G;234;10;117;1104;600371;113;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];39448
+4G;234;10;120;1104;600371;111;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];6400
+4G;234;10;122;1104;600371;111;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];3725
+4G;234;10;125;1104;600371;111;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];347
+4G;234;10;126;1104;600371;111;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];39250
+4G;234;10;127;1104;600371;111;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];39448
+4G;234;10;130;1104;600371;112;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];6400
+4G;234;10;132;1104;600371;112;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];3725
+4G;234;10;135;1104;600371;112;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];347
+4G;234;10;136;1104;600371;112;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];39250
+4G;234;10;137;1104;600371;112;52.930689;1.2139303;Sheringham Water Treatment Works, Woodland Rise, Sheringham, Norfolk, England, UK [NR26 8PW];39448
 4G;234;10;110;4099;601537;285;51.50153782785996;-0.3595675528049469;Osterley Sports Centre, 173 Tentelow Lane A4127, Hanwell, Ealing, Greater London, England, UK;6400
 4G;234;10;112;4099;601537;285;51.50153782785996;-0.3595675528049469;Osterley Sports Centre, 173 Tentelow Lane A4127, Hanwell, Ealing, Greater London, England, UK;3725
 4G;234;10;114;4099;601537;285;51.50153782785996;-0.3595675528049469;Osterley Sports Centre, 173 Tentelow Lane A4127, Hanwell, Ealing, Greater London, England, UK;1226
