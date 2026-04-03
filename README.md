@@ -23,3 +23,7 @@ Aberaeron, Abergavenny, Barry, Barton-upon-Humber, Bath, Beaconsfield, Boston, B
 * EE (23430): most coverage on 4G only with limited coverage on 2G and marginal coverage on 5G
 
 Support for networks in the Channel Islands is currently outside of the scope of the project, but I may look into this in the future.
+
+---
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K0UNLZX)
