@@ -569,9 +569,9 @@
 2G;234;15;53133;309;0;39;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];9
 2G;234;15;53294;null;0;7;;;-;4
 2G;234;15;53301;309;0;55;;;-;10
-2G;234;30;53515;2302;0;57;;;-;659
-2G;234;30;53516;2302;0;25;;;-;662
-2G;234;30;53517;2605;0;60;;;-;664
+2G;234;30;53515;2605;0;57;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];659
+2G;234;30;53516;2605;0;25;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];662
+2G;234;30;53517;2605;0;60;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];664
 2G;234;15;54140;131;0;24;;;-;2
 2G;234;15;54474;131;0;1;;;-;17
 2G;234;30;55413;null;0;58;;;-;645
@@ -767,18 +767,6 @@
 4G;234;20;1;2127;1520;1;51.55967263566932;-1.7882944643497467;21 Commercial Rd, Swindon, Wiltshire, England, UK;1363
 4G;234;20;2;2127;1520;281;51.55967263566932;-1.7882944643497467;21 Commercial Rd, Swindon, Wiltshire, England, UK;1363
 4G;234;20;1;2127;1521;274;51.55265784973299;-1.7769041284918785;7-9 Victoria Rd, Swindon, Wiltshire, England, UK;1363
-4G;234;20;0;2128;1529;352;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;1363
-4G;234;20;1;2128;1529;116;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;1363
-4G;234;20;2;2128;1529;147;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;1363
-4G;234;20;6;2128;1529;null;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;6175
-4G;234;20;7;2128;1529;487;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;6175
-4G;234;20;8;2128;1529;null;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;6175
-4G;234;20;71;2128;1529;null;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;76
-4G;234;20;72;2128;1529;null;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;76
-4G;234;20;73;2128;1529;null;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;76
-4G;234;20;91;2128;1529;157;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;9360
-4G;234;20;92;2128;1529;null;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;9360
-4G;234;20;93;2128;1529;null;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;9360
 4G;234;20;2;2132;1544;458;51.504317932382456;-2.6456427946686745;65 Vincent Cl, Bristol, West of England, England, UK;1363
 4G;234;20;0;2120;1569;201;51.833679016183325;-2.271200381219387;Greenhill Drive, A38, Quedgeley, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;2;2120;1569;326;51.833679016183325;-2.271200381219387;Greenhill Drive, A38, Quedgeley, Gloucester, Gloucestershire, England, UK;1363
@@ -806,6 +794,7 @@
 4G;234;15;34;12305;1685;125;51.40477984273623;-0.5077642947435379;Thorpe Park Car Park, Chertsey, Surrey, England, UK;223
 4G;234;20;0;2129;1690;300;51.36474690477463;-2.3834367468953133;Corston View Open Space, 16 Corston View, Kingsway, Bath, Bath and North East Somerset, West of England, England, UK;1363
 4G;234;20;2;2129;1690;474;51.36474690477463;-2.3834367468953133;Corston View Open Space, 16 Corston View, Kingsway, Bath, Bath and North East Somerset, West of England, England, UK;1363
+4G;234;20;72;2129;1690;52;51.36474690477463;-2.3834367468953133;Corston View Open Space, 16 Corston View, Kingsway, Bath, Bath and North East Somerset, West of England, England, UK;76
 4G;234;20;1;3184;1719;412;53.76316806441297;-0.6263209506869316;Sunnydene Animal Shelter, Petuaria Way A63, South Cave, East Riding of Yorkshire, England, UK;1363
 4G;234;15;20;24581;1719;35;51.48868904201147;-1.442364938557148;Unnamed Road, Hungerford, West Berkshire, England, UK;6300
 4G;234;15;20;24581;1720;180;51.49312447939502;-1.2453281879425049;Water Street, Hampstead Norreys, Thatcham, West Berkshire, England, UK;6300
@@ -1200,6 +1189,18 @@
 4G;234;10;110;16625;2939;8;51.53860542957992;-2.3901204764842987;Pearce Performance & Accident Repair Centre Unit 1 TT Trading Estate, Hatters Lane, Chipping Sodbury, South Gloucestershire, West of England, England, UK;6400
 4G;234;10;120;16625;2939;6;51.53860542957992;-2.3901204764842987;Pearce Performance & Accident Repair Centre Unit 1 TT Trading Estate, Hatters Lane, Chipping Sodbury, South Gloucestershire, West of England, England, UK;6400
 4G;234;10;130;16625;2939;7;51.53860542957992;-2.3901204764842987;Pearce Performance & Accident Repair Centre Unit 1 TT Trading Estate, Hatters Lane, Chipping Sodbury, South Gloucestershire, West of England, England, UK;6400
+4G;234;15;10;24626;2943;460;51.37219;-2.36641;Wellsway A367, Bear Flat, Bath, Bath and North East Somerset, West of England, England, UK [BA2 2AD];6300
+4G;234;15;14;24626;2943;460;51.37219;-2.36641;Wellsway A367, Bear Flat, Bath, Bath and North East Somerset, West of England, England, UK [BA2 2AD];223
+4G;234;15;20;24626;2943;459;51.37219;-2.36641;Wellsway A367, Bear Flat, Bath, Bath and North East Somerset, West of England, England, UK [BA2 2AD];6300
+4G;234;15;24;24626;2943;459;51.37219;-2.36641;Wellsway A367, Bear Flat, Bath, Bath and North East Somerset, West of England, England, UK [BA2 2AD];223
+4G;234;15;30;24626;2943;461;51.37219;-2.36641;Wellsway A367, Bear Flat, Bath, Bath and North East Somerset, West of England, England, UK [BA2 2AD];6300
+4G;234;15;34;24626;2943;461;51.37219;-2.36641;Wellsway A367, Bear Flat, Bath, Bath and North East Somerset, West of England, England, UK [BA2 2AD];223
+4G;234;10;110;16832;2943;460;51.37219;-2.36641;Wellsway A367, Bear Flat, Bath, Bath and North East Somerset, West of England, England, UK [BA2 2AD];6400
+4G;234;10;114;16832;2943;269;51.37219;-2.36641;Wellsway A367, Bear Flat, Bath, Bath and North East Somerset, West of England, England, UK [BA2 2AD];347
+4G;234;10;120;16832;2943;459;51.37219;-2.36641;Wellsway A367, Bear Flat, Bath, Bath and North East Somerset, West of England, England, UK [BA2 2AD];6400
+4G;234;10;124;16832;2943;267;51.37219;-2.36641;Wellsway A367, Bear Flat, Bath, Bath and North East Somerset, West of England, England, UK [BA2 2AD];347
+4G;234;10;130;16832;2943;461;51.37219;-2.36641;Wellsway A367, Bear Flat, Bath, Bath and North East Somerset, West of England, England, UK [BA2 2AD];6400
+4G;234;10;134;16832;2943;268;51.37219;-2.36641;Wellsway A367, Bear Flat, Bath, Bath and North East Somerset, West of England, England, UK [BA2 2AD];347
 4G;234;15;10;24723;2982;459;51.858060298215975;-2.233087532222271;1 St James Street, Barton, Gloucester, Gloucestershire, England, UK;6300
 4G;234;15;12;24723;2982;76;51.858060298215975;-2.233087532222271;1 St James Street, Barton, Gloucester, Gloucestershire, England, UK;3501
 4G;234;15;14;24723;2982;210;51.858060298215975;-2.233087532222271;1 St James Street, Barton, Gloucester, Gloucestershire, England, UK;223
@@ -1328,6 +1329,24 @@
 4G;234;10;110;16625;3209;78;51.48408948426455;-2.6333747059106827;1 Parrys Lane B4054, Stoke Bishop, Bristol, West of England, England, UK;6400
 4G;234;10;120;16625;3209;80;51.48408948426455;-2.6333747059106827;1 Parrys Lane B4054, Stoke Bishop, Bristol, West of England, England, UK;6400
 4G;234;10;130;16625;3209;79;51.48408948426455;-2.6333747059106827;1 Parrys Lane B4054, Stoke Bishop, Bristol, West of England, England, UK;6400
+4G;234;20;0;2129;3212;150;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];1363
+4G;234;20;1;2129;3212;10;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];1363
+4G;234;20;2;2129;3212;26;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];1363
+4G;234;20;71;2129;3212;108;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];76
+4G;234;20;72;2129;3212;109;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];76
+4G;234;20;73;2129;3212;110;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];76
+4G;234;15;10;24626;3216;229;51.31111;-2.41893;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Cornerstone] [BA2 8SF];6300
+4G;234;15;14;24626;3216;229;51.31111;-2.41893;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Cornerstone] [BA2 8SF];223
+4G;234;15;20;24626;3216;230;51.31111;-2.41893;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Cornerstone] [BA2 8SF];6300
+4G;234;15;24;24626;3216;230;51.31111;-2.41893;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Cornerstone] [BA2 8SF];223
+4G;234;15;30;24626;3216;228;51.31111;-2.41893;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Cornerstone] [BA2 8SF];6300
+4G;234;15;34;24626;3216;228;51.31111;-2.41893;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Cornerstone] [BA2 8SF];223
+4G;234;10;110;16832;3216;229;51.31111;-2.41893;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Cornerstone] [BA2 8SF];6400
+4G;234;10;114;16832;3216;229;51.31111;-2.41893;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Cornerstone] [BA2 8SF];347
+4G;234;10;120;16832;3216;230;51.31111;-2.41893;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Cornerstone] [BA2 8SF];6400
+4G;234;10;124;16832;3216;230;51.31111;-2.41893;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Cornerstone] [BA2 8SF];347
+4G;234;10;130;16832;3216;228;51.31111;-2.41893;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Cornerstone] [BA2 8SF];6400
+4G;234;10;134;16832;3216;228;51.31111;-2.41893;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Cornerstone] [BA2 8SF];347
 4G;234;15;10;24723;3220;165;51.895274073085346;-2.059669926931694;KL Precision Engineering Ltd, Athelney Way, Battledown Industrial Estate, Cheltenham, Gloucestershire, England, UK;6300
 4G;234;15;20;24723;3220;166;51.895274073085346;-2.059669926931694;KL Precision Engineering Ltd, Athelney Way, Battledown Industrial Estate, Cheltenham, Gloucestershire, England, UK;6300
 4G;234;15;30;24723;3220;167;51.895274073085346;-2.059669926931694;KL Precision Engineering Ltd, Athelney Way, Battledown Industrial Estate, Cheltenham, Gloucestershire, England, UK;6300
@@ -1413,6 +1432,9 @@
 4G;234;20;91;2254;3339;195;52.99125;-0.01004;Pilgrim Hospital, Sibsey Road A16, Trinity, Boston, Lincolnshire, England, UK [PE21 9QS];9360
 4G;234;20;92;2254;3339;211;52.99125;-0.01004;Pilgrim Hospital, Sibsey Road A16, Trinity, Boston, Lincolnshire, England, UK [PE21 9QS];9360
 4G;234;20;93;2254;3339;416;52.99125;-0.01004;Pilgrim Hospital, Sibsey Road A16, Trinity, Boston, Lincolnshire, England, UK [PE21 9QS];9360
+4G;234;20;6;2474;3340;67;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];6175
+4G;234;20;7;2474;3340;323;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];6175
+4G;234;20;8;2474;3340;339;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];6175
 4G;234;20;0;2254;3342;225;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;1363
 4G;234;20;1;2254;3342;34;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;1363
 4G;234;20;2;2254;3342;283;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;1363
@@ -2047,6 +2069,7 @@
 4G;234;15;22;24723;4375;218;51.72457214979054;-1.9467992708086967;The Harebushes, Stow Rd, Cirencester, Gloucestershire, England, UK;3501
 4G;234;15;30;24723;4375;161;51.72457214979054;-1.9467992708086967;The Harebushes, Stow Rd, Cirencester, Gloucestershire, England, UK;6300
 4G;234;15;32;24723;4375;216;51.72457214979054;-1.9467992708086967;The Harebushes, Stow Rd, Cirencester, Gloucestershire, England, UK;3501
+4G;234;15;18;24626;4384;366;51.38046;-2.36011;Vodafone Store, Bath, Bath and North East Somerset, West of England, England, UK;2850
 4G;234;20;0;1282;4391;300;51.78829;-1.28271;Northern Bypass Road A40, Wolvercote, Oxford, Oxfordshire, England, UK [MBNL];1363
 4G;234;20;1;1282;4391;61;51.78829;-1.28271;Northern Bypass Road A40, Wolvercote, Oxford, Oxfordshire, England, UK [MBNL];1363
 4G;234;20;2;1282;4391;239;51.78829;-1.28271;Northern Bypass Road A40, Wolvercote, Oxford, Oxfordshire, England, UK [MBNL];1363
@@ -2417,10 +2440,13 @@
 4G;234;20;1;3490;5618;302;53.729106826428655;-0.5566146969795227;Half Acre Industrial Estate, Wiske Avenue, Brough, East Riding of Yorkshire, England, UK;1363
 4G;234;20;7;3490;5618;149;53.729106826428655;-0.5566146969795227;Half Acre Industrial Estate, Wiske Avenue, Brough, East Riding of Yorkshire, England, UK;6175
 4G;234;15;10;24626;5619;237;51.36183373249979;-2.3523258045315742;Combe Down RFC, Bramble Way, Fox Hill, Bath, Bath and North East Somerset, West of England, England, UK;6300
+4G;234;15;12;24626;5619;237;51.36183373249979;-2.3523258045315742;Combe Down RFC, Bramble Way, Fox Hill, Bath, Bath and North East Somerset, West of England, England, UK;3501
 4G;234;15;14;24626;5619;237;51.36183373249979;-2.3523258045315742;Combe Down RFC, Bramble Way, Fox Hill, Bath, Bath and North East Somerset, West of England, England, UK;223
 4G;234;15;20;24626;5619;238;51.36183373249979;-2.3523258045315742;Combe Down RFC, Bramble Way, Fox Hill, Bath, Bath and North East Somerset, West of England, England, UK;6300
+4G;234;15;22;24626;5619;238;51.36183373249979;-2.3523258045315742;Combe Down RFC, Bramble Way, Fox Hill, Bath, Bath and North East Somerset, West of England, England, UK;3501
 4G;234;15;24;24626;5619;238;51.36183373249979;-2.3523258045315742;Combe Down RFC, Bramble Way, Fox Hill, Bath, Bath and North East Somerset, West of England, England, UK;223
 4G;234;15;30;24626;5619;239;51.36183373249979;-2.3523258045315742;Combe Down RFC, Bramble Way, Fox Hill, Bath, Bath and North East Somerset, West of England, England, UK;6300
+4G;234;15;32;24626;5619;239;51.36183373249979;-2.3523258045315742;Combe Down RFC, Bramble Way, Fox Hill, Bath, Bath and North East Somerset, West of England, England, UK;3501
 4G;234;15;34;24626;5619;239;51.36183373249979;-2.3523258045315742;Combe Down RFC, Bramble Way, Fox Hill, Bath, Bath and North East Somerset, West of England, England, UK;223
 4G;234;10;110;16832;5619;237;51.36183373249979;-2.3523258045315742;Combe Down RFC, Bramble Way, Fox Hill, Bath, Bath and North East Somerset, West of England, England, UK;6400
 4G;234;10;114;16832;5619;237;51.36183373249979;-2.3523258045315742;Combe Down RFC, Bramble Way, Fox Hill, Bath, Bath and North East Somerset, West of England, England, UK;347
@@ -3172,6 +3198,12 @@
 4G;234;15;20;57374;7527;367;52.482614220899244;-1.8937378004193308;Gazette Buildings, 168 Corporation Street, City Centre, Birmingham, West Midlands, England, UK;6300
 4G;234;15;22;57374;7527;367;52.482614220899244;-1.8937378004193308;Gazette Buildings, 168 Corporation Street, City Centre, Birmingham, West Midlands, England, UK;3501
 4G;234;15;24;57374;7527;367;52.482614220899244;-1.8937378004193308;Gazette Buildings, 168 Corporation Street, City Centre, Birmingham, West Midlands, England, UK;223
+4G;234;20;0;2473;7529;393;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];1617
+4G;234;20;1;2473;7529;409;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];1617
+4G;234;20;2;2473;7529;209;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];1617
+4G;234;20;6;2473;7529;169;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];6175
+4G;234;20;7;2473;7529;266;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];6175
+4G;234;20;8;2473;7529;324;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];6175
 4G;234;15;10;24723;7530;87;51.88201466397993;-2.2035828977823257;A40 (near Melody Way), Innsworth, Tewkesbury, Gloucestershire, England, UK;6300
 4G;234;15;14;24723;7530;87;51.88201466397993;-2.2035828977823257;A40 (near Melody Way), Innsworth, Tewkesbury, Gloucestershire, England, UK;223
 4G;234;15;18;24723;7530;87;51.88201466397993;-2.2035828977823257;A40 (near Melody Way), Innsworth, Tewkesbury, Gloucestershire, England, UK;2850
@@ -3443,6 +3475,18 @@
 4G;234;10;110;16625;8041;342;51.46071979887348;-2.589353956282139;Kenham House, 11 Wilder St, St Paul's, Bristol, West of England, England, UK;6400
 4G;234;10;114;16625;8041;342;51.46071979887348;-2.589353956282139;Kenham House, 11 Wilder St, St Paul's, Bristol, West of England, England, UK;347
 4G;234;10;116;16625;8041;342;51.46071979887348;-2.589353956282139;Kenham House, 11 Wilder St, St Paul's, Bristol, West of England, England, UK;1226
+4G;234;15;10;24626;8044;423;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];6300
+4G;234;15;14;24626;8044;423;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];223
+4G;234;15;20;24626;8044;424;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];6300
+4G;234;15;24;24626;8044;424;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];223
+4G;234;15;30;24626;8044;425;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];6300
+4G;234;15;34;24626;8044;425;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];223
+4G;234;10;110;16832;8044;423;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];6400
+4G;234;10;114;16832;8044;423;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];347
+4G;234;10;120;16832;8044;424;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];6400
+4G;234;10;124;16832;8044;424;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];347
+4G;234;10;130;16832;8044;425;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];6400
+4G;234;10;134;16832;8044;425;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];347
 4G;234;20;1;1338;8057;328;52.66913137801033;1.2709872052073479;67 Holt Rd, Norwich, Norfolk, England, UK;1363
 4G;234;15;10;24611;8069;256;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;6300
 4G;234;15;12;24611;8069;256;51.45293553081891;-2.5678205117583275;Dynamatic-Oldland Aerospace, 4 Jarvis Street, St Philips, Bristol, West of England, England, UK;3501
@@ -4623,10 +4667,24 @@
 4G;234;30;13;24360;10099;365;51.520468442759594;-2.63584166765213;M5, Almondsbury, South Gloucestershire, West of England, England, UK;6225
 4G;234;30;1;24361;10100;400;51.58361264848627;-2.7347001805901527;Off M4 East (Prince of Wales Bridge), Caldicot, Monmouthshire, Wales, UK;1617
 4G;234;30;2;24361;10100;401;51.58361264848627;-2.7347001805901527;Off M4 East (Prince of Wales Bridge), Caldicot, Monmouthshire, Wales, UK;1617
+4G;234;15;10;24626;10100;189;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];6300
+4G;234;15;12;24626;10100;189;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];3501
+4G;234;15;14;24626;10100;189;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];223
+4G;234;15;20;24626;10100;191;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];6300
 4G;234;15;22;24626;10100;191;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];3501
 4G;234;15;24;24626;10100;191;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];223
+4G;234;15;30;24626;10100;190;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];6300
+4G;234;15;32;24626;10100;190;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];3501
+4G;234;15;34;24626;10100;190;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];223
+4G;234;10;110;16832;10100;189;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];6400
+4G;234;10;112;16832;10100;189;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];3725
+4G;234;10;114;16832;10100;189;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];347
 4G;234;10;120;16832;10100;191;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];6400
 4G;234;10;122;16832;10100;191;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];3725
+4G;234;10;124;16832;10100;191;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];347
+4G;234;10;130;16832;10100;190;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];6400
+4G;234;10;132;16832;10100;190;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];3725
+4G;234;10;134;16832;10100;190;51.39097699255076;-2.3930269852280617;Pathology Department, Royal United Hospital, Penn Hill Road, Combe Park, Bath, Bath and North East Somerset, West of England, England, UK [Cornerstone];347
 4G;234;30;0;24361;10101;267;51.56446485652037;-2.650376223027706;Severn Road A403, Redwick, South Gloucestershire, West of England, England, UK [MBNL];1617
 4G;234;30;2;24361;10101;269;51.56446485652037;-2.650376223027706;Severn Road A403, Redwick, South Gloucestershire, West of England, England, UK [MBNL];1617
 4G;234;30;4;24361;10103;87;51.511890827209086;-2.6814036816358566;Access 18, Kings Weston Lane, Avonmouth, Bristol, West of England, England, UK;1815
@@ -4634,6 +4692,21 @@
 4G;234;30;13;24360;10103;447;51.511890827209086;-2.6814036816358566;Access 18, Kings Weston Lane, Avonmouth, Bristol, West of England, England, UK;6225
 4G;234;30;0;24361;10106;81;51.58445346528667;-2.81942680478096;Vinegar Hill, Undy, Monmouthshire, Wales, UK;1617
 4G;234;30;2;24361;10106;82;51.58445346528667;-2.81942680478096;Vinegar Hill, Undy, Monmouthshire, Wales, UK;1617
+4G;234;15;10;24626;10106;72;51.37943;-2.32716;Norwood House, The Parade, University of Bath, Claverton Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 7AY];6300
+4G;234;15;12;24626;10106;72;51.37943;-2.32716;Norwood House, The Parade, University of Bath, Claverton Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 7AY];3501
+4G;234;15;14;24626;10106;92;51.37943;-2.32716;Norwood House, The Parade, University of Bath, Claverton Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 7AY];223
+4G;234;15;20;24626;10106;73;51.37943;-2.32716;Norwood House, The Parade, University of Bath, Claverton Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 7AY];6300
+4G;234;15;22;24626;10106;73;51.37943;-2.32716;Norwood House, The Parade, University of Bath, Claverton Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 7AY];3501
+4G;234;15;24;24626;10106;90;51.37943;-2.32716;Norwood House, The Parade, University of Bath, Claverton Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 7AY];223
+4G;234;15;30;24626;10106;74;51.37943;-2.32716;Norwood House, The Parade, University of Bath, Claverton Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 7AY];6300
+4G;234;15;32;24626;10106;74;51.37943;-2.32716;Norwood House, The Parade, University of Bath, Claverton Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 7AY];3501
+4G;234;15;34;24626;10106;91;51.37943;-2.32716;Norwood House, The Parade, University of Bath, Claverton Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 7AY];223
+4G;234;10;110;16832;10106;72;51.37943;-2.32716;Norwood House, The Parade, University of Bath, Claverton Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 7AY];6400
+4G;234;10;114;16832;10106;72;51.37943;-2.32716;Norwood House, The Parade, University of Bath, Claverton Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 7AY];347
+4G;234;10;120;16832;10106;73;51.37943;-2.32716;Norwood House, The Parade, University of Bath, Claverton Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 7AY];6400
+4G;234;10;124;16832;10106;73;51.37943;-2.32716;Norwood House, The Parade, University of Bath, Claverton Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 7AY];347
+4G;234;10;130;16832;10106;74;51.37943;-2.32716;Norwood House, The Parade, University of Bath, Claverton Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 7AY];6400
+4G;234;10;134;16832;10106;74;51.37943;-2.32716;Norwood House, The Parade, University of Bath, Claverton Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 7AY];347
 4G;234;30;3;24391;10108;153;51.371416400095164;-2.8247513249516487;16 Weston Road A370, Congresbury, North Somerset, England, UK [MBNL];1815
 4G;234;30;5;24391;10108;132;51.371416400095164;-2.8247513249516487;16 Weston Road A370, Congresbury, North Somerset, England, UK [MBNL];1815
 4G;234;30;12;24390;10108;389;51.371416400095164;-2.8247513249516487;16 Weston Road A370, Congresbury, North Somerset, England, UK [MBNL];6225
@@ -5405,11 +5478,11 @@
 4G;234;20;2;1582;12650;17;51.441625597921195;-0.8328047767281532;Pound Lane, M4, Reading, Berkshire, England, UK;1363
 4G;234;20;72;1582;12650;439;51.441625597921195;-0.8328047767281532;Pound Lane, M4, Reading, Berkshire, England, UK;76
 4G;234;15;28;6190;12670;325;51.516080732699955;-0.6568746641278267;Huntercombe Ln S, Maidenhead, Berkshire, England, UK [Cornerstone];2850
-4G;234;20;0;2123;12799;438;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];1363
-4G;234;20;1;2123;12799;304;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];1363
+4G;234;20;0;2123;12799;402;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];1363
+4G;234;20;1;2123;12799;106;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];1363
 4G;234;20;2;2123;12799;395;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];1363
-4G;234;20;6;2123;12799;72;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];6175
-4G;234;20;7;2123;12799;314;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];6175
+4G;234;20;6;2123;12799;54;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];6175
+4G;234;20;7;2123;12799;122;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];6175
 4G;234;20;8;2123;12799;94;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];6175
 4G;234;30;1;24361;12832;161;51.48133466338092;-2.649630568921566;Bristol Manor Farm Football Club, Portway A4, Sea Mills, Bristol, West of England, England, UK;1617
 4G;234;30;18;24361;12832;174;51.48133466338092;-2.649630568921566;Bristol Manor Farm Football Club, Portway A4, Sea Mills, Bristol, West of England, England, UK;497
@@ -6608,6 +6681,21 @@
 4G;234;30;18;25391;15634;300;50.726714;-3.534134;Exeter Telephone Exchange, Queensgate House, 48 Queen Street, Exeter, Devon, England, UK;497
 4G;234;30;19;25391;15634;495;50.726714;-3.534134;Exeter Telephone Exchange, Queensgate House, 48 Queen Street, Exeter, Devon, England, UK;497
 4G;234;30;20;25391;15634;312;50.726714;-3.534134;Exeter Telephone Exchange, Queensgate House, 48 Queen Street, Exeter, Devon, England, UK;497
+4G;234;30;0;24363;15637;100;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];1617
+4G;234;30;1;24363;15637;101;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];1617
+4G;234;30;2;24363;15637;99;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];1617
+4G;234;30;3;24363;15637;288;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];1815
+4G;234;30;4;24363;15637;450;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];1815
+4G;234;30;5;24363;15637;88;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];1815
+4G;234;30;6;24363;15637;100;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];3350
+4G;234;30;7;24363;15637;101;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];3350
+4G;234;30;8;24363;15637;99;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];3350
+4G;234;30;9;24363;15637;100;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];3179
+4G;234;30;10;24363;15637;101;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];3179
+4G;234;30;11;24363;15637;99;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];3179
+4G;234;30;18;24363;15637;378;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];497
+4G;234;30;19;24363;15637;357;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];497
+4G;234;30;20;24363;15637;318;51.35681;-2.37003;Saint Martin's Hospital, Frome Road A3062, Odd Down, Bath, Bath and North East Somerset, West of England, England, UK [BA2 5RQ];497
 4G;234;30;0;25241;15655;364;52.684807160445274;1.2903504073619843;Petans Ltd, Bullock Hill, Horsham St Faith, Norwich, Norfolk, England, UK;1617
 4G;234;30;2;25241;15655;363;52.684807160445274;1.2903504073619843;Petans Ltd, Bullock Hill, Horsham St Faith, Norwich, Norfolk, England, UK;1617
 4G;234;30;3;25241;15655;435;52.684807160445274;1.2903504073619843;Petans Ltd, Bullock Hill, Horsham St Faith, Norwich, Norfolk, England, UK;1815
@@ -8742,6 +8830,30 @@
 4G;234;15;10;24738;22014;437;52.014165,-4.4826137;Capel Iwan Road, Dolybryn, Carmarthenshire, Wales, UK [SA38 9LP];6300
 4G;234;15;20;24738;22014;435;52.014165,-4.4826137;Capel Iwan Road, Dolybryn, Carmarthenshire, Wales, UK [SA38 9LP];6300
 4G;234;15;30;24738;22014;436;52.014165,-4.4826137;Capel Iwan Road, Dolybryn, Carmarthenshire, Wales, UK [SA38 9LP];6300
+4G;234;30;0;25281;22012;45;52.80926;-0.51323;Corby Glen Fire Station, Bourne Road A151, Corby Glen, Lincolnshire, England, UK [NG33 4NS];1617
+4G;234;30;1;25281;22012;47;52.80926;-0.51323;Corby Glen Fire Station, Bourne Road A151, Corby Glen, Lincolnshire, England, UK [NG33 4NS];1617
+4G;234;30;2;25281;22012;46;52.80926;-0.51323;Corby Glen Fire Station, Bourne Road A151, Corby Glen, Lincolnshire, England, UK [NG33 4NS];1617
+4G;234;30;12;25280;22012;110;52.80926;-0.51323;Corby Glen Fire Station, Bourne Road A151, Corby Glen, Lincolnshire, England, UK [NG33 4NS];6225
+4G;234;30;13;25280;22012;108;52.80926;-0.51323;Corby Glen Fire Station, Bourne Road A151, Corby Glen, Lincolnshire, England, UK [NG33 4NS];6225
+4G;234;30;14;25280;22012;109;52.80926;-0.51323;Corby Glen Fire Station, Bourne Road A151, Corby Glen, Lincolnshire, England, UK [NG33 4NS];6225
+4G;234;30;0;25281;22015;139;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];1617
+4G;234;30;1;25281;22015;140;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];1617
+4G;234;30;2;25281;22015;138;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];1617
+4G;234;30;0;25281;22015;139;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];1617
+4G;234;30;1;25281;22015;140;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];1617
+4G;234;30;2;25281;22015;138;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];1617
+4G;234;30;12;25280;22015;139;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];6225
+4G;234;30;13;25280;22015;140;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];6225
+4G;234;30;14;25280;22015;138;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];6225
+4G;234;30;0;25281;22017;295;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];1617
+4G;234;30;1;25281;22017;294;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];1617
+4G;234;30;2;25281;22017;296;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];1617
+4G;234;30;3;25281;22017;258;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];1815
+4G;234;30;4;25281;22017;null;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];1815
+4G;234;30;5;25281;22017;381;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];1815
+4G;234;30;12;25280;22017;97;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];6225
+4G;234;30;13;25280;22017;98;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];6225
+4G;234;30;14;25280;22017;96;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];6225
 4G;234;30;0;25271;22026;358;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;1617
 4G;234;30;1;25271;22026;359;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;1617
 4G;234;30;2;25271;22026;357;52.96688542770261;-0.02250429863636349;Port of Boston, Skirbeck Quarter, Boston, Lincolnshire, England, UK;1617
@@ -9346,6 +9458,28 @@
 4G;234;15;222;24723;24918;448;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];76
 4G;234;15;230;24723;24918;470;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];9360
 4G;234;15;232;24723;24918;449;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];76
+4G;234;15;10;24626;25030;434;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;6300
+4G;234;15;12;24626;25030;331;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;3501
+4G;234;15;14;24626;25030;137;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;223
+4G;234;15;16;24626;25030;498;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;1363
+4G;234;15;18;24626;25030;144;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;2850
+4G;234;15;null;24626;25030;435;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;10220
+4G;234;15;20;24626;25030;432;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;6300
+4G;234;15;22;24626;25030;332;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;3501
+4G;234;15;24;24626;25030;136;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;223
+4G;234;15;26;24626;25030;500;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;1363
+4G;234;15;28;24626;25030;146;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;2850
+4G;234;15;30;24626;25030;433;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;6300
+4G;234;15;32;24626;25030;330;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;3501
+4G;234;15;34;24626;25030;135;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;223
+4G;234;15;36;24626;25030;499;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;1363
+4G;234;15;38;24626;25030;145;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;2850
+4G;234;15;210;24626;25030;473;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;9360
+4G;234;15;212;24626;25030;411;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;76
+4G;234;15;220;24626;25030;null;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;9360
+4G;234;15;222;24626;25030;413;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;76
+4G;234;15;230;24626;25030;null;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;9360
+4G;234;15;232;24626;25030;412;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;76
 4G;234;30;24;24360;25039;431;51.45887;-2.58728;The Horsefair, City Centre, Bristol, West of England, England, UK;1791
 4G;234;30;15;23540;25112;203;51.494620953340686;-0.18269598484039307;BT Street Hub, Gloucester Arcade, 75 Gloucester Road, South Kensington, Kensington and Chelsea, Greater London, England, UK;3026
 4G;234;30;0;26051;25140;73;51.86599536710058;-2.483631670475006;77 Parks Rd, Mitcheldean, Forest of Dean, Gloucestershire, England, UK;1617
@@ -10981,6 +11115,18 @@
 4G;234;20;6;2397;51986;321;52.85465291954339;1.0324784740805626;18, tower bank industrial estate, Melton Constable, UK;6175
 4G;234;20;91;2397;51986;213;52.85465291954339;1.0324784740805626;18, tower bank industrial estate, Melton Constable, UK;9360
 4G;234;20;92;2397;51986;61;52.85465291954339;1.0324784740805626;18, tower bank industrial estate, Melton Constable, UK;9360
+4G;234;20;0;2421;51988;60;51.31118;-2.41921;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Three] [BA2 8SF];1363
+4G;234;20;1;2421;51988;null;51.31118;-2.41921;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Three] [BA2 8SF];1363
+4G;234;20;2;2421;51988;215;51.31118;-2.41921;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Three] [BA2 8SF];1363
+4G;234;20;6;2421;51988;null;51.31118;-2.41921;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Three] [BA2 8SF];6175
+4G;234;20;7;2421;51988;null;51.31118;-2.41921;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Three] [BA2 8SF];6175
+4G;234;20;8;2421;51988;101;51.31118;-2.41921;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Three] [BA2 8SF];6175
+4G;234;20;71;2421;51988;300;51.31118;-2.41921;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Three] [BA2 8SF];76
+4G;234;20;72;2421;51988;301;51.31118;-2.41921;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Three] [BA2 8SF];76
+4G;234;20;73;2421;51988;302;51.31118;-2.41921;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Three] [BA2 8SF];76
+4G;234;20;91;2421;51988;321;51.31118;-2.41921;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Three] [BA2 8SF];9360
+4G;234;20;92;2421;51988;343;51.31118;-2.41921;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Three] [BA2 8SF];9360
+4G;234;20;93;2421;51988;161;51.31118;-2.41921;Wellow Lane, Peasedown St John, Bath and North East Somerset, West of England, England, UK [Three] [BA2 8SF];9360
 4G;234;20;7;2483;51994;148;51.56836358253321;-1.8271529674530032;8 Nuffield Cl, Shaw, Swindon, Wiltshire, England, UK;6175
 4G;234;20;92;2483;51994;238;51.56836358253321;-1.8271529674530032;8 Nuffield Cl, Shaw, Swindon, Wiltshire, England, UK;9360
 4G;234;20;93;1267;52142;320;51.43825690061165;-1.0283807292580605;50 Carters Rise, Fords Farm, Reading, Berkshire, England, UK;9360
@@ -15158,6 +15304,15 @@
 4G;234;10;110;34448;512420;254;53.48235281797299;-1.2341178953647614;Conisbrough Telephone Exchange, 13 Old Road, Conisbrough, Doncaster, South Yorkshire, England, UK;6400
 4G;234;15;10;41065;512421;254;53.48235281797299;-1.2341178953647614;Conisbrough Telephone Exchange, 13 Old Road, Conisbrough, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;30;41092;512429;32;53.55804163472538;-0.9712402895092963;Woodhouse Grange Fishery, Bawtry Road A614, Hatfield Woodhouse, Doncaster, South Yorkshire, England, UK;6300
+4G;234;15;10;8277;512598;209;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];6300
+4G;234;15;20;8277;512598;207;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];6300
+4G;234;15;30;8277;512598;208;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];6300
+4G;234;10;110;1504;512598;209;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];6400
+4G;234;10;114;1504;512598;209;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];1226
+4G;234;10;120;1504;512598;207;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];6400
+4G;234;10;124;1504;512598;207;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];1226
+4G;234;10;130;1504;512598;208;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];6400
+4G;234;10;134;1504;512598;208;52.91845;-0.59251;Newgate Lane, Grantham, Lincolnshire, England, UK [NG31 9HB];1226
 4G;234;15;20;41092;512607;20;53.593296003709526;-1.1201250180602074;East Coast Main Line, Thorpe-in-Balne, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;10;8286;512634;417;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;6300
 4G;234;15;12;8286;512634;417;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;3501
@@ -15541,7 +15696,7 @@
 4G;234;10;127;672;522423;329;51.66179010515753;-0.9137414395809174;Tower Farm, Oxford Road A40, Stokenchurch, Buckinghamshire, England, UK;39448
 4G;234;10;136;672;522423;327;51.66179010515753;-0.9137414395809174;Tower Farm, Oxford Road A40, Stokenchurch, Buckinghamshire, England, UK;39250
 4G;234;10;137;672;522423;327;51.66179010515753;-0.9137414395809174;Tower Farm, Oxford Road A40, Stokenchurch, Buckinghamshire, England, UK;39448
-4G;234;20;10;8273;522506;243;52.77969998832679;1.1314824968576431;Old School House, Salle, Norwich, Norfolk, England, UK;6300
+4G;234;15;10;8273;522506;243;52.77969998832679;1.1314824968576431;Old School House, Salle, Norwich, Norfolk, England, UK;6300
 4G;234;10;110;4291;522538;276;51.615513;-0.245824;The Broadway A5100, Mill Hill, Barnet, Greater London, England, UK;6400
 4G;234;10;112;4291;522538;276;51.615513;-0.245824;The Broadway A5100, Mill Hill, Barnet, Greater London, England, UK;3725
 4G;234;10;114;4291;522538;276;51.615513;-0.245824;The Broadway A5100, Mill Hill, Barnet, Greater London, England, UK;1226
@@ -15690,6 +15845,18 @@
 4G;234;15;25;41092;523973;81;53.52474207588219;-1.1408836394548416;North Bridge Road, City Centre, Doncaster, South Yorkshire, England, UK;223
 4G;234;15;30;41092;523973;83;53.52474207588219;-1.1408836394548416;North Bridge Road, City Centre, Doncaster, South Yorkshire, England, UK;6300
 4G;234;15;35;41092;523973;83;53.52474207588219;-1.1408836394548416;North Bridge Road, City Centre, Doncaster, South Yorkshire, England, UK;223
+4G;234;15;10;8286;523994;399;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];6300
+4G;234;15;20;8286;523994;401;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];6300
+4G;234;15;30;8286;523994;400;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];6300
+4G;234;10;110;1248;523994;399;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];6400
+4G;234;10;112;1248;523994;399;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];3725
+4G;234;10;115;1248;523994;399;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];347
+4G;234;10;120;1248;523994;401;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];6400
+4G;234;10;122;1248;523994;401;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];3725
+4G;234;10;125;1248;523994;401;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];347
+4G;234;10;130;1248;523994;400;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];6400
+4G;234;10;132;1248;523994;400;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];3725
+4G;234;10;135;1248;523994;400;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];347
 4G;234;10;110;34784;524048;383;53.789013379393104;-0.37921104580163956;Hall Road, Orchard Park, Hull, East Riding of Yorkshire, England, UK [O2];6400
 4G;234;10;112;34784;524048;383;53.789013379393104;-0.37921104580163956;Hall Road, Orchard Park, Hull, East Riding of Yorkshire, England, UK [O2];3725
 4G;234;10;115;34784;524048;383;53.789013379393104;-0.37921104580163956;Hall Road, Orchard Park, Hull, East Riding of Yorkshire, England, UK [O2];347
@@ -16744,6 +16911,12 @@
 4G;234;10;127;34784;545939;415;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;39448
 4G;234;10;136;34784;545939;416;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;39250
 4G;234;10;137;34784;545939;416;53.775619477879324;-0.3270306810736656;12 Rotterdam Road, Sutton Fields, Stoneferry, Hull, East Riding of Yorkshire, England, UK;39448
+4G;234;10;116;1248;545951;399;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];39250
+4G;234;10;117;1248;545951;399;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];39448
+4G;234;10;126;1248;545951;401;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];39250
+4G;234;10;127;1248;545951;401;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];39448
+4G;234;10;136;1248;545951;400;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];39250
+4G;234;10;137;1248;545951;400;52.89616;-0.07047;Workhouse Lane, Algarkirk, Lincolnshire, England, UK [PE20 2HW];39448
 4G;234;10;110;17184;546050;95;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;6400
 4G;234;10;112;17184;546050;95;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;3725
 4G;234;10;115;17184;546050;95;51.50164510326207;-3.248855844140053;5 Restways Close, Fairwater, Cardiff, Wales, UK;347
@@ -17866,8 +18039,11 @@
 5G;234;15;18202661;124723;0;734;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];426010
 5G;234;15;18677795;124723;0;2;51.86606;-2.23119;The Atrium, Gloucestershire Royal Hospital, Great Western Road, Wotton, Gloucester, Gloucestershire, England, UK [GL1 3NL];628032
 5G;234;15;33357839;124723;0;9;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];628032
+5G;234;15;33357841;124723;0;null;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];426010
 5G;234;15;33357849;124723;0;7;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];628032
+5G;234;15;33357851;124723;0;956;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];426010
 5G;234;15;33357859;124723;0;6;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];628032
+5G;234;15;33357861;124723;0;null;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];426010
 5G;234;15;35880975;106192;0;978;51.65509;-0.27879;Elstree Telephone Exchange, Shenley Road B5378, Borehamwood, Hertfordshire, England, UK;628032
 5G;234;15;35880985;106192;0;979;51.65509;-0.27879;Elstree Telephone Exchange, Shenley Road B5378, Borehamwood, Hertfordshire, England, UK;628032
 5G;234;15;35880995;106192;0;980;51.65509;-0.27879;Elstree Telephone Exchange, Shenley Road B5378, Borehamwood, Hertfordshire, England, UK;628032
@@ -17887,6 +18063,9 @@
 5G;234;15;194150415;124611;0;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;628032
 5G;234;15;194150425;124611;0;27;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;628032
 5G;234;15;194150435;124611;0;29;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;628032
+5G;234;15;356188175;124626;0;994;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;628032
+5G;234;15;356188185;124626;0;993;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;628032
+5G;234;15;356188195;124626;0;995;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;628032
 
 5G;234;30;167641088;119011;0;662;51.45039828238214;-2.5968969077932846;The Bristol Hotel, Prince Street, Old City, Bristol, West of England, England, UK;636768
 5G;234;30;167641089;119011;0;661;51.45039828238214;-2.5968969077932846;The Bristol Hotel, Prince Street, Old City, Bristol, West of England, England, UK;636768
@@ -17934,6 +18113,24 @@
 5G;234;30;9268871183;370011;0;867;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;529490
 5G;234;30;9268871184;370011;0;868;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;529490
 5G;234;30;9268871185;370011;0;869;52.97644;-0.034072;Food Plus, Seaford Road, Staniland, Boston, Lincolnshire, England, UK;529490
+5G;234;30;9317253120;389011;0;717;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];636768
+5G;234;30;9317253121;389011;0;null;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];636768
+5G;234;30;9317253122;389011;0;null;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];636768
+5G;234;30;9317253123;389011;0;846;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];646080
+5G;234;30;9317253124;389011;0;null;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];646080
+5G;234;30;9317253125;389011;0;null;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];646080
+5G;234;30;9317253126;389011;0;954;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];156510
+5G;234;30;9317253127;389011;0;955;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];156510
+5G;234;30;9317253128;389011;0;956;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];156510
+5G;234;30;9317253129;389011;0;969;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];431070
+5G;234;30;9317253130;389011;0;936;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];431070
+5G;234;30;9317253131;389011;0;null;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];431070
+5G;234;30;9317253132;389011;0;462;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];372490
+5G;234;30;9317253133;389011;0;732;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];372490
+5G;234;30;9317253134;389011;0;195;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];372490
+5G;234;30;9317253135;389011;0;993;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];529490
+5G;234;30;9317253136;389011;0;994;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];529490
+5G;234;30;9317253137;389011;0;995;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];529490
 5G;234;30;9486565385;109011;0;792;51.222093492190965;-2.325799986158331;Grove Lane, Marston Trading Estate, The Butts, Frome, Somerset, England, UK;431070
 5G;234;30;9683664896;389011;0;921;51.84558112271105;-2.185492403805256;Lobleys Drive, M5 South, Hucclecote, Gloucester, Gloucestershire, England, UK [EE] [GL3 3RW];636768
 5G;234;30;9683664897;389011;0;null;51.84558112271105;-2.185492403805256;Lobleys Drive, M5 South, Hucclecote, Gloucester, Gloucestershire, England, UK [EE] [GL3 3RW];636768
