@@ -1266,9 +1266,6 @@
 4G;234;15;24;24723;2928;190;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];223
 4G;234;15;30;24723;2928;365;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];6300
 4G;234;15;34;24723;2928;191;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];223
-4G;234;15;10;24723;2929;162;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];6300
-4G;234;15;20;24723;2929;163;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];6300
-4G;234;15;30;24723;2929;164;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];6300
 4G;234;20;1;2244;2933;418;51.505096773680435;-3.1659960374236107;Tower, University Hall, Birchwood Lane, Penylan, Cardiff, Wales, UK;1363
 4G;234;10;120;16608;2938;21;51.534867450784276;-3.2202598080039024;140 Wenallt Road, Pantmawr, Cardiff, Wales, UK;6400
 4G;234;15;10;24610;2939;8;51.53860542957992;-2.3901204764842987;Pearce Performance & Accident Repair Centre Unit 1 TT Trading Estate, Hatters Lane, Chipping Sodbury, South Gloucestershire, West of England, England, UK;6300
@@ -7192,12 +7189,27 @@
 4G;234;15;38;24723;16438;232;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];2850
 4G;234;15;32;24610;16460;306;51.54882866392127;-2.340717203915119;New Tyning Lane, Little Sodbury, South Gloucestershire, West of England, England, UK;3501
 4G;234;15;38;6191;16477;83;51.5262752340499;-0.2936304733157158;Greystoke Court, Park Royal, Ealing, Greater London, England, UK;2850
-4G;234;15;12;24723;16484;368;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];3501
-4G;234;15;14;24723;16484;297;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];223
-4G;234;15;22;24723;16484;366;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];3501
-4G;234;15;24;24723;16484;298;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];223
-4G;234;15;32;24723;16484;367;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];3501
-4G;234;15;34;24723;16484;299;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];223
+4G;234;15;10;24723;16484;162;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];6300
+4G;234;15;12;24723;16484;null;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];3501
+4G;234;15;14;24723;16484;306;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];223
+4G;234;15;16;24723;16484;492;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];1363
+4G;234;15;18;24723;16484;214;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];2850
+4G;234;15;20;24723;16484;163;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];6300
+4G;234;15;22;24723;16484;323;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];3501
+4G;234;15;24;24723;16484;307;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];223
+4G;234;15;26;24723;16484;493;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];1363
+4G;234;15;28;24723;16484;213;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];2850
+4G;234;15;30;24723;16484;164;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];6300
+4G;234;15;32;24723;16484;null;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];3501
+4G;234;15;34;24723;16484;308;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];223
+4G;234;15;36;24723;16484;494;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];1363
+4G;234;15;38;24723;16484;215;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];2850
+4G;234;15;210;24723;16484;null;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];9360
+4G;234;15;212;24723;16484;402;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];76
+4G;234;15;220;24723;16484;null;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];9360
+4G;234;15;222;24723;16484;403;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];76
+4G;234;15;230;24723;16484;461;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];9360
+4G;234;15;232;24723;16484;404;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];76
 4G;234;15;12;24723;16517;110;51.81323995389681;-2.2696738690137863;FLI Structures, Waterwells Business Park, Waterwells Drive, Quedgeley, Gloucester, Gloucestershire, England, UK;3501
 4G;234;15;14;24723;16517;309;51.81323995389681;-2.2696738690137863;FLI Structures, Waterwells Business Park, Waterwells Drive, Quedgeley, Gloucester, Gloucestershire, England, UK;223
 4G;234;15;22;24723;16517;108;51.81323995389681;-2.2696738690137863;FLI Structures, Waterwells Business Park, Waterwells Drive, Quedgeley, Gloucester, Gloucestershire, England, UK;3501
@@ -8250,7 +8262,21 @@
 4G;234;30;13;25330;19800;176;51.57586956945023;-2.5205304846167564;Church Road, Alveston, UK;6225
 4G;234;30;0;26621;19801;212;52.22022184755507;-2.1350139006972313;Off Evelench Lane, Tibberton, Worcestershire, England, UK;1617
 4G;234;30;1;26621;19801;211;52.22022184755507;-2.1350139006972313;Off Evelench Lane, Tibberton, Worcestershire, England, UK;1617
-4G;234;15;32;57346;19927;351;;;-;3501
+4G;234;15;10;57346;19927;30;52.39783267287509;-1.9419010841697337;Campion House, Branch Road, Hawkesley, Birmingham, West Midlands, England, UK [B38 8QA];6300
+4G;234;15;12;57346;19927;353;52.39783267287509;-1.9419010841697337;Campion House, Branch Road, Hawkesley, Birmingham, West Midlands, England, UK [B38 8QA];3501
+4G;234;15;20;57346;19927;null;52.39783267287509;-1.9419010841697337;Campion House, Branch Road, Hawkesley, Birmingham, West Midlands, England, UK [B38 8QA];6300
+4G;234;15;22;57346;19927;352;52.39783267287509;-1.9419010841697337;Campion House, Branch Road, Hawkesley, Birmingham, West Midlands, England, UK [B38 8QA];3501
+4G;234;15;30;57346;19927;null;52.39783267287509;-1.9419010841697337;Campion House, Branch Road, Hawkesley, Birmingham, West Midlands, England, UK [B38 8QA];6300
+4G;234;15;32;57346;19927;351;52.39783267287509;-1.9419010841697337;Campion House, Branch Road, Hawkesley, Birmingham, West Midlands, England, UK [B38 8QA];3501
+4G;234;15;14;57346;19928;353;52.39783267287509;-1.9419010841697337;Campion House, Branch Road, Hawkesley, Birmingham, West Midlands, England, UK [B38 8QA];223
+4G;234;15;16;57346;19928;496;52.39783267287509;-1.9419010841697337;Campion House, Branch Road, Hawkesley, Birmingham, West Midlands, England, UK [B38 8QA];1363
+4G;234;15;18;57346;19928;353;52.39783267287509;-1.9419010841697337;Campion House, Branch Road, Hawkesley, Birmingham, West Midlands, England, UK [B38 8QA];2850
+4G;234;15;24;57346;19928;352;52.39783267287509;-1.9419010841697337;Campion House, Branch Road, Hawkesley, Birmingham, West Midlands, England, UK [B38 8QA];223
+4G;234;15;26;57346;19928;null;52.39783267287509;-1.9419010841697337;Campion House, Branch Road, Hawkesley, Birmingham, West Midlands, England, UK [B38 8QA];1363
+4G;234;15;28;57346;19928;352;52.39783267287509;-1.9419010841697337;Campion House, Branch Road, Hawkesley, Birmingham, West Midlands, England, UK [B38 8QA];2850
+4G;234;15;34;57346;19928;351;52.39783267287509;-1.9419010841697337;Campion House, Branch Road, Hawkesley, Birmingham, West Midlands, England, UK [B38 8QA];223
+4G;234;15;36;57346;19928;null;52.39783267287509;-1.9419010841697337;Campion House, Branch Road, Hawkesley, Birmingham, West Midlands, England, UK [B38 8QA];1363
+4G;234;15;38;57346;19928;351;52.39783267287509;-1.9419010841697337;Campion House, Branch Road, Hawkesley, Birmingham, West Midlands, England, UK [B38 8QA];2850
 4G;234;15;10;24723;20043;254;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;6300
 4G;234;15;12;24723;20043;254;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;3501
 4G;234;15;20;24723;20043;252;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;6300
@@ -11197,7 +11223,7 @@
 4G;234;30;20;26051;39619;474;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];497
 4G;234;30;1;26621;39689;478;52.10904396933609;-2.192336730659008;M5 South, High Green, Worcestershire, England, UK;1617
 4G;234;30;1;26021;41143;73;52.00823;-3.46371;Transmitter near Nantygwreiddyn, Merthyr Cynog, Powys, Wales, UK [LD3 9RY];1617
-4G;234;30;2;26021;41143;null;52.00818204358931;52.00823;-3.46371;Transmitter near Nantygwreiddyn, Merthyr Cynog, Powys, Wales, UK [LD3 9RY];1617
+4G;234;30;2;26021;41143;null;52.00823;-3.46371;Transmitter near Nantygwreiddyn, Merthyr Cynog, Powys, Wales, UK [LD3 9RY];1617
 4G;234;30;4;26021;41143;73;52.00823;-3.46371;Transmitter near Nantygwreiddyn, Merthyr Cynog, Powys, Wales, UK [LD3 9RY];1815
 4G;234;30;5;26021;41143;null;52.00823;-3.46371;Transmitter near Nantygwreiddyn, Merthyr Cynog, Powys, Wales, UK [LD3 9RY];1815
 4G;234;30;13;26020;41143;185;52.00823;-3.46371;Transmitter near Nantygwreiddyn, Merthyr Cynog, Powys, Wales, UK [LD3 9RY];6225
@@ -11957,15 +11983,12 @@
 4G;234;10;124;17072;102928;263;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];347
 4G;234;10;130;17072;102928;356;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];6400
 4G;234;10;134;17072;102928;262;51.852024203304;-2.242203690111637;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Cornerstone];347
-4G;234;10;110;17072;102929;396;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];6400
-4G;234;10;112;17072;102929;476;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];3725
-4G;234;10;114;17072;102929;133;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];347
-4G;234;10;120;17072;102929;397;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];6400
-4G;234;10;122;17072;102929;474;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];3725
-4G;234;10;124;17072;102929;134;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];347
-4G;234;10;130;17072;102929;398;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];6400
-4G;234;10;132;17072;102929;475;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];3725
-4G;234;10;134;17072;102929;132;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];347
+4G;234;10;110;17072;102929;6;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];6400
+4G;234;10;112;17072;102929;6;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];3725
+4G;234;10;120;17072;102929;7;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];6400
+4G;234;10;122;17072;102929;7;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];3725
+4G;234;10;130;17072;102929;8;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];6400
+4G;234;10;132;17072;102929;8;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];3725
 4G;234;10;110;16544;102980;93;51.56434543230909;-1.8177876994013786;Bridgemead Business Centre, Glenmore Business Park, Bridgemead Cl, Westmead, Swindon, Wiltshire, England, UK;6400
 4G;234;10;110;17072;102982;432;51.858060298215975;-2.233087532222271;1 St James Street, Barton, Gloucester, Gloucestershire, England, UK;6400
 4G;234;10;114;17072;102982;475;51.858060298215975;-2.233087532222271;1 St James Street, Barton, Gloucester, Gloucestershire, England, UK;347
@@ -13165,7 +13188,18 @@
 4G;234;10;134;16624;114640;449;51.74850723621553;-2.5801442563533783;Court Farm, Bream, Lydney, Gloucestershire, England, UK;347
 4G;234;10;110;16608;114646;32;51.61674854694593;-3.008640557527542;573 Malpas Road A4051, Malpas, Newport, Wales, UK;6400
 4G;234;10;122;16608;114646;14;51.61674854694593;-3.008640557527542;573 Malpas Road A4051, Malpas, Newport, Wales, UK;3725
-4G;234;10;134;16625;114650;121;51.454694685509345;-2.603345699608326;61 Park Street A4018, City Centre, Bristol, West of England, England, UK;3725
+4G;234;10;110;16625;114650;175;51.454694685509345;-2.603345699608326;61 Park Street A4018, City Centre, Bristol, West of England, England, UK;6400
+4G;234;10;112;16625;114650;1;51.454694685509345;-2.603345699608326;61 Park Street A4018, City Centre, Bristol, West of England, England, UK;3725
+4G;234;10;114;16625;114650;175;51.454694685509345;-2.603345699608326;61 Park Street A4018, City Centre, Bristol, West of England, England, UK;347
+4G;234;10;116;16625;114650;175;51.454694685509345;-2.603345699608326;61 Park Street A4018, City Centre, Bristol, West of England, England, UK;1226
+4G;234;10;120;16625;114650;174;51.454694685509345;-2.603345699608326;61 Park Street A4018, City Centre, Bristol, West of England, England, UK;6400
+4G;234;10;122;16625;114650;2;51.454694685509345;-2.603345699608326;61 Park Street A4018, City Centre, Bristol, West of England, England, UK;3725
+4G;234;10;124;16625;114650;174;51.454694685509345;-2.603345699608326;61 Park Street A4018, City Centre, Bristol, West of England, England, UK;347
+4G;234;10;126;16625;114650;174;51.454694685509345;-2.603345699608326;61 Park Street A4018, City Centre, Bristol, West of England, England, UK;1226
+4G;234;10;130;16625;114650;176;51.454694685509345;-2.603345699608326;61 Park Street A4018, City Centre, Bristol, West of England, England, UK;6400
+4G;234;10;132;16625;114650;0;51.454694685509345;-2.603345699608326;61 Park Street A4018, City Centre, Bristol, West of England, England, UK;3725
+4G;234;10;134;16625;114650;176;51.454694685509345;-2.603345699608326;61 Park Street A4018, City Centre, Bristol, West of England, England, UK;347
+4G;234;10;136;16625;114650;176;51.454694685509345;-2.603345699608326;61 Park Street A4018, City Centre, Bristol, West of England, England, UK;1226
 4G;234;10;110;16625;114655;483;51.497995;-2.3589376;Off Bath Road, Tormarton, South Gloucestershire, West of England, England, UK;6400
 4G;234;10;112;16625;114655;330;51.497995;-2.3589376;Off Bath Road, Tormarton, South Gloucestershire, West of England, England, UK;3725
 4G;234;10;120;16625;114655;484;51.497995;-2.3589376;Off Bath Road, Tormarton, South Gloucestershire, West of England, England, UK;6400
@@ -13174,6 +13208,12 @@
 4G;234;10;132;16625;114655;332;51.497995;-2.3589376;Off Bath Road, Tormarton, South Gloucestershire, West of England, England, UK;3725
 4G;234;10;120;16624;114656;81;51.6562859856837;-2.88021270185709;A449, Newbridge-on-Usk, Monmouthshire, Wales, UK;6400
 4G;234;10;120;16544;114668;489;51.69903057488691;-1.731322668492794;A417, Fairford, Cotswolds District, Gloucestershire, England, UK;6400
+4G;234;10;110;17073;114738;178;51.60929178802956;-2.5230028107762337;Thornbury Telephone Exchange, Sawmill Lane, Thornbury, South Gloucestershire, West of England, England, UK;6400
+4G;234;10;112;17073;114738;178;51.60929178802956;-2.5230028107762337;Thornbury Telephone Exchange, Sawmill Lane, Thornbury, South Gloucestershire, West of England, England, UK;3725
+4G;234;10;114;17073;114738;178;51.60929178802956;-2.5230028107762337;Thornbury Telephone Exchange, Sawmill Lane, Thornbury, South Gloucestershire, West of England, England, UK;347
+4G;234;10;120;17073;114738;179;51.60929178802956;-2.5230028107762337;Thornbury Telephone Exchange, Sawmill Lane, Thornbury, South Gloucestershire, West of England, England, UK;6400
+4G;234;10;122;17073;114738;177;51.60929178802956;-2.5230028107762337;Thornbury Telephone Exchange, Sawmill Lane, Thornbury, South Gloucestershire, West of England, England, UK;3725
+4G;234;10;124;17073;114738;177;51.60929178802956;-2.5230028107762337;Thornbury Telephone Exchange, Sawmill Lane, Thornbury, South Gloucestershire, West of England, England, UK;347
 4G;234;10;130;17073;114738;177;51.60929178802956;-2.5230028107762337;Thornbury Telephone Exchange, Sawmill Lane, Thornbury, South Gloucestershire, West of England, England, UK;6400
 4G;234;10;132;17073;114738;179;51.60929178802956;-2.5230028107762337;Thornbury Telephone Exchange, Sawmill Lane, Thornbury, South Gloucestershire, West of England, England, UK;3725
 4G;234;10;134;17073;114738;179;51.60929178802956;-2.5230028107762337;Thornbury Telephone Exchange, Sawmill Lane, Thornbury, South Gloucestershire, West of England, England, UK;347
@@ -14181,9 +14221,42 @@
 4G;234;10;122;17072;125484;43;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];3725
 4G;234;10;130;17072;125484;44;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];6400
 4G;234;10;132;17072;125484;44;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];3725
+4G;234;10;114;17073;125518;351;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;347
+4G;234;10;115;17073;125518;351;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;39250
+4G;234;10;116;17073;125518;351;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;1226
+4G;234;10;117;17073;125518;351;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;39448
+4G;234;10;119;17073;125518;351;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;38100
 4G;234;10;124;17073;125518;352;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;347
 4G;234;10;125;17073;125518;352;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;39250
 4G;234;10;126;17073;125518;352;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;1226
+4G;234;10;127;17073;125518;352;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;39448
+4G;234;10;129;17073;125518;352;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;38100
+4G;234;10;134;17073;125518;353;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;347
+4G;234;10;135;17073;125518;353;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;39250
+4G;234;10;136;17073;125518;353;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;1226
+4G;234;10;137;17073;125518;353;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;39448
+4G;234;10;139;17073;125518;353;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;38100
+4G;234;10;215;17073;125518;351;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;37900
+4G;234;10;225;17073;125518;352;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;37900
+4G;234;10;235;17073;125518;353;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;37900
+4G;234;10;114;17072;125696;6;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];347
+4G;234;10;115;17072;125696;6;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];39250
+4G;234;10;116;17072;125696;6;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];1226
+4G;234;10;117;17072;125696;6;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];39448
+4G;234;10;119;17072;125696;6;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];38100
+4G;234;10;124;17072;125696;7;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];347
+4G;234;10;125;17072;125696;7;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];39250
+4G;234;10;126;17072;125696;7;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];1226
+4G;234;10;127;17072;125696;7;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];39448
+4G;234;10;129;17072;125696;7;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];38100
+4G;234;10;134;17072;125696;8;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];347
+4G;234;10;135;17072;125696;8;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];39250
+4G;234;10;136;17072;125696;8;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];1226
+4G;234;10;137;17072;125696;8;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];39448
+4G;234;10;139;17072;125696;8;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];38100
+4G;234;10;215;17072;125696;6;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];37900
+4G;234;10;225;17072;125696;7;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];37900
+4G;234;10;235;17072;125696;8;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];37900
 3G;234;10;25096;11811;982;2;51.38021608979318;-2.3597390444613597;O2 Boostbox, Tesco Express, 6 Stall Street, Bath, Bath and North East Somerset, West of England, England, UK;10711
 3G;234;10;51534;19211;982;1;51.8273713;-2.2793084;O2 Boostbox, Tesco Extra, Severnvale Drive, Quedgeley, Gloucester, Gloucestershire, England, UK;10711
 3G;234;10;54993;19811;982;1;51.3464727;-2.9748913;O2 Boostbox, Tesco, Station Road A370, Weston-super-mare, North Somerset, England, UK;10711
