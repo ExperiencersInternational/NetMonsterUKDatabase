@@ -308,8 +308,8 @@
 2G;234;15;21204;962;0;1;;;-;8
 2G;234;10;21361;21400;0;44;51.69454079935601;-2.389044240117073;Oldhill Lane, Stinchcombe, Dursley, Gloucestershire, England, UK;123
 2G;234;10;21433;21785;0;40;51.888015488588124;-2.186448946595192;The Hare and Hounds, Cheltenham Road East B4063, Churchdown, Gloucestershire, England, UK;113
-2G;234;15;21457;309;0;16;;;-;11
-2G;234;15;21565;309;0;42;;;-;10
+2G;234;15;21457;309;0;16;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];11
+2G;234;15;21565;309;0;42;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];10
 2G;234;10;21676;null;0;8;51.35930350165513;-2.9699010774493217;5 Worlebury Hill Rd, Worlebury, Weston-super-mare, North Somerset, England, UK;117
 2G;234;15;21827;null;0;1;;;-;22
 2G;234;15;21831;null;0;12;;;-;11
@@ -1086,6 +1086,7 @@
 4G;234;20;8;2429;2311;272;51.88980541977174;-2.1129510551691055;Paragon House, 212 Hatherley Road, Hatherley, Cheltenham, Gloucestershire, England, UK;6175
 4G;234;20;2;3179;2316;14;53.61582808459931;-0.9473317489027977;Coulman Road, Coulman Road Industrial Estate, Thorne, Doncaster, South Yorkshire, England, UK;1363
 4G;234;20;1;3122;2317;336;53.49998968054559;-1.286332793533802;Montagu Hospital, Adwick Road, Mexborough, Doncaster, South Yorkshire, England, UK;1363
+4G;234;20;0;3253;2342;24;55.77386;-3.91748;41 Young Street, Wishaw, Lanarkshire, Scotland, UK [MBNL] [ML2 8HJ];1363
 4G;234;15;10;24737;2345;222;51.510178;-2.166812;Leigh Delamere Wood, Moto Leigh Delamere Eastbound Services, Leigh Delamere, M4 East, Wiltshire, England, UK [Cornerstone];6300
 4G;234;15;20;24737;2345;223;51.510178;-2.166812;Leigh Delamere Wood, Moto Leigh Delamere Eastbound Services, Leigh Delamere, M4 East, Wiltshire, England, UK [Cornerstone];6300
 4G;234;15;30;24737;2345;224;51.510178;-2.166812;Leigh Delamere Wood, Moto Leigh Delamere Eastbound Services, Leigh Delamere, M4 East, Wiltshire, England, UK [Cornerstone];6300
@@ -3672,6 +3673,18 @@
 4G;234;20;2;2482;8183;16;51.53062400152061;-1.6628415137529373;2 The Gallops, Foxhill, Swindon, Wiltshire, England, UK;1363
 4G;234;20;7;2482;8183;329;51.53062400152061;-1.6628415137529373;2 The Gallops, Foxhill, Swindon, Wiltshire, England, UK;6175
 4G;234;15;30;24582;8183;61;51.56952727922704;-1.8977815657854082;Flaxlands Lane, Royal Wootton Bassett, Swindon, Wiltshire, England, UK;6300
+4G;234;15;10;57380;8186;null;55.78379;-3.91457;Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EG];6300
+4G;234;15;14;57380;8186;null;55.78379;-3.91457;Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EG];223
+4G;234;15;20;57380;8186;233;55.78379;-3.91457;Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EG];6300
+4G;234;15;24;57380;8186;233;55.78379;-3.91457;Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EG];223
+4G;234;15;30;57380;8186;null;55.78379;-3.91457;Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EG];6300
+4G;234;15;34;57380;8186;null;55.78379;-3.91457;Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EG];223
+4G;234;10;110;50128;8186;null;55.78379;-3.91457;Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EG];6400
+4G;234;10;114;50128;8186;null;55.78379;-3.91457;Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EG];347
+4G;234;10;120;50128;8186;233;55.78379;-3.91457;Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EG];6400
+4G;234;10;124;50128;8186;233;55.78379;-3.91457;Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EG];347
+4G;234;10;130;50128;8186;null;55.78379;-3.91457;Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EG];6400
+4G;234;10;134;50128;8186;null;55.78379;-3.91457;Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EG];347
 4G;234;15;10;57404;8196;126;53.30707;-4.12824;Llanddona Transmitting Station, Lôn Goch, Llanddona, Anglesey, Wales, UK;6300
 4G;234;15;12;57404;8196;126;53.30707;-4.12824;Llanddona Transmitting Station, Lôn Goch, Llanddona, Anglesey, Wales, UK;3501
 4G;234;15;20;57404;8196;127;53.30707;-4.12824;Llanddona Transmitting Station, Lôn Goch, Llanddona, Anglesey, Wales, UK;6300
@@ -4264,6 +4277,21 @@
 4G;234;10;110;49888;9805;433;51.99088766259551;-3.885300122201443;A482, Llanwrda, Carmarthenshire, Wales, UK [Cornerstone];6400
 4G;234;10;120;49888;9805;434;51.99088766259551;-3.885300122201443;A482, Llanwrda, Carmarthenshire, Wales, UK [Cornerstone];6400
 4G;234;10;130;49888;9805;432;51.99088766259551;-3.885300122201443;A482, Llanwrda, Carmarthenshire, Wales, UK [Cornerstone];6400
+4G;234;15;10;57380;9830;408;55.77455;-3.91839;Mecca Bingo, Kirk Road A722, Wishaw, Lanarkshire, Scotland, UK [Cornerstone] [ML2 7BL];6300
+4G;234;15;12;57380;9830;408;55.77455;-3.91839;Mecca Bingo, Kirk Road A722, Wishaw, Lanarkshire, Scotland, UK [Cornerstone] [ML2 7BL];3501
+4G;234;15;14;57380;9830;408;55.77455;-3.91839;Mecca Bingo, Kirk Road A722, Wishaw, Lanarkshire, Scotland, UK [Cornerstone] [ML2 7BL];223
+4G;234;15;20;57380;9830;409;55.77455;-3.91839;Mecca Bingo, Kirk Road A722, Wishaw, Lanarkshire, Scotland, UK [Cornerstone] [ML2 7BL];6300
+4G;234;15;22;57380;9830;409;55.77455;-3.91839;Mecca Bingo, Kirk Road A722, Wishaw, Lanarkshire, Scotland, UK [Cornerstone] [ML2 7BL];3501
+4G;234;15;24;57380;9830;409;55.77455;-3.91839;Mecca Bingo, Kirk Road A722, Wishaw, Lanarkshire, Scotland, UK [Cornerstone] [ML2 7BL];223
+4G;234;15;30;57380;9830;410;55.77455;-3.91839;Mecca Bingo, Kirk Road A722, Wishaw, Lanarkshire, Scotland, UK [Cornerstone] [ML2 7BL];6300
+4G;234;15;32;57380;9830;410;55.77455;-3.91839;Mecca Bingo, Kirk Road A722, Wishaw, Lanarkshire, Scotland, UK [Cornerstone] [ML2 7BL];3501
+4G;234;15;34;57380;9830;410;55.77455;-3.91839;Mecca Bingo, Kirk Road A722, Wishaw, Lanarkshire, Scotland, UK [Cornerstone] [ML2 7BL];223
+4G;234;10;110;50128;9830;38;55.77455;-3.91839;Mecca Bingo, Kirk Road A722, Wishaw, Lanarkshire, Scotland, UK [Cornerstone] [ML2 7BL];6400
+4G;234;10;114;50128;9830;38;55.77455;-3.91839;Mecca Bingo, Kirk Road A722, Wishaw, Lanarkshire, Scotland, UK [Cornerstone] [ML2 7BL];347
+4G;234;10;120;50128;9830;36;55.77455;-3.91839;Mecca Bingo, Kirk Road A722, Wishaw, Lanarkshire, Scotland, UK [Cornerstone] [ML2 7BL];6400
+4G;234;10;124;50128;9830;36;55.77455;-3.91839;Mecca Bingo, Kirk Road A722, Wishaw, Lanarkshire, Scotland, UK [Cornerstone] [ML2 7BL];347
+4G;234;10;130;50128;9830;37;55.77455;-3.91839;Mecca Bingo, Kirk Road A722, Wishaw, Lanarkshire, Scotland, UK [Cornerstone] [ML2 7BL];6400
+4G;234;10;134;50128;9830;37;55.77455;-3.91839;Mecca Bingo, Kirk Road A722, Wishaw, Lanarkshire, Scotland, UK [Cornerstone] [ML2 7BL];347
 4G;234;15;18;6190;9845;401;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;2850
 4G;234;15;28;6190;9845;339;51.493480807051725;-0.531746931374073;Sutton Ln, Slough, Berkshire, England, UK;2850
 4G;234;15;10;57414;9846;80;51.955896815195636;-3.510425202548504;1 Penpentre, Trallong, Brecon, UK;6300
@@ -5480,6 +5508,15 @@
 4G;234;20;7;2381;11946;365;52.10194062679113;-4.596950523555279;A487, Penparc, Ceredigion, Wales, UK;6175
 4G;234;20;1;2414;11949;310;51.86619329112069;-2.4758385121822357;Land Grove, A4136, Mitcheldean, Forest of Dean, Gloucestershire, England, UK;1363
 4G;234;20;7;2414;11949;395;51.86619329112069;-2.4758385121822357;Land Grove, A4136, Mitcheldean, Forest of Dean, Gloucestershire, England, UK;6175
+4G;234;20;0;3564;11954;99;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];1363
+4G;234;20;1;3564;11954;55;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];1363
+4G;234;20;2;3564;11954;74;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];1363
+4G;234;20;6;3564;11954;139;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];6175
+4G;234;20;7;3564;11954;35;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];6175
+4G;234;20;8;3564;11954;12;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];6175
+4G;234;20;71;3564;11954;44;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];76
+4G;234;20;72;3564;11954;64;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];76
+4G;234;20;73;3564;11954;231;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];76
 4G;234;20;1;2143;11961;328;51.36589298923668;-2.9319220036268234;3 Newton's Rd, Worle, Weston-super-mare, North Somerset, England, UK;1363
 4G;234;20;7;2143;11961;77;51.36589298923668;-2.9319220036268234;3 Newton's Rd, Worle, Weston-super-mare, North Somerset, England, UK;6175
 4G;234;20;2;2124;11998;324;51.77098567178509;-1.498192436993122;Witney WWTW, New Close Lane, Witney, West Oxfordshire, England, UK;1363
@@ -6911,6 +6948,21 @@
 4G;234;30;5;25241;15655;345;52.684807160445274;1.2903504073619843;Petans Ltd, Bullock Hill, Horsham St Faith, Norwich, Norfolk, England, UK;1815
 4G;234;30;12;25240;15655;216;52.684807160445274;1.2903504073619843;Petans Ltd, Bullock Hill, Horsham St Faith, Norwich, Norfolk, England, UK;6225
 4G;234;30;14;25240;15655;218;52.684807160445274;1.2903504073619843;Petans Ltd, Bullock Hill, Horsham St Faith, Norwich, Norfolk, England, UK;6225
+4G;234;30;0;21371;15676;204;55.77386;-3.91748;41 Young Street, Wishaw, Lanarkshire, Scotland, UK [MBNL] [ML2 8HJ];1617
+4G;234;30;1;21371;15676;205;55.77386;-3.91748;41 Young Street, Wishaw, Lanarkshire, Scotland, UK [MBNL] [ML2 8HJ];1617
+4G;234;30;2;21371;15676;206;55.77386;-3.91748;41 Young Street, Wishaw, Lanarkshire, Scotland, UK [MBNL] [ML2 8HJ];1617
+4G;234;30;3;21371;15676;204;55.77386;-3.91748;41 Young Street, Wishaw, Lanarkshire, Scotland, UK [MBNL] [ML2 8HJ];1815
+4G;234;30;4;21371;15676;205;55.77386;-3.91748;41 Young Street, Wishaw, Lanarkshire, Scotland, UK [MBNL] [ML2 8HJ];1815
+4G;234;30;5;21371;15676;206;55.77386;-3.91748;41 Young Street, Wishaw, Lanarkshire, Scotland, UK [MBNL] [ML2 8HJ];1815
+4G;234;30;6;21371;15676;204;55.77386;-3.91748;41 Young Street, Wishaw, Lanarkshire, Scotland, UK [MBNL] [ML2 8HJ];3350
+4G;234;30;7;21371;15676;205;55.77386;-3.91748;41 Young Street, Wishaw, Lanarkshire, Scotland, UK [MBNL] [ML2 8HJ];3350
+4G;234;30;8;21371;15676;206;55.77386;-3.91748;41 Young Street, Wishaw, Lanarkshire, Scotland, UK [MBNL] [ML2 8HJ];3350
+4G;234;30;9;21371;15676;204;55.77386;-3.91748;41 Young Street, Wishaw, Lanarkshire, Scotland, UK [MBNL] [ML2 8HJ];3179
+4G;234;30;10;21371;15676;205;55.77386;-3.91748;41 Young Street, Wishaw, Lanarkshire, Scotland, UK [MBNL] [ML2 8HJ];3179
+4G;234;30;11;21371;15676;206;55.77386;-3.91748;41 Young Street, Wishaw, Lanarkshire, Scotland, UK [MBNL] [ML2 8HJ];3179
+4G;234;30;12;21370;15676;164;55.77386;-3.91748;41 Young Street, Wishaw, Lanarkshire, Scotland, UK [MBNL] [ML2 8HJ];6225
+4G;234;30;13;21370;15676;163;55.77386;-3.91748;41 Young Street, Wishaw, Lanarkshire, Scotland, UK [MBNL] [ML2 8HJ];6225
+4G;234;30;14;21370;15676;162;55.77386;-3.91748;41 Young Street, Wishaw, Lanarkshire, Scotland, UK [MBNL] [ML2 8HJ];6225
 4G;234;15;19;24611;15698;73;51.454773240004606;-2.5974974781274796;Beacon Tower, Colston Avenue A38, Old City, Bristol, West of England, England, UK;37900
 4G;234;15;29;24611;15698;74;51.454773240004606;-2.5974974781274796;Beacon Tower, Colston Avenue A38, Old City, Bristol, West of England, England, UK;37900
 4G;234;15;39;24611;15698;72;51.454773240004606;-2.5974974781274796;Beacon Tower, Colston Avenue A38, Old City, Bristol, West of England, England, UK;37900
@@ -8628,6 +8680,18 @@
 4G;234;15;32;24607;20898;168;51.490006545778705;-3.2552123442292213;Pentrebane Water Tower, Firs Avenue, Fairwater, Cardiff, Wales, UK;3501
 4G;234;15;34;24607;20898;168;51.490006545778705;-3.2552123442292213;Pentrebane Water Tower, Firs Avenue, Fairwater, Cardiff, Wales, UK;223
 4G;234;15;38;24607;20898;168;51.490006545778705;-3.2552123442292213;Pentrebane Water Tower, Firs Avenue, Fairwater, Cardiff, Wales, UK;2850
+4G;234;15;10;57380;20964;348;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];6300
+4G;234;15;12;57380;20964;348;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];3501
+4G;234;15;14;57380;20964;348;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];223
+4G;234;15;18;57380;20964;348;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];2850
+4G;234;15;20;57380;20964;350;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];6300
+4G;234;15;22;57380;20964;350;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];3501
+4G;234;15;24;57380;20964;350;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];223
+4G;234;15;28;57380;20964;350;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];2850
+4G;234;15;30;57380;20964;349;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];6300
+4G;234;15;32;57380;20964;349;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];3501
+4G;234;15;34;57380;20964;349;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];223
+4G;234;15;38;57380;20964;349;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];2850
 4G;234;30;0;26381;20968;82;51.237095;-2.6253627;Mendip Hill Transmitting Station, Bristol Hill A39, West Horrington, Somerset, England, UK;1617
 4G;234;30;1;26381;20968;81;51.237095;-2.6253627;Mendip Hill Transmitting Station, Bristol Hill A39, West Horrington, Somerset, England, UK;1617
 4G;234;30;2;26381;20968;83;51.237095;-2.6253627;Mendip Hill Transmitting Station, Bristol Hill A39, West Horrington, Somerset, England, UK;1617
@@ -10486,6 +10550,18 @@
 4G;234;30;10;24391;30879;118;51.35930350165513;-2.9699010774493217;5 Worlebury Hill Rd, Worlebury, Weston-super-mare, North Somerset, England, UK;3179
 4G;234;30;0;25661;30939;164;53.74706978262014;-0.4196946322917938;34 Springfield Way B1231, Anlaby, East Riding of Yorkshire, England, UK;1617
 4G;234;30;3;25661;30939;225;53.74706978262014;-0.4196946322917938;34 Springfield Way B1231, Anlaby, East Riding of Yorkshire, England, UK;1815
+4G;234;30;0;21371;30943;215;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];1617
+4G;234;30;1;21371;30943;214;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];1617
+4G;234;30;2;21371;30943;213;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];1617
+4G;234;30;3;21371;30943;null;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];1815
+4G;234;30;4;21371;30943;null;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];1815
+4G;234;30;5;21371;30943;null;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];1815
+4G;234;30;12;21370;30943;290;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];6225
+4G;234;30;13;21370;30943;288;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];6225
+4G;234;30;14;21370;30943;289;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];6225
+4G;234;30;18;21371;30943;483;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];497
+4G;234;30;19;21371;30943;null;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];497
+4G;234;30;20;21371;30943;null;55.79032;-3.91411;Webster Power Products, 397 Coltness Road, Coltness, Wishaw, Lanarkshire, Scotland, UK [ML2 7EZ];497
 4G;234;30;0;24361;30962;463;51.58104468599229;-2.8057314455509186;South Wales Main Line, Church Road, Undy, Monmouthshire, Wales, UK;1617
 4G;234;30;1;24361;30962;462;51.58104468599229;-2.8057314455509186;South Wales Main Line, Church Road, Undy, Monmouthshire, Wales, UK;1617
 4G;234;30;4;24361;30962;462;51.58104468599229;-2.8057314455509186;South Wales Main Line, Church Road, Undy, Monmouthshire, Wales, UK;1815
@@ -13761,6 +13837,21 @@
 4G;234;10;132;16625;120894;301;51.49366721519656;-2.5829602405428886;Horfield Sports Centre, Bristol, West of England, England, UK;3725
 4G;234;10;134;16625;120894;136;51.49366721519656;-2.5829602405428886;Horfield Sports Centre, Bristol, West of England, England, UK;347
 4G;234;10;136;16625;120894;136;51.49366721519656;-2.5829602405428886;Horfield Sports Centre, Bristol, West of England, England, UK;1226
+4G;234;10;115;50128;120966;348;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];39250
+4G;234;10;117;50128;120966;348;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];39448
+4G;234;10;125;50128;120966;350;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];39250
+4G;234;10;127;50128;120966;350;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];39448
+4G;234;10;135;50128;120966;349;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];39250
+4G;234;10;137;50128;120966;349;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];39448
+4G;234;10;110;50128;120968;348;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];6400
+4G;234;10;112;50128;120968;348;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];3725
+4G;234;10;114;50128;120968;348;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];347
+4G;234;10;120;50128;120968;350;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];6400
+4G;234;10;122;50128;120968;350;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];3725
+4G;234;10;124;50128;120968;350;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];347
+4G;234;10;130;50128;120968;349;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];6400
+4G;234;10;132;50128;120968;349;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];3725
+4G;234;10;134;50128;120968;349;55.77524;-3.92551;79 Quarry Street, Wishaw, Lanarkshire, Scotland, UK [ML2 7NY];347
 4G;234;10;110;17153;121141;287;51.508073026868324;-2.0876263082027435;The Shrubbery, High Street, Sutton Benger, Wiltshire, England, UK;6400
 4G;234;10;120;17153;121141;285;51.508073026868324;-2.0876263082027435;The Shrubbery, High Street, Sutton Benger, Wiltshire, England, UK;6400
 4G;234;10;130;17153;121141;286;51.508073026868324;-2.0876263082027435;The Shrubbery, High Street, Sutton Benger, Wiltshire, England, UK;6400

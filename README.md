@@ -2,7 +2,7 @@
 
 A NetMonster database of cellular transmitters across a limited area in the UK. I'll likely only publish a new big release every month or so?
 
-Import onto your device by opening the NetMonster app > Menu > Database > Import > Pick File with the combined NTM downloaded from the releases page. I intend to eventually add downloads for other applications, but it's not in the scope of the project at the moment.
+Importing instructions available at https://experiencersinternational.com/2026/05/04/netmonster-import/.
 
 ## Supported areas
 
