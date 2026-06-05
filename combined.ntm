@@ -1141,7 +1141,8 @@
 4G;234;20;1;2123;2686;301;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];1363
 4G;234;20;2;2123;2686;122;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];1363
 4G;234;20;6;2123;2686;96;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];6175
-4G;234;20;71;2123;2686;337;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];99
+4G;234;20;71;2123;2686;337;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];76
+4G;234;20;73;2123;2686;98;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];76
 4G;234;20;92;2123;2686;202;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];9360
 4G;234;20;93;2123;2686;203;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];9360
 4G;234;15;10;24581;2689;177;51.48488662664157;-1.5587929263710976;14 15 M4, Lambourn Woodlands, Berkshire, England, UK;6300
@@ -1394,17 +1395,26 @@
 4G;234;15;10;24723;3205;351;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];6300
 4G;234;15;12;24723;3205;333;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];3501
 4G;234;15;14;24723;3205;102;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];223
+4G;234;15;16;24723;3205;498;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];1363
 4G;234;15;18;24723;3205;174;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];2850
 4G;234;15;null;24723;3205;34;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];10220
 4G;234;15;20;24723;3205;353;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];6300
 4G;234;15;22;24723;3205;334;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];3501
 4G;234;15;24;24723;3205;103;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];223
+4G;234;15;26;24723;3205;499;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];1363
 4G;234;15;28;24723;3205;175;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];2850
 4G;234;15;30;24723;3205;352;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];6300
 4G;234;15;32;24723;3205;335;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];3501
 4G;234;15;34;24723;3205;104;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];223
+4G;234;15;36;24723;3205;500;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];1363
 4G;234;15;38;24723;3205;176;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];2850
 4G;234;15;null;24723;3205;482;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];10220
+4G;234;15;210;24723;3205;420;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];9360
+4G;234;15;212;24723;3205;423;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];76
+4G;234;15;220;24723;3205;422;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];9360
+4G;234;15;222;24723;3205;424;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];76
+4G;234;15;230;24723;3205;421;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];9360
+4G;234;15;232;24723;3205;425;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];76
 4G;234;15;10;24723;3207;402;51.61210;-2.20158;The Hare and Hounds Hotel, A433, Westonbirt, Cotswolds District, Gloucestershire, England, UK [GL8 8QL];6300
 4G;234;15;20;24723;3207;403;51.61210;-2.20158;The Hare and Hounds Hotel, A433, Westonbirt, Cotswolds District, Gloucestershire, England, UK [GL8 8QL];6300
 4G;234;15;10;24611;3209;78;51.48408948426455;-2.6333747059106827;1 Parrys Lane B4054, Stoke Bishop, Bristol, West of England, England, UK;6300
@@ -1745,8 +1755,8 @@
 4G;234;20;0;2130;3797;156;51.37364227942864;-2.3793044686317444;Oldfield Park Substation, 55 Monksdale Road, Oldfield Park, Bath, Bath and North East Somerset, West of England, England, UK;1363
 4G;234;20;0;2120;3812;384;51.84328774420786;-2.262568026781082;RT Trailers, 11 Saint Albans Road, Podsmead, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;1;2120;3812;4;51.84328774420786;-2.262568026781082;RT Trailers, 11 Saint Albans Road, Podsmead, Gloucester, Gloucestershire, England, UK;1363
-4G;234;20;2;2120;3812;47;51.84328774420786;-2.262568026781082;RT Trailers, 11 Saint Albans Road, Podsmead, Gloucester, Gloucestershire, England, UK;1363
-4G;234;20;73;2120;3812;358;51.84328774420786;-2.262568026781082;RT Trailers, 11 Saint Albans Road, Podsmead, Gloucester, Gloucestershire, England, UK;99
+4G;234;20;2;2120;3812;431;51.84328774420786;-2.262568026781082;RT Trailers, 11 Saint Albans Road, Podsmead, Gloucester, Gloucestershire, England, UK;1363
+4G;234;20;73;2120;3812;358;51.84328774420786;-2.262568026781082;RT Trailers, 11 Saint Albans Road, Podsmead, Gloucester, Gloucestershire, England, UK;76
 4G;234;15;10;24606;3813;492;51.34225921883317;-2.9715972393751144;164 Sunnyside Rd N, Weston-super-mare, North Somerset, England, UK;6300
 4G;234;15;14;24606;3813;492;51.34225921883317;-2.9715972393751144;164 Sunnyside Rd N, Weston-super-mare, North Somerset, England, UK;223
 4G;234;15;20;24606;3813;494;51.34225921883317;-2.9715972393751144;164 Sunnyside Rd N, Weston-super-mare, North Somerset, England, UK;6300
@@ -6796,9 +6806,6 @@
 4G;234;30;12;26050;15449;483;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];6225
 4G;234;30;13;26050;15449;484;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];6225
 4G;234;30;14;26050;15449;485;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];6225
-4G;234;30;18;26051;15449;258;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];497
-4G;234;30;19;26051;15449;78;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];497
-4G;234;30;20;26051;15449;276;51.86568046736134;-2.248595394194126;Gloucester Telephone Exchange, 25 Bull Lane, Gloucester, Gloucestershire, England, UK [GL1 2HT];497
 4G;234;30;0;25391;15450;281;50.72498;-3.52969;The Practice, 13 Castle Street, Exeter, Devon, England, UK;1617
 4G;234;30;1;25391;15450;280;50.72498;-3.52969;The Practice, 13 Castle Street, Exeter, Devon, England, UK;1617
 4G;234;30;2;25391;15450;279;50.72498;-3.52969;The Practice, 13 Castle Street, Exeter, Devon, England, UK;1617
@@ -10276,9 +10283,6 @@
 4G;234;30;12;26050;27897;486;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];6225
 4G;234;30;13;26050;27897;487;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];6225
 4G;234;30;14;26050;27897;488;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];6225
-4G;234;30;18;26051;27897;153;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];497
-4G;234;30;19;26051;27897;372;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];497
-4G;234;30;20;26051;27897;252;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];497
 4G;234;30;13;24390;27917;384;51.44592101099747;-2.8151651099324226;Nortons Wood, Clevedon, North Somerset, England, UK [Cornerstone];6225
 4G;234;30;19;24391;27917;423;51.44592101099747;-2.8151651099324226;Nortons Wood, Clevedon, North Somerset, England, UK [Cornerstone];497
 4G;234;30;3;24391;27984;117;51.356788415011124;-2.7881351485848427;Churchill Substation, Iwood Lane, Stock, North Somerset, England, UK;1815
@@ -10413,8 +10417,6 @@
 4G;234;30;12;26050;29409;123;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];6225
 4G;234;30;13;26050;29409;124;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];6225
 4G;234;30;14;26050;29409;125;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];6225
-4G;234;30;18;26051;29409;303;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];497
-4G;234;30;19;26051;29409;83;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];497
 4G;234;30;1;24391;29411;143;51.47224198896835;-2.808692939579487;39 Charlcombe Park, Redcliffe Bay, Portishead, North Somerset, England, UK;1617
 4G;234;30;0;26051;29413;215;51.8944897357586;-2.0763687416911125;Montpellier House, Montpellier Dr, Cheltenham, Gloucestershire, England, UK;1617
 4G;234;30;1;26051;29413;214;51.8944897357586;-2.0763687416911125;Montpellier House, Montpellier Dr, Cheltenham, Gloucestershire, England, UK;1617
@@ -10716,6 +10718,9 @@
 4G;234;30;9;26051;31897;269;51.84328774420786;-2.262568026781082;RT Trailers, 11 Saint Albans Road, Podsmead, Gloucester, Gloucestershire, England, UK;3179
 4G;234;30;10;26051;31897;267;51.84328774420786;-2.262568026781082;RT Trailers, 11 Saint Albans Road, Podsmead, Gloucester, Gloucestershire, England, UK;3179
 4G;234;30;11;26051;31897;268;51.84328774420786;-2.262568026781082;RT Trailers, 11 Saint Albans Road, Podsmead, Gloucester, Gloucestershire, England, UK;3179
+4G;234;30;12;26050;31897;75;51.84328774420786;-2.262568026781082;RT Trailers, 11 Saint Albans Road, Podsmead, Gloucester, Gloucestershire, England, UK;6225
+4G;234;30;13;26050;31897;76;51.84328774420786;-2.262568026781082;RT Trailers, 11 Saint Albans Road, Podsmead, Gloucester, Gloucestershire, England, UK;6225
+4G;234;30;14;26050;31897;77;51.84328774420786;-2.262568026781082;RT Trailers, 11 Saint Albans Road, Podsmead, Gloucester, Gloucestershire, England, UK;6225
 4G;234;30;1;20271;31908;497;51.422142276390865;-0.9371313080191612;30 Tilney Way, Earley, Reading, Berkshire, England, UK;1617
 4G;234;30;0;26051;31919;205;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;1617
 4G;234;30;1;26051;31919;206;51.864008211361906;-1.9972697272896764;Kilkenny Viewpoint and Nature Reserve, A436, Cheltenham, Gloucestershire, England, UK;1617
@@ -10741,9 +10746,6 @@
 4G;234;30;9;26051;31929;195;51.86828883071959;-2.2355491295456886;65 London Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;3179
 4G;234;30;10;26051;31929;90;51.86828883071959;-2.2355491295456886;65 London Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;3179
 4G;234;30;11;26051;31929;447;51.86828883071959;-2.2355491295456886;65 London Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;3179
-4G;234;30;18;26051;31929;132;51.86828883071959;-2.2355491295456886;65 London Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;497
-4G;234;30;19;26051;31929;90;51.86828883071959;-2.2355491295456886;65 London Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;497
-4G;234;30;20;26051;31929;447;51.86828883071959;-2.2355491295456886;65 London Road B4063, Wotton, Gloucester, Gloucestershire, England, UK;497
 4G;234;30;0;25661;31942;71;53.744090931103905;-0.3577912598848343;Hull Royal Infirmary, Lansdowne Street, Hull, East Riding of Yorkshire, England, UK;1617
 4G;234;30;6;25661;31942;376;53.744090931103905;-0.3577912598848343;Hull Royal Infirmary, Lansdowne Street, Hull, East Riding of Yorkshire, England, UK;3350
 4G;234;30;7;25661;31942;70;53.744090931103905;-0.3577912598848343;Hull Royal Infirmary, Lansdowne Street, Hull, East Riding of Yorkshire, England, UK;3350
@@ -10860,9 +10862,6 @@
 4G;234;30;3;26051;32435;146;51.853205;-2.261815;Secunda Way, A430, Hempsted, Gloucester, Gloucestershire, England, UK;1815
 4G;234;30;4;26051;32435;144;51.853205;-2.261815;Secunda Way, A430, Hempsted, Gloucester, Gloucestershire, England, UK;1815
 4G;234;30;5;26051;32435;145;51.853205;-2.261815;Secunda Way, A430, Hempsted, Gloucester, Gloucestershire, England, UK;1815
-4G;234;30;18;26051;32435;279;51.853205;-2.261815;Secunda Way, A430, Hempsted, Gloucester, Gloucestershire, England, UK;497
-4G;234;30;19;26051;32435;321;51.853205;-2.261815;Secunda Way, A430, Hempsted, Gloucester, Gloucestershire, England, UK;497
-4G;234;30;20;26051;32435;168;51.853205;-2.261815;Secunda Way, A430, Hempsted, Gloucester, Gloucestershire, England, UK;497
 4G;234;30;0;24371;32510;302;51.49889;-3.14063;Opposite Metro Bank, Newport Road A4161, Penylan, Cardiff, Wales, UK;1617
 4G;234;30;3;24371;32510;69;51.49889;-3.14063;Opposite Metro Bank, Newport Road A4161, Penylan, Cardiff, Wales, UK;1815
 4G;234;30;18;24371;32510;318;51.49889;-3.14063;Opposite Metro Bank, Newport Road A4161, Penylan, Cardiff, Wales, UK;497
@@ -10938,8 +10937,6 @@
 4G;234;30;12;26050;32985;382;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];6225
 4G;234;30;13;26050;32985;381;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];6225
 4G;234;30;14;26050;32985;383;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];6225
-4G;234;30;19;26051;32985;123;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];497
-4G;234;30;20;26051;32985;246;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];497
 4G;234;30;0;20241;33008;280;51.87830;-0.38292;Percival Way, Hart Hill, Luton, Bedfordshire, England, UK [LU2 9PA];1617
 4G;234;30;1;20241;33008;279;51.87830;-0.38292;Percival Way, Hart Hill, Luton, Bedfordshire, England, UK [LU2 9PA];1617
 4G;234;30;2;20241;33008;281;51.87830;-0.38292;Percival Way, Hart Hill, Luton, Bedfordshire, England, UK [LU2 9PA];1617
@@ -11069,6 +11066,9 @@
 4G;234;30;0;26051;33822;310;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;1617
 4G;234;30;1;26051;33822;311;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;1617
 4G;234;30;2;26051;33822;309;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;1617
+4G;234;30;12;26050;33822;252;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;6225
+4G;234;30;13;26050;33822;253;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;6225
+4G;234;30;14;26050;33822;254;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;6225
 4G;234;30;1;24363;33855;339;51.38749199562505;-2.4119338765740395;Stony Lane, Newton St Loe, Bath and North East Somerset, West of England, England, UK;1617
 4G;234;30;0;24391;33882;363;51.48404208955654;-2.7806900069117546;Hanover House, Friary Road, West Hill, Portishead, North Somerset, England, UK [BS20 6LP];1617
 4G;234;30;1;24391;33882;365;51.48404208955654;-2.7806900069117546;Hanover House, Friary Road, West Hill, Portishead, North Somerset, England, UK [BS20 6LP];1617
@@ -11216,9 +11216,6 @@
 4G;234;30;12;26050;34537;289;51.859390499254374;-2.2631286084651947;Sudmeadow Park, 10 Spinnaker Road, Hempsted, Gloucester, Gloucestershire, England, UK;6225
 4G;234;30;13;26050;34537;290;51.859390499254374;-2.2631286084651947;Sudmeadow Park, 10 Spinnaker Road, Hempsted, Gloucester, Gloucestershire, England, UK;6225
 4G;234;30;14;26050;34537;288;51.859390499254374;-2.2631286084651947;Sudmeadow Park, 10 Spinnaker Road, Hempsted, Gloucester, Gloucestershire, England, UK;6225
-4G;234;30;18;26051;34537;470;51.859390499254374;-2.2631286084651947;Sudmeadow Park, 10 Spinnaker Road, Hempsted, Gloucester, Gloucestershire, England, UK;497
-4G;234;30;19;26051;34537;468;51.859390499254374;-2.2631286084651947;Sudmeadow Park, 10 Spinnaker Road, Hempsted, Gloucester, Gloucestershire, England, UK;497
-4G;234;30;20;26051;34537;469;51.859390499254374;-2.2631286084651947;Sudmeadow Park, 10 Spinnaker Road, Hempsted, Gloucester, Gloucestershire, England, UK;497
 4G;234;30;0;26051;34564;117;51.89909765638697;-2.083394315974317;Cheltenham Court House, Parabola Lane, Montpellier, Cheltenham, Gloucestershire, England, UK;1617
 4G;234;30;1;26051;34564;118;51.89909765638697;-2.083394315974317;Cheltenham Court House, Parabola Lane, Montpellier, Cheltenham, Gloucestershire, England, UK;1617
 4G;234;30;2;26051;34564;119;51.89909765638697;-2.083394315974317;Cheltenham Court House, Parabola Lane, Montpellier, Cheltenham, Gloucestershire, England, UK;1617
@@ -11294,9 +11291,6 @@
 4G;234;30;4;26051;39619;262;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];1815
 4G;234;30;5;26051;39619;263;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];1815
 4G;234;30;13;26050;39619;349;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];6225
-4G;234;30;18;26051;39619;475;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];497
-4G;234;30;19;26051;39619;476;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];497
-4G;234;30;20;26051;39619;474;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];497
 4G;234;30;1;26621;39689;478;52.10904396933609;-2.192336730659008;M5 South, High Green, Worcestershire, England, UK;1617
 4G;234;30;1;26021;41143;73;52.00823;-3.46371;Transmitter near Nantygwreiddyn, Merthyr Cynog, Powys, Wales, UK [LD3 9RY];1617
 4G;234;30;2;26021;41143;null;52.00823;-3.46371;Transmitter near Nantygwreiddyn, Merthyr Cynog, Powys, Wales, UK [LD3 9RY];1617
@@ -11342,9 +11336,6 @@
 4G;234;30;12;26050;41500;114;51.84558112271105;-2.185492403805256;Lobleys Drive, M5 South, Hucclecote, Gloucester, Gloucestershire, England, UK [EE] [GL3 3RW];6225
 4G;234;30;13;26050;41500;115;51.84558112271105;-2.185492403805256;Lobleys Drive, M5 South, Hucclecote, Gloucester, Gloucestershire, England, UK [EE] [GL3 3RW];6225
 4G;234;30;14;26050;41500;116;51.84558112271105;-2.185492403805256;Lobleys Drive, M5 South, Hucclecote, Gloucester, Gloucestershire, England, UK [EE] [GL3 3RW];6225
-4G;234;30;18;26051;41500;327;51.84558112271105;-2.185492403805256;Lobleys Drive, M5 South, Hucclecote, Gloucester, Gloucestershire, England, UK [EE] [GL3 3RW];497
-4G;234;30;19;26051;41500;328;51.84558112271105;-2.185492403805256;Lobleys Drive, M5 South, Hucclecote, Gloucester, Gloucestershire, England, UK [EE] [GL3 3RW];497
-4G;234;30;20;26051;41500;329;51.84558112271105;-2.185492403805256;Lobleys Drive, M5 South, Hucclecote, Gloucester, Gloucestershire, England, UK [EE] [GL3 3RW];497
 4G;234;30;0;20241;41839;null;51.88049986249169;-0.37575150569755594;London Luton Airport DAS System, Airport Way, Wigmore, Luton, Bedfordshire, England, UK [LU2 9NQ];1617
 4G;234;30;1;20241;41839;55;51.88049986249169;-0.37575150569755594;London Luton Airport DAS System, Airport Way, Wigmore, Luton, Bedfordshire, England, UK [LU2 9NQ];1617
 4G;234;30;2;20241;41839;null;51.88049986249169;-0.37575150569755594;London Luton Airport DAS System, Airport Way, Wigmore, Luton, Bedfordshire, England, UK [LU2 9NQ];1617
