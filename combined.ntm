@@ -1406,11 +1406,6 @@
 4G;234;20;71;2120;3027;139;51.83661987801387;-2.2440876066684723;Newsham House, Larchwood Drive (near 262 Stroud Road B4173), Tuffley, Gloucester, Gloucestershire, England, UK;99
 4G;234;20;72;2120;3027;183;51.83661987801387;-2.2440876066684723;Newsham House, Larchwood Drive (near 262 Stroud Road B4173), Tuffley, Gloucester, Gloucestershire, England, UK;99
 4G;234;20;73;2120;3027;96;51.83661987801387;-2.2440876066684723;Newsham House, Larchwood Drive (near 262 Stroud Road B4173), Tuffley, Gloucester, Gloucestershire, England, UK;99
-4G;234;15;14;57346;3043;117;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;223
-4G;234;15;20;57346;3043;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;6300
-4G;234;15;24;57346;3043;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;223
-4G;234;10;120;49809;3043;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;6400
-4G;234;10;124;49809;3043;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;347
 4G;234;10;120;16625;3044;414;51.40853644207575;-2.4921228736639023;Frank Taylor Memorial Cricket Ground, Wellsway B3116, Keynsham, Bath and North East Somerset, West of England, England, UK;6400
 4G;234;20;1;2143;3048;229;51.35988614125054;-2.9079343378543854;Queensway Centre, Worle, Weston-super-mare, North Somerset, England, UK;1363
 4G;234;15;30;24607;3051;27;51.490578544751585;-3.1444448232650757;Clydesmuir Road Industrial Estate, Tremorfa, Cardiff, Wales, UK;6300
@@ -3868,8 +3863,12 @@
 4G;234;15;24;57346;8299;85;52.178721203862196;-2.2312327846884727;Bromwich Road A449, Lower Wick, Worcester, Worcestershire, England, UK;223
 4G;234;15;30;57346;8299;86;52.178721203862196;-2.2312327846884727;Bromwich Road A449, Lower Wick, Worcester, Worcestershire, England, UK;6300
 4G;234;15;34;57346;8299;86;52.178721203862196;-2.2312327846884727;Bromwich Road A449, Lower Wick, Worcester, Worcestershire, England, UK;223
-4G;234;10;110;49809;8299;306;52.178721203862196;-2.2312327846884727;Bromwich Road A449, Lower Wick, Worcester, Worcestershire, England, UK;6400
+4G;234;10;110;49809;8299;503;52.178721203862196;-2.2312327846884727;Bromwich Road A449, Lower Wick, Worcester, Worcestershire, England, UK;6400
 4G;234;10;114;49809;8299;84;52.178721203862196;-2.2312327846884727;Bromwich Road A449, Lower Wick, Worcester, Worcestershire, England, UK;347
+4G;234;10;120;49809;8299;502;52.178721203862196;-2.2312327846884727;Bromwich Road A449, Lower Wick, Worcester, Worcestershire, England, UK;6400
+4G;234;10;124;49809;8299;85;52.178721203862196;-2.2312327846884727;Bromwich Road A449, Lower Wick, Worcester, Worcestershire, England, UK;347
+4G;234;10;130;49809;8299;501;52.178721203862196;-2.2312327846884727;Bromwich Road A449, Lower Wick, Worcester, Worcestershire, England, UK;6400
+4G;234;10;134;49809;8299;86;52.178721203862196;-2.2312327846884727;Bromwich Road A449, Lower Wick, Worcester, Worcestershire, England, UK;347
 4G;234;20;0;2430;8300;339;51.836978900684755;-2.090624012053013;Birdlip Radio Station Transmitter, Shab Hill, Birdlip, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;1;2430;8300;442;51.836978900684755;-2.090624012053013;Birdlip Radio Station Transmitter, Shab Hill, Birdlip, Gloucester, Gloucestershire, England, UK;1363
 4G;234;20;2;2430;8300;344;51.836978900684755;-2.090624012053013;Birdlip Radio Station Transmitter, Shab Hill, Birdlip, Gloucester, Gloucestershire, England, UK;1363
@@ -4183,10 +4182,28 @@
 4G;234;10;130;16816;9145;449;52.075706490210585;-4.158637672662735;B4337, Llanybydder, Carmarthenshire, Wales, UK;6400
 4G;234;15;10;57346;9155;267;52.16805034322275;-2.243594415485859;Hams Way A4440, Lower Wick, Worcester, Worcestershire, England, UK;6300
 4G;234;15;12;57346;9155;267;52.16805034322275;-2.243594415485859;Hams Way A4440, Lower Wick, Worcester, Worcestershire, England, UK;3501
+4G;234;15;20;57346;9155;268;52.16805034322275;-2.243594415485859;Hams Way A4440, Lower Wick, Worcester, Worcestershire, England, UK;6300
 4G;234;15;22;57346;9155;268;52.16805034322275;-2.243594415485859;Hams Way A4440, Lower Wick, Worcester, Worcestershire, England, UK;3501
 4G;234;15;30;57346;9155;269;52.16805034322275;-2.243594415485859;Hams Way A4440, Lower Wick, Worcester, Worcestershire, England, UK;6300
+4G;234;15;32;57346;9155;269;52.16805034322275;-2.243594415485859;Hams Way A4440, Lower Wick, Worcester, Worcestershire, England, UK;3501
+4G;234;10;110;49809;9155;267;52.16805034322275;-2.243594415485859;Hams Way A4440, Lower Wick, Worcester, Worcestershire, England, UK;6400
 4G;234;10;120;49809;9155;268;52.16805034322275;-2.243594415485859;Hams Way A4440, Lower Wick, Worcester, Worcestershire, England, UK;6400
+4G;234;10;130;49809;9155;269;52.16805034322275;-2.243594415485859;Hams Way A4440, Lower Wick, Worcester, Worcestershire, England, UK;6400
+4G;234;15;10;24626;9159;162;51.18175325467239;-3.148667961359024;Tower Hill, Stogursey, Somerset, England, UK;6300
+4G;234;15;12;24626;9159;162;51.18175325467239;-3.148667961359024;Tower Hill, Stogursey, Somerset, England, UK;3501
+4G;234;15;14;24626;9159;245;51.18175325467239;-3.148667961359024;Tower Hill, Stogursey, Somerset, England, UK;223
+4G;234;15;20;24626;9159;163;51.18175325467239;-3.148667961359024;Tower Hill, Stogursey, Somerset, England, UK;6300
+4G;234;15;22;24626;9159;163;51.18175325467239;-3.148667961359024;Tower Hill, Stogursey, Somerset, England, UK;3501
+4G;234;15;24;24626;9159;243;51.18175325467239;-3.148667961359024;Tower Hill, Stogursey, Somerset, England, UK;223
+4G;234;15;30;24626;9159;164;51.18175325467239;-3.148667961359024;Tower Hill, Stogursey, Somerset, England, UK;6300
+4G;234;15;32;24626;9159;164;51.18175325467239;-3.148667961359024;Tower Hill, Stogursey, Somerset, England, UK;3501
+4G;234;15;34;24626;9159;244;51.18175325467239;-3.148667961359024;Tower Hill, Stogursey, Somerset, England, UK;223
+4G;234;10;110;16833;9159;162;51.18175325467239;-3.148667961359024;Tower Hill, Stogursey, Somerset, England, UK;6400
 4G;234;10;114;16833;9159;350;51.18175325467239;-3.148667961359024;Tower Hill, Stogursey, Somerset, England, UK;347
+4G;234;10;120;16833;9159;163;51.18175325467239;-3.148667961359024;Tower Hill, Stogursey, Somerset, England, UK;6400
+4G;234;10;124;16833;9159;348;51.18175325467239;-3.148667961359024;Tower Hill, Stogursey, Somerset, England, UK;347
+4G;234;10;130;16833;9159;164;51.18175325467239;-3.148667961359024;Tower Hill, Stogursey, Somerset, England, UK;6400
+4G;234;10;134;16833;9159;349;51.18175325467239;-3.148667961359024;Tower Hill, Stogursey, Somerset, England, UK;347
 4G;234;15;10;24723;9172;486;51.8236695312217;-2.0766302570700645;Unnamed Road, Cowley Junction, Birdlip, Gloucestershire, England, UK;6300
 4G;234;15;12;24723;9172;164;51.8236695312217;-2.0766302570700645;Unnamed Road, Cowley Junction, Birdlip, Gloucestershire, England, UK;3501
 4G;234;15;30;24723;9172;488;51.8236695312217;-2.0766302570700645;Unnamed Road, Cowley Junction, Birdlip, Gloucestershire, England, UK;6300
@@ -5319,8 +5336,6 @@
 4G;234;20;7;2146;10730;47;51.545707035474734;-2.5669263303279877;Woodlands Court, Ash Ridge Rd, Bradley Stoke, Bristol, West of England, England, UK;6175
 4G;234;30;2;24361;10764;255;51.505710112267664;-2.551668919622898;Filton Road A4174, Stoke Gifford, South Gloucestershire, West of England, England, UK [MBNL];1617
 4G;234;30;11;24361;10764;255;51.505710112267664;-2.551668919622898;Filton Road A4174, Stoke Gifford, South Gloucestershire, West of England, England, UK [MBNL];3179
-4G;234;10;120;49809;10771;371;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;6400
-4G;234;10;124;49809;10771;371;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;347
 4G;234;15;10;24626;10780;99;51.38624769306287;-2.710967995226383;Bristol Airport (BRS) DAS System, North Side Road, North Somerset, England, UK;6300
 4G;234;15;14;24626;10780;99;51.38624769306287;-2.710967995226383;Bristol Airport (BRS) DAS System, North Side Road, North Somerset, England, UK;223
 4G;234;15;18;24626;10780;99;51.38624769306287;-2.710967995226383;Bristol Airport (BRS) DAS System, North Side Road, North Somerset, England, UK;2850
@@ -7269,8 +7284,21 @@
 4G;234;30;12;26050;15972;270;51.9017268187313;-2.097168266773224;Unit 14 Alstone Lane Trading Est, Alstone Ln, Alstone, Cheltenham, Gloucestershire, England, UK;6225
 4G;234;30;13;26050;15972;271;51.9017268187313;-2.097168266773224;Unit 14 Alstone Lane Trading Est, Alstone Ln, Alstone, Cheltenham, Gloucestershire, England, UK;6225
 4G;234;30;14;26050;15972;272;51.9017268187313;-2.097168266773224;Unit 14 Alstone Lane Trading Est, Alstone Ln, Alstone, Cheltenham, Gloucestershire, England, UK;6225
+4G;234;30;0;26051;15974;477;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;1617
+4G;234;30;1;26051;15974;479;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;1617
+4G;234;30;2;26051;15974;478;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;1617
 4G;234;30;3;26051;15974;330;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;1815
-4G;234;30;5;26051;15974;331;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;1815
+4G;234;30;4;26051;15974;405;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;1815
+4G;234;30;5;26051;15974;312;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;1815
+4G;234;30;6;26051;15974;477;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;3350
+4G;234;30;7;26051;15974;479;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;3350
+4G;234;30;8;26051;15974;478;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;3350
+4G;234;30;9;26051;15974;477;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;3179
+4G;234;30;10;26051;15974;479;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;3179
+4G;234;30;11;26051;15974;478;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;3179
+4G;234;30;12;26050;15974;477;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;6225
+4G;234;30;13;26050;15974;479;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;6225
+4G;234;30;14;26050;15974;478;51.91967412172996;-2.066735252737999;The Gatehouse, Cheltenham Racecourse, Evesham Road A435, Prestbury, Cheltenham, Gloucestershire, England, UK;6225
 4G;234;30;1;24363;15985;93;51.386027786737785;-2.4469883367419243;Church Farm Business Park, Ashton Hill, Corston, Bath and North East Somerset, West of England, England, UK;1617
 4G;234;15;18;24611;16015;219;51.43910709221704;-2.599548362195492;Malago Trade Park, Wesley Street, Southville, Bristol, West of England, England, UK;2850
 4G;234;15;28;24611;16015;220;51.43910709221704;-2.599548362195492;Malago Trade Park, Wesley Street, Southville, Bristol, West of England, England, UK;2850
@@ -7515,9 +7543,6 @@
 4G;234;30;9;26391;16797;437;51.75332311794349;-2.289831005036831;Stonehouse Town Football Club, 20 Oldends Lane, Stonehouse, Gloucestershire, England, UK;3179
 4G;234;30;10;26391;16797;435;51.75332311794349;-2.289831005036831;Stonehouse Town Football Club, 20 Oldends Lane, Stonehouse, Gloucestershire, England, UK;3179
 4G;234;30;11;26391;16797;436;51.75332311794349;-2.289831005036831;Stonehouse Town Football Club, 20 Oldends Lane, Stonehouse, Gloucestershire, England, UK;3179
-4G;234;30;18;26391;16797;437;51.75332311794349;-2.289831005036831;Stonehouse Town Football Club, 20 Oldends Lane, Stonehouse, Gloucestershire, England, UK;497
-4G;234;30;19;26391;16797;435;51.75332311794349;-2.289831005036831;Stonehouse Town Football Club, 20 Oldends Lane, Stonehouse, Gloucestershire, England, UK;497
-4G;234;30;20;26391;16797;436;51.75332311794349;-2.289831005036831;Stonehouse Town Football Club, 20 Oldends Lane, Stonehouse, Gloucestershire, England, UK;497
 4G;234;30;0;26391;16798;205;51.62398053262582;-2.395670637488365;1-3 Hillhouse Business Centre, Station Rd, Charfield, Wotton-under-edge, Gloucestershire, England, UK;1617
 4G;234;30;1;26391;16798;204;51.62398053262582;-2.395670637488365;1-3 Hillhouse Business Centre, Station Rd, Charfield, Wotton-under-edge, Gloucestershire, England, UK;1617
 4G;234;30;2;26391;16798;206;51.62398053262582;-2.395670637488365;1-3 Hillhouse Business Centre, Station Rd, Charfield, Wotton-under-edge, Gloucestershire, England, UK;1617
@@ -7857,6 +7882,8 @@
 4G;234;30;1;26621;17324;308;52.03547413221224;-2.15708177536726;Twyning M50 J1, Twyning, Gloucestershire, England, UK;1617
 4G;234;30;2;26621;17324;307;52.03547413221224;-2.15708177536726;Twyning M50 J1, Twyning, Gloucestershire, England, UK;1617
 4G;234;30;3;26621;17324;84;52.03547413221224;-2.15708177536726;Twyning M50 J1, Twyning, Gloucestershire, England, UK;1815
+4G;234;30;4;26621;17324;85;52.03547413221224;-2.15708177536726;Twyning M50 J1, Twyning, Gloucestershire, England, UK;1815
+4G;234;30;5;26621;17324;86;52.03547413221224;-2.15708177536726;Twyning M50 J1, Twyning, Gloucestershire, England, UK;1815
 4G;234;30;12;26620;17324;336;52.03547413221224;-2.15708177536726;Twyning M50 J1, Twyning, Gloucestershire, England, UK;6225
 4G;234;30;13;26620;17324;337;52.03547413221224;-2.15708177536726;Twyning M50 J1, Twyning, Gloucestershire, England, UK;6225
 4G;234;30;14;26620;17324;338;52.03547413221224;-2.15708177536726;Twyning M50 J1, Twyning, Gloucestershire, England, UK;6225
@@ -9089,9 +9116,17 @@
 4G;234;30;1;25321;21266;88;51.563900246097965;-1.8919983878731725;Flaxlands House, Hook, Royal Wootton Bassett, Swindon, Wiltshire, England, UK;1617
 4G;234;30;5;25321;21266;87;51.563900246097965;-1.8919983878731725;Flaxlands House, Hook, Royal Wootton Bassett, Swindon, Wiltshire, England, UK;1815
 4G;234;30;14;25320;21266;382;51.563900246097965;-1.8919983878731725;Flaxlands House, Hook, Royal Wootton Bassett, Swindon, Wiltshire, England, UK;6225
-4G;234;30;2;26621;21267;302;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;1617
+4G;234;30;0;26621;21267;154;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;1617
+4G;234;30;1;26621;21267;155;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;1617
+4G;234;30;2;26621;21267;153;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;1617
+4G;234;30;3;26621;21267;501;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;1815
+4G;234;30;4;26621;21267;276;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;1815
+4G;234;30;5;26621;21267;117;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;1815
+4G;234;30;0;26621;21268;375;52.1692441;-2.1325724;Evesham Road A44, Egdon, Worcestershire, England, UK;1617
+4G;234;30;1;26621;21268;377;52.1692441;-2.1325724;Evesham Road A44, Egdon, Worcestershire, England, UK;1617
 4G;234;30;2;26621;21268;376;52.1692441;-2.1325724;Evesham Road A44, Egdon, Worcestershire, England, UK;1617
 4G;234;30;3;26621;21268;294;52.1692441;-2.1325724;Evesham Road A44, Egdon, Worcestershire, England, UK;1815
+4G;234;30;4;26621;21268;295;52.1692441;-2.1325724;Evesham Road A44, Egdon, Worcestershire, England, UK;1815
 4G;234;30;5;26621;21268;296;52.1692441;-2.1325724;Evesham Road A44, Egdon, Worcestershire, England, UK;1815
 4G;234;30;0;25331;21274;259;51.71453033190051;-2.1708860993385315;Hyde House Cottage, Knapp Ln, Hyde, Chalford, Stroud, Gloucestershire, England, UK;1617
 4G;234;30;1;25331;21274;259;51.71453033190051;-2.1708860993385315;Hyde House Cottage, Knapp Ln, Hyde, Chalford, Stroud, Gloucestershire, England, UK;1617
@@ -9102,10 +9137,21 @@
 4G;234;30;4;25331;21275;434;51.63943628072319;-1.8763507157564163;B4040, Swindon, Wiltshire, England, UK;1815
 4G;234;30;12;25330;21275;392;51.63943628072319;-1.8763507157564163;B4040, Swindon, Wiltshire, England, UK;6225
 4G;234;30;14;25330;21275;390;51.63943628072319;-1.8763507157564163;B4040, Swindon, Wiltshire, England, UK;6225
-4G;234;30;0;25331;21277;432;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];1617
-4G;234;30;2;25331;21277;434;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];1617
-4G;234;30;3;25331;21277;434;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];1815
-4G;234;30;12;25330;21277;432;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];6225
+4G;234;30;0;26391;21277;432;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];1617
+4G;234;30;1;26391;21277;433;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];1617
+4G;234;30;2;26391;21277;434;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];1617
+4G;234;30;3;26391;21277;432;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];1815
+4G;234;30;4;26391;21277;433;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];1815
+4G;234;30;5;26391;21277;434;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];1815
+4G;234;30;6;26391;21277;432;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];3350
+4G;234;30;7;26391;21277;433;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];3350
+4G;234;30;8;26391;21277;434;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];3350
+4G;234;30;9;26391;21277;432;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];3179
+4G;234;30;10;26391;21277;433;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];3179
+4G;234;30;11;26391;21277;434;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];3179
+4G;234;30;12;26390;21277;432;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];6225
+4G;234;30;13;26390;21277;433;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];6225
+4G;234;30;14;26390;21277;434;51.70162157842014;-2.3804115504026413;Field Lane, Dursley, Gloucestershire, England, UK [GL11 6JF];6225
 4G;234;30;0;25331;21278;384;51.65804228506359;-2.4316608533263206;Welcome Break M5 Michaelwood Services Northbound, Woodford, Gloucestershire, England, UK;1617
 4G;234;30;1;25331;21278;386;51.65804228506359;-2.4316608533263206;Welcome Break M5 Michaelwood Services Northbound, Woodford, Gloucestershire, England, UK;1617
 4G;234;30;2;25331;21278;385;51.65804228506359;-2.4316608533263206;Welcome Break M5 Michaelwood Services Northbound, Woodford, Gloucestershire, England, UK;1617
@@ -9660,12 +9706,20 @@
 4G;234;30;13;26010;22662;232;51.7934896302159;-2.625197401963593;Coleford Cemetry, Victoria Road, Coleford, Forest of Dean, Gloucestershire, England, UK;6225
 4G;234;30;14;26010;22662;231;51.7934896302159;-2.625197401963593;Coleford Cemetry, Victoria Road, Coleford, Forest of Dean, Gloucestershire, England, UK;6225
 4G;234;30;0;26621;22664;380;52.08861350501097;-2.203221805393696;Kinnersley Turn, Worcester Road A38, Severn Stoke, Worcestershire, England, UK;1617
-4G;234;30;3;26621;22664;104;52.08861350501097;-2.203221805393696;Kinnersley Turn, Worcester Road A38, Severn Stoke, Worcestershire, England, UK;1815
+4G;234;30;1;26621;22664;378;52.08861350501097;-2.203221805393696;Kinnersley Turn, Worcester Road A38, Severn Stoke, Worcestershire, England, UK;1617
+4G;234;30;2;26621;22664;379;52.08861350501097;-2.203221805393696;Kinnersley Turn, Worcester Road A38, Severn Stoke, Worcestershire, England, UK;1617
+4G;234;30;3;26621;22664;380;52.08861350501097;-2.203221805393696;Kinnersley Turn, Worcester Road A38, Severn Stoke, Worcestershire, England, UK;1815
 4G;234;30;4;26621;22664;378;52.08861350501097;-2.203221805393696;Kinnersley Turn, Worcester Road A38, Severn Stoke, Worcestershire, England, UK;1815
 4G;234;30;5;26621;22664;379;52.08861350501097;-2.203221805393696;Kinnersley Turn, Worcester Road A38, Severn Stoke, Worcestershire, England, UK;1815
-4G;234;30;12;26620;22664;104;52.08861350501097;-2.203221805393696;Kinnersley Turn, Worcester Road A38, Severn Stoke, Worcestershire, England, UK;6225
+4G;234;30;12;26620;22664;224;52.08861350501097;-2.203221805393696;Kinnersley Turn, Worcester Road A38, Severn Stoke, Worcestershire, England, UK;6225
+4G;234;30;13;26620;22664;223;52.08861350501097;-2.203221805393696;Kinnersley Turn, Worcester Road A38, Severn Stoke, Worcestershire, England, UK;6225
 4G;234;30;14;26620;22664;222;52.08861350501097;-2.203221805393696;Kinnersley Turn, Worcester Road A38, Severn Stoke, Worcestershire, England, UK;6225
-4G;234;30;0;25331;22665;465;51.69020001710738;-2.2198283672332764;Tetbury Lane, Nailsworth, Gloucestershire, England, UK;1617
+4G;234;30;0;26411;22665;465;51.69020001710738;-2.2198283672332764;Tetbury Lane, Nailsworth, Gloucestershire, England, UK;1617
+4G;234;30;2;26411;22665;466;51.69020001710738;-2.2198283672332764;Tetbury Lane, Nailsworth, Gloucestershire, England, UK;1617
+4G;234;30;3;26411;22665;465;51.69020001710738;-2.2198283672332764;Tetbury Lane, Nailsworth, Gloucestershire, England, UK;1815
+4G;234;30;5;26411;22665;466;51.69020001710738;-2.2198283672332764;Tetbury Lane, Nailsworth, Gloucestershire, England, UK;1815
+4G;234;30;12;26410;22665;365;51.69020001710738;-2.2198283672332764;Tetbury Lane, Nailsworth, Gloucestershire, England, UK;6225
+4G;234;30;14;26410;22665;null;51.69020001710738;-2.2198283672332764;Tetbury Lane, Nailsworth, Gloucestershire, England, UK;6225
 4G;234;15;10;24606;22680;63;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;6300
 4G;234;15;12;24606;22680;63;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;3501
 4G;234;15;14;24606;22680;63;51.343449427535006;-2.968028225004673;93 Drove Road B3440, Weston-super-Mare, North Somerset, England, UK;223
@@ -9940,6 +9994,8 @@
 4G;234;15;220;24723;24051;437;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;9360
 4G;234;15;230;24723;24051;null;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;9360
 4G;234;15;18;24611;24109;30;51.459212602813984;-2.599889002740383;St Michael's Hospital, Southwell Street, Tyndall's Park, Bristol, West of England, England, UK;2850
+4G;234;30;24;24611;24144;290;51.73471058866729;-2.538278861164915;Norchard Heritage Railway Station, 48 Forest Road B4234, Allaston, Lydney, Forest of Dean, Gloucestershire, England, UK [Azimuth 0°] [Site ID 76863 / ESN7105] [GL15 4ET];1791
+4G;234;30;25;24611;24144;288;51.73471058866729;-2.538278861164915;Norchard Heritage Railway Station, 48 Forest Road B4234, Allaston, Lydney, Forest of Dean, Gloucestershire, England, UK [Azimuth 160°] [Site ID 76863 / ESN7105] [GL15 4ET];1791
 4G;234;15;10;24611;24167;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;6300
 4G;234;15;12;24611;24167;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;3501
 4G;234;15;20;24611;24167;27;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;6300
@@ -10241,12 +10297,27 @@
 4G;234;30;9;26081;25548;293;52.47523929790795;-1.897881142795086;Ming Moon Karaoke, 16 Hurst Street, Chinese Quarter, Birmingham, West Midlands, England, UK [B5 4BN];3179
 4G;234;30;10;26081;25548;291;52.47523929790795;-1.897881142795086;Ming Moon Karaoke, 16 Hurst Street, Chinese Quarter, Birmingham, West Midlands, England, UK [B5 4BN];3179
 4G;234;30;11;26081;25548;292;52.47523929790795;-1.897881142795086;Ming Moon Karaoke, 16 Hurst Street, Chinese Quarter, Birmingham, West Midlands, England, UK [B5 4BN];3179
-4G;234;15;20;57346;25580;84;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;6300
+4G;234;15;10;57346;25580;117;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;6300
+4G;234;15;12;57346;25580;117;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;3501
+4G;234;15;14;57346;25580;117;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;223
+4G;234;15;16;57346;25580;117;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;1363
+4G;234;15;18;57346;25580;117;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;2850
+4G;234;15;20;57346;25580;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;6300
 4G;234;15;22;57346;25580;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;3501
 4G;234;15;24;57346;25580;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;223
 4G;234;15;26;57346;25580;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;1363
-4G;234;15;220;57346;25580;343;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;9360
+4G;234;15;28;57346;25580;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;2850
+4G;234;15;30;57346;25580;119;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;6300
+4G;234;15;32;57346;25580;119;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;3501
+4G;234;15;34;57346;25580;119;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;223
+4G;234;15;36;57346;25580;119;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;1363
+4G;234;15;38;57346;25580;119;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;2850
+4G;234;15;210;57346;25580;117;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;9360
+4G;234;15;212;57346;25580;117;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;76
+4G;234;15;220;57346;25580;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;9360
 4G;234;15;222;57346;25580;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;76
+4G;234;15;230;57346;25580;119;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;9360
+4G;234;15;232;57346;25580;119;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;76
 4G;234;15;24;24606;25587;22;51.58845754806166;-2.9589730873703957;Acacia Avenue, Ladyhill, Newport, Wales, UK;223
 4G;234;15;34;24606;25587;23;51.58845754806166;-2.9589730873703957;Acacia Avenue, Ladyhill, Newport, Wales, UK;223
 4G;234;30;1;26011;25640;163;51.67237446284232;-2.772420421242714;Unnamed Road, Kilgwrrwg Common, Monmouthshire, Wales, UK;1617
@@ -10913,9 +10984,10 @@
 4G;234;30;20;26051;31331;378;51.8398128625979;-2.1030835434794426;Grove Farm, Crickley Hill, A417, Birdlip, Gloucester, Gloucestershire, England, UK;497
 4G;234;30;0;26051;31346;196;51.95631170603817;-2.1271147951483727;Stoke Road, Stoke Orchard, Gloucestershire, England, UK;1617
 4G;234;30;1;26051;31346;197;51.95631170603817;-2.1271147951483727;Stoke Road, Stoke Orchard, Gloucestershire, England, UK;1617
-4G;234;30;3;26051;31346;196;51.95631170603817;-2.1271147951483727;Stoke Road, Stoke Orchard, Gloucestershire, England, UK;1815
-4G;234;30;4;26051;31346;197;51.95631170603817;-2.1271147951483727;Stoke Road, Stoke Orchard, Gloucestershire, England, UK;1815
+4G;234;30;3;26051;31346;450;51.95631170603817;-2.1271147951483727;Stoke Road, Stoke Orchard, Gloucestershire, England, UK;1815
+4G;234;30;4;26051;31346;465;51.95631170603817;-2.1271147951483727;Stoke Road, Stoke Orchard, Gloucestershire, England, UK;1815
 4G;234;30;12;26050;31346;471;51.95631170603817;-2.1271147951483727;Stoke Road, Stoke Orchard, Gloucestershire, England, UK;6225
+4G;234;30;13;26050;31346;472;51.95631170603817;-2.1271147951483727;Stoke Road, Stoke Orchard, Gloucestershire, England, UK;6225
 4G;234;30;0;25661;31372;135;53.781876585610014;-0.41590433567762375;179 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;1617
 4G;234;30;1;25661;31372;58;53.781876585610014;-0.41590433567762375;179 Hallgate, Cottingham, East Riding of Yorkshire, England, UK;1617
 4G;234;30;0;26051;31411;169;51.900571438015426;-2.0815973728895187;7 Jessop Ave, Cheltenham, Gloucestershire, England, UK;1617
@@ -11317,6 +11389,9 @@
 4G;234;30;0;26051;33822;310;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;1617
 4G;234;30;1;26051;33822;311;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;1617
 4G;234;30;2;26051;33822;309;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;1617
+4G;234;30;3;26051;33822;186;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;1815
+4G;234;30;4;26051;33822;78;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;1815
+4G;234;30;5;26051;33822;267;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;1815
 4G;234;30;12;26050;33822;252;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;6225
 4G;234;30;13;26050;33822;253;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;6225
 4G;234;30;14;26050;33822;254;51.817305502599226;-2.231685072183609;Gloucester Services Northbound, Gilberts Lane, Brookthorpe, Gloucestershire, England, UK;6225
@@ -12303,9 +12378,12 @@
 4G;234;10;110;16544;102757;333;51.67921069436748;-2.0324619859457016;Burnt Covert, Station Road, Kemble, Gloucestershire, England, UK;6400
 4G;234;10;120;16544;102757;334;51.67921069436748;-2.0324619859457016;Burnt Covert, Station Road, Kemble, Gloucestershire, England, UK;6400
 4G;234;10;130;16544;102757;335;51.67921069436748;-2.0324619859457016;Burnt Covert, Station Road, Kemble, Gloucestershire, England, UK;6400
-4G;234;10;110;16544;102787;354;51.73305338668937;-2.204320505261421;The Clock house, Stafford Mill, London Rd, Stroud, Gloucestershire, England, UK;6400
-4G;234;10;120;16544;102787;355;51.73305338668937;-2.204320505261421;The Clock house, Stafford Mill, London Rd, Stroud, Gloucestershire, England, UK;6400
-4G;234;10;124;16544;102787;455;51.73305338668937;-2.204320505261421;The Clock house, Stafford Mill, London Rd, Stroud, Gloucestershire, England, UK;347
+4G;234;10;110;17072;102787;354;51.73305338668937;-2.204320505261421;The Clock house, Stafford Mill, London Rd, Stroud, Gloucestershire, England, UK;6400
+4G;234;10;112;17072;102787;390;51.73305338668937;-2.204320505261421;The Clock house, Stafford Mill, London Rd, Stroud, Gloucestershire, England, UK;3725
+4G;234;10;114;17072;102787;453;51.73305338668937;-2.204320505261421;The Clock house, Stafford Mill, London Rd, Stroud, Gloucestershire, England, UK;347
+4G;234;10;120;17072;102787;355;51.73305338668937;-2.204320505261421;The Clock house, Stafford Mill, London Rd, Stroud, Gloucestershire, England, UK;6400
+4G;234;10;122;17072;102787;391;51.73305338668937;-2.204320505261421;The Clock house, Stafford Mill, London Rd, Stroud, Gloucestershire, England, UK;3725
+4G;234;10;124;17072;102787;455;51.73305338668937;-2.204320505261421;The Clock house, Stafford Mill, London Rd, Stroud, Gloucestershire, England, UK;347
 4G;234;10;110;16544;102821;366;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Cl, Swindon, Wiltshire, England, UK;6400
 4G;234;10;114;16544;102821;39;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Cl, Swindon, Wiltshire, England, UK;347
 4G;234;10;120;16544;102821;367;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Cl, Swindon, Wiltshire, England, UK;6400
@@ -12702,15 +12780,12 @@
 4G;234;10;124;16544;105002;490;51.590002757577494;-1.7786535993218422;St Peter's Church, Penhill Drive, Penhill, Swindon, Wiltshire, England, UK;347
 4G;234;10;130;16544;105002;410;51.590002757577494;-1.7786535993218422;St Peter's Church, Penhill Drive, Penhill, Swindon, Wiltshire, England, UK;6400
 4G;234;10;134;16544;105002;491;51.590002757577494;-1.7786535993218422;St Peter's Church, Penhill Drive, Penhill, Swindon, Wiltshire, England, UK;347
-4G;234;10;110;17072;105116;21;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;6400
-4G;234;10;112;17072;105116;231;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;3725
-4G;234;10;114;17072;105116;267;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;347
-4G;234;10;120;17072;105116;22;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;6400
-4G;234;10;122;17072;105116;232;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;3725
-4G;234;10;124;17072;105116;268;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;347
-4G;234;10;130;17072;105116;23;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;6400
-4G;234;10;132;17072;105116;233;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;3725
-4G;234;10;134;17072;105116;269;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;347
+4G;234;10;110;17072;105116;207;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;112;17072;105116;207;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;3725
+4G;234;10;120;17072;105116;208;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;122;17072;105116;208;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;3725
+4G;234;10;130;17072;105116;209;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;6400
+4G;234;10;132;17072;105116;209;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;3725
 4G;234;10;110;17072;105176;345;51.94317652316386;-2.10569366812706;Wingmoor Farm Landfill, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;120;17072;105176;346;51.94317652316386;-2.10569366812706;Wingmoor Farm Landfill, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;130;17072;105176;347;51.94317652316386;-2.10569366812706;Wingmoor Farm Landfill, Cheltenham, Gloucestershire, England, UK;6400
@@ -14071,6 +14146,8 @@
 4G;234;10;134;16609;119965;301;51.45745821823086;-3.4027157351374626;St Hilary Transmitting Station, A48, St Hilary, Vale of Glamorgan, Glamorgan, Wales, UK [CF71 7DP];347
 4G;234;10;110;17072;120046;494;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;6400
 4G;234;10;112;17072;120046;494;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;3725
+4G;234;10;120;17072;120046;492;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;6400
+4G;234;10;122;17072;120046;492;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;3725
 4G;234;10;130;17072;120046;493;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;6400
 4G;234;10;132;17072;120046;493;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;3725
 4G;234;10;110;17072;120106;105;51.90878837280505;-2.110939733684063;Edward Wilson House, Princess Elizabeth Way A4013, Hester's Way, Cheltenham, Gloucestershire, England, UK [Cornerstone];6400
@@ -14592,7 +14669,24 @@
 4G;234;10;215;17072;125216;489;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];37900
 4G;234;10;225;17072;125216;491;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];37900
 4G;234;10;235;17072;125216;490;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];37900
+4G;234;10;114;17072;125444;207;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;347
+4G;234;10;115;17072;125444;207;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;39250
+4G;234;10;116;17072;125444;207;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;1226
+4G;234;10;117;17072;125444;207;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;39448
+4G;234;10;119;17072;125444;207;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;38100
+4G;234;10;124;17072;125444;208;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;347
+4G;234;10;125;17072;125444;208;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;39250
+4G;234;10;126;17072;125444;208;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;1226
+4G;234;10;127;17072;125444;208;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;39448
+4G;234;10;129;17072;125444;208;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;38100
+4G;234;10;134;17072;125444;209;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;347
+4G;234;10;135;17072;125444;209;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;39250
 4G;234;10;136;17072;125444;209;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;1226
+4G;234;10;137;17072;125444;209;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;39448
+4G;234;10;139;17072;125444;209;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;38100
+4G;234;10;215;17072;125444;207;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;37900
+4G;234;10;225;17072;125444;208;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;37900
+4G;234;10;235;17072;125444;209;51.916770741332826;-2.1233144402503967;Old Mill Road, Springbank, Cheltenham, Gloucestershire, England, UK;37900
 4G;234;10;110;17072;125484;42;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];6400
 4G;234;10;112;17072;125484;42;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];3725
 4G;234;10;120;17072;125484;43;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];6400
@@ -14617,9 +14711,30 @@
 4G;234;10;215;17073;125518;351;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;37900
 4G;234;10;225;17073;125518;352;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;37900
 4G;234;10;235;17073;125518;353;51.59187202005792;-2.7532117813825607;Caldicot AFC, Jubilee Way, Caldicot, Monmouthshire, Wales, UK;37900
+4G;234;10;110;49809;125581;117;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;6400
+4G;234;10;112;49809;125581;117;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;3725
+4G;234;10;120;49809;125581;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;6400
+4G;234;10;122;49809;125581;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;3725
+4G;234;10;130;49809;125581;119;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;6400
+4G;234;10;132;49809;125581;119;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;3725
+4G;234;10;114;49809;125582;117;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;347
+4G;234;10;115;49809;125582;117;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;39250
+4G;234;10;116;49809;125582;117;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;1226
+4G;234;10;117;49809;125582;117;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;39448
+4G;234;10;119;49809;125582;117;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;38100
 4G;234;10;124;49809;125582;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;347
-4G;234;10;125;49809;125582;68;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;39250
-4G;234;10;127;49809;125582;null;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;39448
+4G;234;10;125;49809;125582;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;39250
+4G;234;10;126;49809;125582;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;1226
+4G;234;10;127;49809;125582;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;39448
+4G;234;10;129;49809;125582;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;38100
+4G;234;10;134;49809;125582;119;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;347
+4G;234;10;135;49809;125582;119;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;39250
+4G;234;10;136;49809;125582;119;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;1226
+4G;234;10;137;49809;125582;119;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;39448
+4G;234;10;139;49809;125582;119;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;38100
+4G;234;10;215;49809;125582;117;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;37900
+4G;234;10;225;49809;125582;118;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;37900
+4G;234;10;235;49809;125582;119;52.202941916627374;-2.2027024626731873;17 Laurel Road, The Ronkswood, Worcester, Worcestershire, England, UK;37900
 4G;234;10;114;17072;125696;6;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];347
 4G;234;10;115;17072;125696;6;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];39250
 4G;234;10;116;17072;125696;6;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];1226
@@ -14638,6 +14753,30 @@
 4G;234;10;215;17072;125696;6;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];37900
 4G;234;10;225;17072;125696;7;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];37900
 4G;234;10;235;17072;125696;8;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];37900
+4G;234;10;114;49809;125752;33;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;347
+4G;234;10;115;49809;125752;33;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;39250
+4G;234;10;116;49809;125752;33;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;1226
+4G;234;10;117;49809;125752;33;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;39448
+4G;234;10;119;49809;125752;33;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;38100
+4G;234;10;124;49809;125752;35;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;347
+4G;234;10;125;49809;125752;35;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;39250
+4G;234;10;126;49809;125752;35;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;1226
+4G;234;10;127;49809;125752;35;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;39448
+4G;234;10;129;49809;125752;35;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;38100
+4G;234;10;134;49809;125752;34;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;347
+4G;234;10;135;49809;125752;34;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;39250
+4G;234;10;136;49809;125752;34;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;1226
+4G;234;10;137;49809;125752;34;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;39448
+4G;234;10;139;49809;125752;34;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;38100
+4G;234;10;215;49809;125752;33;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;37900
+4G;234;10;225;49809;125752;35;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;37900
+4G;234;10;235;49809;125752;34;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;37900
+4G;234;10;110;49809;125757;33;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;6400
+4G;234;10;112;49809;125757;33;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;3725
+4G;234;10;120;49809;125757;35;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;6400
+4G;234;10;122;49809;125757;35;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;3725
+4G;234;10;130;49809;125757;34;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;6400
+4G;234;10;132;49809;125757;34;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;3725
 3G;234;10;25096;11811;982;2;51.38021608979318;-2.3597390444613597;O2 Boostbox, Tesco Express, 6 Stall Street, Bath, Bath and North East Somerset, West of England, England, UK;10711
 3G;234;10;51534;19211;982;1;51.8273713;-2.2793084;O2 Boostbox, Tesco Extra, Severnvale Drive, Quedgeley, Gloucester, Gloucestershire, England, UK;10711
 3G;234;10;54993;19811;982;1;51.3464727;-2.9748913;O2 Boostbox, Tesco, Station Road A370, Weston-super-mare, North Somerset, England, UK;10711
@@ -18957,9 +19096,15 @@
 5G;234;15;102957071;124611;0;73;51.454773240004606;-2.5974974781274796;Beacon Tower, Colston Avenue A38, Old City, Bristol, West of England, England, UK;628032
 5G;234;15;102957081;124611;0;74;51.454773240004606;-2.5974974781274796;Beacon Tower, Colston Avenue A38, Old City, Bristol, West of England, England, UK;628032
 5G;234;15;102957091;124611;0;72;51.454773240004606;-2.5974974781274796;Beacon Tower, Colston Avenue A38, Old City, Bristol, West of England, England, UK;628032
+5G;234;15;158072847;124723;0;682;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;628032
+5G;234;15;158072857;124723;0;683;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;628032
+5G;234;15;158072867;124723;0;681;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;628032
 5G;234;15;194150415;124611;0;28;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;628032
 5G;234;15;194150425;124611;0;27;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;628032
 5G;234;15;194150435;124611;0;29;51.45610070696199;-2.584836110472679;Delta Hotels, 2 Lower Castle Street, Broadmead, Bristol, West of England, England, UK;628032
+5G;234;15;306085905;124723;0;436;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;426010
+5G;234;15;306085915;124723;0;435;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;426010
+5G;234;15;306085925;124723;0;437;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;426010
 5G;234;15;356188175;124626;0;994;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;628032
 5G;234;15;356188185;124626;0;993;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;628032
 5G;234;15;356188195;124626;0;995;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;628032
