@@ -1279,6 +1279,12 @@
 4G;234;15;30;24582;2821;419;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Close, Swindon, Wiltshire, England, UK [SN1 1QT];6300
 4G;234;15;34;24582;2821;248;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Close, Swindon, Wiltshire, England, UK [SN1 1QT];223
 4G;234;15;38;24582;2821;389;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Close, Swindon, Wiltshire, England, UK [SN1 1QT];2850
+4G;234;15;10;24737;2822;282;51.450417022016694;-2.1023905277252197;Industrial Estate, 6 Cricketts Lane, Pewsham, Chippenham, Wiltshire, England, UK;6300
+4G;234;15;14;24737;2822;null;51.450417022016694;-2.1023905277252197;Industrial Estate, 6 Cricketts Lane, Pewsham, Chippenham, Wiltshire, England, UK;223
+4G;234;15;20;24737;2822;283;51.450417022016694;-2.1023905277252197;Industrial Estate, 6 Cricketts Lane, Pewsham, Chippenham, Wiltshire, England, UK;6300
+4G;234;15;24;24737;2822;null;51.450417022016694;-2.1023905277252197;Industrial Estate, 6 Cricketts Lane, Pewsham, Chippenham, Wiltshire, England, UK;223
+4G;234;15;30;24737;2822;284;51.450417022016694;-2.1023905277252197;Industrial Estate, 6 Cricketts Lane, Pewsham, Chippenham, Wiltshire, England, UK;6300
+4G;234;15;34;24737;2822;379;51.450417022016694;-2.1023905277252197;Industrial Estate, 6 Cricketts Lane, Pewsham, Chippenham, Wiltshire, England, UK;223
 4G;234;15;12;24611;2836;324;51.50077750099252;-2.677890993654728;M5, Avonmouth, Bristol, West of England, England, UK;3501
 4G;234;15;28;24611;2836;8;51.50077750099252;-2.677890993654728;M5, Avonmouth, Bristol, West of England, England, UK;2850
 4G;234;10;110;16625;2836;6;51.50077750099252;-2.677890993654728;M5, Avonmouth, Bristol, West of England, England, UK;6400
@@ -1504,6 +1510,15 @@
 4G;234;10;110;16609;3173;115;51.454126414921866;-2.77584794908762;M5, Bristol, West of England, England, UK;6400
 4G;234;10;120;16609;3173;114;51.454126414921866;-2.77584794908762;M5, Bristol, West of England, England, UK;6400
 4G;234;10;134;16609;3174;171;51.328247282666354;-2.9745711386203766;Bridgwater Road A370, Uphill, Weston-super-mare, North Somerset, England, UK;347
+4G;234;15;10;24737;3203;306;51.46886782267673;-2.1427151933312416;Bumpers Farm Roundabout, West Cepen Way A350, Cepen Park North, Chippenham, Wiltshire, England, UK [SN14 6LQ];6300
+4G;234;15;12;24737;3203;87;51.46886782267673;-2.1427151933312416;Bumpers Farm Roundabout, West Cepen Way A350, Cepen Park North, Chippenham, Wiltshire, England, UK [SN14 6LQ];3501
+4G;234;15;14;24737;3203;231;51.46886782267673;-2.1427151933312416;Bumpers Farm Roundabout, West Cepen Way A350, Cepen Park North, Chippenham, Wiltshire, England, UK [SN14 6LQ];223
+4G;234;15;20;24737;3203;307;51.46886782267673;-2.1427151933312416;Bumpers Farm Roundabout, West Cepen Way A350, Cepen Park North, Chippenham, Wiltshire, England, UK [SN14 6LQ];6300
+4G;234;15;22;24737;3203;88;51.46886782267673;-2.1427151933312416;Bumpers Farm Roundabout, West Cepen Way A350, Cepen Park North, Chippenham, Wiltshire, England, UK [SN14 6LQ];3501
+4G;234;15;24;24737;3203;232;51.46886782267673;-2.1427151933312416;Bumpers Farm Roundabout, West Cepen Way A350, Cepen Park North, Chippenham, Wiltshire, England, UK [SN14 6LQ];223
+4G;234;15;30;24737;3203;308;51.46886782267673;-2.1427151933312416;Bumpers Farm Roundabout, West Cepen Way A350, Cepen Park North, Chippenham, Wiltshire, England, UK [SN14 6LQ];6300
+4G;234;15;32;24737;3203;89;51.46886782267673;-2.1427151933312416;Bumpers Farm Roundabout, West Cepen Way A350, Cepen Park North, Chippenham, Wiltshire, England, UK [SN14 6LQ];3501
+4G;234;15;34;24737;3203;233;51.46886782267673;-2.1427151933312416;Bumpers Farm Roundabout, West Cepen Way A350, Cepen Park North, Chippenham, Wiltshire, England, UK [SN14 6LQ];223
 4G;234;15;10;24723;3205;351;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];6300
 4G;234;15;12;24723;3205;333;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];3501
 4G;234;15;14;24723;3205;102;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];223
@@ -2997,6 +3012,10 @@
 4G;234;10;124;16832;6012;265;51.319297825617895;-2.213703072385656;Trowbridge Railway Station, Stallard Street A363, Trowbridge, Wiltshire, England, UK;347
 4G;234;10;130;16832;6012;266;51.319297825617895;-2.213703072385656;Trowbridge Railway Station, Stallard Street A363, Trowbridge, Wiltshire, England, UK;6400
 4G;234;10;134;16832;6012;266;51.319297825617895;-2.213703072385656;Trowbridge Railway Station, Stallard Street A363, Trowbridge, Wiltshire, England, UK;347
+4G;234;15;10;24737;6019;null;51.44007576469226;-2.100302092730999;1 Middle Lodge Farm, Middle Lodge, Chippenham, Wiltshire, England, UK;6300
+4G;234;15;14;24737;6019;null;51.44007576469226;-2.100302092730999;1 Middle Lodge Farm, Middle Lodge, Chippenham, Wiltshire, England, UK;223
+4G;234;15;30;24737;6019;132;51.44007576469226;-2.100302092730999;1 Middle Lodge Farm, Middle Lodge, Chippenham, Wiltshire, England, UK;6300
+4G;234;15;34;24737;6019;147;51.44007576469226;-2.100302092730999;1 Middle Lodge Farm, Middle Lodge, Chippenham, Wiltshire, England, UK;223
 4G;234;15;30;24610;6025;275;51.540948704610294;-2.4140186235308647;Yate Fire Station, Station Road B4060, Yate, South Gloucestershire, West of England, England, UK;6300
 4G;234;15;34;24610;6025;275;51.540948704610294;-2.4140186235308647;Yate Fire Station, Station Road B4060, Yate, South Gloucestershire, West of England, England, UK;223
 4G;234;10;124;16625;6025;274;51.540948704610294;-2.4140186235308647;Yate Fire Station, Station Road B4060, Yate, South Gloucestershire, West of England, England, UK;347
@@ -3367,7 +3386,12 @@
 4G;234;10;124;16609;6874;374;51.374883;-2.617556;Tower Farm, Chew Hill, Chew Magna, Bath and North East Somerset, West of England, England, UK;347
 4G;234;10;130;16609;6874;372;51.374883;-2.617556;Tower Farm, Chew Hill, Chew Magna, Bath and North East Somerset, West of England, England, UK;6400
 4G;234;10;134;16609;6874;372;51.374883;-2.617556;Tower Farm, Chew Hill, Chew Magna, Bath and North East Somerset, West of England, England, UK;347
+4G;234;15;10;24723;6880;null;51.867761539046825;-2.0539897307753563;Lilley Brook Golf Course, Leckhampton Hill, Cirencester Road A435, Leckhampton, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;12;24723;6880;null;51.867761539046825;-2.0539897307753563;Lilley Brook Golf Course, Leckhampton Hill, Cirencester Road A435, Leckhampton, Cheltenham, Gloucestershire, England, UK;3501
 4G;234;15;20;24723;6880;21;51.867761539046825;-2.0539897307753563;Lilley Brook Golf Course, Leckhampton Hill, Cirencester Road A435, Leckhampton, Cheltenham, Gloucestershire, England, UK;6300
+4G;234;15;22;24723;6880;21;51.867761539046825;-2.0539897307753563;Lilley Brook Golf Course, Leckhampton Hill, Cirencester Road A435, Leckhampton, Cheltenham, Gloucestershire, England, UK;3501
+4G;234;15;210;24723;6880;465;51.867761539046825;-2.0539897307753563;Lilley Brook Golf Course, Leckhampton Hill, Cirencester Road A435, Leckhampton, Cheltenham, Gloucestershire, England, UK;9360
+4G;234;15;220;24723;6880;null;51.867761539046825;-2.0539897307753563;Lilley Brook Golf Course, Leckhampton Hill, Cirencester Road A435, Leckhampton, Cheltenham, Gloucestershire, England, UK;9360
 4G;234;15;10;24723;6881;14;51.96614647002653;-2.4256398896993363;Nansfield Farm, Dymock Road B4215, Castletump, Gloucestershire, England, UK;6300
 4G;234;15;12;24723;6881;27;51.96614647002653;-2.4256398896993363;Nansfield Farm, Dymock Road B4215, Castletump, Gloucestershire, England, UK;3501
 4G;234;15;20;24723;6881;12;51.96614647002653;-2.4256398896993363;Nansfield Farm, Dymock Road B4215, Castletump, Gloucestershire, England, UK;6300
@@ -3416,6 +3440,10 @@
 4G;234;20;2;1540;6962;89;51.487526826367514;-0.7539424672722816;Snowball Hill, M4, Maidenhead, Berkshire, England, UK [MBNL];1363
 4G;234;20;2;2226;6988;287;52.115756858534375;-2.088645212352276;Worcester Road B4084, Pershore, Worcestershire, England, UK;1363
 4G;234;20;93;2226;6988;173;52.115756858534375;-2.088645212352276;Worcester Road B4084, Pershore, Worcestershire, England, UK;9360
+4G;234;15;10;24737;7003;159;51.46147807827879;-2.15094655752182;West Cepen Way A350, Frogwell, Chippenham, Wiltshire, England, UK [SN14 0XQ];6300
+4G;234;15;14;24737;7003;393;51.46147807827879;-2.15094655752182;West Cepen Way A350, Frogwell, Chippenham, Wiltshire, England, UK [SN14 0XQ];223
+4G;234;15;20;24737;7003;null;51.46147807827879;-2.15094655752182;West Cepen Way A350, Frogwell, Chippenham, Wiltshire, England, UK [SN14 0XQ];6300
+4G;234;15;24;24737;7003;394;51.46147807827879;-2.15094655752182;West Cepen Way A350, Frogwell, Chippenham, Wiltshire, England, UK [SN14 0XQ];223
 4G;234;15;20;12305;7039;144;51.43621537296095;-0.5078766122460365;3 Fairfield Ave, Staines-upon-Thames, Surrey, England, UK;6300
 4G;234;15;24;12305;7039;0;51.43621537296095;-0.5078766122460365;3 Fairfield Ave, Staines-upon-Thames, Surrey, England, UK;223
 4G;234;15;28;12305;7039;367;51.43621537296095;-0.5078766122460365;3 Fairfield Ave, Staines-upon-Thames, Surrey, England, UK;2850
@@ -10492,7 +10520,13 @@
 4G;234;30;5;25172;22988;180;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;1815
 4G;234;30;12;25170;22988;401;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;6225
 4G;234;30;13;25170;22988;399;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;6225
+4G;234;15;14;24723;22988;114;51.867761539046825;-2.0539897307753563;Lilley Brook Golf Course, Leckhampton Hill, Cirencester Road A435, Leckhampton, Cheltenham, Gloucestershire, England, UK;223
 4G;234;30;14;25170;22988;400;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;6225
+4G;234;15;16;24723;22988;460;51.867761539046825;-2.0539897307753563;Lilley Brook Golf Course, Leckhampton Hill, Cirencester Road A435, Leckhampton, Cheltenham, Gloucestershire, England, UK;1363
+4G;234;15;18;24723;22988;99;51.867761539046825;-2.0539897307753563;Lilley Brook Golf Course, Leckhampton Hill, Cirencester Road A435, Leckhampton, Cheltenham, Gloucestershire, England, UK;2850
+4G;234;15;24;24723;22988;null;51.867761539046825;-2.0539897307753563;Lilley Brook Golf Course, Leckhampton Hill, Cirencester Road A435, Leckhampton, Cheltenham, Gloucestershire, England, UK;223
+4G;234;15;26;24723;22988;null;51.867761539046825;-2.0539897307753563;Lilley Brook Golf Course, Leckhampton Hill, Cirencester Road A435, Leckhampton, Cheltenham, Gloucestershire, England, UK;1363
+4G;234;15;28;24723;22988;null;51.867761539046825;-2.0539897307753563;Lilley Brook Golf Course, Leckhampton Hill, Cirencester Road A435, Leckhampton, Cheltenham, Gloucestershire, England, UK;2850
 4G;234;30;0;26011;23079;239;51.80175059414253;-2.5694455951452255;New Road B4234, Cannop, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;2;26011;23079;238;51.80175059414253;-2.5694455951452255;New Road B4234, Cannop, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;12;26010;23079;244;51.80175059414253;-2.5694455951452255;New Road B4234, Cannop, Forest of Dean, Gloucestershire, England, UK;6225
@@ -11833,6 +11867,60 @@
 4G;234;30;9;26051;31887;431;51.86606;-2.23119;The Atrium, Gloucestershire Royal Hospital, Great Western Road, Wotton, Gloucester, Gloucestershire, England, UK [GL1 3NL];3179
 4G;234;30;10;26051;31887;430;51.86606;-2.23119;The Atrium, Gloucestershire Royal Hospital, Great Western Road, Wotton, Gloucester, Gloucestershire, England, UK [GL1 3NL];3179
 4G;234;30;11;26051;31887;429;51.86606;-2.23119;The Atrium, Gloucestershire Royal Hospital, Great Western Road, Wotton, Gloucester, Gloucestershire, England, UK [GL1 3NL];3179
+4G;234;30;0;26101;31888;455;52.67681574298672;-2.0253741785157926;Virage Park Tower, Walsall Road A34, Bridgtown, Cannock, Staffordshire, England, UK [WS11 0NH];1617
+4G;234;30;1;26101;31888;454;52.67681574298672;-2.0253741785157926;Virage Park Tower, Walsall Road A34, Bridgtown, Cannock, Staffordshire, England, UK [WS11 0NH];1617
+4G;234;30;2;26101;31888;453;52.67681574298672;-2.0253741785157926;Virage Park Tower, Walsall Road A34, Bridgtown, Cannock, Staffordshire, England, UK [WS11 0NH];1617
+4G;234;30;3;26101;31888;455;52.67681574298672;-2.0253741785157926;Virage Park Tower, Walsall Road A34, Bridgtown, Cannock, Staffordshire, England, UK [WS11 0NH];1815
+4G;234;30;4;26101;31888;454;52.67681574298672;-2.0253741785157926;Virage Park Tower, Walsall Road A34, Bridgtown, Cannock, Staffordshire, England, UK [WS11 0NH];1815
+4G;234;30;5;26101;31888;453;52.67681574298672;-2.0253741785157926;Virage Park Tower, Walsall Road A34, Bridgtown, Cannock, Staffordshire, England, UK [WS11 0NH];1815
+4G;234;30;6;26101;31888;447;52.67681574298672;-2.0253741785157926;Virage Park Tower, Walsall Road A34, Bridgtown, Cannock, Staffordshire, England, UK [WS11 0NH];3350
+4G;234;30;7;26101;31888;448;52.67681574298672;-2.0253741785157926;Virage Park Tower, Walsall Road A34, Bridgtown, Cannock, Staffordshire, England, UK [WS11 0NH];3350
+4G;234;30;8;26101;31888;449;52.67681574298672;-2.0253741785157926;Virage Park Tower, Walsall Road A34, Bridgtown, Cannock, Staffordshire, England, UK [WS11 0NH];3350
+4G;234;30;9;26101;31888;168;52.67681574298672;-2.0253741785157926;Virage Park Tower, Walsall Road A34, Bridgtown, Cannock, Staffordshire, England, UK [WS11 0NH];3179
+4G;234;30;10;26101;31888;169;52.67681574298672;-2.0253741785157926;Virage Park Tower, Walsall Road A34, Bridgtown, Cannock, Staffordshire, England, UK [WS11 0NH];3179
+4G;234;30;11;26101;31888;170;52.67681574298672;-2.0253741785157926;Virage Park Tower, Walsall Road A34, Bridgtown, Cannock, Staffordshire, England, UK [WS11 0NH];3179
+4G;234;30;0;22491;31889;277;52.066185754434436;-0.7218122525533064;H4 Dansteed Way, Willen, Milton Keynes, Buckinghamshire, England, UK [MK15 9HL];1617
+4G;234;30;1;22491;31889;276;52.066185754434436;-0.7218122525533064;H4 Dansteed Way, Willen, Milton Keynes, Buckinghamshire, England, UK [MK15 9HL];1617
+4G;234;30;3;22491;31889;277;52.066185754434436;-0.7218122525533064;H4 Dansteed Way, Willen, Milton Keynes, Buckinghamshire, England, UK [MK15 9HL];1815
+4G;234;30;4;22491;31889;276;52.066185754434436;-0.7218122525533064;H4 Dansteed Way, Willen, Milton Keynes, Buckinghamshire, England, UK [MK15 9HL];1815
+4G;234;30;0;26161;31890;412;53.09865516640965;-1.2441189847000516;The Regent, Kingsway B6021, Kirkby-in-Ashfield, Nottinghamshire, England, UK [NG17 7BB];1617
+4G;234;30;1;26161;31890;411;53.09865516640965;-1.2441189847000516;The Regent, Kingsway B6021, Kirkby-in-Ashfield, Nottinghamshire, England, UK [NG17 7BB];1617
+4G;234;30;2;26161;31890;413;53.09865516640965;-1.2441189847000516;The Regent, Kingsway B6021, Kirkby-in-Ashfield, Nottinghamshire, England, UK [NG17 7BB];1617
+4G;234;30;3;26161;31890;444;53.09865516640965;-1.2441189847000516;The Regent, Kingsway B6021, Kirkby-in-Ashfield, Nottinghamshire, England, UK [NG17 7BB];1815
+4G;234;30;4;26161;31890;336;53.09865516640965;-1.2441189847000516;The Regent, Kingsway B6021, Kirkby-in-Ashfield, Nottinghamshire, England, UK [NG17 7BB];1815
+4G;234;30;5;26161;31890;72;53.09865516640965;-1.2441189847000516;The Regent, Kingsway B6021, Kirkby-in-Ashfield, Nottinghamshire, England, UK [NG17 7BB];1815
+4G;234;30;0;26611;31891;412;52.557503516012915;-2.165300907532491;Penn Cemetery, Penn Road A449, Penn, Wolverhampton, West Midlands, England, UK [WV4 4HW];1617
+4G;234;30;1;26611;31891;411;52.557503516012915;-2.165300907532491;Penn Cemetery, Penn Road A449, Penn, Wolverhampton, West Midlands, England, UK [WV4 4HW];1617
+4G;234;30;2;26611;31891;413;52.557503516012915;-2.165300907532491;Penn Cemetery, Penn Road A449, Penn, Wolverhampton, West Midlands, England, UK [WV4 4HW];1617
+4G;234;30;3;26611;31891;412;52.557503516012915;-2.165300907532491;Penn Cemetery, Penn Road A449, Penn, Wolverhampton, West Midlands, England, UK [WV4 4HW];1815
+4G;234;30;4;26611;31891;411;52.557503516012915;-2.165300907532491;Penn Cemetery, Penn Road A449, Penn, Wolverhampton, West Midlands, England, UK [WV4 4HW];1815
+4G;234;30;5;26611;31891;413;52.557503516012915;-2.165300907532491;Penn Cemetery, Penn Road A449, Penn, Wolverhampton, West Midlands, England, UK [WV4 4HW];1815
+4G;234;30;0;26131;31892;380;52.51113623549243;-1.4645894502877659;Triton Road, Hill Top, Nuneaton, Warwickshire, England, UK [EE] [CV10 7AQ];1617
+4G;234;30;1;26131;31892;378;52.51113623549243;-1.4645894502877659;Triton Road, Hill Top, Nuneaton, Warwickshire, England, UK [EE] [CV10 7AQ];1617
+4G;234;30;2;26131;31892;379;52.51113623549243;-1.4645894502877659;Triton Road, Hill Top, Nuneaton, Warwickshire, England, UK [EE] [CV10 7AQ];1617
+4G;234;30;3;26131;31892;380;52.51113623549243;-1.4645894502877659;Triton Road, Hill Top, Nuneaton, Warwickshire, England, UK [EE] [CV10 7AQ];1815
+4G;234;30;4;26131;31892;378;52.51113623549243;-1.4645894502877659;Triton Road, Hill Top, Nuneaton, Warwickshire, England, UK [EE] [CV10 7AQ];1815
+4G;234;30;5;26131;31892;379;52.51113623549243;-1.4645894502877659;Triton Road, Hill Top, Nuneaton, Warwickshire, England, UK [EE] [CV10 7AQ];1815
+4G;234;30;6;26131;31892;null;52.51113623549243;-1.4645894502877659;Triton Road, Hill Top, Nuneaton, Warwickshire, England, UK [EE] [CV10 7AQ];3350
+4G;234;30;7;26131;31892;166;52.51113623549243;-1.4645894502877659;Triton Road, Hill Top, Nuneaton, Warwickshire, England, UK [EE] [CV10 7AQ];3350
+4G;234;30;8;26131;31892;null;52.51113623549243;-1.4645894502877659;Triton Road, Hill Top, Nuneaton, Warwickshire, England, UK [EE] [CV10 7AQ];3350
+4G;234;30;0;21831;31893;351;54.5012894946939;-1.3285529914432268;Glaisdale Road, Levendale, Yarm, County Durham, England, UK [TS15 9RU];1617
+4G;234;30;1;21831;31893;353;54.5012894946939;-1.3285529914432268;Glaisdale Road, Levendale, Yarm, County Durham, England, UK [TS15 9RU];1617
+4G;234;30;2;21831;31893;352;54.5012894946939;-1.3285529914432268;Glaisdale Road, Levendale, Yarm, County Durham, England, UK [TS15 9RU];1617
+4G;234;30;3;21831;31893;351;54.5012894946939;-1.3285529914432268;Glaisdale Road, Levendale, Yarm, County Durham, England, UK [TS15 9RU];1761
+4G;234;30;4;21831;31893;353;54.5012894946939;-1.3285529914432268;Glaisdale Road, Levendale, Yarm, County Durham, England, UK [TS15 9RU];1761
+4G;234;30;5;21831;31893;352;54.5012894946939;-1.3285529914432268;Glaisdale Road, Levendale, Yarm, County Durham, England, UK [TS15 9RU];1761
+4G;234;30;12;21830;31893;442;54.5012894946939;-1.3285529914432268;Glaisdale Road, Levendale, Yarm, County Durham, England, UK [TS15 9RU];6225
+4G;234;30;13;21830;31893;441;54.5012894946939;-1.3285529914432268;Glaisdale Road, Levendale, Yarm, County Durham, England, UK [TS15 9RU];6225
+4G;234;30;14;21830;31893;443;54.5012894946939;-1.3285529914432268;Glaisdale Road, Levendale, Yarm, County Durham, England, UK [TS15 9RU];6225
+4G;234;30;0;22871;31895;343;51.97278412775468;-0.18506179634194947;Hatch Lane, Baldock, Hertfordshire, England, UK [SG7 6LX];1617
+4G;234;30;1;22871;31895;344;51.97278412775468;-0.18506179634194947;Hatch Lane, Baldock, Hertfordshire, England, UK [SG7 6LX];1617
+4G;234;30;2;22871;31895;342;51.97278412775468;-0.18506179634194947;Hatch Lane, Baldock, Hertfordshire, England, UK [SG7 6LX];1617
+4G;234;30;3;22871;31895;343;51.97278412775468;-0.18506179634194947;Hatch Lane, Baldock, Hertfordshire, England, UK [SG7 6LX];1761
+4G;234;30;4;22871;31895;344;51.97278412775468;-0.18506179634194947;Hatch Lane, Baldock, Hertfordshire, England, UK [SG7 6LX];1761
+4G;234;30;5;22871;31895;342;51.97278412775468;-0.18506179634194947;Hatch Lane, Baldock, Hertfordshire, England, UK [SG7 6LX];1761
+4G;234;30;0;24141;31896;335;55.863172739903945;-4.240823867009766;University of Strathclyde Library, Cathedral Street, Townhead, Glasgow, Scotland, UK [G5 0HB];1617
+4G;234;30;3;24141;31896;335;55.863172739903945;-4.240823867009766;University of Strathclyde Library, Cathedral Street, Townhead, Glasgow, Scotland, UK [G5 0HB];1815
 4G;234;30;0;26051;31897;269;51.84328774420786;-2.262568026781082;RT Trailers, 11 Saint Albans Road, Podsmead, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;1;26051;31897;267;51.84328774420786;-2.262568026781082;RT Trailers, 11 Saint Albans Road, Podsmead, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;2;26051;31897;268;51.84328774420786;-2.262568026781082;RT Trailers, 11 Saint Albans Road, Podsmead, Gloucester, Gloucestershire, England, UK;1617
@@ -11989,13 +12077,18 @@
 4G;234;30;18;26051;32365;264;51.863836779352084;-2.1978647634387016;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [MBNL];497
 4G;234;30;19;26051;32365;147;51.863836779352084;-2.1978647634387016;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [MBNL];497
 4G;234;30;20;26051;32365;366;51.863836779352084;-2.1978647634387016;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [MBNL];497
+4G;234;30;0;25341;32380;232;51.55573480799862;-1.8104629218578336;A3102, Swindon, Wiltshire, England, UK;1617
 4G;234;30;1;25341;32380;233;51.55573480799862;-1.8104629218578336;A3102, Swindon, Wiltshire, England, UK;1617
-4G;234;30;19;25341;32380;453;51.55573480799862;-1.8104629218578336;A3102, Swindon, Wiltshire, England, UK;497
-4G;234;30;20;25341;32380;411;51.55573480799862;-1.8104629218578336;A3102, Swindon, Wiltshire, England, UK;497
+4G;234;30;2;25341;32380;231;51.55573480799862;-1.8104629218578336;A3102, Swindon, Wiltshire, England, UK;1617
+4G;234;30;3;25341;32380;153;51.55573480799862;-1.8104629218578336;A3102, Swindon, Wiltshire, England, UK;1815
+4G;234;30;4;25341;32380;155;51.55573480799862;-1.8104629218578336;A3102, Swindon, Wiltshire, England, UK;1815
+4G;234;30;5;25341;32380;154;51.55573480799862;-1.8104629218578336;A3102, Swindon, Wiltshire, England, UK;1815
 4G;234;30;0;24391;32431;324;51.42348302685425;-2.8379206359386444;Hand Stadium, Davis Lane, Kenn, North Somerset, England, UK;1617
+4G;234;30;1;24391;32431;325;51.42348302685425;-2.8379206359386444;Hand Stadium, Davis Lane, Kenn, North Somerset, England, UK;1617
 4G;234;30;2;24391;32431;326;51.42348302685425;-2.8379206359386444;Hand Stadium, Davis Lane, Kenn, North Somerset, England, UK;1617
 4G;234;30;3;24391;32431;138;51.42348302685425;-2.8379206359386444;Hand Stadium, Davis Lane, Kenn, North Somerset, England, UK;1815
-4G;234;30;18;24391;32431;93;51.42348302685425;-2.8379206359386444;Hand Stadium, Davis Lane, Kenn, North Somerset, England, UK;497
+4G;234;30;4;24391;32431;93;51.42348302685425;-2.8379206359386444;Hand Stadium, Davis Lane, Kenn, North Somerset, England, UK;1815
+4G;234;30;5;24391;32431;114;51.42348302685425;-2.8379206359386444;Hand Stadium, Davis Lane, Kenn, North Somerset, England, UK;1815
 4G;234;30;0;26051;32435;146;51.853205;-2.261815;Secunda Way, A430, Hempsted, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;1;26051;32435;144;51.853205;-2.261815;Secunda Way, A430, Hempsted, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;2;26051;32435;145;51.853205;-2.261815;Secunda Way, A430, Hempsted, Gloucester, Gloucestershire, England, UK;1617
@@ -13321,7 +13414,12 @@
 4G;234;10;124;16544;102821;40;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Close, Swindon, Wiltshire, England, UK [SN1 1QT];347
 4G;234;10;130;16544;102821;368;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Close, Swindon, Wiltshire, England, UK [SN1 1QT];6400
 4G;234;10;134;16544;102821;41;51.56045657516878;-1.7822038382291794;Swindon Telephone Exchange, Regent Close, Swindon, Wiltshire, England, UK [SN1 1QT];347
-4G;234;10;134;17153;102822;296;51.450417022016694;-2.1023905277252197;Industrial Estate, 6 Cricketts Lane, Pewsham, Chippenham, Wiltshire, England, UK;347
+4G;234;10;110;16626;102822;390;51.450417022016694;-2.1023905277252197;Industrial Estate, 6 Cricketts Lane, Pewsham, Chippenham, Wiltshire, England, UK;6400
+4G;234;10;114;16626;102822;294;51.450417022016694;-2.1023905277252197;Industrial Estate, 6 Cricketts Lane, Pewsham, Chippenham, Wiltshire, England, UK;347
+4G;234;10;120;16626;102822;391;51.450417022016694;-2.1023905277252197;Industrial Estate, 6 Cricketts Lane, Pewsham, Chippenham, Wiltshire, England, UK;6400
+4G;234;10;124;16626;102822;295;51.450417022016694;-2.1023905277252197;Industrial Estate, 6 Cricketts Lane, Pewsham, Chippenham, Wiltshire, England, UK;347
+4G;234;10;130;16626;102822;392;51.450417022016694;-2.1023905277252197;Industrial Estate, 6 Cricketts Lane, Pewsham, Chippenham, Wiltshire, England, UK;6400
+4G;234;10;134;16626;102822;296;51.450417022016694;-2.1023905277252197;Industrial Estate, 6 Cricketts Lane, Pewsham, Chippenham, Wiltshire, England, UK;347
 4G;234;10;110;16544;102861;405;51.55599329636994;-1.7308217659592628;Edison Park, Hindle Way, Dorcan Way, Swindon, Wiltshire, England, UK;6400
 4G;234;10;112;16544;102861;299;51.55599329636994;-1.7308217659592628;Edison Park, Hindle Way, Dorcan Way, Swindon, Wiltshire, England, UK;3725
 4G;234;10;114;16544;102861;405;51.55599329636994;-1.7308217659592628;Edison Park, Hindle Way, Dorcan Way, Swindon, Wiltshire, England, UK;347
@@ -13391,7 +13489,12 @@
 4G;234;10;110;16544;103027;126;51.53062400152061;-1.6628415137529373;2 The Gallops, Foxhill, Swindon, Wiltshire, England, UK;6400
 4G;234;10;120;16544;103027;127;51.53062400152061;-1.6628415137529373;2 The Gallops, Foxhill, Swindon, Wiltshire, England, UK;6400
 4G;234;10;130;16544;103027;128;51.53062400152061;-1.6628415137529373;2 The Gallops, Foxhill, Swindon, Wiltshire, England, UK;6400
-4G;234;10;124;17153;103203;61;51.46886782267673;-2.1427151933312416;Bumpers Farm Roundabout, West Cepen Way A350, Chippenham, Wiltshire, England, UK;347
+4G;234;10;110;16626;103203;285;51.46886782267673;-2.1427151933312416;Bumpers Farm Roundabout, West Cepen Way A350, Cepen Park North, Chippenham, Wiltshire, England, UK [SN14 6LQ];6400
+4G;234;10;114;16626;103203;60;51.46886782267673;-2.1427151933312416;Bumpers Farm Roundabout, West Cepen Way A350, Cepen Park North, Chippenham, Wiltshire, England, UK [SN14 6LQ];347
+4G;234;10;120;16626;103203;286;51.46886782267673;-2.1427151933312416;Bumpers Farm Roundabout, West Cepen Way A350, Cepen Park North, Chippenham, Wiltshire, England, UK [SN14 6LQ];6400
+4G;234;10;124;16626;103203;61;51.46886782267673;-2.1427151933312416;Bumpers Farm Roundabout, West Cepen Way A350, Cepen Park North, Chippenham, Wiltshire, England, UK [SN14 6LQ];347
+4G;234;10;130;16626;103203;287;51.46886782267673;-2.1427151933312416;Bumpers Farm Roundabout, West Cepen Way A350, Cepen Park North, Chippenham, Wiltshire, England, UK [SN14 6LQ];6400
+4G;234;10;134;16626;103203;62;51.46886782267673;-2.1427151933312416;Bumpers Farm Roundabout, West Cepen Way A350, Cepen Park North, Chippenham, Wiltshire, England, UK [SN14 6LQ];347
 4G;234;10;110;17072;103205;489;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];6400
 4G;234;10;112;17072;103205;489;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];3725
 4G;234;10;120;17072;103205;491;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];6400
@@ -13806,7 +13909,10 @@
 4G;234;10;120;17072;105962;52;51.74798435357464;-2.187642864882946;Slad Transmitter, Bisley Road, Stroud, Gloucestershire, England, UK;6400
 4G;234;10;130;17072;105962;53;51.74798435357464;-2.187642864882946;Slad Transmitter, Bisley Road, Stroud, Gloucestershire, England, UK;6400
 4G;234;10;130;16576;106007;418;51.420705311167985;-1.2544932961463928;Cedar Haven, The Ridge, Cold Ash, Thatcham, West Berkshire, England, UK;6400
+4G;234;10;110;17153;106019;225;51.44007576469226;-2.100302092730999;1 Middle Lodge Farm, Middle Lodge, Chippenham, Wiltshire, England, UK;6400
+4G;234;10;114;17153;106019;421;51.44007576469226;-2.100302092730999;1 Middle Lodge Farm, Middle Lodge, Chippenham, Wiltshire, England, UK;347
 4G;234;10;130;17153;106019;227;51.44007576469226;-2.100302092730999;1 Middle Lodge Farm, Middle Lodge, Chippenham, Wiltshire, England, UK;6400
+4G;234;10;134;17153;106019;420;51.44007576469226;-2.100302092730999;1 Middle Lodge Farm, Middle Lodge, Chippenham, Wiltshire, England, UK;347
 4G;234;10;110;17072;106257;332;51.99171699915557;-2.152775824069977;Tewkesbury Community Hospital, 30 Howells Road, Tewkesbury, Gloucestershire, England, UK;6400
 4G;234;10;112;17072;106257;245;51.99171699915557;-2.152775824069977;Tewkesbury Community Hospital, 30 Howells Road, Tewkesbury, Gloucestershire, England, UK;3725
 4G;234;10;114;17072;106257;293;51.99171699915557;-2.152775824069977;Tewkesbury Community Hospital, 30 Howells Road, Tewkesbury, Gloucestershire, England, UK;347
@@ -13867,7 +13973,10 @@
 4G;234;10;110;16544;106955;63;51.667135;-2.080818;Stonehill Lane, Cotswold Airport, Haresdown Hill A433, Rodmarton, The Cotswolds, Gloucestershire, England, UK;6400
 4G;234;10;120;16544;106955;64;51.667135;-2.080818;Stonehill Lane, Cotswold Airport, Haresdown Hill A433, Rodmarton, The Cotswolds, Gloucestershire, England, UK;6400
 4G;234;10;130;16544;106955;65;51.667135;-2.080818;Stonehill Lane, Cotswold Airport, Haresdown Hill A433, Rodmarton, The Cotswolds, Gloucestershire, England, UK;6400
-4G;234;10;124;17153;107003;141;51.46147807827879;-2.15094655752182;Frogwell, West Cepen Way A350, Chippenham, Wiltshire, England, UK;347
+4G;234;10;110;16626;107003;143;51.46147807827879;-2.15094655752182;West Cepen Way A350, Frogwell, Chippenham, Wiltshire, England, UK [SN14 0XQ];6400
+4G;234;10;114;16626;107003;143;51.46147807827879;-2.15094655752182;West Cepen Way A350, Frogwell, Chippenham, Wiltshire, England, UK [SN14 0XQ];347
+4G;234;10;120;16626;107003;141;51.46147807827879;-2.15094655752182;West Cepen Way A350, Frogwell, Chippenham, Wiltshire, England, UK [SN14 0XQ];6400
+4G;234;10;124;16626;107003;141;51.46147807827879;-2.15094655752182;West Cepen Way A350, Frogwell, Chippenham, Wiltshire, England, UK [SN14 0XQ];347
 4G;234;10;110;17072;107144;326;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;6400
 4G;234;10;130;17072;107144;324;51.80337436971108;-2.0586225762963295;Granny's Pumps, A417 North, Syde, Cotswolds District, Gloucestershire, England, UK;6400
 4G;234;10;110;16576;107220;303;51.34113202101915;-1.571633331477642;Wayfarer's Walk, Marlborough, Wiltshire, England, UK;6400
