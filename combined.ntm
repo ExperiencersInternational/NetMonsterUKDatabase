@@ -2458,8 +2458,8 @@
 4G;234;15;12;24723;4852;12;51.93995759645507;-2.4734922498464584;Linton Wood, M50, Herefordshire, England, UK;3501
 4G;234;15;20;24723;4852;214;51.93995759645507;-2.4734922498464584;Linton Wood, M50, Herefordshire, England, UK;6300
 4G;234;15;22;24723;4852;13;51.93995759645507;-2.4734922498464584;Linton Wood, M50, Herefordshire, England, UK;3501
-4G;234;15;20;24723;4852;215;51.93995759645507;-2.4734922498464584;Linton Wood, M50, Herefordshire, England, UK;6300
-4G;234;15;22;24723;4852;14;51.93995759645507;-2.4734922498464584;Linton Wood, M50, Herefordshire, England, UK;3501
+4G;234;15;30;24723;4852;215;51.93995759645507;-2.4734922498464584;Linton Wood, M50, Herefordshire, England, UK;6300
+4G;234;15;32;24723;4852;14;51.93995759645507;-2.4734922498464584;Linton Wood, M50, Herefordshire, England, UK;3501
 4G;234;15;14;24606;4873;315;51.32762485420847;-2.9584456980228424;6 Oldmixon Cres, Weston-super-mare, North Somerset, England, UK;223
 4G;234;15;34;24606;4873;317;51.32762485420847;-2.9584456980228424;6 Oldmixon Cres, Weston-super-mare, North Somerset, England, UK;223
 4G;234;10;110;16609;4873;465;51.32762485420847;-2.9584456980228424;6 Oldmixon Cres, Weston-super-mare, North Somerset, England, UK;6400
@@ -3466,9 +3466,12 @@
 4G;234;15;22;24723;7227;379;52.10904396933609;-2.192336730659008;M5 South, High Green, Worcestershire, England, UK;3501
 4G;234;15;30;24723;7227;380;52.10904396933609;-2.192336730659008;M5 South, High Green, Worcestershire, England, UK;6300
 4G;234;15;32;24723;7227;380;52.10904396933609;-2.192336730659008;M5 South, High Green, Worcestershire, England, UK;3501
-4G;234;15;10;24723;7228;200;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;6300
-4G;234;15;20;24723;7228;198;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;6300
-4G;234;15;30;24723;7228;199;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;6300
+4G;234;15;10;24723;7228;216;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;6300
+4G;234;15;12;24723;7228;216;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;3501
+4G;234;15;20;24723;7228;217;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;6300
+4G;234;15;22;24723;7228;217;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;3501
+4G;234;15;30;24723;7228;218;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;6300
+4G;234;15;32;24723;7228;218;51.93119294246215;-2.490466944873333;Linton Interchange, M50, Ross-on-Wye, Herefordshire, England, UK;3501
 4G;234;20;1;1515;7238;298;51.78824644448027;-1.352067030966282;Cassington Road, Cassington, West Oxfordshire, England, UK [MBNL];1363
 4G;234;15;24;57346;7245;38;52.35503426268146;-2.0782308652997017;Bromsgrove Relay Station, Cockshutt Lane, Lowes Hill, Bromsgrove, Worcestershire, England, UK;223
 4G;234;20;0;3488;7282;270;53.62287875137546;-0.6228531897068024;Winterton Road A1077, Dragonby, North Lincolnshire, England, UK;1363
@@ -12019,8 +12022,18 @@
 4G;234;30;12;26050;32622;330;51.80365860735098;-2.2653675824403763;M5 South, Cross Country Route, Off Colethrop Lane, Haresfield, Stroud, Gloucestershire, England, UK;6225
 4G;234;30;18;26051;32622;231;51.80365860735098;-2.2653675824403763;M5 South, Cross Country Route, Off Colethrop Lane, Haresfield, Stroud, Gloucestershire, England, UK;497
 4G;234;30;20;26051;32622;360;51.80365860735098;-2.2653675824403763;M5 South, Cross Country Route, Off Colethrop Lane, Haresfield, Stroud, Gloucestershire, England, UK;497
+4G;234;30;0;24373;32650;330;51.60000118812205;-2.9199573397636414;M4 West, Langstone, Newport, Wales, UK [MBNL];1617
+4G;234;30;1;24373;32650;332;51.60000118812205;-2.9199573397636414;M4 West, Langstone, Newport, Wales, UK [MBNL];1617
+4G;234;30;2;24373;32650;331;51.60000118812205;-2.9199573397636414;M4 West, Langstone, Newport, Wales, UK [MBNL];1617
+4G;234;30;3;24373;32650;330;51.60000118812205;-2.9199573397636414;M4 West, Langstone, Newport, Wales, UK [MBNL];1815
+4G;234;30;4;24373;32650;332;51.60000118812205;-2.9199573397636414;M4 West, Langstone, Newport, Wales, UK [MBNL];1815
+4G;234;30;5;24373;32650;331;51.60000118812205;-2.9199573397636414;M4 West, Langstone, Newport, Wales, UK [MBNL];1815
+4G;234;30;6;24373;32650;330;51.60000118812205;-2.9199573397636414;M4 West, Langstone, Newport, Wales, UK [MBNL];3350
+4G;234;30;7;24373;32650;332;51.60000118812205;-2.9199573397636414;M4 West, Langstone, Newport, Wales, UK [MBNL];3350
 4G;234;30;8;24373;32650;331;51.60000118812205;-2.9199573397636414;M4 West, Langstone, Newport, Wales, UK [MBNL];3350
-4G;234;30;20;24373;32650;396;51.60000118812205;-2.9199573397636414;M4 West, Langstone, Newport, Wales, UK [MBNL];497
+4G;234;30;9;24373;32650;330;51.60000118812205;-2.9199573397636414;M4 West, Langstone, Newport, Wales, UK [MBNL];3179
+4G;234;30;10;24373;32650;332;51.60000118812205;-2.9199573397636414;M4 West, Langstone, Newport, Wales, UK [MBNL];3179
+4G;234;30;11;24373;32650;331;51.60000118812205;-2.9199573397636414;M4 West, Langstone, Newport, Wales, UK [MBNL];3179
 4G;234;30;0;25241;32677;416;52.679521882843886;1.2458455190062523;Holly Ln, Horsford, Norwich, Norfolk, England, UK;1617
 4G;234;30;1;25241;32677;414;52.679521882843886;1.2458455190062523;Holly Ln, Horsford, Norwich, Norfolk, England, UK;1617
 4G;234;30;4;25241;32677;111;52.679521882843886;1.2458455190062523;Holly Ln, Horsford, Norwich, Norfolk, England, UK;1815
@@ -12030,7 +12043,15 @@
 4G;234;30;0;25321;32678;293;51.58631608158182;-1.8483152613043783;24 The Fox, Purton, Swindon, Wiltshire, England, UK;1617
 4G;234;30;1;25321;32678;292;51.58631608158182;-1.8483152613043783;24 The Fox, Purton, Swindon, Wiltshire, England, UK;1617
 4G;234;30;2;25321;32678;291;51.58631608158182;-1.8483152613043783;24 The Fox, Purton, Swindon, Wiltshire, England, UK;1617
-4G;234;30;0;22571;32839;320;51.43429832720127;-1.065896786749363;Kennet Weir Business Park, 4a Arrowhead Rd, Theale, Reading, Berkshire, England, UK;1617
+4G;234;30;0;22571;32839;326;51.43429832720127;-1.065896786749363;Kennet Weir Business Park, 4a Arrowhead Rd, Theale, Reading, Berkshire, England, UK;1617
+4G;234;30;1;22571;32839;491;51.43429832720127;-1.065896786749363;Kennet Weir Business Park, 4a Arrowhead Rd, Theale, Reading, Berkshire, England, UK;1617
+4G;234;30;2;22571;32839;251;51.43429832720127;-1.065896786749363;Kennet Weir Business Park, 4a Arrowhead Rd, Theale, Reading, Berkshire, England, UK;1617
+4G;234;30;3;22571;32839;264;51.43429832720127;-1.065896786749363;Kennet Weir Business Park, 4a Arrowhead Rd, Theale, Reading, Berkshire, England, UK;1815
+4G;234;30;4;22571;32839;96;51.43429832720127;-1.065896786749363;Kennet Weir Business Park, 4a Arrowhead Rd, Theale, Reading, Berkshire, England, UK;1815
+4G;234;30;5;22571;32839;201;51.43429832720127;-1.065896786749363;Kennet Weir Business Park, 4a Arrowhead Rd, Theale, Reading, Berkshire, England, UK;1815
+4G;234;30;12;22570;32839;207;51.43429832720127;-1.065896786749363;Kennet Weir Business Park, 4a Arrowhead Rd, Theale, Reading, Berkshire, England, UK;6225
+4G;234;30;13;22570;32839;208;51.43429832720127;-1.065896786749363;Kennet Weir Business Park, 4a Arrowhead Rd, Theale, Reading, Berkshire, England, UK;6225
+4G;234;30;14;22570;32839;209;51.43429832720127;-1.065896786749363;Kennet Weir Business Park, 4a Arrowhead Rd, Theale, Reading, Berkshire, England, UK;6225
 4G;234;30;0;26051;32857;274;51.835855003089875;-2.218933515250683;Gloucester Robinswood Hotel, Marlstone Close, Matson, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;1;26051;32857;273;51.835855003089875;-2.218933515250683;Gloucester Robinswood Hotel, Marlstone Close, Matson, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;2;26051;32857;275;51.835855003089875;-2.218933515250683;Gloucester Robinswood Hotel, Marlstone Close, Matson, Gloucester, Gloucestershire, England, UK;1617
@@ -12038,7 +12059,11 @@
 4G;234;30;4;26051;32857;273;51.835855003089875;-2.218933515250683;Gloucester Robinswood Hotel, Marlstone Close, Matson, Gloucester, Gloucestershire, England, UK;1761
 4G;234;30;5;26051;32857;275;51.835855003089875;-2.218933515250683;Gloucester Robinswood Hotel, Marlstone Close, Matson, Gloucester, Gloucestershire, England, UK;1761
 4G;234;30;0;24373;32891;401;51.576802834155146;-3.031640499830246;158 Bassaleg Road, Pye Corner, Newport, Wales, UK;1617
+4G;234;30;1;24373;32891;399;51.576802834155146;-3.031640499830246;158 Bassaleg Road, Pye Corner, Newport, Wales, UK;1617
 4G;234;30;2;24373;32891;400;51.576802834155146;-3.031640499830246;158 Bassaleg Road, Pye Corner, Newport, Wales, UK;1617
+4G;234;30;3;24373;32891;401;51.576802834155146;-3.031640499830246;158 Bassaleg Road, Pye Corner, Newport, Wales, UK;1761
+4G;234;30;4;24373;32891;399;51.576802834155146;-3.031640499830246;158 Bassaleg Road, Pye Corner, Newport, Wales, UK;1761
+4G;234;30;5;24373;32891;400;51.576802834155146;-3.031640499830246;158 Bassaleg Road, Pye Corner, Newport, Wales, UK;1761
 4G;234;30;0;26051;32934;450;51.798501208795614;-2.190263383090496;Painswick Golf Course, 1 Golf Course Road, Painswick, Gloucestershire, England, UK;1617
 4G;234;30;1;26051;32934;451;51.798501208795614;-2.190263383090496;Painswick Golf Course, 1 Golf Course Road, Painswick, Gloucestershire, England, UK;1617
 4G;234;30;3;26051;32934;450;51.798501208795614;-2.190263383090496;Painswick Golf Course, 1 Golf Course Road, Painswick, Gloucestershire, England, UK;1815
@@ -12096,8 +12121,11 @@
 4G;234;30;19;26051;33044;503;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];497
 4G;234;30;20;26051;33044;502;51.883044279226496;-2.150353118777275;Cross Country Route, M5 South, Badgeworth, Gloucestershire, England, UK [MBNL];497
 4G;234;30;0;25341;33079;71;51.563698910453155;-1.7998671904206276;189 Rodbourne Rd, Swindon, Wiltshire, England, UK;1617
-4G;234;30;1;25341;33079;286;51.563698910453155;-1.7998671904206276;189 Rodbourne Rd, Swindon, Wiltshire, England, UK;1617
+4G;234;30;1;25341;33079;69;51.563698910453155;-1.7998671904206276;189 Rodbourne Rd, Swindon, Wiltshire, England, UK;1617
+4G;234;30;2;25341;33079;70;51.563698910453155;-1.7998671904206276;189 Rodbourne Rd, Swindon, Wiltshire, England, UK;1617
+4G;234;30;3;25341;33079;71;51.563698910453155;-1.7998671904206276;189 Rodbourne Rd, Swindon, Wiltshire, England, UK;1761
 4G;234;30;4;25341;33079;69;51.563698910453155;-1.7998671904206276;189 Rodbourne Rd, Swindon, Wiltshire, England, UK;1761
+4G;234;30;5;25341;33079;70;51.563698910453155;-1.7998671904206276;189 Rodbourne Rd, Swindon, Wiltshire, England, UK;1761
 4G;234;30;0;24371;33081;180;51.48450100188334;-3.1534724682569504;99 Railway Street, Splott, Cardiff, Wales, UK;1617
 4G;234;30;1;24371;33081;181;51.48450100188334;-3.1534724682569504;99 Railway Street, Splott, Cardiff, Wales, UK;1617
 4G;234;30;2;24371;33081;182;51.48450100188334;-3.1534724682569504;99 Railway Street, Splott, Cardiff, Wales, UK;1617
@@ -12117,21 +12145,59 @@
 4G;234;30;2;25241;33087;235;52.64006465222114;1.305655762553215;381-337, Gertrude Rd, Norwich, Norfolk, England, UK;1617
 4G;234;30;3;25241;33087;234;52.64006465222114;1.305655762553215;381-337, Gertrude Rd, Norwich, Norfolk, England, UK;1761
 4G;234;30;5;25241;33087;235;52.64006465222114;1.305655762553215;381-337, Gertrude Rd, Norwich, Norfolk, England, UK;1761
+4G;234;30;0;25321;33122;351;51.53823777656568;-1.8555619195103648;Studley Grange Farm, Lydraid Fields, Swindon, Wiltshire, England, UK;1617
 4G;234;30;1;25321;33122;353;51.53823777656568;-1.8555619195103648;Studley Grange Farm, Lydraid Fields, Swindon, Wiltshire, England, UK;1617
 4G;234;30;2;25321;33122;352;51.53823777656568;-1.8555619195103648;Studley Grange Farm, Lydraid Fields, Swindon, Wiltshire, England, UK;1617
+4G;234;30;3;25321;33122;351;51.53823777656568;-1.8555619195103648;Studley Grange Farm, Lydraid Fields, Swindon, Wiltshire, England, UK;1815
+4G;234;30;4;25321;33122;353;51.53823777656568;-1.8555619195103648;Studley Grange Farm, Lydraid Fields, Swindon, Wiltshire, England, UK;1815
+4G;234;30;5;25321;33122;352;51.53823777656568;-1.8555619195103648;Studley Grange Farm, Lydraid Fields, Swindon, Wiltshire, England, UK;1815
+4G;234;30;12;25320;33122;182;51.53823777656568;-1.8555619195103648;Studley Grange Farm, Lydraid Fields, Swindon, Wiltshire, England, UK;6225
+4G;234;30;13;25320;33122;180;51.53823777656568;-1.8555619195103648;Studley Grange Farm, Lydraid Fields, Swindon, Wiltshire, England, UK;6225
+4G;234;30;14;25320;33122;181;51.53823777656568;-1.8555619195103648;Studley Grange Farm, Lydraid Fields, Swindon, Wiltshire, England, UK;6225
+4G;234;30;0;25661;33202;482;53.78948854149022;-0.4726967588067055;Highfield Farm, Little Weighton Road, Skidby, East Riding of Yorkshire, England, UK;1617
 4G;234;30;1;25661;33202;481;53.78948854149022;-0.4726967588067055;Highfield Farm, Little Weighton Road, Skidby, East Riding of Yorkshire, England, UK;1617
-4G;234;30;4;22581;33211;310;51.428013857678;-0.5627670139074326;Handa Noh Theatre, Egham, Surrey, England, UK;1761
-4G;234;30;1;26051;33229;208;51.89337948177063;-2.269739918410778;Steadings Business Centre, 28 Church Rd, Maisemore, Gloucester, UK;1617
+4G;234;30;2;25661;33202;480;53.78948854149022;-0.4726967588067055;Highfield Farm, Little Weighton Road, Skidby, East Riding of Yorkshire, England, UK;1617
+4G;234;30;3;25661;33202;482;53.78948854149022;-0.4726967588067055;Highfield Farm, Little Weighton Road, Skidby, East Riding of Yorkshire, England, UK;1815
+4G;234;30;4;25661;33202;481;53.78948854149022;-0.4726967588067055;Highfield Farm, Little Weighton Road, Skidby, East Riding of Yorkshire, England, UK;1815
+4G;234;30;5;25661;33202;480;53.78948854149022;-0.4726967588067055;Highfield Farm, Little Weighton Road, Skidby, East Riding of Yorkshire, England, UK;1815
+4G;234;30;0;22581;33211;264;51.428013857678;-0.5627670139074326;Handa Noh Theatre, Egham, Surrey, England, UK;1617
+4G;234;30;1;22581;33211;265;51.428013857678;-0.5627670139074326;Handa Noh Theatre, Egham, Surrey, England, UK;1617
+4G;234;30;2;22581;33211;266;51.428013857678;-0.5627670139074326;Handa Noh Theatre, Egham, Surrey, England, UK;1617
+4G;234;30;3;22581;33211;264;51.428013857678;-0.5627670139074326;Handa Noh Theatre, Egham, Surrey, England, UK;1761
+4G;234;30;4;22581;33211;265;51.428013857678;-0.5627670139074326;Handa Noh Theatre, Egham, Surrey, England, UK;1761
+4G;234;30;5;22581;33211;266;51.428013857678;-0.5627670139074326;Handa Noh Theatre, Egham, Surrey, England, UK;1761
+4G;234;30;0;26051;33229;333;51.89337948177063;-2.269739918410778;Steadings Business Centre, 28 Church Rd, Maisemore, Gloucester, UK;1617
+4G;234;30;1;26051;33229;334;51.89337948177063;-2.269739918410778;Steadings Business Centre, 28 Church Rd, Maisemore, Gloucester, UK;1617
+4G;234;30;2;26051;33229;335;51.89337948177063;-2.269739918410778;Steadings Business Centre, 28 Church Rd, Maisemore, Gloucester, UK;1617
+4G;234;30;3;26051;33229;333;51.89337948177063;-2.269739918410778;Steadings Business Centre, 28 Church Rd, Maisemore, Gloucester, UK;1815
+4G;234;30;4;26051;33229;228;51.89337948177063;-2.269739918410778;Steadings Business Centre, 28 Church Rd, Maisemore, Gloucester, UK;1815
+4G;234;30;5;26051;33229;null;51.89337948177063;-2.269739918410778;Steadings Business Centre, 28 Church Rd, Maisemore, Gloucester, UK;1815
+4G;234;30;12;26050;33229;null;51.89337948177063;-2.269739918410778;Steadings Business Centre, 28 Church Rd, Maisemore, Gloucester, UK;6225
+4G;234;30;13;26050;33229;100;51.89337948177063;-2.269739918410778;Steadings Business Centre, 28 Church Rd, Maisemore, Gloucester, UK;6225
+4G;234;30;14;26050;33229;null;51.89337948177063;-2.269739918410778;Steadings Business Centre, 28 Church Rd, Maisemore, Gloucester, UK;6225
 4G;234;30;0;26051;33242;123;51.89493;-2.08342;Parabola Road, Montpellier, Cheltenham, Gloucestershire, England, UK;1617
 4G;234;30;1;26051;33242;124;51.89493;-2.08342;Parabola Road, Montpellier, Cheltenham, Gloucestershire, England, UK;1617
 4G;234;30;2;26051;33242;125;51.89493;-2.08342;Parabola Road, Montpellier, Cheltenham, Gloucestershire, England, UK;1617
 4G;234;30;0;24363;33354;395;51.43422851612317;-2.5277701020240784;East Wood, Ironmould Lane, Brislington, Bristol, West of England, England, UK;1617
 4G;234;30;1;24363;33354;393;51.43422851612317;-2.5277701020240784;East Wood, Ironmould Lane, Brislington, Bristol, West of England, England, UK;1617
+4G;234;30;2;24363;33354;394;51.43422851612317;-2.5277701020240784;East Wood, Ironmould Lane, Brislington, Bristol, West of England, England, UK;1617
+4G;234;30;3;24363;33354;null;51.43422851612317;-2.5277701020240784;East Wood, Ironmould Lane, Brislington, Bristol, West of England, England, UK;1815
+4G;234;30;4;24363;33354;393;51.43422851612317;-2.5277701020240784;East Wood, Ironmould Lane, Brislington, Bristol, West of England, England, UK;1815
+4G;234;30;5;24363;33354;null;51.43422851612317;-2.5277701020240784;East Wood, Ironmould Lane, Brislington, Bristol, West of England, England, UK;1815
+4G;234;30;0;25661;33378;259;53.82061686090603;-0.4538287594914437;Butt Farm Caravan and Camping site, Beverley Bypass A1079, Beverley, East Riding of Yorkshire, England, UK;1617
 4G;234;30;1;25661;33378;260;53.82061686090603;-0.4538287594914437;Butt Farm Caravan and Camping site, Beverley Bypass A1079, Beverley, East Riding of Yorkshire, England, UK;1617
-4G;234;30;4;25661;33378;260;53.82061686090603;-0.4538287594914437;Butt Farm Caravan and Camping site, Beverley Bypass A1079, Beverley, East Riding of Yorkshire, England, UK;1761
+4G;234;30;2;25661;33378;258;53.82061686090603;-0.4538287594914437;Butt Farm Caravan and Camping site, Beverley Bypass A1079, Beverley, East Riding of Yorkshire, England, UK;1617
+4G;234;30;3;25661;33378;204;53.82061686090603;-0.4538287594914437;Butt Farm Caravan and Camping site, Beverley Bypass A1079, Beverley, East Riding of Yorkshire, England, UK;1815
+4G;234;30;4;25661;33378;261;53.82061686090603;-0.4538287594914437;Butt Farm Caravan and Camping site, Beverley Bypass A1079, Beverley, East Riding of Yorkshire, England, UK;1815
+4G;234;30;5;25661;33378;225;53.82061686090603;-0.4538287594914437;Butt Farm Caravan and Camping site, Beverley Bypass A1079, Beverley, East Riding of Yorkshire, England, UK;1815
 4G;234;30;0;22571;33402;474;51.421689427101875;-1.0318374261260033;MOTO Reading Westbound Services, Burghfield Rd, Reading, Berkshire, England, UK;1617
 4G;234;30;1;22571;33402;475;51.421689427101875;-1.0318374261260033;MOTO Reading Westbound Services, Burghfield Rd, Reading, Berkshire, England, UK;1617
-4G;234;30;3;24373;33445;0;51.587274;-3.001396;East Street Substation, Bridge Street B4591, Baneswell, Newport, Wales, UK;1815
+4G;234;30;2;22571;33402;476;51.421689427101875;-1.0318374261260033;MOTO Reading Westbound Services, Burghfield Rd, Reading, Berkshire, England, UK;1617
+4G;234;30;3;22571;33402;474;51.421689427101875;-1.0318374261260033;MOTO Reading Westbound Services, Burghfield Rd, Reading, Berkshire, England, UK;1761
+4G;234;30;4;22571;33402;475;51.421689427101875;-1.0318374261260033;MOTO Reading Westbound Services, Burghfield Rd, Reading, Berkshire, England, UK;1761
+4G;234;30;5;22571;33402;476;51.421689427101875;-1.0318374261260033;MOTO Reading Westbound Services, Burghfield Rd, Reading, Berkshire, England, UK;1761
+4G;234;30;0;24373;33445;355;51.587274;-3.001396;East Street Substation, Bridge Street B4591, Baneswell, Newport, Wales, UK;1617
+4G;234;30;3;24373;33445;355;51.587274;-3.001396;East Street Substation, Bridge Street B4591, Baneswell, Newport, Wales, UK;1815
 4G;234;30;0;26051;33475;86;51.882133872902;-2.1773046255111694;Churchdown School Academy, 32 Winston Road, Churchdown, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;1;26051;33475;84;51.882133872902;-2.1773046255111694;Churchdown School Academy, 32 Winston Road, Churchdown, Gloucester, Gloucestershire, England, UK;1617
 4G;234;30;2;26051;33475;85;51.882133872902;-2.1773046255111694;Churchdown School Academy, 32 Winston Road, Churchdown, Gloucester, Gloucestershire, England, UK;1617
@@ -12158,8 +12224,14 @@
 4G;234;30;3;26051;33572;165;51.88628;-2.21709;Innsworth Technology Park, Innsworth Lane, Innsworth, Gloucester, Gloucestershire, England, UK [EE] [GL3 1DL];1761
 4G;234;30;4;26051;33572;167;51.88628;-2.21709;Innsworth Technology Park, Innsworth Lane, Innsworth, Gloucester, Gloucestershire, England, UK [EE] [GL3 1DL];1761
 4G;234;30;5;26051;33572;166;51.88628;-2.21709;Innsworth Technology Park, Innsworth Lane, Innsworth, Gloucester, Gloucestershire, England, UK [EE] [GL3 1DL];1761
+4G;234;30;1;22571;33637;341;51.4261021121649;-1.0339848697185516;MOTO Reading Eastbound Services, Reading, Berkshire, England, UK;1617
 4G;234;30;2;22571;33637;340;51.4261021121649;-1.0339848697185516;MOTO Reading Eastbound Services, Reading, Berkshire, England, UK;1617
+4G;234;30;0;25321;33642;192;51.54650581077919;-1.8328959122300148;Great Western Way A3102, Blagrove, Swindon, Wiltshire, England, UK [EE];1617
 4G;234;30;1;25321;33642;194;51.54650581077919;-1.8328959122300148;Great Western Way A3102, Blagrove, Swindon, Wiltshire, England, UK [EE];1617
+4G;234;30;2;25321;33642;193;51.54650581077919;-1.8328959122300148;Great Western Way A3102, Blagrove, Swindon, Wiltshire, England, UK [EE];1617
+4G;234;30;3;25321;33642;447;51.54650581077919;-1.8328959122300148;Great Western Way A3102, Blagrove, Swindon, Wiltshire, England, UK [EE];1815
+4G;234;30;4;25321;33642;448;51.54650581077919;-1.8328959122300148;Great Western Way A3102, Blagrove, Swindon, Wiltshire, England, UK [EE];1815
+4G;234;30;5;25321;33642;449;51.54650581077919;-1.8328959122300148;Great Western Way A3102, Blagrove, Swindon, Wiltshire, England, UK [EE];1815
 4G;234;30;0;24361;33671;306;51.54319966025932;-2.5893027463697424;Over Lane, Over, South Gloucestershire, England, UK [BS32 4BZ];1617
 4G;234;30;3;24361;33671;306;51.54319966025932;-2.5893027463697424;Over Lane, Over, South Gloucestershire, England, UK [BS32 4BZ];1761
 4G;234;30;0;26051;33698;443;51.81751980684247;-2.277524024248123;Waterwells Park & Ride, Naas Lane, Quedgeley, Gloucester, Gloucestershire, England, UK [EE];1617
@@ -12200,7 +12272,12 @@
 4G;234;30;12;26050;33759;444;51.918633122803364;-2.101507473425924;Tile Mountain, Manor Road, Kingsditch, Cheltenham, Gloucestershire, England, UK [GL51 9RR];6225
 4G;234;30;13;26050;33759;446;51.918633122803364;-2.101507473425924;Tile Mountain, Manor Road, Kingsditch, Cheltenham, Gloucestershire, England, UK [GL51 9RR];6225
 4G;234;30;14;26050;33759;445;51.918633122803364;-2.101507473425924;Tile Mountain, Manor Road, Kingsditch, Cheltenham, Gloucestershire, England, UK [GL51 9RR];6225
+4G;234;30;0;24363;33803;264;51.3844413332038;-2.4188482761383057;Waltining Lane, Newton St Loe, Bath and North East Somerset, West of England, England, UK;1617
+4G;234;30;1;24363;33803;266;51.3844413332038;-2.4188482761383057;Waltining Lane, Newton St Loe, Bath and North East Somerset, West of England, England, UK;1617
 4G;234;30;2;24363;33803;265;51.3844413332038;-2.4188482761383057;Waltining Lane, Newton St Loe, Bath and North East Somerset, West of England, England, UK;1617
+4G;234;30;3;24363;33803;264;51.3844413332038;-2.4188482761383057;Waltining Lane, Newton St Loe, Bath and North East Somerset, West of England, England, UK;1815
+4G;234;30;4;24363;33803;315;51.3844413332038;-2.4188482761383057;Waltining Lane, Newton St Loe, Bath and North East Somerset, West of England, England, UK;1815
+4G;234;30;5;24363;33803;261;51.3844413332038;-2.4188482761383057;Waltining Lane, Newton St Loe, Bath and North East Somerset, West of England, England, UK;1815
 4G;234;30;0;25241;33814;272;52.667355773674615;1.277611255645752;280 Fifers Ln, Norwich, Norfolk, England, UK;1617
 4G;234;30;1;25241;33814;270;52.667355773674615;1.277611255645752;280 Fifers Ln, Norwich, Norfolk, England, UK;1617
 4G;234;30;2;25241;33814;271;52.667355773674615;1.277611255645752;280 Fifers Ln, Norwich, Norfolk, England, UK;1617
@@ -13023,6 +13100,7 @@
 4G;234;20;1;2131;54259;172;51.40857701383911;-2.462133765220642;Great Western Main Line, Saltford, Bath and North East Somerset, West of England, England, UK;1363
 4G;234;20;2;2131;54259;173;51.40857701383911;-2.462133765220642;Great Western Main Line, Saltford, Bath and North East Somerset, West of England, England, UK;1363
 4G;234;20;6;2414;54323;306;51.96780996873598;-2.3201171681284904;Staunton Coppice, Staunton, Forest of Dean, Gloucestershire, England, UK;6175
+4G;234;20;8;2414;54323;413;51.96780996873598;-2.3201171681284904;Staunton Coppice, Staunton, Forest of Dean, Gloucestershire, England, UK;6175
 4G;234;20;91;2414;54323;192;51.96780996873598;-2.3201171681284904;Staunton Coppice, Staunton, Forest of Dean, Gloucestershire, England, UK;9360
 4G;234;20;92;2414;54323;388;51.96780996873598;-2.3201171681284904;Staunton Coppice, Staunton, Forest of Dean, Gloucestershire, England, UK;9360
 4G;234;20;93;2414;54323;137;51.96780996873598;-2.3201171681284904;Staunton Coppice, Staunton, Forest of Dean, Gloucestershire, England, UK;9360
