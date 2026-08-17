@@ -1,0 +1,24 @@
+name: Update or decommission a list of cell IDs
+description: Request for an eNB to be updated
+title: '🔃 Update/Decommission eNB • '
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Request for a single or set of eNBs to be updated in a specific location. PLMN changes can also be performed where necessary as well.
+
+  - type: input
+    attributes:
+      label: Specify eNB/list of eNBs to updated
+      description: Specify a list of eNBs in a specific location that you want to be updated to represent the site's current state.
+      placeholder: 'Vodafone & O2 eNB 11850 (Delta Hotels, Broadmead, Bristol) need to be updated to newer eNBs. Vodafone uses eNB 24167 for B8+20 and 23954 for B1+7. O2 uses eNB 123964. PCIs unchanged.'
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Any additional notes?
+      description: Use this space to add additional details.
+    validations:
+      required: false
