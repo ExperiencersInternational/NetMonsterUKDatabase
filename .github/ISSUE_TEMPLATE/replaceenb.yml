@@ -8,7 +8,7 @@ body:
       value: |
         Request for a single or set of eNBs to be updated in a specific location. PLMN changes can also be performed where necessary as well.
 
-  - type: input
+  - type: textarea
     attributes:
       label: Specify eNB/list of eNBs to updated
       description: Specify a list of eNBs in a specific location that you want to be updated to represent the site's current state.
