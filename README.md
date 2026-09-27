@@ -26,4 +26,5 @@ Support for networks in the Channel Islands is currently outside of the scope of
 
 ---
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K0UNLZX)
+<img width="761" height="900" alt="{325DF5B7-A8EA-441E-AB70-C195E6BA01ED}" src="https://github.com/user-attachments/assets/3d39337b-6fac-4643-a27d-a534a01ed9c3" />
+
