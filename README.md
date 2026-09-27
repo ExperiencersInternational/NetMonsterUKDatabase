@@ -10,7 +10,7 @@ These areas should have at least 10% coverage on at least one operator on 4G. Th
 
 Aberaeron, Abergavenny, Barry, Barton-upon-Humber, Bath, Beaconsfield, Birmingham (City Centre), Blackburn, Boston, Brecon, Bristol, Bromsgrove, Brough, Burford, Caldicot, Cardiff, Cardigan, Carterton, Cheltenham, Chepstow, Chippenham, Cinderford, Cirencester, Clevedon, Coleford, Cromer, Darlington, Derby, Doncaster, Dursley, Edinburgh, Frome, Galashiels, Gloucester, Goole, Hebden Bridge, Hessle, High Wycombe, Huddersfield, Hull, Keynsham, Lampeter, Ledbury, Liverpool, Livingston, Llandovery, Lydney, Manchester, Mitcheldean, Monmouth, Musselburgh, Newport, New Quay (Ceredigion), Norwich, Oxford, Portishead, Preston, Reading, Ross-on-Wye, Rotherham, Sheffield, Sheringham, Slough, Spalding, Staines-upon-Thames, Stonehouse, Stroud, Swindon, Tamworth, Tewkesbury, Trowbridge, Wakefield, Wells, Windsor, Wishaw, Witney, Worcester, Weston-super-mare, Yate, York
 
-<img width="1777" height="1548" alt="A OpenStreetMap map with various coloured points for each network, with a lot of blue primarily for O2. You can see from around Brighton to Corrour." title="A OpenStreetMap map with various coloured points for each network, with a lot of blue primarily for O2. You can see from around Brighton to Corrour." src="https://github.com/user-attachments/assets/2f8a6516-4b30-4f44-af15-684e48583405" />
+<img width="1777" height="1548" alt="{325DF5B7-A8EA-441E-AB70-C195E6BA01ED}" src="https://github.com/user-attachments/assets/3d39337b-6fac-4643-a27d-a534a01ed9c3" />
 
 > **Note:** Please note that the map will display blank when importing the database. NetMonster only shows sites and cells on the map after you have picked them up. If you're in a supported area, you should start filling out the map quickly but it may take longer. You can always check what cells are on the map by importing the NTM file into QGIS. External websites also exist for viewing data but data may not be up to date on those sites. Map of mapped sites last updated 2026-07-07.
 
@@ -25,6 +25,5 @@ Aberaeron, Abergavenny, Barry, Barton-upon-Humber, Bath, Beaconsfield, Birmingha
 Support for networks in the Channel Islands is currently outside of the scope of the project, but I may look into this in the future. Public private networks aren't in the scope right now additionally, but I would also like to look into this.
 
 ---
-
-<img width="761" height="900" alt="{325DF5B7-A8EA-441E-AB70-C195E6BA01ED}" src="https://github.com/user-attachments/assets/3d39337b-6fac-4643-a27d-a534a01ed9c3" />
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K0UNLZX)
 
