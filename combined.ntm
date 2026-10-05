@@ -3108,6 +3108,10 @@
 4G;234;20;71;2281;4612;414;51.888337681462104;-2.1536364778876305;A40, Churchdown, Cheltenham, Gloucestershire, England, UK;99
 4G;234;20;72;2281;4612;416;51.888337681462104;-2.1536364778876305;A40, Churchdown, Cheltenham, Gloucestershire, England, UK;99
 4G;234;20;73;2281;4612;7;51.888337681462104;-2.1536364778876305;A40, Churchdown, Cheltenham, Gloucestershire, England, UK;99
+4G;234;15;10;57382;4646;166;54.6217284363447;-2.71281972527504;1 Fell View Cottages, Clifton, Penrith, Cumbria, England, UK;6300
+4G;234;15;12;57382;4646;475;54.6217284363447;-2.71281972527504;1 Fell View Cottages, Clifton, Penrith, Cumbria, England, UK;3501
+4G;234;15;14;57382;4646;475;54.6217284363447;-2.71281972527504;1 Fell View Cottages, Clifton, Penrith, Cumbria, England, UK;223
+4G;234;10;110;49761;4646;167;54.6217284363447;-2.71281972527504;1 Fell View Cottages, Clifton, Penrith, Cumbria, England, UK;6400
 4G;234;20;71;3852;4633;487;53.744168260191;-2.45159704238176;152 Romney Walk, Blackburn, Lancashire, England, UK;99
 4G;234;20;73;3852;4633;487;53.744168260191;-2.45159704238176;152 Romney Walk, Blackburn, Lancashire, England, UK;99
 4G;234;20;91;7104;4633;297;53.744168260191;-2.45159704238176;152 Romney Walk, Blackburn, Lancashire, England, UK;9360
@@ -3397,18 +3401,6 @@
 4G;234;15;30;24581;5318;392;51.45370292338015;-1.4808760955929756;Wickham Interchange, Hungerford, West Berkshire, England, UK;6300
 4G;234;20;1;2156;5326;93;51.392898366200434;-3.2682089880108833;Barry Centre, Breaksea Dr, Barry, Glamorgan, Wales, UK;1363
 4G;234;20;92;2156;5326;268;51.392898366200434;-3.2682089880108833;Barry Centre, Breaksea Dr, Barry, Glamorgan, Wales, UK;9360
-4G;234;15;10;24611;5343;165;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;6300
-4G;234;15;14;24611;5343;165;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;223
-4G;234;15;20;24611;5343;167;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;6300
-4G;234;15;24;24611;5343;167;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;223
-4G;234;15;30;24611;5343;166;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;6300
-4G;234;15;34;24611;5343;166;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;223
-4G;234;10;112;16625;5343;165;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;3725
-4G;234;10;114;16625;5343;165;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;347
-4G;234;10;120;16625;5343;167;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;6400
-4G;234;10;124;16625;5343;167;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;347
-4G;234;10;130;16625;5343;166;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;6400
-4G;234;10;134;16625;5343;166;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;347
 4G;234;20;0;3133;5360;117;53.4175724662438;-1.411646269261837;Meadowhall Interchange Tram Station, Meadowhall Road A6109, Brightside, Sheffield, South Yorkshire, England, UK;1363
 4G;234;20;2;3133;5360;32;53.4175724662438;-1.411646269261837;Meadowhall Interchange Tram Station, Meadowhall Road A6109, Brightside, Sheffield, South Yorkshire, England, UK;1363
 4G;234;15;10;57385;5368;267;52.36071785116232;-4.102580510079861;Blaenplwyf Transmitting Station, Blaenplwyf, Ceredigion, Wales, UK;6300
@@ -3823,6 +3815,10 @@
 4G;234;10;124;49809;6028;339;52.19082889343522;-2.2205495461821556;Marmion House, 1 Copenhagen Street, Worcester, Worcestershire, England, UK [Cornerstone];347
 4G;234;10;130;49809;6028;340;52.19082889343522;-2.2205495461821556;Marmion House, 1 Copenhagen Street, Worcester, Worcestershire, England, UK [Cornerstone];6400
 4G;234;10;134;49809;6028;340;52.19082889343522;-2.2205495461821556;Marmion House, 1 Copenhagen Street, Worcester, Worcestershire, England, UK [Cornerstone];347
+4G;234;20;1;3403;6034;85;55.9201363287756;-3.25644481927156;2 Redhall Bank Rd, Edinburgh, Scotland, UK;1363
+4G;234;20;7;3403;6034;324;55.9201363287756;-3.25644481927156;2 Redhall Bank Rd, Edinburgh, Scotland, UK;6175
+4G;234;20;71;3403;6034;340;55.9201363287756;-3.25644481927156;2 Redhall Bank Rd, Edinburgh, Scotland, UK;76
+4G;234;20;72;3403;6034;339;55.9201363287756;-3.25644481927156;2 Redhall Bank Rd, Edinburgh, Scotland, UK;76
 4G;234;15;10;24606;6039;237;51.61313128910686;-2.906152680516243;Coed-y-Caerau Lane, Catsash, Newport, Wales, UK [NP18 1JS];6300
 4G;234;15;12;24606;6039;470;51.61313128910686;-2.906152680516243;Coed-y-Caerau Lane, Catsash, Newport, Wales, UK [NP18 1JS];3501
 4G;234;15;14;24606;6039;470;51.61313128910686;-2.906152680516243;Coed-y-Caerau Lane, Catsash, Newport, Wales, UK [NP18 1JS];223
@@ -8919,6 +8915,18 @@
 4G;234;15;34;41105;15309;493;55.9547115710882;-3.14054790884256;59 Northfield Broadway, Edinburgh, Scotland, UK;223
 4G;234;30;1;20271;15317;468;51.441625597921195;-0.8328047767281532;Pound Lane, M4, Reading, Berkshire, England, UK;1617
 4G;234;30;2;20271;15317;470;51.441625597921195;-0.8328047767281532;Pound Lane, M4, Reading, Berkshire, England, UK;1617
+4G;234;15;10;57397;15317;260;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;6300
+4G;234;15;12;57397;15317;260;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;3501
+4G;234;15;14;57397;15317;260;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;223
+4G;234;15;18;57397;15317;260;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;2850
+4G;234;15;20;57397;15317;258;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;6300
+4G;234;15;22;57397;15317;258;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;3501
+4G;234;15;24;57397;15317;258;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;223
+4G;234;15;28;57397;15317;258;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;2850
+4G;234;15;30;57397;15317;259;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;6300
+4G;234;15;32;57397;15317;259;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;3501
+4G;234;15;34;57397;15317;259;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;223
+4G;234;15;38;57397;15317;259;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;2850
 4G;234;15;10;57345;15319;336;52.661238708642074;-2.126477099955082;Old Stafford Road, Coven, South Staffordshire, England, UK;6300
 4G;234;15;12;57345;15319;336;52.661238708642074;-2.126477099955082;Old Stafford Road, Coven, South Staffordshire, England, UK;3501
 4G;234;15;14;57345;15319;336;52.661238708642074;-2.126477099955082;Old Stafford Road, Coven, South Staffordshire, England, UK;223
@@ -8952,6 +8960,18 @@
 4G;234;15;30;57417;15346;487;53.00136171781819;-2.3535431921482086;Bower End Farm, Bower End Lane, Bower End, Madeley, Staffordshire, England, UK [Cornerstone];6300
 4G;234;15;32;57417;15346;487;53.00136171781819;-2.3535431921482086;Bower End Farm, Bower End Lane, Bower End, Madeley, Staffordshire, England, UK [Cornerstone];3501
 4G;234;15;34;57417;15346;487;53.00136171781819;-2.3535431921482086;Bower End Farm, Bower End Lane, Bower End, Madeley, Staffordshire, England, UK [Cornerstone];223
+4G;234;15;10;57388;15428;19;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;6300
+4G;234;15;12;57388;15428;19;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;3501
+4G;234;15;14;57388;15428;19;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;223
+4G;234;15;18;57388;15428;19;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;2850
+4G;234;15;20;57388;15428;20;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;6300
+4G;234;15;22;57388;15428;20;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;3501
+4G;234;15;24;57388;15428;20;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;223
+4G;234;15;28;57388;15428;20;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;2850
+4G;234;15;30;57388;15428;18;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;6300
+4G;234;15;32;57388;15428;18;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;3501
+4G;234;15;34;57388;15428;18;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;223
+4G;234;15;38;57388;15428;18;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;2850
 4G;234;30;0;25241;15446;344;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];1617
 4G;234;30;1;25241;15446;342;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];1617
 4G;234;30;2;25241;15446;343;52.62954;1.29388;Jarrolds, 1-11 London Street, Norwich, Norfolk, England, UK [MBNL] [NR2 1JF];1617
@@ -10473,6 +10493,12 @@
 4G;234;30;0;25321;18205;227;51.54878800823485;-2.4383288249373436;Yate Town Football Club, Lodge Road, Engine Common, Yate, South Gloucestershire, West of England, England, UK [BS37 7LE] [MBNL];1617
 4G;234;30;1;25321;18205;225;51.54878800823485;-2.4383288249373436;Yate Town Football Club, Lodge Road, Engine Common, Yate, South Gloucestershire, West of England, England, UK [BS37 7LE] [MBNL];1617
 4G;234;30;2;25321;18205;226;51.54878800823485;-2.4383288249373436;Yate Town Football Club, Lodge Road, Engine Common, Yate, South Gloucestershire, West of England, England, UK [BS37 7LE] [MBNL];1617
+4G;234;30;0;26821;18206;140;54.6929339848842;-2.79305666685104;Catterlen Interchange, Penrith, Cumbria, England, UK;1617
+4G;234;30;1;26821;18206;139;54.6929339848842;-2.79305666685104;Catterlen Interchange, Penrith, Cumbria, England, UK;1617
+4G;234;30;3;26821;18206;225;54.6929339848842;-2.79305666685104;Catterlen Interchange, Penrith, Cumbria, England, UK;1815
+4G;234;30;4;26821;18206;226;54.6929339848842;-2.79305666685104;Catterlen Interchange, Penrith, Cumbria, England, UK;1815
+4G;234;30;12;26820;18206;140;54.6929339848842;-2.79305666685104;Catterlen Interchange, Penrith, Cumbria, England, UK;6225
+4G;234;30;13;26820;18206;139;54.6929339848842;-2.79305666685104;Catterlen Interchange, Penrith, Cumbria, England, UK;6225
 4G;234;15;18;12306;18248;44;51.500138215525496;-0.19677121192216873;Stafford Court, 188 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;2850
 4G;234;15;38;12306;18248;43;51.500138215525496;-0.19677121192216873;Stafford Court, 188 Kensington High Street A315, Kensington, Kensington and Chelsea, Greater London, England, UK;2850
 4G;234;30;12;26880;18305;124;53.18887974126503;-2.5263042747974396;Winsford Town Council, Wyvern House, 32 Queensway, Winsford, Cheshire, England, UK;6225
@@ -10763,12 +10789,6 @@
 4G;234;15;38;24611;19164;473;51.42767625069896;-2.514139451086521;Keynsham Motocross, A4174, Keynsham, Bath and North East Somerset, West of England, England, UK;2850
 4G;234;30;1;26011;19165;395;51.8228520065517;-3.1166303157806396;Church Rd, Maesygwartha, Monmouthshire, Wales, UK;1617
 4G;234;30;13;26010;19165;395;51.8228520065517;-3.1166303157806396;Church Rd, Maesygwartha, Monmouthshire, Wales, UK;6225
-4G;234;10;110;16625;19168;471;51.42767625069896;-2.514139451086521;Keynsham Motocross, A4174, Keynsham, Bath and North East Somerset, West of England, England, UK;6400
-4G;234;10;114;16625;19168;477;51.42767625069896;-2.514139451086521;Keynsham Motocross, A4174, Keynsham, Bath and North East Somerset, West of England, England, UK;347
-4G;234;10;120;16625;19168;472;51.42767625069896;-2.514139451086521;Keynsham Motocross, A4174, Keynsham, Bath and North East Somerset, West of England, England, UK;6400
-4G;234;10;124;16625;19168;478;51.42767625069896;-2.514139451086521;Keynsham Motocross, A4174, Keynsham, Bath and North East Somerset, West of England, England, UK;347
-4G;234;10;130;16625;19168;473;51.42767625069896;-2.514139451086521;Keynsham Motocross, A4174, Keynsham, Bath and North East Somerset, West of England, England, UK;6400
-4G;234;10;134;16625;19168;479;51.42767625069896;-2.514139451086521;Keynsham Motocross, A4174, Keynsham, Bath and North East Somerset, West of England, England, UK;347
 4G;234;30;0;26411;19171;207;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;1617
 4G;234;30;1;26411;19171;209;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;1617
 4G;234;30;2;26411;19171;208;51.760057;-1.8224363;Ash Piece Plantation, Off B4425, Bibury, Cotswolds District, Gloucestershire, England, UK;1617
@@ -13510,6 +13530,27 @@
 4G;234;15;18;8256;26005;27;;;-;2850
 4G;234;30;9;23541;26007;362;51.490190463019545;-0.20673930644989014;Lawson Rutter, 3 Baron's Court Road, West Kensington, Hammersmith and Fulham, Greater London, England, UK;3179
 4G;234;30;11;23541;26007;360;51.490190463019545;-0.20673930644989014;Lawson Rutter, 3 Baron's Court Road, West Kensington, Hammersmith and Fulham, Greater London, England, UK;3179
+4G;234;15;10;24611;26024;null;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;6300
+4G;234;15;12;24611;26024;306;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;3501
+4G;234;15;14;24611;26024;null;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;223
+4G;234;15;16;24611;26024;null;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;1363
+4G;234;15;18;24611;26024;null;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;2850
+4G;234;15;20;24611;26024;295;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;6300
+4G;234;15;22;24611;26024;null;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;3501
+4G;234;15;24;24611;26024;null;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;223
+4G;234;15;26;24611;26024;null;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;1363
+4G;234;15;28;24611;26024;322;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;2850
+4G;234;15;30;24611;26024;null;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;6300
+4G;234;15;32;24611;26024;null;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;3501
+4G;234;15;34;24611;26024;null;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;223
+4G;234;15;36;24611;26024;null;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;1363
+4G;234;15;38;24611;26024;null;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;2850
+4G;234;15;210;24611;26024;457;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;9360
+4G;234;15;212;24611;26024;null;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;76
+4G;234;15;220;24611;26024;456;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;9360
+4G;234;15;222;24611;26024;null;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;76
+4G;234;15;230;24611;26024;458;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;9360
+4G;234;15;232;24611;26024;404;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;76
 4G;234;30;2;20271;26028;164;51.427466577740546;-0.9238701313734055;Loddon Valley Police Station, Rushey Way, Lower Earley, Earley, Reading, Berkshire, England, UK;1617
 4G;234;30;6;24363;26092;263;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;3350
 4G;234;30;7;24363;26092;261;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;3350
@@ -14348,6 +14389,12 @@
 4G;234;30;20;25342;31839;264;51.55911651192564;-1.8150629103183746;Delta Business Park, Great Western Way, Swindon, Wiltshire, England, UK;497
 4G;234;30;1;24363;31854;275;51.40857701383911;-2.462133765220642;Great Western Main Line, Saltford, Bath and North East Somerset, West of England, England, UK;1617
 4G;234;30;2;24363;31854;274;51.40857701383911;-2.462133765220642;Great Western Main Line, Saltford, Bath and North East Somerset, West of England, England, UK;1617
+4G;234;30;0;21451;31857;130;53.7714638688377;-2.72567722946405;257 Shelley Rd, Ashton-on-Ribble, Preston, Lancashire, England, UK;1617
+4G;234;30;1;21451;31857;131;53.7714638688377;-2.72567722946405;257 Shelley Rd, Ashton-on-Ribble, Preston, Lancashire, England, UK;1617
+4G;234;30;2;21451;31857;129;53.7714638688377;-2.72567722946405;257 Shelley Rd, Ashton-on-Ribble, Preston, Lancashire, England, UK;1617
+4G;234;30;3;21451;31857;120;53.7714638688377;-2.72567722946405;257 Shelley Rd, Ashton-on-Ribble, Preston, Lancashire, England, UK;1815
+4G;234;30;4;21451;31857;264;53.7714638688377;-2.72567722946405;257 Shelley Rd, Ashton-on-Ribble, Preston, Lancashire, England, UK;1815
+4G;234;30;5;21451;31857;129;53.7714638688377;-2.72567722946405;257 Shelley Rd, Ashton-on-Ribble, Preston, Lancashire, England, UK;1815
 4G;234;30;2;25661;31873;390;53.79357245563155;-0.33648815006017685;Padstow House, 83 Bodmin Road, Bransholme, Hull, East Riding of Yorkshire, England, UK;1815
 4G;234;30;5;25661;31873;390;53.79357245563155;-0.33648815006017685;Padstow House, 83 Bodmin Road, Bransholme, Hull, East Riding of Yorkshire, England, UK;1815
 4G;234;30;12;25660;31873;231;53.79357245563155;-0.33648815006017685;Padstow House, 83 Bodmin Road, Bransholme, Hull, East Riding of Yorkshire, England, UK;6225
@@ -15564,13 +15611,17 @@
 4G;234;20;7;3645;51108;133;53.776430618720674;-0.3894346207380295;Inglemere Lane, Cottingham, East Riding of Yorkshire, England, UK;6175
 4G;234;20;92;3645;51108;352;53.776430618720674;-0.3894346207380295;Inglemere Lane, Cottingham, East Riding of Yorkshire, England, UK;9360
 4G;234;20;2;3043;51174;134;53.4199730047885;-2.25351691246033;24 Borrowdale Cres, Manchester, Greater Manchester, England, UK;1363
-4G;234;20;0;7498;51192;306;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;1363
-4G;234;20;1;7498;51192;238;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;1363
-4G;234;20;2;7498;51192;386;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;1363
-4G;234;20;8;7498;51192;125;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;6175
-4G;234;20;91;7498;51192;33;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;9360
-4G;234;20;92;7498;51192;34;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;9360
-4G;234;20;93;7498;51192;35;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;9360
+4G;234;20;0;3379;51192;306;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;1363
+4G;234;20;1;3379;51192;238;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;1363
+4G;234;20;2;3379;51192;386;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;1363
+4G;234;20;7;3379;51192;157;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;6175
+4G;234;20;8;3379;51192;125;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;6175
+4G;234;20;71;3379;51192;156;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;76
+4G;234;20;72;3379;51192;157;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;76
+4G;234;20;73;3379;51192;263;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;76
+4G;234;20;91;3379;51192;33;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;9360
+4G;234;20;92;3379;51192;34;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;9360
+4G;234;20;93;3379;51192;35;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;9360
 4G;234;20;0;3334;51258;60;53.4106264458513;-2.97694858163595;14 Islington, Liverpool, Merseyside, England, UK;1363
 4G;234;20;1;3334;51258;145;53.4106264458513;-2.97694858163595;14 Islington, Liverpool, Merseyside, England, UK;1363
 4G;234;20;2;3334;51258;251;53.4106264458513;-2.97694858163595;14 Islington, Liverpool, Merseyside, England, UK;1363
@@ -17679,17 +17730,28 @@
 4G;234;10;127;16625;115285;233;51.50580443921175;-2.5519153475761414;Filton Lane, Gifford Court, Harry Stoke, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];39448
 4G;234;10;137;16625;115285;231;51.50580443921175;-2.5519153475761414;Filton Lane, Gifford Court, Harry Stoke, Stoke Gifford, South Gloucestershire, West of England, England, UK [Cornerstone];39448
 4G;234;10;124;17056;115313;223;51.42855945873019;-0.9426214545965194;Lower Earley Water Tower, 6 Fair Lawn Green, Lower Earley, Reading, Berkshire, England, UK [RG2 8EG];347
-4G;234;10;110;50241;115317;164;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;6400
-4G;234;10;112;50241;115317;417;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;3725
-4G;234;10;114;50241;115317;164;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;347
-4G;234;10;120;50241;115317;162;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;6400
-4G;234;10;124;50241;115317;162;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;347
-4G;234;10;130;50241;115317;163;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;6400
-4G;234;10;134;50241;115317;163;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;347
+4G;234;10;110;50241;115317;164;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;6400
+4G;234;10;112;50241;115317;417;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;3725
+4G;234;10;114;50241;115317;164;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;347
+4G;234;10;120;50241;115317;162;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;6400
+4G;234;10;122;50241;115317;418;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;3725
+4G;234;10;124;50241;115317;162;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;347
+4G;234;10;130;50241;115317;163;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;6400
+4G;234;10;132;50241;115317;419;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;3725
+4G;234;10;134;50241;115317;163;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;347
 4G;234;10;114;49792;115319;423;52.661238708642074;-2.126477099955082;Old Stafford Road, Coven, South Staffordshire, England, UK;347
 4G;234;10;120;50337;115346;107;53.00136171781819;-2.3535431921482086;Bower End Farm, Bower End Lane, Bower End, Madeley, Staffordshire, England, UK [Cornerstone];6400
 4G;234;10;130;50337;115346;106;53.00136171781819;-2.3535431921482086;Bower End Farm, Bower End Lane, Bower End, Madeley, Staffordshire, England, UK [Cornerstone];6400
 4G;234;10;134;50337;115346;404;53.00136171781819;-2.3535431921482086;Bower End Farm, Bower End Lane, Bower End, Madeley, Staffordshire, England, UK [Cornerstone];347
+4G;234;10;110;49952;115428;19;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;6400
+4G;234;10;112;49952;115428;19;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;3725
+4G;234;10;114;49952;115428;19;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;347
+4G;234;10;120;49952;115428;20;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;6400
+4G;234;10;122;49952;115428;20;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;3725
+4G;234;10;124;49952;115428;20;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;347
+4G;234;10;130;49952;115428;18;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;6400
+4G;234;10;132;49952;115428;18;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;3725
+4G;234;10;134;49952;115428;18;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;347
 4G;234;10;110;16625;115480;3;51.560983918518794;-2.5548429787158966;76 Gloucester Road A38, Almondsbury, South Gloucestershire, West of England, England, UK;6400
 4G;234;10;120;16625;115480;5;51.560983918518794;-2.5548429787158966;76 Gloucester Road A38, Almondsbury, South Gloucestershire, West of England, England, UK;6400
 4G;234;10;130;16625;115480;4;51.560983918518794;-2.5548429787158966;76 Gloucester Road A38, Almondsbury, South Gloucestershire, West of England, England, UK;6400
@@ -18182,6 +18244,12 @@
 4G;234;10;124;16625;119021;281;51.47659904767791;-2.525188811123371;Filwood House, Forest Road B4465, Fishponds, Bristol, West of England, England, UK;347
 4G;234;10;130;16625;119021;279;51.47659904767791;-2.525188811123371;Filwood House, Forest Road B4465, Fishponds, Bristol, West of England, England, UK;6400
 4G;234;10;134;16625;119021;279;51.47659904767791;-2.525188811123371;Filwood House, Forest Road B4465, Fishponds, Bristol, West of England, England, UK;347
+4G;234;10;110;16625;119168;471;51.42767625069896;-2.514139451086521;Keynsham Motocross, A4174, Keynsham, Bath and North East Somerset, West of England, England, UK;6400
+4G;234;10;114;16625;119168;477;51.42767625069896;-2.514139451086521;Keynsham Motocross, A4174, Keynsham, Bath and North East Somerset, West of England, England, UK;347
+4G;234;10;120;16625;119168;472;51.42767625069896;-2.514139451086521;Keynsham Motocross, A4174, Keynsham, Bath and North East Somerset, West of England, England, UK;6400
+4G;234;10;124;16625;119168;478;51.42767625069896;-2.514139451086521;Keynsham Motocross, A4174, Keynsham, Bath and North East Somerset, West of England, England, UK;347
+4G;234;10;130;16625;119168;473;51.42767625069896;-2.514139451086521;Keynsham Motocross, A4174, Keynsham, Bath and North East Somerset, West of England, England, UK;6400
+4G;234;10;134;16625;119168;479;51.42767625069896;-2.514139451086521;Keynsham Motocross, A4174, Keynsham, Bath and North East Somerset, West of England, England, UK;347
 4G;234;10;110;16625;119342;351;51.50835;-2.30253;M4 West, Tormarton, South Gloucestershire, West of England, England, UK [Cornerstone];6400
 4G;234;10;112;16625;119342;351;51.50835;-2.30253;M4 West, Tormarton, South Gloucestershire, West of England, England, UK [Cornerstone];3725
 4G;234;10;114;16625;119342;351;51.50835;-2.30253;M4 West, Tormarton, South Gloucestershire, West of England, England, UK [Cornerstone];347
@@ -18222,6 +18290,10 @@
 4G;234;10;130;16609;119965;null;51.45745821823086;-3.4027157351374626;St Hilary Transmitting Station, A48, St Hilary, Vale of Glamorgan, Glamorgan, Wales, UK [CF71 7DP];6400
 4G;234;10;132;16609;119965;301;51.45745821823086;-3.4027157351374626;St Hilary Transmitting Station, A48, St Hilary, Vale of Glamorgan, Glamorgan, Wales, UK [CF71 7DP];3725
 4G;234;10;134;16609;119965;301;51.45745821823086;-3.4027157351374626;St Hilary Transmitting Station, A48, St Hilary, Vale of Glamorgan, Glamorgan, Wales, UK [CF71 7DP];347
+4G;234;10;110;49761;119996;331;54.7716085822221;-2.82765548676252;West Coast Main Line, Calthwaite, Cumbria, England, UK;6400
+4G;234;10;112;49761;119996;319;54.7716085822221;-2.82765548676252;West Coast Main Line, Calthwaite, Cumbria, England, UK;3725
+4G;234;10;130;49761;119996;332;54.7716085822221;-2.82765548676252;West Coast Main Line, Calthwaite, Cumbria, England, UK;6400
+4G;234;10;132;49761;119996;318;54.7716085822221;-2.82765548676252;West Coast Main Line, Calthwaite, Cumbria, England, UK;3725
 4G;234;10;110;17072;120046;494;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;6400
 4G;234;10;112;17072;120046;494;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;3725
 4G;234;10;120;17072;120046;492;52.0073980034172;-2.2065554559230804;4 Sarn Hill Grange, Bushley Green, Bushley, Tewkesbury, Gloucestershire, England, UK;6400
@@ -19042,6 +19114,18 @@
 4G;234;10;215;16544;125942;215;51.596425083266546;-1.7543581500649452;Kingsdown Park, Swindon, Wiltshire, England, UK;37900
 4G;234;10;225;16544;125942;214;51.596425083266546;-1.7543581500649452;Kingsdown Park, Swindon, Wiltshire, England, UK;37900
 4G;234;10;235;16544;125942;213;51.596425083266546;-1.7543581500649452;Kingsdown Park, Swindon, Wiltshire, England, UK;37900
+4G;234;10;110;16625;126026;154;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;6400
+4G;234;10;112;16625;126026;154;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;3725
+4G;234;10;120;16625;126026;153;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;6400
+4G;234;10;122;16625;126026;153;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;3725
+4G;234;10;130;16625;126026;155;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;6400
+4G;234;10;132;16625;126026;155;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;3725
+4G;234;10;114;16625;126027;154;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;347
+4G;234;10;116;16625;126027;154;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;1226
+4G;234;10;124;16625;126027;153;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;347
+4G;234;10;126;16625;126027;153;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;1226
+4G;234;10;134;16625;126027;155;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;347
+4G;234;10;136;16625;126027;155;51.41520081253405;-2.4830207973718643;Broadmead Lane, Keynsham, Bath and North East Somerset, West of England, England, UK;1226
 4G;234;10;124;17072;126228;452;51.90374561229604;-2.1344057098031044;Hayden STW, Cheltenham, Gloucestershire, England, UK;347
 4G;234;10;125;17072;126228;452;51.90374561229604;-2.1344057098031044;Hayden STW, Cheltenham, Gloucestershire, England, UK;39250
 4G;234;10;126;17072;126228;452;51.90374561229604;-2.1344057098031044;Hayden STW, Cheltenham, Gloucestershire, England, UK;1226
@@ -19257,6 +19341,15 @@
 4G;234;10;132;33888;500737;296;53.7912669349344;-1.5655916556716;Kidd House, Whitehall Rd, Holbeck, Leeds, West Yorkshire, England, UK;3725
 4G;234;10;134;33888;500737;296;53.7912669349344;-1.5655916556716;Kidd House, Whitehall Rd, Holbeck, Leeds, West Yorkshire, England, UK;1226
 4G;234;10;135;33888;500737;296;53.7912669349344;-1.5655916556716;Kidd House, Whitehall Rd, Holbeck, Leeds, West Yorkshire, England, UK;347
+4G;234;10;110;33889;500775;174;53.7878449608356;-1.7466414347291;21 Fairfax St, Broomfields, Bradford, West Yorkshire, England, UK;6400
+4G;234;10;112;33889;500775;174;53.7878449608356;-1.7466414347291;21 Fairfax St, Broomfields, Bradford, West Yorkshire, England, UK;3725
+4G;234;10;115;33889;500775;174;53.7878449608356;-1.7466414347291;21 Fairfax St, Broomfields, Bradford, West Yorkshire, England, UK;347
+4G;234;10;120;33889;500775;175;53.7878449608356;-1.7466414347291;21 Fairfax St, Broomfields, Bradford, West Yorkshire, England, UK;6400
+4G;234;10;122;33889;500775;175;53.7878449608356;-1.7466414347291;21 Fairfax St, Broomfields, Bradford, West Yorkshire, England, UK;3725
+4G;234;10;125;33889;500775;175;53.7878449608356;-1.7466414347291;21 Fairfax St, Broomfields, Bradford, West Yorkshire, England, UK;347
+4G;234;10;130;33889;500775;176;53.7878449608356;-1.7466414347291;21 Fairfax St, Broomfields, Bradford, West Yorkshire, England, UK;6400
+4G;234;10;132;33889;500775;176;53.7878449608356;-1.7466414347291;21 Fairfax St, Broomfields, Bradford, West Yorkshire, England, UK;3725
+4G;234;10;135;33889;500775;176;53.7878449608356;-1.7466414347291;21 Fairfax St, Broomfields, Bradford, West Yorkshire, England, UK;347
 4G;234;10;115;4098;500839;480;51.48741680370008;-0.32499857246875763;Harlequin Avenue, Sky Campus, Brentford, Hounslow, Greater London, England, UK;347
 4G;234;10;130;34448;500891;39;53.43520509309359;-1.3577331975102425;Rawmarsh Road, Eastwood, Rotherham, South Yorkshire, England, UK;6400
 4G;234;10;135;34448;500891;39;53.43520509309359;-1.3577331975102425;Rawmarsh Road, Eastwood, Rotherham, South Yorkshire, England, UK;347
@@ -19309,6 +19402,15 @@
 4G;234;10;122;34448;501231;58;53.4640952577225;-1.3405875116586685;52 Dale Road A633, Rawmarsh, Rotherham, South Yorkshire, England, UK [Cornerstone];3725
 4G;234;15;10;41065;501232;59;53.4640952577225;-1.3405875116586685;52 Dale Road A633, Rawmarsh, Rotherham, South Yorkshire, England, UK [Cornerstone];6300
 4G;234;10;126;4099;501256;218;51.52954691253061;-0.6550370156764984;124 Priory Rd, Slough, Berkshire, England, UK;39250
+4G;234;10;110;34705;501283;361;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;6400
+4G;234;10;112;34705;501283;361;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;3725
+4G;234;10;115;34705;501283;361;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;347
+4G;234;10;120;34705;501283;362;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;6400
+4G;234;10;122;34705;501283;362;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;3725
+4G;234;10;125;34705;501283;362;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;347
+4G;234;10;130;34705;501283;360;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;6400
+4G;234;10;132;34705;501283;360;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;3725
+4G;234;10;135;34705;501283;360;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;347
 4G;234;10;110;34657;501337;222;53.653284303469;-1.78526658564806;29 St John's Rd, Huddersfield, West Yorkshire, England, UK;6400
 4G;234;10;115;34657;501337;222;53.653284303469;-1.78526658564806;29 St John's Rd, Huddersfield, West Yorkshire, England, UK;347
 4G;234;10;122;34657;501337;223;53.653284303469;-1.78526658564806;29 St John's Rd, Huddersfield, West Yorkshire, England, UK;347
@@ -19357,6 +19459,18 @@
 4G;234;15;20;8256;501981;357;51.59929623603452;-0.6494878605008125;Wycombe End A40, Beaconsfield, Buckinghamshire, England, UK;6300
 4G;234;10;110;672;501981;358;51.59929623603452;-0.6494878605008125;Wycombe End A40, Beaconsfield, Buckinghamshire, England, UK;6400
 4G;234;10;120;672;501981;357;51.59929623603452;-0.6494878605008125;Wycombe End A40, Beaconsfield, Buckinghamshire, England, UK;6400
+4G;234;10;110;33792;502017;451;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;6400
+4G;234;10;112;33792;502017;451;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;3725
+4G;234;10;114;33792;502017;451;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;1226
+4G;234;10;115;33792;502017;451;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;347
+4G;234;10;120;33792;502017;450;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;6400
+4G;234;10;122;33792;502017;450;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;3725
+4G;234;10;124;33792;502017;450;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;1226
+4G;234;10;125;33792;502017;450;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;347
+4G;234;10;130;33792;502017;452;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;6400
+4G;234;10;132;33792;502017;452;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;3725
+4G;234;10;134;33792;502017;452;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;1226
+4G;234;10;135;33792;502017;452;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;347
 4G;234;10;110;35088;502031;12;55.9638781209619;-3.1779794767499;1B Pilrig St, Edinburgh, Scotland, UK;6400
 4G;234;10;115;35088;502031;12;55.9638781209619;-3.1779794767499;1B Pilrig St, Edinburgh, Scotland, UK;347
 4G;234;10;120;35088;502031;14;55.9638781209619;-3.1779794767499;1B Pilrig St, Edinburgh, Scotland, UK;6400
@@ -20458,6 +20572,15 @@
 4G;234;15;10;8273;510024;40;52.63420829203197;1.2865185365080833;Capitol House, Heigham St, Norwich, Norfolk, England, UK;6300
 4G;234;15;15;8273;510024;40;52.63420829203197;1.2865185365080833;Capitol House, Heigham St, Norwich, Norfolk, England, UK;247
 4G;234;10;115;2000;510024;40;52.63420829203197;1.2865185365080833;Capitol House, Heigham St, Norwich, Norfolk, England, UK;347
+4G;234;10;110;35089;510280;357;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;6400
+4G;234;10;112;35089;510280;357;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;3725
+4G;234;10;115;35089;510280;357;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;347
+4G;234;10;120;35089;510280;358;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;6400
+4G;234;10;122;35089;510280;358;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;3725
+4G;234;10;125;35089;510280;358;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;347
+4G;234;10;130;35089;510280;359;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;6400
+4G;234;10;132;35089;510280;359;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;3725
+4G;234;10;135;35089;510280;359;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;347
 4G;234;15;10;8273;510348;287;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];6300
 4G;234;15;15;8273;510348;287;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];247
 4G;234;15;18;8273;510348;287;52.629179005668455;1.283988207578659;Cathedral of St John the Baptist, Unthank Road, Heigham Grove, Norwich, Norfolk, England, UK [NR2 2PA];2850
@@ -21838,6 +21961,15 @@
 4G;234;10;130;34784;537008;320;53.72404501135738;-0.45907448977231985;Beal Homes Design Lounge, Bridgehead Business Park, Sorrel Way, Hessle, East Riding of Yorkshire, England, UK;6400
 4G;234;10;132;34784;537008;320;53.72404501135738;-0.45907448977231985;Beal Homes Design Lounge, Bridgehead Business Park, Sorrel Way, Hessle, East Riding of Yorkshire, England, UK;3725
 4G;234;10;135;34784;537008;320;53.72404501135738;-0.45907448977231985;Beal Homes Design Lounge, Bridgehead Business Park, Sorrel Way, Hessle, East Riding of Yorkshire, England, UK;347
+4G;234;10;114;35089;537921;357;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;1226
+4G;234;10;116;35089;537921;357;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;39250
+4G;234;10;117;35089;537921;357;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;39448
+4G;234;10;124;35089;537921;358;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;1226
+4G;234;10;126;35089;537921;358;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;39250
+4G;234;10;127;35089;537921;358;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;39448
+4G;234;10;134;35089;537921;359;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;1226
+4G;234;10;136;35089;537921;359;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;39250
+4G;234;10;137;35089;537921;359;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;39448
 4G;234;10;114;35088;537938;30;55.9471970636484;-3.20415750145912;Royal Lyceum Theatre, 15-17 Grindlay Street, Tollcross, Edinburgh, Scotland, UK;1226
 4G;234;10;116;35088;537938;30;55.9471970636484;-3.20415750145912;Royal Lyceum Theatre, 15-17 Grindlay Street, Tollcross, Edinburgh, Scotland, UK;39250
 4G;234;10;117;35088;537938;30;55.9471970636484;-3.20415750145912;Royal Lyceum Theatre, 15-17 Grindlay Street, Tollcross, Edinburgh, Scotland, UK;39448
@@ -21862,6 +21994,12 @@
 4G;234;10;127;35089;537955;348;55.9770360499353;-3.2478966191411;38 Waterfront Park, Edinburgh, Scotland, UK;39448
 4G;234;10;136;35089;537955;350;55.9770360499353;-3.2478966191411;38 Waterfront Park, Edinburgh, Scotland, UK;39250
 4G;234;10;137;35089;537955;350;55.9770360499353;-3.2478966191411;38 Waterfront Park, Edinburgh, Scotland, UK;39448
+4G;234;10;114;34705;538156;361;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;1226
+4G;234;10;116;34705;538156;361;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;39250
+4G;234;10;124;34705;538156;362;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;1226
+4G;234;10;126;34705;538156;362;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;39250
+4G;234;10;134;34705;538156;360;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;1226
+4G;234;10;136;34705;538156;360;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;39250
 4G;234;10;116;34705;538157;480;55.9088075380202;-3.24637647718191;Duke of Edinburgh House, 301 Colinton Rd, Edinburgh, Scotland, UK;39250
 4G;234;10;117;34705;538157;480;55.9088075380202;-3.24637647718191;Duke of Edinburgh House, 301 Colinton Rd, Edinburgh, Scotland, UK;39448
 4G;234;10;126;34705;538157;482;55.9088075380202;-3.24637647718191;Duke of Edinburgh House, 301 Colinton Rd, Edinburgh, Scotland, UK;39250
@@ -23037,6 +23175,12 @@
 4G;234;10;127;33809;546243;419;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;39448
 4G;234;10;136;33809;546243;417;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;39250
 4G;234;10;137;33809;546243;417;52.480923954293175;-1.876661516726017;Birmingham Metal Co, 5 Garrison Street, Bordesley, Birmingham, West Midlands, England, UK;39448
+4G;234;10;116;33889;546251;451;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;39250
+4G;234;10;117;33889;546251;451;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;39448
+4G;234;10;126;33889;546251;450;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;39250
+4G;234;10;127;33889;546251;450;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;39448
+4G;234;10;136;33889;546251;452;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;39250
+4G;234;10;137;33889;546251;452;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;39448
 4G;234;10;110;50496;546265;303;53.4377414463465;-2.9911981523037;39 Syren St, Liverpool, Merseyside, England, UK;6400
 4G;234;10;112;50496;546265;303;53.4377414463465;-2.9911981523037;39 Syren St, Liverpool, Merseyside, England, UK;3725
 4G;234;10;115;50496;546265;303;53.4377414463465;-2.9911981523037;39 Syren St, Liverpool, Merseyside, England, UK;347
@@ -23289,11 +23433,33 @@
 4G;234;10;120;50496;547275;219;53.4075194636274;-2.99518391489983;Thistle Atlantic Tower, Chapel St, Liverpool, Merseyside, England, UK;6400
 4G;234;10;122;50496;547275;219;53.4075194636274;-2.99518391489983;Thistle Atlantic Tower, Chapel St, Liverpool, Merseyside, England, UK;3725
 4G;234;10;125;50496;547275;219;53.4075194636274;-2.99518391489983;Thistle Atlantic Tower, Chapel St, Liverpool, Merseyside, England, UK;347
+4G;234;10;130;50496;547275;221;53.4075194636274;-2.99518391489983;Thistle Atlantic Tower, Chapel St, Liverpool, Merseyside, England, UK;6400
+4G;234;10;132;50496;547275;221;53.4075194636274;-2.99518391489983;Thistle Atlantic Tower, Chapel St, Liverpool, Merseyside, England, UK;3725
+4G;234;10;135;50496;547275;221;53.4075194636274;-2.99518391489983;Thistle Atlantic Tower, Chapel St, Liverpool, Merseyside, England, UK;347
 4G;234;10;116;50496;547276;220;53.4075194636274;-2.99518391489983;Thistle Atlantic Tower, Chapel St, Liverpool, Merseyside, England, UK;39250
 4G;234;10;117;50496;547276;220;53.4075194636274;-2.99518391489983;Thistle Atlantic Tower, Chapel St, Liverpool, Merseyside, England, UK;39448
 4G;234;10;126;50496;547276;219;53.4075194636274;-2.99518391489983;Thistle Atlantic Tower, Chapel St, Liverpool, Merseyside, England, UK;39250
 4G;234;10;127;50496;547276;219;53.4075194636274;-2.99518391489983;Thistle Atlantic Tower, Chapel St, Liverpool, Merseyside, England, UK;39448
+4G;234;10;136;50496;547276;221;53.4075194636274;-2.99518391489983;Thistle Atlantic Tower, Chapel St, Liverpool, Merseyside, England, UK;39250
+4G;234;10;137;50496;547276;221;53.4075194636274;-2.99518391489983;Thistle Atlantic Tower, Chapel St, Liverpool, Merseyside, England, UK;39448
+4G;234;10;110;33840;547289;402;52.50221028185778;-2.0517024770379066;107 Darbys Hill Road, Oakham, Oldbury, West Midlands, England, UK;6400
+4G;234;10;112;33840;547289;402;52.50221028185778;-2.0517024770379066;107 Darbys Hill Road, Oakham, Oldbury, West Midlands, England, UK;3725
+4G;234;10;115;33840;547289;402;52.50221028185778;-2.0517024770379066;107 Darbys Hill Road, Oakham, Oldbury, West Midlands, England, UK;347
+4G;234;10;120;33840;547289;403;52.50221028185778;-2.0517024770379066;107 Darbys Hill Road, Oakham, Oldbury, West Midlands, England, UK;6400
+4G;234;10;122;33840;547289;403;52.50221028185778;-2.0517024770379066;107 Darbys Hill Road, Oakham, Oldbury, West Midlands, England, UK;3725
+4G;234;10;125;33840;547289;403;52.50221028185778;-2.0517024770379066;107 Darbys Hill Road, Oakham, Oldbury, West Midlands, England, UK;347
+4G;234;10;130;33840;547289;404;52.50221028185778;-2.0517024770379066;107 Darbys Hill Road, Oakham, Oldbury, West Midlands, England, UK;6400
 4G;234;10;132;33840;547289;404;52.50221028185778;-2.0517024770379066;107 Darbys Hill Road, Oakham, Oldbury, West Midlands, England, UK;3725
+4G;234;10;135;33840;547289;404;52.50221028185778;-2.0517024770379066;107 Darbys Hill Road, Oakham, Oldbury, West Midlands, England, UK;347
+4G;234;10;116;33840;547290;402;52.50221028185778;-2.0517024770379066;107 Darbys Hill Road, Oakham, Oldbury, West Midlands, England, UK;39250
+4G;234;10;117;33840;547290;402;52.50221028185778;-2.0517024770379066;107 Darbys Hill Road, Oakham, Oldbury, West Midlands, England, UK;39448
+4G;234;10;126;33840;547290;403;52.50221028185778;-2.0517024770379066;107 Darbys Hill Road, Oakham, Oldbury, West Midlands, England, UK;39250
+4G;234;10;127;33840;547290;403;52.50221028185778;-2.0517024770379066;107 Darbys Hill Road, Oakham, Oldbury, West Midlands, England, UK;39448
+4G;234;10;136;33840;547290;404;52.50221028185778;-2.0517024770379066;107 Darbys Hill Road, Oakham, Oldbury, West Midlands, England, UK;39250
+4G;234;10;137;33840;547290;404;52.50221028185778;-2.0517024770379066;107 Darbys Hill Road, Oakham, Oldbury, West Midlands, England, UK;39448
+4G;234;10;116;33889;547322;174;53.7878449608356;-1.7466414347291;21 Fairfax St, Broomfields, Bradford, West Yorkshire, England, UK;39250
+4G;234;10;126;33889;547322;175;53.7878449608356;-1.7466414347291;21 Fairfax St, Broomfields, Bradford, West Yorkshire, England, UK;39250
+4G;234;10;136;33889;547322;176;53.7878449608356;-1.7466414347291;21 Fairfax St, Broomfields, Bradford, West Yorkshire, England, UK;39250
 4G;234;10;114;16625;547326;332;51.45374199257192;-2.5942955911159515;The Old Stock Exchange, St Nicholas Street, Old City, Bristol, West of England, England, UK;1228
 4G;234;10;114;16625;547332;191;51.45350198502672;-2.5968042130473217;Caffe Moka, Baldwin Street B4053, Old City, Bristol, West of England, England, UK;1228
 4G;234;10;114;16625;547333;255;51.453401248052415;-2.6012203696622596;Frogmore Street, City Centre, Bristol, West of England, England, UK;1228
@@ -23313,9 +23479,21 @@
 4G;234;10;136;50496;547360;114;53.38504334675018;-2.9318133741617203;Merebank Court, Greenbank Lane, Greenbank Halls of Residence, Mossley Hill, Liverpool, Merseyside, England, UK;39250
 4G;234;10;137;50496;547360;114;53.38504334675018;-2.9318133741617203;Merebank Court, Greenbank Lane, Greenbank Halls of Residence, Mossley Hill, Liverpool, Merseyside, England, UK;39448
 4G;234;10;114;16625;547371;419;51.45215872335967;-2.57986631244421;Avon Street, St Phillip's, Bristol, West of England, England, UK [BS2 0ZX];1228
-4G;234;10;115;49968;547391;252;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;347
-4G;234;10;130;49968;547391;254;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;6400
-4G;234;10;135;49968;547391;254;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;347
+4G;234;10;110;50496;547391;252;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;6400
+4G;234;10;112;50496;547391;252;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;3725
+4G;234;10;115;50496;547391;252;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;347
+4G;234;10;120;50496;547391;253;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;6400
+4G;234;10;122;50496;547391;253;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;3725
+4G;234;10;125;50496;547391;253;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;347
+4G;234;10;130;50496;547391;254;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;6400
+4G;234;10;132;50496;547391;254;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;3725
+4G;234;10;135;50496;547391;254;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;347
+4G;234;10;116;50496;547392;252;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;39250
+4G;234;10;117;50496;547392;252;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;39448
+4G;234;10;126;50496;547392;253;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;39250
+4G;234;10;127;50496;547392;253;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;39448
+4G;234;10;136;50496;547392;254;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;39250
+4G;234;10;137;50496;547392;254;53.4591047964892;-2.96092171221972;15 Glenbank Cl, Liverpool, Merseyside, England, UK;39448
 4G;234;10;110;50496;547396;141;53.4087658012642;-2.86581225693226;170 Roby Rd, Huyton, Liverpool, Merseyside, England, UK;6400
 4G;234;10;112;50496;547396;141;53.4087658012642;-2.86581225693226;170 Roby Rd, Huyton, Liverpool, Merseyside, England, UK;3725
 4G;234;10;115;50496;547396;141;53.4087658012642;-2.86581225693226;170 Roby Rd, Huyton, Liverpool, Merseyside, England, UK;347
@@ -23376,7 +23554,21 @@
 4G;234;10;127;17184;547451;473;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;39448
 4G;234;10;136;17184;547451;472;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;39250
 4G;234;10;137;17184;547451;472;51.48501064387293;-3.166114389896393;Eastgate House, 43 Newport Road A4161, Tredegarville, Cardiff, Wales, UK;39448
+4G;234;10;110;33840;547454;92;52.5770528643362;-2.101861797273159;Monmote Green Greyhound Track, 2 Sutherland Avenue, Old Heath, Wolverhampton, West Midlands, England, UK;6400
+4G;234;10;112;33840;547454;92;52.5770528643362;-2.101861797273159;Monmote Green Greyhound Track, 2 Sutherland Avenue, Old Heath, Wolverhampton, West Midlands, England, UK;3725
+4G;234;10;115;33840;547454;92;52.5770528643362;-2.101861797273159;Monmote Green Greyhound Track, 2 Sutherland Avenue, Old Heath, Wolverhampton, West Midlands, England, UK;347
+4G;234;10;120;33840;547454;90;52.5770528643362;-2.101861797273159;Monmote Green Greyhound Track, 2 Sutherland Avenue, Old Heath, Wolverhampton, West Midlands, England, UK;6400
+4G;234;10;122;33840;547454;90;52.5770528643362;-2.101861797273159;Monmote Green Greyhound Track, 2 Sutherland Avenue, Old Heath, Wolverhampton, West Midlands, England, UK;3725
+4G;234;10;125;33840;547454;90;52.5770528643362;-2.101861797273159;Monmote Green Greyhound Track, 2 Sutherland Avenue, Old Heath, Wolverhampton, West Midlands, England, UK;347
+4G;234;10;130;33840;547454;91;52.5770528643362;-2.101861797273159;Monmote Green Greyhound Track, 2 Sutherland Avenue, Old Heath, Wolverhampton, West Midlands, England, UK;6400
+4G;234;10;132;33840;547454;91;52.5770528643362;-2.101861797273159;Monmote Green Greyhound Track, 2 Sutherland Avenue, Old Heath, Wolverhampton, West Midlands, England, UK;3725
+4G;234;10;135;33840;547454;91;52.5770528643362;-2.101861797273159;Monmote Green Greyhound Track, 2 Sutherland Avenue, Old Heath, Wolverhampton, West Midlands, England, UK;347
+4G;234;10;116;33840;547455;92;52.5770528643362;-2.101861797273159;Monmote Green Greyhound Track, 2 Sutherland Avenue, Old Heath, Wolverhampton, West Midlands, England, UK;39250
+4G;234;10;117;33840;547455;92;52.5770528643362;-2.101861797273159;Monmote Green Greyhound Track, 2 Sutherland Avenue, Old Heath, Wolverhampton, West Midlands, England, UK;39448
+4G;234;10;126;33840;547455;90;52.5770528643362;-2.101861797273159;Monmote Green Greyhound Track, 2 Sutherland Avenue, Old Heath, Wolverhampton, West Midlands, England, UK;39250
+4G;234;10;127;33840;547455;90;52.5770528643362;-2.101861797273159;Monmote Green Greyhound Track, 2 Sutherland Avenue, Old Heath, Wolverhampton, West Midlands, England, UK;39448
 4G;234;10;136;33840;547455;91;52.5770528643362;-2.101861797273159;Monmote Green Greyhound Track, 2 Sutherland Avenue, Old Heath, Wolverhampton, West Midlands, England, UK;39250
+4G;234;10;137;33840;547455;91;52.5770528643362;-2.101861797273159;Monmote Green Greyhound Track, 2 Sutherland Avenue, Old Heath, Wolverhampton, West Midlands, England, UK;39448
 4G;234;10;114;16625;547466;439;51.44839749359798;-2.5832030728562514;Temple Gate A4, Redcliffe, Bristol, West of England, England, UK;1228
 4G;234;10;110;34880;547484;421;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;6400
 4G;234;10;112;34880;547484;421;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;3725
@@ -23399,10 +23591,12 @@
 4G;234;10;127;34880;547486;420;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;39448
 4G;234;10;136;34880;547486;422;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;39250
 4G;234;10;137;34880;547486;422;53.50814837150075;-1.147877499461174;Balby Road A630, Hexthorpe, Doncaster, South Yorkshire, England, UK;39448
-4G;234;10;116;34480;547511;249;55.9432916846647;-3.37010778486729;45 Ingliston Rd, Ingliston, Newbridge, UK;39250
-4G;234;10;117;34480;547511;249;55.9432916846647;-3.37010778486729;45 Ingliston Rd, Ingliston, Newbridge, UK;39448
-4G;234;10;126;34480;547511;250;55.9432916846647;-3.37010778486729;45 Ingliston Rd, Ingliston, Newbridge, UK;39250
-4G;234;10;127;34480;547511;250;55.9432916846647;-3.37010778486729;45 Ingliston Rd, Ingliston, Newbridge, UK;39448
+4G;234;10;116;34480;547511;249;55.9432916846647;-3.37010778486729;Royal Highland Ingliston, 45 Ingliston Road, Ingliston, Edinburgh, Scotland, UK;39250
+4G;234;10;117;34480;547511;249;55.9432916846647;-3.37010778486729;Royal Highland Ingliston, 45 Ingliston Road, Ingliston, Edinburgh, Scotland, UK;39448
+4G;234;10;126;34480;547511;250;55.9432916846647;-3.37010778486729;Royal Highland Ingliston, 45 Ingliston Road, Ingliston, Edinburgh, Scotland, UK;39250
+4G;234;10;127;34480;547511;250;55.9432916846647;-3.37010778486729;Royal Highland Ingliston, 45 Ingliston Road, Ingliston, Edinburgh, Scotland, UK;39448
+4G;234;10;136;34480;547511;251;55.9432916846647;-3.37010778486729;Royal Highland Ingliston, 45 Ingliston Road, Ingliston, Edinburgh, Scotland, UK;39250
+4G;234;10;137;34480;547511;251;55.9432916846647;-3.37010778486729;Royal Highland Ingliston, 45 Ingliston Road, Ingliston, Edinburgh, Scotland, UK;39448
 4G;234;10;110;2000;547599;27;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];6400
 4G;234;10;112;2000;547599;27;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];3725
 4G;234;10;115;2000;547599;27;52.62292328491215;1.3200471550226212;Crown Point Depot, Hardy Road, Thorpe Hamlet, Norwich, Norfolk, England, UK [NR14 8TR];347
@@ -23472,8 +23666,21 @@
 4G;234;10;136;34784;547831;88;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];39250
 4G;234;10;137;34784;547831;88;53.75823284684003;-0.2834293618798256;Preston Road, Marfleet, Hull, East Riding of Yorkshire, England, UK [O2];39448
 4G;234;10;114;16625;547870;139;51.449503730518295;-2.5975286588072777;Bush House, 16 Narrow Quay, City Centre, Bristol, West of England, England, UK;1228
+4G;234;10;110;33840;547910;447;52.52704851231832;-2.0712054893374443;Unit 2 Castle Street, Tipton, West Midlands, England, UK;6400
 4G;234;10;112;33840;547910;447;52.52704851231832;-2.0712054893374443;Unit 2 Castle Street, Tipton, West Midlands, England, UK;3725
+4G;234;10;115;33840;547910;447;52.52704851231832;-2.0712054893374443;Unit 2 Castle Street, Tipton, West Midlands, England, UK;347
+4G;234;10;120;33840;547910;448;52.52704851231832;-2.0712054893374443;Unit 2 Castle Street, Tipton, West Midlands, England, UK;6400
+4G;234;10;122;33840;547910;448;52.52704851231832;-2.0712054893374443;Unit 2 Castle Street, Tipton, West Midlands, England, UK;3725
+4G;234;10;125;33840;547910;448;52.52704851231832;-2.0712054893374443;Unit 2 Castle Street, Tipton, West Midlands, England, UK;347
+4G;234;10;130;33840;547910;449;52.52704851231832;-2.0712054893374443;Unit 2 Castle Street, Tipton, West Midlands, England, UK;6400
 4G;234;10;132;33840;547910;449;52.52704851231832;-2.0712054893374443;Unit 2 Castle Street, Tipton, West Midlands, England, UK;3725
+4G;234;10;135;33840;547910;449;52.52704851231832;-2.0712054893374443;Unit 2 Castle Street, Tipton, West Midlands, England, UK;347
+4G;234;10;116;33840;547911;447;52.52704851231832;-2.0712054893374443;Unit 2 Castle Street, Tipton, West Midlands, England, UK;39250
+4G;234;10;117;33840;547911;447;52.52704851231832;-2.0712054893374443;Unit 2 Castle Street, Tipton, West Midlands, England, UK;39448
+4G;234;10;126;33840;547911;448;52.52704851231832;-2.0712054893374443;Unit 2 Castle Street, Tipton, West Midlands, England, UK;39250
+4G;234;10;127;33840;547911;448;52.52704851231832;-2.0712054893374443;Unit 2 Castle Street, Tipton, West Midlands, England, UK;39448
+4G;234;10;136;33840;547911;449;52.52704851231832;-2.0712054893374443;Unit 2 Castle Street, Tipton, West Midlands, England, UK;39250
+4G;234;10;137;33840;547911;449;52.52704851231832;-2.0712054893374443;Unit 2 Castle Street, Tipton, West Midlands, England, UK;39448
 4G;234;10;116;34880;547950;397;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;39250
 4G;234;10;117;34880;547950;397;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;39448
 4G;234;10;126;34880;547950;398;53.61641379576706;-0.9718518331646918;Thorne North Railway Station, 45 Clifton Court, Thorne, Doncaster, South Yorkshire, England, UK;39250
@@ -23495,8 +23702,20 @@
 4G;234;10;127;49840;548039;223;53.4117314023823;-2.27232288569212;158 Yewtree Ln, Wythenshawe, Manchester, Greater Manchester, England, UK;39448
 4G;234;10;136;49840;548039;224;53.4117314023823;-2.27232288569212;158 Yewtree Ln, Wythenshawe, Manchester, Greater Manchester, England, UK;39250
 4G;234;10;137;49840;548039;224;53.4117314023823;-2.27232288569212;158 Yewtree Ln, Wythenshawe, Manchester, Greater Manchester, England, UK;39448
+4G;234;10;110;33840;548075;186;52.50997063799049;-2.013413943350315;8 Credenda Road, Oldbury, West Midlands, England, UK;6400
+4G;234;10;112;33840;548075;186;52.50997063799049;-2.013413943350315;8 Credenda Road, Oldbury, West Midlands, England, UK;3725
+4G;234;10;115;33840;548075;186;52.50997063799049;-2.013413943350315;8 Credenda Road, Oldbury, West Midlands, England, UK;347
+4G;234;10;120;33840;548075;187;52.50997063799049;-2.013413943350315;8 Credenda Road, Oldbury, West Midlands, England, UK;6400
+4G;234;10;122;33840;548075;187;52.50997063799049;-2.013413943350315;8 Credenda Road, Oldbury, West Midlands, England, UK;3725
+4G;234;10;125;33840;548075;187;52.50997063799049;-2.013413943350315;8 Credenda Road, Oldbury, West Midlands, England, UK;347
+4G;234;10;130;33840;548075;188;52.50997063799049;-2.013413943350315;8 Credenda Road, Oldbury, West Midlands, England, UK;6400
+4G;234;10;132;33840;548075;188;52.50997063799049;-2.013413943350315;8 Credenda Road, Oldbury, West Midlands, England, UK;3725
+4G;234;10;135;33840;548075;188;52.50997063799049;-2.013413943350315;8 Credenda Road, Oldbury, West Midlands, England, UK;347
+4G;234;10;116;33840;548076;186;52.50997063799049;-2.013413943350315;8 Credenda Road, Oldbury, West Midlands, England, UK;39250
 4G;234;10;117;33840;548076;186;52.50997063799049;-2.013413943350315;8 Credenda Road, Oldbury, West Midlands, England, UK;39448
+4G;234;10;126;33840;548076;187;52.50997063799049;-2.013413943350315;8 Credenda Road, Oldbury, West Midlands, England, UK;39250
 4G;234;10;127;33840;548076;187;52.50997063799049;-2.013413943350315;8 Credenda Road, Oldbury, West Midlands, England, UK;39448
+4G;234;10;136;33840;548076;188;52.50997063799049;-2.013413943350315;8 Credenda Road, Oldbury, West Midlands, England, UK;39250
 4G;234;10;137;33840;548076;188;52.50997063799049;-2.013413943350315;8 Credenda Road, Oldbury, West Midlands, England, UK;39448
 4G;234;10;110;17184;548079;456;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;6400
 4G;234;10;112;17184;548079;456;51.4803230173024;-3.166339360177517;Cardiff Central Fire Station, 2 Davis Street, Adamsdown, Cardiff, Wales, UK;3725
@@ -24345,6 +24564,9 @@
 4G;234;10;134;16544;1010406;165;51.56123258067248;-1.7227037250995636;Dorcan Business Village, 200 Murdock Road, Dorcan, Swindon, Wiltshire, England, UK [SN3 5HY];347
 
 5G;234;10;2504070;104224;0;475;51.71474;-0.36795;Lye Lane, M25 J21/21A, Bricket Wood, St Albans, Hertfordshire, England, UK;648768
+5G;234;10;41222661;117072;0;612;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];648768
+5G;234;10;41222671;117072;0;613;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];648768
+5G;234;10;41222681;117072;0;614;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];648768
 5G;234;10;52292045;101248;0;699;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;152690
 5G;234;10;52292046;101248;0;700;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;152690
 5G;234;10;52292047;101248;0;701;53.56469;-0.08886;Devonshire House, Bull Ring Lane, Grimsby, North East Lincolnshire, England, UK;152690
@@ -24500,6 +24722,12 @@
 5G;234;30;167641091;119011;0;662;51.45039828238214;-2.5968969077932846;The Bristol Hotel, Prince Street, Old City, Bristol, West of England, England, UK;646080
 5G;234;30;167641092;119011;0;661;51.45039828238214;-2.5968969077932846;The Bristol Hotel, Prince Street, Old City, Bristol, West of England, England, UK;646080
 5G;234;30;167641093;119011;0;660;51.45039828238214;-2.5968969077932846;The Bristol Hotel, Prince Street, Old City, Bristol, West of England, England, UK;646080
+5G;234;30;367034369;319011;0;543;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;636960
+5G;234;30;367034368;319011;0;544;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;636960
+5G;234;30;367034370;319011;0;545;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;636960
+5G;234;30;367034372;319011;0;543;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;646272
+5G;234;30;367034371;319011;0;544;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;646272
+5G;234;30;367034373;319011;0;545;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;646272
 5G;234;30;1540653056;119011;0;517;51.42794926309911;-2.6097524911165237;Ilchester Crescent Transmitter, 269 Ilchester Crescent, Bedminster Down, Bristol, West of England, England, UK;636768
 5G;234;30;1540653057;119011;0;516;51.42794926309911;-2.6097524911165237;Ilchester Crescent Transmitter, 269 Ilchester Crescent, Bedminster Down, Bristol, West of England, England, UK;636768
 5G;234;30;1540653058;119011;0;518;51.42794926309911;-2.6097524911165237;Ilchester Crescent Transmitter, 269 Ilchester Crescent, Bedminster Down, Bristol, West of England, England, UK;636768
@@ -24513,6 +24741,12 @@
 5G;234;30;8439463943;398011;0;559;51.99761048253535;-2.1223441511392593;M5 South, Northway Trading Estate, Northway, Tewkesbury, Gloucestershire, England, UK;156510
 5G;234;30;8439463949;398011;0;909;51.99761048253535;-2.1223441511392593;M5 South, Northway Trading Estate, Northway, Tewkesbury, Gloucestershire, England, UK;372490
 5G;234;30;8439463950;398011;0;438;51.99761048253535;-2.1223441511392593;M5 South, Northway Trading Estate, Northway, Tewkesbury, Gloucestershire, England, UK;372490
+5G;234;30;8559034376;319011;0;789;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;156510
+5G;234;30;8559034381;319011;0;504;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;372490
+5G;234;30;8559034382;319011;0;723;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;372490
+5G;234;30;8559034378;319011;0;867;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;431070
+5G;234;30;8559034379;319011;0;651;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;431070
+5G;234;30;8559034377;319011;0;648;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;431070
 5G;234;30;9034153984;122011;0;889;51.78829;-1.28271;Northern Bypass Road A40, Wolvercote, Oxford, Oxfordshire, England, UK [MBNL];636768
 5G;234;30;9034153985;122011;0;890;51.78829;-1.28271;Northern Bypass Road A40, Wolvercote, Oxford, Oxfordshire, England, UK [MBNL];636768
 5G;234;30;9034153986;122011;0;888;51.78829;-1.28271;Northern Bypass Road A40, Wolvercote, Oxford, Oxfordshire, England, UK [MBNL];636768
@@ -25617,8 +25851,8 @@
 4G;234;30;0;24121;12146;370;55.9682857975847;-3.23574386537075;Crewe Rd S, Edinburgh, Scotland, UK;1617
 4G;234;30;0;24121;12026;428;55.9690072584141;-3.16558197140694;14 Hermitage Pl, Edinburgh, Scotland, UK;1617
 4G;234;30;3;24121;12026;428;55.9690072584141;-3.16558197140694;14 Hermitage Pl, Edinburgh, Scotland, UK;1815
-4G;234;30;1;24121;12159;115;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;1617
-4G;234;30;3;24121;12159;116;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;1815
+4G;234;30;1;24121;12159;115;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;1617
+4G;234;30;3;24121;12159;116;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;1815
 4G;234;20;1;3729;11663;340;55.9703503218316;-3.2140451297164;Inverleith Church Halls, Inverleith Gardens, Edinburgh, Scotland, UK;1392
 4G;234;20;0;3729;11663;429;55.9703503218316;-3.2140451297164;Inverleith Church Halls, Inverleith Gardens, Edinburgh, Scotland, UK;1392
 4G;234;30;15;24120;24721;378;55.9706878628504;-3.17178089171648;1 Newkirkgate, Leith, Edinburgh, Scotland, UK;3026
@@ -26602,12 +26836,8 @@
 4G;234;20;7;7096;3919;418;53.7871701194256;-2.73988220840693;13 Golf View, Ingol, Preston, Lancashire, England, UK;6175
 4G;234;20;8;7178;2265;35;53.7876880864308;-2.42725230753422;Clinkham Rd, Great Harwood, Blackburn, Lancashire, England, UK;6175
 4G;234;20;73;3579;2265;266;53.7876880864308;-2.42725230753422;Clinkham Rd, Great Harwood, Blackburn, Lancashire, England, UK;99
-4G;234;10;120;33792;500775;175;53.7878449608356;-1.7466414347291;21 Fairfax St, Broomfields, Bradford, West Yorkshire, England, UK;6400
 4G;234;20;1;3578;9738;151;53.7885710915377;-2.3140050843358;Stone Moor, Hapton, Burnley, Lancashire, England, UK;1392
 4G;234;20;2;3578;9738;350;53.7885710915377;-2.3140050843358;Stone Moor, Hapton, Burnley, Lancashire, England, UK;1392
-4G;234;10;110;33792;502017;451;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;6400
-4G;234;10;120;33792;502017;450;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;6400
-4G;234;10;130;33792;502017;452;53.7888155091376;-1.73397704958916;Unit 3, 4 Hammerton St, Bradford, West Yorkshire, England, UK;6400
 4G;234;10;120;33824;513410;458;53.7888410600039;-1.32368423044682;55 Garden Village, Micklefield, Leeds, West Yorkshire, England, UK;6400
 4G;234;10;130;33824;513410;456;53.7888410600039;-1.32368423044682;55 Garden Village, Micklefield, Leeds, West Yorkshire, England, UK;6400
 4G;234;10;110;33888;502797;362;53.7888903790738;-1.58567637205124;Oldfield Ln Highfields Gardens, Leeds, West Yorkshire, England, UK;6400
@@ -26938,7 +27168,7 @@
 4G;234;15;22;57382;5159;399;54.745971325437;-2.80879084020853;M6, Penrith, Cumbria, England, UK;3501
 4G;234;20;0;3192;8591;75;54.7465733686985;-2.81360473483801;M6, Penrith, Cumbria, England, UK;1363
 4G;234;20;8;3541;11568;273;54.7694072466265;-2.55066476762295;Cafe, Alston, UK;6175
-4G;234;15;12;57382;34795;331;54.7716085822221;-2.82765548676252;Unnamed Road, Penrith, Cumbria, England, UK;3501
+4G;234;15;12;57382;34795;331;54.7716085822221;-2.82765548676252;West Coast Main Line, Calthwaite, Cumbria, England, UK;3501
 4G;234;20;2;3649;3646;404;54.7975307293122;-2.87010379135609;M6, Carlisle, Cumbria, England, UK;1363
 4G;234;15;12;57382;19629;458;54.8249412749227;-2.88359362632036;Unnamed Road, Carlisle, Cumbria, England, UK;3501
 4G;234;20;7;3649;3372;350;54.8422867722369;-2.88376193493605;3 Orchard Garth, Wreay, Carlisle, Cumbria, England, UK;6175
@@ -27240,10 +27470,6 @@
 4G;234;20;2;3550;8336;212;55.9174169843769;-3.29931490123272;4 Calder Grove, Edinburgh, Scotland, UK;1363
 4G;234;20;8;3550;8336;140;55.9174169843769;-3.29931490123272;4 Calder Grove, Edinburgh, Scotland, UK;6175
 4G;234;20;73;3550;8336;164;55.9174169843769;-3.29931490123272;4 Calder Grove, Edinburgh, Scotland, UK;76
-4G;234;20;1;3403;6034;85;55.9201363287756;-3.25644481927156;2 Redhall Bank Rd, Edinburgh, Scotland, UK;1392
-4G;234;20;7;3403;6034;324;55.9201363287756;-3.25644481927156;2 Redhall Bank Rd, Edinburgh, Scotland, UK;6175
-4G;234;20;71;3403;6034;340;55.9201363287756;-3.25644481927156;2 Redhall Bank Rd, Edinburgh, Scotland, UK;76
-4G;234;20;72;3403;6034;339;55.9201363287756;-3.25644481927156;2 Redhall Bank Rd, Edinburgh, Scotland, UK;76
 4G;234;20;2;3242;50821;456;55.9213016768556;-3.27148396521807;48/1 Dumbryden Gardens, Edinburgh, Scotland, UK;1363
 4G;234;20;0;3404;9433;36;55.9217251236942;-3.17322995513678;James Clerk Maxwell Building, Mayfield Rd, Edinburgh, Scotland, UK;1363
 4G;234;20;1;3404;9433;316;55.9217251236942;-3.17322995513678;James Clerk Maxwell Building, Mayfield Rd, Edinburgh, Scotland, UK;1363
@@ -27465,9 +27691,9 @@
 4G;234;20;2;3505;8356;74;55.9673543520572;-2.90019817650318;A198, Longniddry, UK;1363
 4G;234;20;1;3306;13004;448;55.9675406804848;-3.18722773343325;104 Pilrig St, Edinburgh, Scotland, UK;1363
 4G;234;15;30;41105;523815;146;55.9680754549765;-3.17190058529377;36 Thorntree St, Edinburgh, Scotland, UK;6300
-4G;234;20;0;3306;3472;0;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;1363
-4G;234;20;1;3306;3472;400;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;1363
-4G;234;20;71;3306;3472;394;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;99
+4G;234;20;0;3306;3472;0;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;1363
+4G;234;20;1;3306;3472;400;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;1363
+4G;234;20;71;3306;3472;394;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;99
 4G;234;20;1;3811;4107;22;55.9701480584872;-3.32424469292164;A90, South Queensferry, Edinburgh, Scotland, UK;1363
 4G;234;20;2;3811;4107;410;55.9701480584872;-3.32424469292164;A90, South Queensferry, Edinburgh, Scotland, UK;1363
 4G;234;20;2;3306;4165;137;55.9723912836829;-3.16788196563721;11A John's Pl, Leith, Edinburgh, Scotland, UK;1363
@@ -28698,14 +28924,6 @@
 4G;234;10;114;49952;3146;302;53.5451528357753;-2.47058607637882;61 Newbrook Rd, Over Hulton, Bolton, Greater Manchester, England, UK;347
 4G;234;10;130;49952;3146;301;53.5451528357753;-2.47058607637882;61 Newbrook Rd, Over Hulton, Bolton, Greater Manchester, England, UK;6400
 4G;234;10;134;49952;3146;301;53.5451528357753;-2.47058607637882;61 Newbrook Rd, Over Hulton, Bolton, Greater Manchester, England, UK;347
-4G;234;15;20;57388;15428;20;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;6300
-4G;234;15;24;57388;15428;20;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;223
-4G;234;15;30;57388;15428;120;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;6300
-4G;234;15;32;57388;15428;338;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;3501
-4G;234;10;120;49952;115428;20;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;6400
-4G;234;10;124;49952;115428;18;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;347
-4G;234;10;130;49952;115428;18;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;6400
-4G;234;10;134;49952;115428;18;53.5455666083413;-2.354990914464;48 Ringley Old Brow, Stoneclough, Radcliffe, Manchester, Greater Manchester, England, UK;347
 4G;234;15;24;57388;15939;59;53.5456692041871;-2.31641102582216;96 Ringley Rd, Whitefield, Manchester, Greater Manchester, England, UK;223
 4G;234;10;126;49952;541469;412;53.5456692041871;-2.31641102582216;96 Ringley Rd, Whitefield, Manchester, Greater Manchester, England, UK;39250
 4G;234;20;1;3052;52567;409;53.5457837526531;-2.4186984077096;St James' School, Farnworth, Bolton, Greater Manchester, England, UK;1363
@@ -30445,12 +30663,6 @@
 4G;234;10;134;50017;6250;178;53.7705692088679;-2.70449012517929;18 Derwentwater Pl, Preston, Lancashire, England, UK;347
 4G;234;15;20;41075;504032;201;53.7713007904902;-1.25001266598701;2 The Cottages, London Rd, South Milford, Leeds, West Yorkshire, England, UK;6300
 4G;234;10;120;34608;504031;201;53.7713007904902;-1.25001266598701;2 The Cottages, London Rd, South Milford, Leeds, West Yorkshire, England, UK;6400
-4G;234;30;0;21451;31857;130;53.7714638688377;-2.72567722946405;257 Shelley Rd, Ashton-on-Ribble, Preston, Lancashire, England, UK;1617
-4G;234;30;1;21451;31857;131;53.7714638688377;-2.72567722946405;257 Shelley Rd, Ashton-on-Ribble, Preston, Lancashire, England, UK;1617
-4G;234;30;2;21451;31857;129;53.7714638688377;-2.72567722946405;257 Shelley Rd, Ashton-on-Ribble, Preston, Lancashire, England, UK;1617
-4G;234;30;3;21451;31857;120;53.7714638688377;-2.72567722946405;257 Shelley Rd, Ashton-on-Ribble, Preston, Lancashire, England, UK;1815
-4G;234;30;4;21451;31857;264;53.7714638688377;-2.72567722946405;257 Shelley Rd, Ashton-on-Ribble, Preston, Lancashire, England, UK;1815
-4G;234;30;5;21451;31857;129;53.7714638688377;-2.72567722946405;257 Shelley Rd, Ashton-on-Ribble, Preston, Lancashire, England, UK;1815
 4G;234;20;0;3095;13542;2;53.7714638688377;-2.72567722946405;257 Shelley Rd, Ashton-on-Ribble, Preston, Lancashire, England, UK;1392
 4G;234;20;1;3095;13542;367;53.7714638688377;-2.72567722946405;257 Shelley Rd, Ashton-on-Ribble, Preston, Lancashire, England, UK;1363
 4G;234;20;2;3095;13542;62;53.7714638688377;-2.72567722946405;257 Shelley Rd, Ashton-on-Ribble, Preston, Lancashire, England, UK;1363
@@ -31344,13 +31556,6 @@
 4G;234;30;0;25581;21718;79;54.0708829121991;-2.86729585379362;47 Edward St, Morecambe, Lancashire, England, UK;1617
 4G;234;30;3;25581;21718;79;54.0708829121991;-2.86729585379362;47 Edward St, Morecambe, Lancashire, England, UK;1815
 4G;234;20;6;7115;8003;430;54.0708829121991;-2.86729585379362;47 Edward St, Morecambe, Lancashire, England, UK;6175
-4G;234;15;10;57397;15317;260;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;6300
-4G;234;15;14;57397;15317;260;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;223
-4G;234;15;18;57397;15317;260;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;2850
-4G;234;15;20;57397;15317;258;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;6300
-4G;234;15;28;57397;15317;258;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;2850
-4G;234;15;30;57397;15317;259;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;6300
-4G;234;15;38;57397;15317;258;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;2850
 4G;234;10;122;50241;115626;191;54.0717837503664;-2.85808347165585;204 Euston Rd, Morecambe, Lancashire, England, UK;3725
 4G;234;30;1;25581;17631;181;54.0735916631632;-2.85767678171396;21 Poulton Square, Morecambe, Lancashire, England, UK;1617
 4G;234;20;0;3410;5204;84;54.0735916631632;-2.85767678171396;21 Poulton Square, Morecambe, Lancashire, England, UK;1392
@@ -31974,10 +32179,6 @@
 4G;234;30;0;25571;16425;482;54.6217284363447;-2.71281972527504;1 Fell View Cottages, Clifton, Penrith, Cumbria, England, UK;1617
 4G;234;30;1;25571;16425;481;54.6217284363447;-2.71281972527504;1 Fell View Cottages, Clifton, Penrith, Cumbria, England, UK;1617
 4G;234;30;2;25571;16425;480;54.6217284363447;-2.71281972527504;1 Fell View Cottages, Clifton, Penrith, Cumbria, England, UK;1617
-4G;234;15;10;57382;4646;166;54.6217284363447;-2.71281972527504;1 Fell View Cottages, Clifton, Penrith, Cumbria, England, UK;6300
-4G;234;15;12;57382;4646;475;54.6217284363447;-2.71281972527504;1 Fell View Cottages, Clifton, Penrith, Cumbria, England, UK;3501
-4G;234;15;14;57382;4646;475;54.6217284363447;-2.71281972527504;1 Fell View Cottages, Clifton, Penrith, Cumbria, England, UK;223
-4G;234;10;110;49761;4646;167;54.6217284363447;-2.71281972527504;1 Fell View Cottages, Clifton, Penrith, Cumbria, England, UK;6400
 4G;234;15;15;41076;508305;336;54.6281345196512;-1.58036325126886;39 Osbert Pl, Newton Aycliffe, UK;223
 4G;234;15;10;41076;506173;346;54.6297607247431;-1.56837075948715;Woodham Way - Brafferton Close, Newton Aycliffe, UK;6300
 4G;234;15;15;41076;506173;346;54.6297607247431;-1.56837075948715;Woodham Way - Brafferton Close, Newton Aycliffe, UK;223
@@ -32086,12 +32287,6 @@
 4G;234;10;110;36032;508560;460;54.6887546110859;-1.55623443424702;81 Church Ln, Ferryhill, County Durham, England, UK;6400
 4G;234;10;125;36032;508560;459;54.6887546110859;-1.55623443424702;81 Church Ln, Ferryhill, County Durham, England, UK;347
 4G;234;30;0;25571;16416;105;54.6892511122937;-2.7842378988862;Unnamed Road, Penrith, Cumbria, England, UK;1617
-4G;234;30;0;25571;18206;140;54.6929339848842;-2.79305666685104;Catterlen Interchange, Penrith, Cumbria, England, UK;1617
-4G;234;30;1;25571;18206;139;54.6929339848842;-2.79305666685104;Catterlen Interchange, Penrith, Cumbria, England, UK;1617
-4G;234;30;12;26820;18206;140;54.6929339848842;-2.79305666685104;Catterlen Interchange, Penrith, Cumbria, England, UK;6225
-4G;234;30;13;25570;18206;139;54.6929339848842;-2.79305666685104;Catterlen Interchange, Penrith, Cumbria, England, UK;6225
-4G;234;30;3;25571;18206;225;54.6929339848842;-2.79305666685104;Catterlen Interchange, Penrith, Cumbria, England, UK;1815
-4G;234;30;4;26821;18206;226;54.6929339848842;-2.79305666685104;Catterlen Interchange, Penrith, Cumbria, England, UK;1815
 4G;234;20;6;3192;8685;172;54.6929339848842;-2.79305666685104;Catterlen Interchange, Penrith, Cumbria, England, UK;6175
 4G;234;20;7;7194;8685;59;54.6929339848842;-2.79305666685104;Catterlen Interchange, Penrith, Cumbria, England, UK;6175
 4G;234;15;30;41071;504920;229;54.6944624581112;-1.52418907731771;16 Station Rd, Cornforth, Ferryhill, County Durham, England, UK;6300
@@ -32149,13 +32344,9 @@
 4G;234;15;20;41071;511053;392;54.770680446278;-1.6064527630806;Relly Steading, Broompark, Durham, UK;6300
 4G;234;10;115;36032;511052;391;54.770680446278;-1.6064527630806;Relly Steading, Broompark, Durham, UK;347
 4G;234;10;127;36032;546850;392;54.770680446278;-1.6064527630806;Relly Steading, Broompark, Durham, UK;39448
-4G;234;15;10;57382;34795;331;54.7716085822221;-2.82765548676252;Unnamed Road, Penrith, Cumbria, England, UK;6300
-4G;234;15;30;57382;34795;332;54.7716085822221;-2.82765548676252;Unnamed Road, Penrith, Cumbria, England, UK;6300
-4G;234;15;32;57382;34795;332;54.7716085822221;-2.82765548676252;Unnamed Road, Penrith, Cumbria, England, UK;3501
-4G;234;10;110;49761;119996;331;54.7716085822221;-2.82765548676252;Unnamed Road, Penrith, Cumbria, England, UK;6400
-4G;234;10;112;49761;119996;319;54.7716085822221;-2.82765548676252;Unnamed Road, Penrith, Cumbria, England, UK;3725
-4G;234;10;130;49761;119996;332;54.7716085822221;-2.82765548676252;Unnamed Road, Penrith, Cumbria, England, UK;6400
-4G;234;10;132;49761;119996;318;54.7716085822221;-2.82765548676252;Unnamed Road, Penrith, Cumbria, England, UK;3725
+4G;234;15;10;57382;34795;331;54.7716085822221;-2.82765548676252;West Coast Main Line, Calthwaite, Cumbria, England, UK;6300
+4G;234;15;30;57382;34795;332;54.7716085822221;-2.82765548676252;West Coast Main Line, Calthwaite, Cumbria, England, UK;6300
+4G;234;15;32;57382;34795;332;54.7716085822221;-2.82765548676252;West Coast Main Line, Calthwaite, Cumbria, England, UK;3501
 4G;234;30;0;25571;18207;162;54.7752692800737;-2.85799328237772;Unnamed Road, Carlisle, Cumbria, England, UK;1617
 4G;234;30;1;25571;18207;164;54.7752692800737;-2.85799328237772;Unnamed Road, Carlisle, Cumbria, England, UK;1617
 4G;234;20;6;7401;6428;442;54.7752692800737;-2.85799328237772;Unnamed Road, Carlisle, Cumbria, England, UK;6175
@@ -34799,18 +34990,6 @@
 4G;234;15;32;41105;21030;350;55.9334832246591;-3.30767467617989;Redheughs Avenue, Edinburgh, Scotland, UK;3501
 4G;234;15;34;41105;21030;350;55.9334832246591;-3.30767467617989;Redheughs Avenue, Edinburgh, Scotland, UK;223
 4G;234;15;38;41105;21030;350;55.9334832246591;-3.30767467617989;Redheughs Avenue, Edinburgh, Scotland, UK;2850
-4G;234;10;110;34705;501283;361;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;6400
-4G;234;10;112;34705;501283;361;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;347
-4G;234;10;115;34705;501283;361;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;347
-4G;234;10;120;34705;501283;362;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;6400
-4G;234;10;122;34705;501283;362;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;3725
-4G;234;10;125;34705;501283;362;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;347
-4G;234;10;130;34705;501283;360;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;6400
-4G;234;10;135;34705;501283;360;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;347
-4G;234;10;114;34705;538156;361;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;1226
-4G;234;10;116;34705;538156;361;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;39250
-4G;234;10;126;34705;538156;362;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;39250
-4G;234;10;136;34705;538156;362;55.9336045475291;-3.10766167938709;Fort Kinnaird West, Edinburgh, Scotland, UK;39250
 4G;234;15;10;41105;23640;215;55.9337517871582;-3.27014520764351;114 Carrick Knowe Rd, Edinburgh, Scotland, UK;6300
 4G;234;15;12;41105;23640;15;55.9337517871582;-3.27014520764351;114 Carrick Knowe Rd, Edinburgh, Scotland, UK;3501
 4G;234;15;14;41105;23640;193;55.9337517871582;-3.27014520764351;114 Carrick Knowe Rd, Edinburgh, Scotland, UK;223
@@ -35358,10 +35537,10 @@
 4G;234;20;0;3245;54090;57;55.9431938620784;-3.22087336331606;114 Dalry Rd, Edinburgh, Scotland, UK;1363
 4G;234;20;6;3245;54090;99;55.9431938620784;-3.22087336331606;114 Dalry Rd, Edinburgh, Scotland, UK;6175
 4G;234;20;93;3245;54090;266;55.9431938620784;-3.22087336331606;114 Dalry Rd, Edinburgh, Scotland, UK;9360
-4G;234;15;14;41105;23679;101;55.9432916846647;-3.37010778486729;45 Ingliston Rd, Ingliston, Newbridge, UK;223
-4G;234;15;24;41105;23679;100;55.9432916846647;-3.37010778486729;45 Ingliston Rd, Ingliston, Newbridge, UK;223
-4G;234;10;115;34480;513916;249;55.9432916846647;-3.37010778486729;45 Ingliston Rd, Ingliston, Newbridge, UK;347
-4G;234;10;122;34480;513916;250;55.9432916846647;-3.37010778486729;45 Ingliston Rd, Ingliston, Newbridge, UK;3725
+4G;234;15;14;41105;23679;101;55.9432916846647;-3.37010778486729;Royal Highland Ingliston, 45 Ingliston Road, Ingliston, Edinburgh, Scotland, UK;223
+4G;234;15;24;41105;23679;100;55.9432916846647;-3.37010778486729;Royal Highland Ingliston, 45 Ingliston Road, Ingliston, Edinburgh, Scotland, UK;223
+4G;234;10;115;34480;513916;249;55.9432916846647;-3.37010778486729;Royal Highland Ingliston, 45 Ingliston Road, Ingliston, Edinburgh, Scotland, UK;347
+4G;234;10;122;34480;513916;250;55.9432916846647;-3.37010778486729;Royal Highland Ingliston, 45 Ingliston Road, Ingliston, Edinburgh, Scotland, UK;3725
 4G;234;30;1;24121;37944;502;55.9434657369088;-3.22629947215319;3 Russell Rd, Edinburgh, Scotland, UK;1617
 4G;234;30;10;24121;37944;502;55.9434657369088;-3.22629947215319;3 Russell Rd, Edinburgh, Scotland, UK;3179
 4G;234;30;11;24121;37944;503;55.9434657369088;-3.22629947215319;3 Russell Rd, Edinburgh, Scotland, UK;3179
@@ -36425,21 +36604,12 @@
 4G;234;20;0;3306;3638;3;55.9690072584141;-3.16558197140694;14 Hermitage Pl, Edinburgh, Scotland, UK;1392
 4G;234;20;71;3306;3638;422;55.9690072584141;-3.16558197140694;14 Hermitage Pl, Edinburgh, Scotland, UK;99
 4G;234;20;73;3306;3638;420;55.9690072584141;-3.16558197140694;14 Hermitage Pl, Edinburgh, Scotland, UK;99
-4G;234;15;18;41105;20413;331;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;2850
-4G;234;15;28;41105;20413;332;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;2850
-4G;234;15;30;41105;20413;285;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;6300
-4G;234;15;32;41105;20413;249;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;3501
-4G;234;15;34;41105;20413;337;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;223
-4G;234;15;38;41105;20413;330;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;2850
-4G;234;10;110;35089;510280;357;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;6400
-4G;234;10;115;35089;510280;357;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;347
-4G;234;10;120;35089;510280;358;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;6400
-4G;234;10;122;35089;510280;358;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;3725
-4G;234;10;124;35089;510280;358;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;1226
-4G;234;10;125;35089;510280;358;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;347
-4G;234;10;132;35089;510280;359;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;3725
-4G;234;10;116;35089;537921;357;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;39250
-4G;234;10;127;35089;537921;358;55.9695695944959;-3.17531336098909;42 Tennant St, Edinburgh, Scotland, UK;39448
+4G;234;15;18;41105;20413;331;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;2850
+4G;234;15;28;41105;20413;332;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;2850
+4G;234;15;30;41105;20413;285;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;6300
+4G;234;15;32;41105;20413;249;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;3501
+4G;234;15;34;41105;20413;337;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;223
+4G;234;15;38;41105;20413;330;55.9695695944959;-3.17531336098909;Leith Telephone Exchange, 42 Tennant Street, Leith, Edinburgh, Scotland, UK;2850
 4G;234;10;110;34480;501607;291;55.9696200673715;-3.30719824880362;61 Gamekeeper's Rd, Cramond, Edinburgh, Scotland, UK;6400
 4G;234;10;115;34480;501607;291;55.9696200673715;-3.30719824880362;61 Gamekeeper's Rd, Cramond, Edinburgh, Scotland, UK;347
 4G;234;10;120;34480;501607;292;55.9696200673715;-3.30719824880362;61 Gamekeeper's Rd, Cramond, Edinburgh, Scotland, UK;6400
@@ -36896,10 +37066,6 @@
 4G;234;10;115;34704;514162;405;55.8192748135342;-3.19429434835911;Penicuik Transmitting Station, B6372, Howgate, Midlothian, Scotland, UK;347
 4G;234;10;130;34704;523044;363;55.824114041969;-3.23002204298973;49 St James's View, Penicuik, Midlothian, Scotland, UK;6400
 4G;234;10;117;34704;544788;365;55.824114041969;-3.23002204298973;49 St James's View, Penicuik, Midlothian, Scotland, UK;39448
-4G;234;20;7;3379;51192;157;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;6175
-4G;234;20;71;3379;51192;156;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;76
-4G;234;20;72;3379;51192;157;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;76
-4G;234;20;73;3379;51192;263;55.8277284265108;-3.22139974683523;Town Centre (Stop C), Penicuik, Midlothian, Scotland, UK;76
 4G;234;20;7;3379;3673;226;55.8348074435722;-3.21822736412287;Eastfield Industrial Estate, Penicuik, Midlothian, Scotland, UK;6175
 4G;234;20;7;3501;4743;352;55.8471789769432;-3.57134018093348;46 Hartwood Rd, West Calder, UK;6175
 4G;234;20;6;3706;11299;85;55.8605007460805;-3.16869769245386;Bowling Club, 108 Main St, Roslin, UK;6175
@@ -38276,11 +38442,11 @@
 5G;234;15;93093923;157397;0;870;54.0684478560939;-2.81671710312367;6a Powder House Ln, Lancaster;628032
 5G;234;10;225903107;150241;0;69;54.0684478560939;-2.81671710312367;6a Powder House Ln, Lancaster;152690
 5G;234;10;225903127;150241;0;70;54.0684478560939;-2.81671710312367;6a Powder House Ln, Lancaster;152690
-5G;234;15;86966299;157397;0;307;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;428190
-5G;234;15;86966287;157397;0;873;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;628032
-5G;234;15;86966307;157397;0;875;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;628032
-5G;234;15;86966297;157397;0;874;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;628032
-5G;234;10;226624013;150241;0;82;54.0717778484546;-2.77071252465248;A683, Lancaster, Lancashire, England, UK;152690
+5G;234;15;86966299;157397;0;307;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;428190
+5G;234;15;86966287;157397;0;873;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;628032
+5G;234;15;86966307;157397;0;875;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;628032
+5G;234;15;86966297;157397;0;874;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;628032
+5G;234;10;226624013;150241;0;82;54.0717778484546;-2.77071252465248;Hudson's Farm, Caton Road A683, Halton, Lancaster, Lancashire, England, UK;152690
 5G;234;10;77654477;133857;0;662;54.088561460364;-1.40896707773209;5 Becklands Cl, Roecliffe, York, North Yorkshire, England, UK;152690
 5G;234;15;155123749;157397;0;274;54.0938604695663;-2.78988562524319;Ancliffe Ln, Carnforth;428190
 5G;234;15;155123739;157397;0;275;54.0938604695663;-2.78988562524319;Ancliffe Ln, Carnforth;428190
@@ -39168,7 +39334,7 @@
 5G;234;30;9794256913;223011;0;938;55.9428782370396;-3.05065132677555;105 High St, Musselburgh, East Lothian, Scotland, UK;529490
 5G;234;30;9794256898;223011;0;998;55.9428782370396;-3.05065132677555;105 High St, Musselburgh, East Lothian, Scotland, UK;636768
 5G;234;30;9794256901;223011;0;953;55.9428782370396;-3.05065132677555;105 High St, Musselburgh, East Lothian, Scotland, UK;646080
-5G;234;10;286550477;134480;0;480;55.9432916846647;-3.37010778486729;45 Ingliston Rd, Ingliston, Newbridge, UK;152690
+5G;234;10;286550477;134480;0;480;55.9432916846647;-3.37010778486729;Royal Highland Ingliston, 45 Ingliston Road, Ingliston, Edinburgh, Scotland, UK;152690
 5G;234;30;9455845389;319011;0;978;55.9435267582763;-3.22617676109076;3 Russell Rd, Edinburgh, Scotland, UK;372490
 5G;234;30;9455845390;319011;0;960;55.9435267582763;-3.22617676109076;3 Russell Rd, Edinburgh, Scotland, UK;372490
 5G;234;30;9455845386;319011;0;723;55.9435267582763;-3.22617676109076;3 Russell Rd, Edinburgh, Scotland, UK;431070
@@ -39414,18 +39580,6 @@
 5G;234;30;9135210510;319011;0;768;55.9553405610034;-3.12726862728596;1 & 3 W Telferton, Edinburgh, Scotland, UK;372490
 5G;234;30;9135210507;319011;0;780;55.9553405610034;-3.12726862728596;1 & 3 W Telferton, Edinburgh, Scotland, UK;431070
 5G;234;30;9135210505;319011;0;570;55.9553405610034;-3.12726862728596;1 & 3 W Telferton, Edinburgh, Scotland, UK;431070
-5G;234;30;8559034376;319011;0;789;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;156510
-5G;234;30;8559034381;319011;0;504;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;372490
-5G;234;30;8559034382;319011;0;723;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;372490
-5G;234;30;8559034378;319011;0;867;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;431070
-5G;234;30;8559034379;319011;0;651;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;431070
-5G;234;30;8559034377;319011;0;648;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;431070
-5G;234;30;367034369;319011;0;543;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;636960
-5G;234;30;367034368;319011;0;544;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;636960
-5G;234;30;367034370;319011;0;545;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;636960
-5G;234;30;367034372;319011;0;543;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;646272
-5G;234;30;367034371;319011;0;544;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;646272
-5G;234;30;367034373;319011;0;545;55.9554130133781;-3.22349555790424;Orchard Brae House, 30 Queensferry Road, Edinburgh, Scotland, UK;646272
 5G;234;30;9791553544;319011;0;996;55.9557495585117;-3.24294190853834;107 Queensferry Road, Edinburgh, Scotland, UK;156510
 5G;234;30;9791553548;319011;0;603;55.9557495585117;-3.24294190853834;107 Queensferry Road, Edinburgh, Scotland, UK;372490
 5G;234;30;9791553549;319011;0;906;55.9557495585117;-3.24294190853834;107 Queensferry Road, Edinburgh, Scotland, UK;372490
