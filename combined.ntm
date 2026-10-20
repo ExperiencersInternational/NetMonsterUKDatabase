@@ -38,9 +38,9 @@
 2G;234;30;4279;null;0;10;;;-;657
 2G;234;30;4341;2602;0;37;;;-;648
 2G;234;15;4346;null;0;37;;;-;8
-2G;234;30;4359;2605;0;41;;;-;652
-2G;234;30;4360;2605;0;2;;;-;660
-2G;234;30;4361;null;0;60;;;-;655
+2G;234;30;4359;2605;0;41;51.859390499254374;-2.2631286084651947;Sudmeadow Park, 10 Spinnaker Road, Hempsted, Gloucester, Gloucestershire, England, UK;652
+2G;234;30;4360;2605;0;2;51.859390499254374;-2.2631286084651947;Sudmeadow Park, 10 Spinnaker Road, Hempsted, Gloucester, Gloucestershire, England, UK;660
+2G;234;30;4361;2605;0;60;51.859390499254374;-2.2631286084651947;Sudmeadow Park, 10 Spinnaker Road, Hempsted, Gloucester, Gloucestershire, England, UK;655
 2G;234;30;4394;2302;0;3;51.86606;-2.23119;The Atrium, Gloucestershire Royal Hospital, Great Western Road, Wotton, Gloucester, Gloucestershire, England, UK [GL1 3NL];661
 2G;234;30;4395;2302;0;7;51.86606;-2.23119;The Atrium, Gloucestershire Royal Hospital, Great Western Road, Wotton, Gloucester, Gloucestershire, England, UK [GL1 3NL];652
 2G;234;30;4396;2302;0;1;51.86606;-2.23119;The Atrium, Gloucestershire Royal Hospital, Great Western Road, Wotton, Gloucester, Gloucestershire, England, UK [GL1 3NL];666
@@ -255,7 +255,8 @@
 2G;234;15;16035;170;0;38;52.99125;-0.01004;Pilgrim Hospital, Sibsey Road A16, Trinity, Boston, Lincolnshire, England, UK [PE21 9QS];6
 2G;234;15;16036;170;0;null;52.99125;-0.01004;Pilgrim Hospital, Sibsey Road A16, Trinity, Boston, Lincolnshire, England, UK [PE21 9QS];3
 2G;234;10;16094;21785;0;19;51.70362358756439;-2.2921115532517433;Tinkley Lane, The Cross, Nympsfield, Stonehouse, Gloucestershire, England, UK;124
-2G;234;10;16432;null;0;51;51.86606;-2.23119;The Atrium, Gloucestershire Royal Hospital, Great Western Road, Wotton, Gloucester, Gloucestershire, England, UK [GL1 3NL];124
+2G;234;10;16313;21785;0;19;51.88028713392705;-2.3073364421725273;Rodway Hill Golf Course, Newent Road B4215, Highnam, Gloucestershire, England, UK;117
+2G;234;10;16432;21785;0;51;51.86606;-2.23119;The Atrium, Gloucestershire Royal Hospital, Great Western Road, Wotton, Gloucester, Gloucestershire, England, UK [GL1 3NL];124
 2G;234;10;16449;21785;0;50;51.669051092393055;-2.409795820713043;M5 North, Lower Wick, Gloucestershire, England, UK;124
 2G;234;10;16477;21400;0;32;51.84101993533301;-2.4918392300605774;Edgehills, Littledean Hill Road, Littledean, Forest of Dean, Gloucestershire, England, UK;123
 2G;234;15;16517;131;0;16;;;-;11
@@ -1882,15 +1883,15 @@
 4G;234;20;1;3206;2988;469;54.54585;-1.39860;Darlington Road, Longnewton, Stockton-on-Tees, County Durham, England, UK;1363
 4G;234;20;6;3206;2988;225;54.54585;-1.39860;Darlington Road, Longnewton, Stockton-on-Tees, County Durham, England, UK;6175
 4G;234;20;7;3206;2988;316;54.54585;-1.39860;Darlington Road, Longnewton, Stockton-on-Tees, County Durham, England, UK;6175
-4G;234;15;10;24723;2988;99;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];6300
-4G;234;15;14;24723;2988;420;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];223
-4G;234;15;18;24723;2988;300;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];2850
-4G;234;15;20;24723;2988;100;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];6300
-4G;234;15;24;24723;2988;421;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];223
-4G;234;15;28;24723;2988;301;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];2850
-4G;234;15;30;24723;2988;101;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];6300
-4G;234;15;34;24723;2988;422;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];223
-4G;234;15;38;24723;2988;302;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];2850
+4G;234;15;10;24723;2988;99;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 90°] [Site ID 11007] [GL1 2SQ];6300
+4G;234;15;14;24723;2988;420;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 90°] [Site ID 11007] [GL1 2SQ];223
+4G;234;15;18;24723;2988;300;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 90°] [Site ID 11007] [GL1 2SQ];2850
+4G;234;15;20;24723;2988;100;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 210°] [Site ID 11007] [GL1 2SQ];6300
+4G;234;15;24;24723;2988;421;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 210°] [Site ID 11007] [GL1 2SQ];223
+4G;234;15;28;24723;2988;301;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 210°] [Site ID 11007] [GL1 2SQ];2850
+4G;234;15;30;24723;2988;101;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 330°] [Site ID 11007] [GL1 2SQ];6300
+4G;234;15;34;24723;2988;422;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 330°] [Site ID 11007] [GL1 2SQ];223
+4G;234;15;38;24723;2988;302;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 330°] [Site ID 11007] [GL1 2SQ];2850
 4G;234;15;10;24626;2989;232;51.37345720732827;-2.276487118638656;Bath Road A363, Farleigh Wick, Wiltshire, England, UK;6300
 4G;234;15;20;24626;2989;231;51.37345720732827;-2.276487118638656;Bath Road A363, Farleigh Wick, Wiltshire, England, UK;6300
 4G;234;15;30;24626;2989;233;51.37345720732827;-2.276487118638656;Bath Road A363, Farleigh Wick, Wiltshire, England, UK;6300
@@ -2018,10 +2019,10 @@
 4G;234;15;34;24737;3203;233;51.46886782267673;-2.1427151933312416;Bumpers Farm Roundabout, West Cepen Way A350, Cepen Park North, Chippenham, Wiltshire, England, UK [SN14 6LQ];223
 4G;234;15;10;24723;3205;351;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];6300
 4G;234;15;12;24723;3205;333;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];3501
+4G;234;15;13;24723;3205;34;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];10220
 4G;234;15;14;24723;3205;102;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];223
 4G;234;15;16;24723;3205;409;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];1363
 4G;234;15;18;24723;3205;174;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];2850
-4G;234;15;null;24723;3205;34;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];10220
 4G;234;15;20;24723;3205;353;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];6300
 4G;234;15;22;24723;3205;334;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];3501
 4G;234;15;24;24723;3205;103;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];223
@@ -2029,10 +2030,10 @@
 4G;234;15;28;24723;3205;175;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];2850
 4G;234;15;30;24723;3205;352;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];6300
 4G;234;15;32;24723;3205;335;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];3501
+4G;234;15;33;24723;3205;482;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];10220
 4G;234;15;34;24723;3205;104;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];223
 4G;234;15;36;24723;3205;477;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];1363
 4G;234;15;38;24723;3205;176;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];2850
-4G;234;15;null;24723;3205;482;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];10220
 4G;234;15;210;24723;3205;420;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];9360
 4G;234;15;212;24723;3205;423;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];76
 4G;234;15;220;24723;3205;422;51.85637678379626;-2.215947210788727;Eastbrook Trading Estate, Metz Way, Coney Hill, Gloucester, Gloucestershire, England, UK [GL4 4RT];9360
@@ -2774,11 +2775,11 @@
 4G;234;15;28;24723;4047;null;51.84446406809855;-2.2197874635457993;Gloucester Academy, Painswick Road B4073, Gloucester, Gloucestershire, England, UK;2850
 4G;234;15;30;24723;4047;45;51.84446406809855;-2.2197874635457993;Gloucester Academy, Painswick Road B4073, Gloucester, Gloucestershire, England, UK;6300
 4G;234;15;32;24723;4047;165;51.84446406809855;-2.2197874635457993;Gloucester Academy, Painswick Road B4073, Gloucester, Gloucestershire, England, UK;3501
+4G;234;15;33;24723;4047;430;51.84446406809855;-2.2197874635457993;Gloucester Academy, Painswick Road B4073, Gloucester, Gloucestershire, England, UK;10220
 4G;234;15;34;24723;4047;303;51.84446406809855;-2.2197874635457993;Gloucester Academy, Painswick Road B4073, Gloucester, Gloucestershire, England, UK;223
 4G;234;15;36;24723;4047;474;51.84446406809855;-2.2197874635457993;Gloucester Academy, Painswick Road B4073, Gloucester, Gloucestershire, England, UK;1363
 4G;234;15;38;24723;4047;372;51.84446406809855;-2.2197874635457993;Gloucester Academy, Painswick Road B4073, Gloucester, Gloucestershire, England, UK;2850
-4G;234;15;null;24723;4047;430;51.84446406809855;-2.2197874635457993;Gloucester Academy, Painswick Road B4073, Gloucester, Gloucestershire, England, UK;10220
-4G;234;15;210;24723;4047;null;51.84446406809855;-2.2197874635457993;Gloucester Academy, Painswick Road B4073, Gloucester, Gloucestershire, England, UK;9360
+4G;234;15;210;24723;4047;409;51.84446406809855;-2.2197874635457993;Gloucester Academy, Painswick Road B4073, Gloucester, Gloucestershire, England, UK;9360
 4G;234;15;212;24723;4047;430;51.84446406809855;-2.2197874635457993;Gloucester Academy, Painswick Road B4073, Gloucester, Gloucestershire, England, UK;76
 4G;234;15;220;24723;4047;null;51.84446406809855;-2.2197874635457993;Gloucester Academy, Painswick Road B4073, Gloucester, Gloucestershire, England, UK;9360
 4G;234;15;222;24723;4047;null;51.84446406809855;-2.2197874635457993;Gloucester Academy, Painswick Road B4073, Gloucester, Gloucestershire, England, UK;76
@@ -3542,11 +3543,12 @@
 4G;234;10;114;16625;5629;24;51.48717421008737;-2.589571215212345;Horfield Parish Church, Wellington Hill, Horfield, Bristol, West of England, England, UK;347
 4G;234;10;116;16625;5629;461;51.48717421008737;-2.589571215212345;Horfield Parish Church, Wellington Hill, Horfield, Bristol, West of England, England, UK;1226
 4G;234;20;7;1200;5633;413;51.67475159501158;-0.9611404314637185;High Street, Lewknor, South Oxfordshire, England, UK;6175
-4G;234;20;0;2281;5637;399;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];1363
-4G;234;20;1;2281;5637;370;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];1363
-4G;234;20;2;2281;5637;371;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];1363
-4G;234;20;72;2281;5637;11;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];99
-4G;234;20;73;2281;5637;10;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];99
+4G;234;20;0;2281;5637;399;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [GL3 2LQ];1363
+4G;234;20;1;2281;5637;370;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [Azimuth 195°] [GL3 2LQ];1363
+4G;234;20;2;2281;5637;371;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [Azimuth 280°] [GL3 2LQ];1363
+4G;234;20;71;2281;5637;9;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [GL3 2LQ];99
+4G;234;20;72;2281;5637;11;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [Azimuth 195°] [GL3 2LQ];99
+4G;234;20;73;2281;5637;10;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [Azimuth 280°] [GL3 2LQ];99
 4G;234;20;0;1540;5647;231;51.498571375122204;-0.7136372476816177;Ascot Road, Maidenhead, Berkshire, England, UK [MBNL];1363
 4G;234;20;2;1540;5647;482;51.498571375122204;-0.7136372476816177;Ascot Road, Maidenhead, Berkshire, England, UK [MBNL];1363
 4G;234;20;0;2373;5672;468;51.35806831442068;-2.303191867798132;Conkwell Wood, Blackberry Lane, Conkwell, Bath and North East Somerset, West of England, England, UK;1363
@@ -10020,6 +10022,7 @@
 4G;234;30;12;26620;17075;159;52.06134870833063;-2.132023572921753;Church Lane, Strensham, Worcestershire, England, UK;6225
 4G;234;30;13;26620;17075;160;52.06134870833063;-2.132023572921753;Church Lane, Strensham, Worcestershire, England, UK;6225
 4G;234;30;14;26620;17075;161;52.06134870833063;-2.132023572921753;Church Lane, Strensham, Worcestershire, England, UK;6225
+4G;234;30;1;26391;17078;229;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;2;26391;17078;230;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;13;26390;17078;163;51.73709169948979;-2.5195303559303284;Driffield Farm, Driffield Road, Lydney, Forest of Dean, Gloucestershire, England, UK;6225
 4G;234;30;0;26391;17079;78;51.77253898020532;-2.473394349217415;Opposite Kingsland, A48, Blakeney, Forest of Dean, Gloucestershire, England, UK;1617
@@ -11353,7 +11356,7 @@
 4G;234;15;22;24723;20729;462;51.76817248524062;-2.2383802011609077;Randwick Transmitter, Randwick Road, Whiteshill, Stroud, Gloucestershire, England, UK;3501
 4G;234;15;30;24723;20729;200;51.76817248524062;-2.2383802011609077;Randwick Transmitter, Randwick Road, Whiteshill, Stroud, Gloucestershire, England, UK;6300
 4G;234;15;32;24723;20729;464;51.76817248524062;-2.2383802011609077;Randwick Transmitter, Randwick Road, Whiteshill, Stroud, Gloucestershire, England, UK;3501
-4G;234;15;null;24723;20729;485;51.76817248524062;-2.2383802011609077;Randwick Transmitter, Randwick Road, Whiteshill, Stroud, Gloucestershire, England, UK;10220
+4G;234;15;33;24723;20729;485;51.76817248524062;-2.2383802011609077;Randwick Transmitter, Randwick Road, Whiteshill, Stroud, Gloucestershire, England, UK;10220
 4G;234;15;210;24723;20729;433;51.76817248524062;-2.2383802011609077;Randwick Transmitter, Randwick Road, Whiteshill, Stroud, Gloucestershire, England, UK;9360
 4G;234;15;220;24723;20729;434;51.76817248524062;-2.2383802011609077;Randwick Transmitter, Randwick Road, Whiteshill, Stroud, Gloucestershire, England, UK;9360
 4G;234;15;230;24723;20729;432;51.76817248524062;-2.2383802011609077;Randwick Transmitter, Randwick Road, Whiteshill, Stroud, Gloucestershire, England, UK;9360
@@ -12620,19 +12623,19 @@
 4G;234;15;28;24723;22988;null;51.867761539046825;-2.0539897307753563;Lilley Brook Golf Course, Leckhampton Hill, Cirencester Road A435, Leckhampton, Cheltenham, Gloucestershire, England, UK;2850
 4G;234;15;10;57354;23008;352;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;6300
 4G;234;15;12;57354;23008;352;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;3501
+4G;234;15;13;57354;23008;352;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;10220
 4G;234;15;14;57354;23008;352;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;223
 4G;234;15;18;57354;23008;352;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;2850
-4G;234;15;null;57354;23008;352;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;10220
 4G;234;15;20;57354;23008;351;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;6300
 4G;234;15;22;57354;23008;351;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;3501
+4G;234;15;23;57354;23008;351;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;10220
 4G;234;15;24;57354;23008;351;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;223
 4G;234;15;28;57354;23008;351;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;2850
-4G;234;15;null;57354;23008;351;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;10220
 4G;234;15;30;57354;23008;353;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;6300
 4G;234;15;32;57354;23008;353;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;3501
+4G;234;15;33;57354;23008;353;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;10220
 4G;234;15;34;57354;23008;353;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;223
 4G;234;15;38;57354;23008;353;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;2850
-4G;234;15;null;57354;23008;353;53.40602613717536;-2.9790083941377876;Worlds Apart, 58-60 Lime Street A5038, St George's Quarter, Liverpool, Merseyside, England, UK;10220
 4G;234;30;0;26011;23079;239;51.80175059414253;-2.5694455951452255;New Road B4234, Cannop, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;2;26011;23079;238;51.80175059414253;-2.5694455951452255;New Road B4234, Cannop, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;12;26010;23079;244;51.80175059414253;-2.5694455951452255;New Road B4234, Cannop, Forest of Dean, Gloucestershire, England, UK;6225
@@ -12829,7 +12832,7 @@
 4G;234;15;230;57374;23795;413;52.47950704511643;-1.916925497353077;Arena Birmingham South Parking, 91 St Vincent Street, Ladywood, Birmingham, West Midlands, England, UK;9360
 4G;234;15;10;24611;23804;null;;;-;null
 4G;234;15;28;24611;23807;231;;;-;2850
-4G;234;30;1;26391;23810;286;51.76989;-2.51779;Tower Road, Yorkley, Forest of Dean, Gloucestershire, England, UK;1617
+4G;234;30;1;26391;23810;283;51.76989;-2.51779;Tower Road, Yorkley, Forest of Dean, Gloucestershire, England, UK;1617
 4G;234;30;12;26390;23810;297;51.76989;-2.51779;Tower Road, Yorkley, Forest of Dean, Gloucestershire, England, UK;6225
 4G;234;30;13;26390;23810;298;51.76989;-2.51779;Tower Road, Yorkley, Forest of Dean, Gloucestershire, England, UK;6225
 4G;234;30;12;25350;23831;280;51.30811369406958;-2.721567749977112;Rains Batch, Charterhouse, Somerset, England, UK [MBNL];6225
@@ -12869,7 +12872,7 @@
 4G;234;15;22;24723;24009;34;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;3501
 4G;234;15;30;24723;24009;263;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;6300
 4G;234;15;32;24723;24009;35;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;3501
-4G;234;15;null;24723;24009;455;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;10220
+4G;234;15;33;24723;24009;455;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;10220
 4G;234;15;210;24723;24009;501;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;9360
 4G;234;15;220;24723;24009;502;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;9360
 4G;234;15;230;24723;24009;503;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;9360
@@ -13207,10 +13210,10 @@
 4G;234;30;24;24360;25015;444;;;-;1791
 4G;234;15;10;24626;25030;434;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;6300
 4G;234;15;12;24626;25030;331;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;3501
+4G;234;15;13;24626;25030;435;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;10220
 4G;234;15;14;24626;25030;137;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;223
 4G;234;15;16;24626;25030;498;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;1363
 4G;234;15;18;24626;25030;144;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;2850
-4G;234;15;null;24626;25030;435;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;10220
 4G;234;15;20;24626;25030;432;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;6300
 4G;234;15;22;24626;25030;332;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;3501
 4G;234;15;24;24626;25030;136;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;223
@@ -13256,22 +13259,22 @@
 4G;234;15;32;57379;25194;272;;;-;3501
 4G;234;15;10;24723;25215;153;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [GL1 3AX];6300
 4G;234;15;12;24723;25215;381;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [GL1 3AX];3501
+4G;234;15;13;24723;25215;452;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [GL1 3AX];10220
 4G;234;15;14;24723;25215;213;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [GL1 3AX];223
 4G;234;15;16;24723;25215;465;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [GL1 3AX];1363
 4G;234;15;18;24723;25215;438;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [GL1 3AX];2850
-4G;234;15;null;24723;25215;452;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [GL1 3AX];10220
 4G;234;15;20;24723;25215;154;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 150°] [GL1 3AX];6300
 4G;234;15;22;24723;25215;383;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 150°] [GL1 3AX];3501
+4G;234;15;23;24723;25215;451;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 150°] [GL1 3AX];10220
 4G;234;15;24;24723;25215;214;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 150°] [GL1 3AX];223
 4G;234;15;26;24723;25215;466;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 150°] [GL1 3AX];1363
 4G;234;15;28;24723;25215;439;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 150°] [GL1 3AX];2850
-4G;234;15;null;24723;25215;451;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 150°] [GL1 3AX];10220
 4G;234;15;30;24723;25215;155;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 270°] [GL1 3AX];6300
 4G;234;15;32;24723;25215;382;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 270°] [GL1 3AX];3501
+4G;234;15;33;24723;25215;450;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 270°] [GL1 3AX];10220
 4G;234;15;34;24723;25215;215;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 270°] [GL1 3AX];223
 4G;234;15;36;24723;25215;467;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 270°] [GL1 3AX];1363
 4G;234;15;38;24723;25215;440;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 270°] [GL1 3AX];2850
-4G;234;15;null;24723;25215;450;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 270°] [GL1 3AX];10220
 4G;234;15;210;24723;25215;429;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [GL1 3AX];9360
 4G;234;15;212;24723;25215;462;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [GL1 3AX];76
 4G;234;15;220;24723;25215;430;51.870580728306194;-2.2420400753617287;Kingsholm Stadium, Kingsholm Road, Gloucester, Gloucestershire, England, UK [Azimuth 150°] [GL1 3AX];9360
@@ -13376,13 +13379,13 @@
 4G;234;15;232;57348;25460;277;;;-;76
 4G;234;15;10;24723;25482;276;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];6300
 4G;234;15;12;24723;25482;399;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];3501
-4G;234;15;null;24723;25482;444;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];10220
+4G;234;15;13;24723;25482;444;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];10220
 4G;234;15;20;24723;25482;278;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];6300
 4G;234;15;22;24723;25482;400;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];3501
-4G;234;15;null;24723;25482;445;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];10220
+4G;234;15;23;24723;25482;445;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];10220
 4G;234;15;30;24723;25482;277;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];6300
 4G;234;15;32;24723;25482;401;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];3501
-4G;234;15;null;24723;25482;446;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];10220
+4G;234;15;33;24723;25482;446;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];10220
 4G;234;15;210;24723;25482;447;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];9360
 4G;234;15;220;24723;25482;448;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];9360
 4G;234;15;230;24723;25482;449;51.868314;-2.173596;Cornerstone Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];9360
@@ -13555,12 +13558,12 @@
 4G;234;30;6;24363;26092;263;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;3350
 4G;234;30;7;24363;26092;261;51.37836492929096;-2.3942557722330093;Twerton Park, Freeview Road, Twerton, Bath, Bath and North East Somerset, West of England, England, UK;3350
 4G;234;30;4;24371;26111;99;51.49699153971424;-3.147646375000477;Dulux Decorator Centre, 2 Ipswich Road, Wentworth Park Trade Centre, Penylan, Cardiff, Wales, UK [CF23 9AN];1815
-4G;234;30;0;26051;26143;71;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];1617
-4G;234;30;1;26051;26143;70;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];1617
-4G;234;30;2;26051;26143;69;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];1617
-4G;234;30;3;26051;26143;71;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];1815
-4G;234;30;4;26051;26143;70;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];1815
-4G;234;30;5;26051;26143;69;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [GL3 2LQ];1815
+4G;234;30;0;26051;26143;71;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [Site ID 94013] [GL3 2LQ];1617
+4G;234;30;1;26051;26143;70;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [Azimuth 195°] [Site ID 94013] [GL3 2LQ];1617
+4G;234;30;2;26051;26143;69;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [Azimuth 280°] [Site ID 94013] [GL3 2LQ];1617
+4G;234;30;3;26051;26143;71;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [Site ID 94013] [GL3 2LQ];1815
+4G;234;30;4;26051;26143;70;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [Azimuth 195°] [Site ID 94013] [GL3 2LQ];1815
+4G;234;30;5;26051;26143;69;51.868331063471906;-2.17543613165617;Arqiva Chosen Hill Transmitter, Churchdown, Gloucester, Gloucestershire, England, UK [Azimuth 280°] [Site ID 94013] [GL3 2LQ];1815
 4G;234;30;5;26091;26162;45;52.539720830691316;-2.0738032087683678;97 Fountain Lane, Coseley, West Midlands, England, UK;1815
 4G;234;30;6;23541;26176;292;51.494503224432655;-0.1900194212794304;Marriott Hotel Kensington, Knaresborough Place, Earl's Court, Kensington and Chelsea, Greater London, England, UK;3350
 4G;234;30;7;23541;26176;291;51.494503224432655;-0.1900194212794304;Marriott Hotel Kensington, Knaresborough Place, Earl's Court, Kensington and Chelsea, Greater London, England, UK;3350
@@ -13627,11 +13630,11 @@
 4G;234;15;36;24723;26406;502;51.81149879614093;-2.283134199678898;Freemans Event Partners, Unit 11 Gabwell Business Centre, Quadrant Way, Hunts Grove, Gloucester, Gloucestershire, England, UK;1363
 4G;234;15;38;24723;26406;334;51.81149879614093;-2.283134199678898;Freemans Event Partners, Unit 11 Gabwell Business Centre, Quadrant Way, Hunts Grove, Gloucester, Gloucestershire, England, UK;2850
 4G;234;15;210;24723;26406;35;51.81149879614093;-2.283134199678898;Freemans Event Partners, Unit 11 Gabwell Business Centre, Quadrant Way, Hunts Grove, Gloucester, Gloucestershire, England, UK;9360
-4G;234;15;212;24723;26406;null;51.81149879614093;-2.283134199678898;Freemans Event Partners, Unit 11 Gabwell Business Centre, Quadrant Way, Hunts Grove, Gloucester, Gloucestershire, England, UK;76
+4G;234;15;212;24723;26406;482;51.81149879614093;-2.283134199678898;Freemans Event Partners, Unit 11 Gabwell Business Centre, Quadrant Way, Hunts Grove, Gloucester, Gloucestershire, England, UK;76
 4G;234;15;220;24723;26406;33;51.81149879614093;-2.283134199678898;Freemans Event Partners, Unit 11 Gabwell Business Centre, Quadrant Way, Hunts Grove, Gloucester, Gloucestershire, England, UK;9360
-4G;234;15;222;24723;26406;null;51.81149879614093;-2.283134199678898;Freemans Event Partners, Unit 11 Gabwell Business Centre, Quadrant Way, Hunts Grove, Gloucester, Gloucestershire, England, UK;76
+4G;234;15;222;24723;26406;480;51.81149879614093;-2.283134199678898;Freemans Event Partners, Unit 11 Gabwell Business Centre, Quadrant Way, Hunts Grove, Gloucester, Gloucestershire, England, UK;76
 4G;234;15;230;24723;26406;34;51.81149879614093;-2.283134199678898;Freemans Event Partners, Unit 11 Gabwell Business Centre, Quadrant Way, Hunts Grove, Gloucester, Gloucestershire, England, UK;9360
-4G;234;15;232;24723;26406;null;51.81149879614093;-2.283134199678898;Freemans Event Partners, Unit 11 Gabwell Business Centre, Quadrant Way, Hunts Grove, Gloucester, Gloucestershire, England, UK;76
+4G;234;15;232;24723;26406;481;51.81149879614093;-2.283134199678898;Freemans Event Partners, Unit 11 Gabwell Business Centre, Quadrant Way, Hunts Grove, Gloucester, Gloucestershire, England, UK;76
 4G;234;30;0;24363;26474;311;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;1617
 4G;234;30;1;24363;26474;310;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;null
 4G;234;30;2;24363;26474;309;51.37991308894235;-2.3624196276068687;Bath College, Avon Street, Kingsmead, Bath, Bath and North East Somerset, West of England, England, UK;null
@@ -15246,15 +15249,15 @@
 4G;234;30;11;20631;37985;272;53.355684600192546;-2.742980159819126;Desoto Road West, West Bank, Widnes, Merseyside, England, UK;3179
 4G;234;30;24;26080;39249;342;;;-;1791
 4G;234;30;5;26101;39558;482;52.8059956957121;-2.121415436267853;Stafford College, Tenterbanks A5187, Stafford, Staffordshire, England, UK;1815
-4G;234;30;0;26051;39619;63;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];1617
-4G;234;30;1;26051;39619;64;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];1617
-4G;234;30;2;26051;39619;65;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];1617
-4G;234;30;3;26051;39619;261;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];1815
-4G;234;30;4;26051;39619;291;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];1815
-4G;234;30;5;26051;39619;263;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];1815
-4G;234;30;12;26050;39619;348;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];6225
-4G;234;30;13;26050;39619;349;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];6225
-4G;234;30;14;26050;39619;350;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];6225
+4G;234;30;0;26051;39619;63;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 60°] [Site ID 79893] [GL3 3TL];1617
+4G;234;30;1;26051;39619;64;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 180°] [Site ID 79893] [GL3 3TL];1617
+4G;234;30;2;26051;39619;65;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 300°] [Site ID 79893] [GL3 3TL];1617
+4G;234;30;3;26051;39619;261;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 60°] [Site ID 79893] [GL3 3TL];1815
+4G;234;30;4;26051;39619;291;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 180°] [Site ID 79893] [GL3 3TL];1815
+4G;234;30;5;26051;39619;263;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 300°] [Site ID 79893] [GL3 3TL];1815
+4G;234;30;12;26050;39619;348;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 60°] [Site ID 79893] [GL3 3TL];6225
+4G;234;30;13;26050;39619;349;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 180°] [Site ID 79893] [GL3 3TL];6225
+4G;234;30;14;26050;39619;350;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 300°] [Site ID 79893] [GL3 3TL];6225
 4G;234;30;0;26621;39689;477;52.10904396933609;-2.192336730659008;M5 South, High Green, Worcestershire, England, UK;1617
 4G;234;30;1;26621;39689;478;52.10904396933609;-2.192336730659008;M5 South, High Green, Worcestershire, England, UK;1617
 4G;234;30;2;26621;39689;479;52.10904396933609;-2.192336730659008;M5 South, High Green, Worcestershire, England, UK;1617
@@ -15961,16 +15964,18 @@
 4G;234;20;91;2363;54122;288;52.186822825961976;-2.2360315918922424;Our Lady Queen of Peace Church, Bransford Road B4485, St John's, Worcester, Worcestershire, England, UK;9360
 4G;234;20;2;2484;54130;111;;;-;1363
 4G;234;20;93;2484;54130;257;;;-;9360
-4G;234;20;0;2648;54253;21;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];1363
-4G;234;20;1;2648;54253;22;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];1363
-4G;234;20;2;2648;54253;23;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];1363
-4G;234;20;7;2648;54253;427;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];6175
-4G;234;20;71;2648;54253;378;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];76
-4G;234;20;72;2648;54253;379;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];76
-4G;234;20;73;2648;54253;185;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];76
-4G;234;20;91;2648;54253;351;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];9360
-4G;234;20;92;2648;54253;250;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];9360
-4G;234;20;93;2648;54253;449;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [GL3 3TL];9360
+4G;234;20;0;2648;54253;21;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 60°] [GL3 3TL];1363
+4G;234;20;1;2648;54253;22;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 180°] [GL3 3TL];1363
+4G;234;20;2;2648;54253;23;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 300°] [GL3 3TL];1363
+4G;234;20;6;2648;54253;427;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 60°] [GL3 3TL];6175
+4G;234;20;7;2648;54253;427;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 180°] [GL3 3TL];6175
+4G;234;20;8;2648;54253;427;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 300°] [GL3 3TL];6175
+4G;234;20;71;2648;54253;378;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 60°] [GL3 3TL];76
+4G;234;20;72;2648;54253;379;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 180°] [GL3 3TL];76
+4G;234;20;73;2648;54253;185;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 300°] [GL3 3TL];76
+4G;234;20;91;2648;54253;351;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 60°] [GL3 3TL];9360
+4G;234;20;92;2648;54253;250;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 180°] [GL3 3TL];9360
+4G;234;20;93;2648;54253;449;51.857321257637444;-2.1928879246115685;59 Hucclecote Road, Hucclecote, Gloucester, Gloucestershire, England, UK [Azimuth 300°] [GL3 3TL];9360
 4G;234;20;1;2131;54259;172;51.40857701383911;-2.462133765220642;Great Western Main Line, Saltford, Bath and North East Somerset, West of England, England, UK;1363
 4G;234;20;2;2131;54259;173;51.40857701383911;-2.462133765220642;Great Western Main Line, Saltford, Bath and North East Somerset, West of England, England, UK;1363
 4G;234;20;10;3380;54288;502;53.4179697013897;-2.62729447335005;Gemini Retail Park, 910 Europa Blvd, Westbrook, Warrington, Cheshire, England, UK;1392
@@ -16279,21 +16284,21 @@
 4G;234;10;124;17153;102987;385;51.46178974208351;-2.1144594624638557;Chippenham Telephone Exchange, Cocklebury Road, Chippenham, Wiltshire, England, UK;347
 4G;234;10;130;17153;102987;281;51.46178974208351;-2.1144594624638557;Chippenham Telephone Exchange, Cocklebury Road, Chippenham, Wiltshire, England, UK;6400
 4G;234;10;134;17153;102987;386;51.46178974208351;-2.1144594624638557;Chippenham Telephone Exchange, Cocklebury Road, Chippenham, Wiltshire, England, UK;347
-4G;234;10;110;17072;102988;297;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];6400
-4G;234;10;112;17072;102988;372;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];3725
-4G;234;10;114;17072;102988;297;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];347
-4G;234;10;115;17072;102988;440;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];39250
-4G;234;10;117;17072;102988;440;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];39448
-4G;234;10;120;17072;102988;298;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];6400
-4G;234;10;122;17072;102988;373;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];3725
-4G;234;10;124;17072;102988;298;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];347
-4G;234;10;125;17072;102988;438;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];39250
-4G;234;10;127;17072;102988;438;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];39448
-4G;234;10;130;17072;102988;299;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];6400
-4G;234;10;132;17072;102988;374;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];3725
-4G;234;10;134;17072;102988;299;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];347
-4G;234;10;135;17072;102988;439;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];39250
-4G;234;10;137;17072;102988;439;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [GL1 2SQ];39448
+4G;234;10;110;17072;102988;297;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 90°] [Site ID 505848] [GL1 2SQ];6400
+4G;234;10;112;17072;102988;372;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 90°] [Site ID 505848] [GL1 2SQ];3725
+4G;234;10;114;17072;102988;297;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 90°] [Site ID 505848] [GL1 2SQ];347
+4G;234;10;115;17072;102988;440;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 90°] [Site ID 505848] [GL1 2SQ];39250
+4G;234;10;117;17072;102988;440;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 90°] [Site ID 505848] [GL1 2SQ];39448
+4G;234;10;120;17072;102988;298;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 210°] [Site ID 505848] [GL1 2SQ];6400
+4G;234;10;122;17072;102988;373;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 210°] [Site ID 505848] [GL1 2SQ];3725
+4G;234;10;124;17072;102988;298;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 210°] [Site ID 505848] [GL1 2SQ];347
+4G;234;10;125;17072;102988;438;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 210°] [Site ID 505848] [GL1 2SQ];39250
+4G;234;10;127;17072;102988;438;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 210°] [Site ID 505848] [GL1 2SQ];39448
+4G;234;10;130;17072;102988;299;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 330°] [Site ID 505848] [GL1 2SQ];6400
+4G;234;10;132;17072;102988;374;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 330°] [Site ID 505848] [GL1 2SQ];3725
+4G;234;10;134;17072;102988;299;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 330°] [Site ID 505848] [GL1 2SQ];347
+4G;234;10;135;17072;102988;439;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 330°] [Site ID 505848] [GL1 2SQ];39250
+4G;234;10;137;17072;102988;439;51.87237300979044;-2.2465944662690163;19 Mercia Road, St Oswalds Road A417, Gloucester, Gloucestershire, England, UK [Azimuth 330°] [Site ID 505848] [GL1 2SQ];39448
 4G;234;10;110;17072;103011;150;51.91872826899301;-2.1075621619820595;A4019, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;114;17072;103011;102;51.91872826899301;-2.1075621619820595;A4019, Cheltenham, Gloucestershire, England, UK;347
 4G;234;10;120;17072;103011;148;51.91872826899301;-2.1075621619820595;A4019, Cheltenham, Gloucestershire, England, UK;6400
@@ -16335,7 +16340,7 @@
 4G;234;10;130;17072;103262;200;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;6400
 4G;234;10;132;17072;103262;433;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;3725
 4G;234;10;134;17072;103262;17;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;347
-4G;234;10;136;17072;103262;433;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;3725
+4G;234;10;136;17072;103262;433;51.800986163717035;-2.2899865731596947;Hiltmead Lane, Off Bath Road A430, Hardwicke, Gloucester, Gloucestershire, England, UK;1226
 4G;234;10;110;17072;103263;450;51.89345934814277;-2.091987244784832;Polefield House, Hatherley Road, Lansdown, Cheltenham, Gloucestershire, England, UK;6400
 4G;234;10;114;17072;103263;392;51.89345934814277;-2.091987244784832;Polefield House, Hatherley Road, Lansdown, Cheltenham, Gloucestershire, England, UK;347
 4G;234;10;120;17072;103263;451;51.89345934814277;-2.091987244784832;Polefield House, Hatherley Road, Lansdown, Cheltenham, Gloucestershire, England, UK;6400
@@ -17970,15 +17975,18 @@
 4G;234;10;132;49920;117096;81;53.31986401694817;-2.685115523636341;Woodside Playing Fields, Palacefields Avenue, Brookvale, Runcorn, Cheshire, England, UK;3725
 4G;234;10;134;49920;117096;81;53.31986401694817;-2.685115523636341;Woodside Playing Fields, Palacefields Avenue, Brookvale, Runcorn, Cheshire, England, UK;347
 4G;234;10;132;16625;117147;329;51.51000137320367;-2.5996995717287064;Pen Park Road, Southmead, Bristol, West of England, England, UK;3725
-4G;234;10;110;17073;117213;62;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;6400
-4G;234;10;112;17073;117213;62;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;3725
-4G;234;10;114;17073;117213;62;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;347
-4G;234;10;120;17073;117213;60;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;6400
-4G;234;10;122;17073;117213;60;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;3725
-4G;234;10;124;17073;117213;60;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;347
-4G;234;10;130;17073;117213;61;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;6400
-4G;234;10;132;17073;117213;61;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;3725
-4G;234;10;134;17073;117213;61;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;347
+4G;234;10;110;17073;117213;466;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;6400
+4G;234;10;112;17073;117213;466;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;3725
+4G;234;10;114;17073;117213;466;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;347
+4G;234;10;116;17073;117213;466;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;1226
+4G;234;10;120;17073;117213;465;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;6400
+4G;234;10;122;17073;117213;465;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;3725
+4G;234;10;124;17073;117213;465;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;347
+4G;234;10;126;17073;117213;465;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;1226
+4G;234;10;130;17073;117213;467;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;6400
+4G;234;10;132;17073;117213;467;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;3725
+4G;234;10;134;17073;117213;467;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;347
+4G;234;10;136;17073;117213;467;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;1226
 4G;234;10;110;17072;117246;414;52.04753479792539;-2.1409157663583755;Twyning Road, Strensham Business Park, Strensham, Worcestershire, England, UK;6400
 4G;234;10;112;17072;117246;73;52.04753479792539;-2.1409157663583755;Twyning Road, Strensham Business Park, Strensham, Worcestershire, England, UK;3725
 4G;234;10;114;17072;117246;127;52.04753479792539;-2.1409157663583755;Twyning Road, Strensham Business Park, Strensham, Worcestershire, England, UK;347
@@ -18021,18 +18029,18 @@
 4G;234;10;130;16576;117424;179;51.48488662664157;-1.5587929263710976;Membury Transmitter, Welcome Break M4 Membury Services Eastbound, Lambourn Woodlands, Berkshire, England, UK [RG17 7TR];6400
 4G;234;10;132;16576;117424;392;51.48488662664157;-1.5587929263710976;Membury Transmitter, Welcome Break M4 Membury Services Eastbound, Lambourn Woodlands, Berkshire, England, UK [RG17 7TR];3725
 4G;234;10;134;16576;117424;179;51.48488662664157;-1.5587929263710976;Membury Transmitter, Welcome Break M4 Membury Services Eastbound, Lambourn Woodlands, Berkshire, England, UK [RG17 7TR];347
-4G;234;10;110;16625;117480;425;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;6400
-4G;234;10;112;16625;117480;425;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;3725
-4G;234;10;114;16625;117480;425;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;347
-4G;234;10;116;16625;117480;425;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;1226
-4G;234;10;120;16625;117480;423;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;6400
-4G;234;10;122;16625;117480;423;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;3725
-4G;234;10;124;16625;117480;423;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;347
-4G;234;10;126;16625;117480;423;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;1226
-4G;234;10;130;16625;117480;424;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;6400
-4G;234;10;132;16625;117480;424;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;3725
-4G;234;10;134;16625;117480;424;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;347
-4G;234;10;136;16625;117480;424;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;1226
+4G;234;10;110;17073;117480;425;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;6400
+4G;234;10;112;17073;117480;425;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;3725
+4G;234;10;114;17073;117480;425;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;347
+4G;234;10;116;17073;117480;425;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;1226
+4G;234;10;120;17073;117480;423;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;6400
+4G;234;10;122;17073;117480;423;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;3725
+4G;234;10;124;17073;117480;423;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;347
+4G;234;10;126;17073;117480;423;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;1226
+4G;234;10;130;17073;117480;424;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;6400
+4G;234;10;132;17073;117480;424;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;3725
+4G;234;10;134;17073;117480;424;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;347
+4G;234;10;136;17073;117480;424;51.571969194898486;-2.580336704850197;Awkley Interchange J0, M48 East, Awkley, South Gloucestershire, West of England, England, UK;1226
 4G;234;10;110;17073;117491;471;51.55537917562883;-3.007953241467476;South Wales Main Line, Cuckoo Bridge Road, Duffryn, Newport, Wales, UK;6400
 4G;234;10;120;17073;117491;473;51.55537917562883;-3.007953241467476;South Wales Main Line, Cuckoo Bridge Road, Duffryn, Newport, Wales, UK;6400
 4G;234;10;110;17073;117501;393;51.6481159;-2.6506056;Tump Farm, Sedbury Lane, Sedbury, Chepstow, Forest of Dean, Gloucestershire, England, UK;6400
@@ -18576,9 +18584,9 @@
 4G;234;10;135;17072;123383;346;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;39250
 4G;234;10;137;17072;123383;346;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;39448
 4G;234;10;139;17072;123383;326;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;38100
-4G;234;10;215;17072;123383;null;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;37900
-4G;234;10;225;17072;123383;null;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;37900
-4G;234;10;235;17072;123383;null;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;37900
+4G;234;10;215;17072;123383;324;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;37900
+4G;234;10;225;17072;123383;325;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;37900
+4G;234;10;235;17072;123383;326;51.83802404848201;-2.267405390739441;Ashmore House, Corolin Road, Lower Tuffley Lane, Gloucester, Gloucestershire, England, UK;37900
 4G;234;10;115;17072;123629;283;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;39250
 4G;234;10;117;17072;123629;283;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;39448
 4G;234;10;119;17072;123629;null;51.88806949795935;-2.2137897089123726;Unit 3d2 Innsworth Technology Park, Drymeadow Lane, Innsworth, Gloucester, Gloucestershire, England, UK;38100
@@ -18789,6 +18797,12 @@
 4G;234;10;235;16624;124220;51;51.65804228506359;-2.4316608533263206;Welcome Break M5 Michaelwood Services Northbound, Woodford, Gloucestershire, England, UK;37900
 4G;234;10;115;16625;124412;413;51.5253544910666;-2.5264913588762283;Old Gloucester Rd, Winterbourne, Bristol, West of England, England, UK;39250
 4G;234;10;125;16625;124412;412;51.5253544910666;-2.5264913588762283;Old Gloucester Rd, Winterbourne, Bristol, West of England, England, UK;39250
+4G;234;10;115;17073;124443;466;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;39250
+4G;234;10;117;17073;124443;466;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;39448
+4G;234;10;125;17073;124443;465;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;39250
+4G;234;10;127;17073;124443;465;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;39448
+4G;234;10;135;17073;124443;467;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;39250
+4G;234;10;137;17073;124443;467;51.60369237599066;-2.6252730935811996;Bridge Access Road, M48 West, Aust, South Gloucestershire, West of England, England, UK;39448
 4G;234;10;110;50017;124640;329;53.7743757906061;-2.6722989231348;8 Park Close, Preston, Lancashire, England, UK;6400
 4G;234;10;112;50017;124640;329;53.7743757906061;-2.6722989231348;8 Park Close, Preston, Lancashire, England, UK;3725
 4G;234;10;120;50017;124640;327;53.7743757906061;-2.6722989231348;8 Park Close, Preston, Lancashire, England, UK;6400
@@ -18855,6 +18869,7 @@
 4G;234;10;215;17072;124917;405;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];37900
 4G;234;10;225;17072;124917;407;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];37900
 4G;234;10;235;17072;124917;406;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];37900
+4G;234;10;134;16625;125063;439;51.482089259486386;-2.438002936542034;Unit 11a, Becket Court, Pucklechurch Trading Estate, Pucklechurch, South Gloucestershire, West of England, England, UK [Cornerstone] [BS16 9QH];347
 4G;234;10;135;16625;125063;263;51.482089259486386;-2.438002936542034;Unit 11a, Becket Court, Pucklechurch Trading Estate, Pucklechurch, South Gloucestershire, West of England, England, UK [Cornerstone] [BS16 9QH];39250
 4G;234;10;114;17072;125091;365;51.84446406809855;-2.2197874635457993;Gloucester Academy, Painswick Road B4073, Gloucester, Gloucestershire, England, UK;347
 4G;234;10;115;17072;125091;365;51.84446406809855;-2.2197874635457993;Gloucester Academy, Painswick Road B4073, Gloucester, Gloucestershire, England, UK;39250
