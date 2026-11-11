@@ -4,15 +4,18 @@ A NetMonster database of cellular transmitters across a limited area in the UK. 
 
 Importing instructions available at https://experiencersinternational.com/2026/05/04/netmonster-import/.
 
+> **NOTICE:** There is a chance that this project does get discontinued in the future. I have recently been testing a global version of Poland's BTSearch facility and I believe that sets out to do what I originally intended to do. Whilst some things may be different, they have an ability for users to download their database to their device in various different software (not just NetMonster) and their data sounds like it will be licensed under a fair license if users do want to modify the contents. For a similar look to NetMonsterUKDatabase, you should be able to input `{structure_note}, {address}, {city}, UK [Azimuth {sector_azimuth}] [Site ID {station_id}] [{cell_type}]` when exporting.
+
 ## Supported areas
 
 These areas should have at least 10% coverage on at least one operator on 4G. This will probably get added to in the future. Some of these areas may be limited to something as simple as sites along a major road or railway, so this does not guarantee that you will have any data in your specific area.
 
 Aberaeron, Abergavenny, Barry, Barton-upon-Humber, Bath, Beaconsfield, Birmingham (City Centre), Blackburn, Boston, Brecon, Bristol, Bromsgrove, Brough, Burford, Caldicot, Cardiff, Cardigan, Carterton, Cheltenham, Chepstow, Chippenham, Cinderford, Cirencester, Clevedon, Coleford, Cromer, Darlington, Derby, Doncaster, Dursley, Edinburgh, Frome, Galashiels, Gloucester, Goole, Hebden Bridge, Hessle, High Wycombe, Huddersfield, Hull, Keynsham, Lampeter, Ledbury, Liverpool, Livingston, Llandovery, Lydney, Manchester, Mitcheldean, Monmouth, Musselburgh, Newport, New Quay (Ceredigion), Norwich, Oxford, Portishead, Preston, Reading, Ross-on-Wye, Rotherham, Sheffield, Sheringham, Slough, Spalding, Staines-upon-Thames, Stonehouse, Stroud, Swindon, Tamworth, Tewkesbury, Trowbridge, Wakefield, Wells, Windsor, Wishaw, Witney, Worcester, Weston-super-mare, Yate, York
 
-<img width="1777" height="1548" alt="A OpenStreetMap map with various coloured points for each network, with a lot of blue primarily for O2. You can see from around Brighton to Corrour." title="A OpenStreetMap map with various coloured points for each network, with a lot of blue primarily for O2. You can see from around Brighton to Corrour." src="https://github.com/user-attachments/assets/2f8a6516-4b30-4f44-af15-684e48583405" />
+<img width="1548" height="1575" alt="A OpenStreetMap map with various coloured points for each network, with a lot of blue primarily for O2. You can see from around Brighton to Corrour, large areas are covered like North Somerset to Edinburgh." src="https://github.com/user-attachments/assets/a6a4fbd1-466b-44e5-81b1-29b3a0a7e796" />
 
-> **Note:** Please note that the map will display blank when importing the database. NetMonster only shows sites and cells on the map after you have picked them up. If you're in a supported area, you should start filling out the map quickly but it may take longer. You can always check what cells are on the map by importing the NTM file into QGIS. External websites also exist for viewing data but data may not be up to date on those sites. Map of mapped sites last updated 2026-07-07.
+
+> **Note:** Please note that the map will display blank when importing the database. NetMonster only shows sites and cells on the map after you have picked them up. If you're in a supported area, you should start filling out the map quickly but it may take longer. You can always check what cells are on the map by importing the NTM file into QGIS. External websites also exist for viewing data but data may not be up to date on those sites. Map of mapped sites last updated 2026-10-20.
 
 ## Supported networks
 
