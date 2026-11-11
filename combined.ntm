@@ -67,7 +67,7 @@
 2G;234;15;5839;131;0;48;;;-;18
 2G;234;30;6173;2467;0;34;53.40491774605326;-2.991894520819187;Liverpool James Street Railway Station DAS System, James Street A5039, City Centre, Liverpool, Merseyside, England, UK;665
 2G;234;15;6334;null;0;45;;;-;10
-2G;234;10;6573;18030;0;63;52.1033081;-4.5463332;Lady Road, Blaenporth, Ceredigion, Wales, UK [SA43 2BG];119
+2G;234;10;6573;18030;0;63;52.1033081;-4.5463332;Lady Road, Blaenporth, Ceredigion, Wales, UK [Site ID 006573] [SA43 2BG];119
 2G;234;30;6585;2605;0;10;;;-;660
 2G;234;30;6586;2605;0;10;;;-;646
 2G;234;30;6634;2605;0;10;;;-;665
@@ -6816,18 +6816,18 @@
 4G;234;30;2;20641;11094;378;53.44011887791374;-3.044203631579876;3-5 Union Terrace, Marine Promenade, New Brighton, Wallasey, Merseyside, England, UK;1617
 4G;234;30;3;20641;11094;471;53.44011887791374;-3.044203631579876;3-5 Union Terrace, Marine Promenade, New Brighton, Wallasey, Merseyside, England, UK;1815
 4G;234;30;5;20641;11094;492;53.44011887791374;-3.044203631579876;3-5 Union Terrace, Marine Promenade, New Brighton, Wallasey, Merseyside, England, UK;1815
-4G;234;20;0;2123;11096;351;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];1363
+4G;234;20;0;2123;11096;351;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 0°] [GL4 6PH];1363
 4G;234;30;0;24671;11096;378;53.4060266484392;-2.89317078888416;58 Orchard Ave, Liverpool, Merseyside, England, UK;1617
-4G;234;20;1;2123;11096;88;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];1363
+4G;234;20;1;2123;11096;88;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 120°] [GL4 6PH];1363
 4G;234;30;1;24671;11096;379;53.4060266484392;-2.89317078888416;58 Orchard Ave, Liverpool, Merseyside, England, UK;1617
-4G;234;20;2;2123;11096;455;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];1363
+4G;234;20;2;2123;11096;455;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 240°] [GL4 6PH];1363
 4G;234;30;2;24671;11096;380;53.4060266484392;-2.89317078888416;58 Orchard Ave, Liverpool, Merseyside, England, UK;1617
-4G;234;20;6;2123;11096;132;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];6175
-4G;234;20;7;2123;11096;118;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];6175
-4G;234;20;8;2123;11096;134;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];6175
-4G;234;20;91;2123;11096;60;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];9360
-4G;234;20;92;2123;11096;487;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];9360
-4G;234;20;93;2123;11096;452;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];9360
+4G;234;20;6;2123;11096;132;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 0°] [GL4 6PH];6175
+4G;234;20;7;2123;11096;118;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 120°] [GL4 6PH];6175
+4G;234;20;8;2123;11096;134;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 240°] [GL4 6PH];6175
+4G;234;20;91;2123;11096;60;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 0°] [GL4 6PH];9360
+4G;234;20;92;2123;11096;487;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 120°] [GL4 6PH];9360
+4G;234;20;93;2123;11096;452;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 240°] [GL4 6PH];9360
 4G;234;20;0;2214;11100;444;51.432775627227684;-2.643667347729206;A370, Long Ashton, North Somerset, England, UK;1363
 4G;234;30;1;24671;11101;390;53.374703230853164;-2.95840747654438;Festival Gardens, Riverside Drive, Dingle, Liverpool, Merseyside, England, UK;1617
 4G;234;20;0;2178;11114;177;52.05785;-2.70399;Rockfield Road, Rockfield Industrial Estate, Portfields, Hereford, Herefordshire, England, UK;1363
@@ -9662,6 +9662,7 @@
 4G;234;15;28;24723;16484;213;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];2850
 4G;234;15;30;24723;16484;164;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];6300
 4G;234;15;32;24723;16484;322;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];3501
+4G;234;15;33;24723;16484;409;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];10220
 4G;234;15;34;24723;16484;308;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];223
 4G;234;15;36;24723;16484;494;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];1363
 4G;234;15;38;24723;16484;215;51.86265412913718;-2.240189015865326;Eastgate House, 121-131 Eastgate Street, Gloucester, Gloucestershire, England, UK [GL1 1PX];2850
@@ -13164,16 +13165,19 @@
 4G;234;15;232;57348;24908;442;;;-;76
 4G;234;15;10;24723;24918;90;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];6300
 4G;234;15;12;24723;24918;477;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];3501
+4G;234;15;13;24723;24918;474;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];10220
 4G;234;15;14;24723;24918;366;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];223
 4G;234;15;16;24723;24918;450;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];1363
 4G;234;15;18;24723;24918;45;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];2850
 4G;234;15;20;24723;24918;92;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];6300
 4G;234;15;22;24723;24918;478;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];3501
+4G;234;15;23;24723;24918;475;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];10220
 4G;234;15;24;24723;24918;368;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];223
 4G;234;15;26;24723;24918;451;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];1363
 4G;234;15;28;24723;24918;47;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];2850
 4G;234;15;30;24723;24918;91;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];6300
 4G;234;15;32;24723;24918;479;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];3501
+4G;234;15;33;24723;24918;476;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];10220
 4G;234;15;34;24723;24918;367;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];223
 4G;234;15;36;24723;24918;452;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];1363
 4G;234;15;38;24723;24918;46;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];2850
@@ -13851,21 +13855,21 @@
 4G;234;30;19;25241;27818;383;52.65161453956309;1.2828509509563446;4 Arminghall Cl, Norwich, Norfolk, England, UK;497
 4G;234;30;20;25241;27818;381;52.65161453956309;1.2828509509563446;4 Arminghall Cl, Norwich, Norfolk, England, UK;497
 4G;234;30;7;24672;27876;289;53.4077241245264;-2.95089729130268;145 Edge Ln, Edge Hill, Liverpool, Merseyside, England, UK;3350
-4G;234;30;0;26051;27897;153;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];1617
-4G;234;30;1;26051;27897;154;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];1617
-4G;234;30;2;26051;27897;155;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];1617
-4G;234;30;3;26051;27897;153;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];1815
-4G;234;30;4;26051;27897;154;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];1815
-4G;234;30;5;26051;27897;155;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];1815
-4G;234;30;6;26051;27897;153;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];3350
-4G;234;30;7;26051;27897;154;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];3350
-4G;234;30;8;26051;27897;155;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];3350
-4G;234;30;9;26051;27897;153;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];3179
-4G;234;30;10;26051;27897;154;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];3179
-4G;234;30;11;26051;27897;155;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];3179
-4G;234;30;12;26050;27897;486;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];6225
-4G;234;30;13;26050;27897;487;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];6225
-4G;234;30;14;26050;27897;488;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [MBNL];6225
+4G;234;30;0;26051;27897;153;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [Site ID 54725] [MBNL Site ID GLO002] [MBNL] [GL1 5JQ];1617
+4G;234;30;1;26051;27897;154;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Azimuth 150°] [Site ID 54725] [MBNL Site ID GLO002] [MBNL] [GL1 5JQ];1617
+4G;234;30;2;26051;27897;155;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Azimuth 270°] [Site ID 54725] [MBNL Site ID GLO002] [MBNL] [GL1 5JQ];1617
+4G;234;30;3;26051;27897;153;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [Site ID 54725] [MBNL Site ID GLO002] [MBNL] [GL1 5JQ];1815
+4G;234;30;4;26051;27897;154;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Azimuth 150°] [Site ID 54725] [MBNL Site ID GLO002] [MBNL] [GL1 5JQ];1815
+4G;234;30;5;26051;27897;155;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Azimuth 270°] [Site ID 54725] [MBNL Site ID GLO002] [MBNL] [GL1 5JQ];1815
+4G;234;30;6;26051;27897;153;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [Site ID 54725] [MBNL Site ID GLO002] [MBNL] [GL1 5JQ];3350
+4G;234;30;7;26051;27897;154;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Azimuth 150°] [Site ID 54725] [MBNL Site ID GLO002] [MBNL] [GL1 5JQ];3350
+4G;234;30;8;26051;27897;155;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Azimuth 270°] [Site ID 54725] [MBNL Site ID GLO002] [MBNL] [GL1 5JQ];3350
+4G;234;30;9;26051;27897;153;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [Site ID 54725] [MBNL Site ID GLO002] [MBNL] [GL1 5JQ];3179
+4G;234;30;10;26051;27897;154;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Azimuth 150°] [Site ID 54725] [MBNL Site ID GLO002] [MBNL] [GL1 5JQ];3179
+4G;234;30;11;26051;27897;155;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Azimuth 270°] [Site ID 54725] [MBNL Site ID GLO002] [MBNL] [GL1 5JQ];3179
+4G;234;30;12;26050;27897;486;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Azimuth 30°] [Site ID 54725] [MBNL Site ID GLO002] [MBNL] [GL1 5JQ];6225
+4G;234;30;13;26050;27897;487;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Azimuth 150°] [Site ID 54725] [MBNL Site ID GLO002] [MBNL] [GL1 5JQ];6225
+4G;234;30;14;26050;27897;488;51.85228079730286;-2.242361605167389;Nelson Foster Memorial, Stroud Road B4072, Gloucester, Gloucestershire, England, UK [Azimuth 270°] [Site ID 54725] [MBNL Site ID GLO002] [MBNL] [GL1 5JQ];6225
 4G;234;30;13;24390;27917;384;51.44592101099747;-2.8151651099324226;Nortons Wood, Clevedon, North Somerset, England, UK [Cornerstone];6225
 4G;234;30;19;24391;27917;423;51.44592101099747;-2.8151651099324226;Nortons Wood, Clevedon, North Somerset, England, UK [Cornerstone];497
 4G;234;30;3;24391;27984;117;51.356788415011124;-2.7881351485848427;Churchill Substation, Iwood Lane, Stock, North Somerset, England, UK;1815
@@ -14752,21 +14756,21 @@
 4G;234;30;12;26050;32961;420;51.83431195476234;-2.1877310425043106;Bowden Hall Hotel, Nut Hill, Bondend Lane, Upton St. Leonards, Gloucester, Gloucestershire, England, UK;6225
 4G;234;30;13;26050;32961;421;51.83431195476234;-2.1877310425043106;Bowden Hall Hotel, Nut Hill, Bondend Lane, Upton St. Leonards, Gloucester, Gloucestershire, England, UK;6225
 4G;234;30;14;26050;32961;422;51.83431195476234;-2.1877310425043106;Bowden Hall Hotel, Nut Hill, Bondend Lane, Upton St. Leonards, Gloucester, Gloucestershire, England, UK;6225
-4G;234;30;0;26051;32985;166;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];1617
-4G;234;30;1;26051;32985;165;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];1617
-4G;234;30;2;26051;32985;167;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];1617
-4G;234;30;3;26051;32985;166;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];1815
-4G;234;30;4;26051;32985;165;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];1815
-4G;234;30;5;26051;32985;167;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];1815
-4G;234;30;6;26051;32985;166;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];3350
-4G;234;30;7;26051;32985;165;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];3350
-4G;234;30;8;26051;32985;167;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];3350
-4G;234;30;9;26051;32985;399;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];3179
-4G;234;30;10;26051;32985;400;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];3179
-4G;234;30;11;26051;32985;401;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];3179
-4G;234;30;12;26050;32985;382;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];6225
-4G;234;30;13;26050;32985;381;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];6225
-4G;234;30;14;26050;32985;383;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [GL4 6PH];6225
+4G;234;30;0;26051;32985;166;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 0°] [Site ID 15133] [GL4 6PH];1617
+4G;234;30;1;26051;32985;165;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 120°] [Site ID 15133] [GL4 6PH];1617
+4G;234;30;2;26051;32985;167;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 240°] [Site ID 15133] [GL4 6PH];1617
+4G;234;30;3;26051;32985;166;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 0°] [Site ID 15133] [GL4 6PH];1815
+4G;234;30;4;26051;32985;165;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 120°] [Site ID 15133] [GL4 6PH];1815
+4G;234;30;5;26051;32985;167;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 240°] [Site ID 15133] [GL4 6PH];1815
+4G;234;30;6;26051;32985;166;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 0°] [Site ID 15133] [GL4 6PH];3350
+4G;234;30;7;26051;32985;165;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 120°] [Site ID 15133] [GL4 6PH];3350
+4G;234;30;8;26051;32985;167;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 240°] [Site ID 15133] [GL4 6PH];3350
+4G;234;30;9;26051;32985;399;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 0°] [Site ID 15133] [GL4 6PH];3179
+4G;234;30;10;26051;32985;400;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 120°] [Site ID 15133] [GL4 6PH];3179
+4G;234;30;11;26051;32985;401;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 240°] [Site ID 15133] [GL4 6PH];3179
+4G;234;30;12;26050;32985;382;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 0°] [Site ID 15133] [GL4 6PH];6225
+4G;234;30;13;26050;32985;381;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 120°] [Site ID 15133] [GL4 6PH];6225
+4G;234;30;14;26050;32985;383;51.855811456708956;-2.2255656123161316;25 Chase Lane, Chase Lane Industrial Estate, Gloucester, Gloucestershire, England, UK [Azimuth 240°] [Site ID 15133] [GL4 6PH];6225
 4G;234;30;0;20241;33008;280;51.87830;-0.38292;Percival Way, Hart Hill, Luton, Bedfordshire, England, UK [LU2 9PA];1617
 4G;234;30;1;20241;33008;279;51.87830;-0.38292;Percival Way, Hart Hill, Luton, Bedfordshire, England, UK [LU2 9PA];1617
 4G;234;30;2;20241;33008;281;51.87830;-0.38292;Percival Way, Hart Hill, Luton, Bedfordshire, England, UK [LU2 9PA];1617
@@ -16359,18 +16363,24 @@
 4G;234;10;132;17072;103264;55;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;3725
 4G;234;10;134;17072;103264;472;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;347
 4G;234;10;136;17072;103264;55;51.90105821170483;-2.096872888505459;Autofour Precision Engineering, Alstone Lane Trading Estate, Alstone, Cheltenham, Gloucestershire, England, UK;1226
-4G;234;10;110;17072;103364;266;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];6400
-4G;234;10;112;17072;103364;221;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];3725
-4G;234;10;114;17072;103364;444;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];347
-4G;234;10;117;17072;103364;239;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];39448
-4G;234;10;120;17072;103364;264;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];6400
-4G;234;10;122;17072;103364;219;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];3725
-4G;234;10;124;17072;103364;445;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];347
-4G;234;10;127;17072;103364;237;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];39448
-4G;234;10;130;17072;103364;265;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];6400
-4G;234;10;132;17072;103364;220;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];3725
-4G;234;10;134;17072;103364;446;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];347
-4G;234;10;137;17072;103364;238;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];39448
+4G;234;10;114;17072;103364;219;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];347
+4G;234;10;115;17072;103364;219;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];39250
+4G;234;10;116;17072;103364;219;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];1226
+4G;234;10;117;17072;103364;219;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];39448
+4G;234;10;119;17072;103364;219;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];38100
+4G;234;10;124;17072;103364;221;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];347
+4G;234;10;125;17072;103364;221;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];39250
+4G;234;10;126;17072;103364;221;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];1226
+4G;234;10;127;17072;103364;221;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];39448
+4G;234;10;129;17072;103364;221;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];38100
+4G;234;10;134;17072;103364;220;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];347
+4G;234;10;135;17072;103364;220;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];39250
+4G;234;10;136;17072;103364;220;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];1226
+4G;234;10;137;17072;103364;220;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];39448
+4G;234;10;139;17072;103364;220;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];38100
+4G;234;10;215;17072;103364;219;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];38100
+4G;234;10;225;17072;103364;221;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];38100
+4G;234;10;235;17072;103364;220;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];38100
 4G;234;10;110;17072;103615;132;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];6400
 4G;234;10;114;17072;103615;182;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];347
 4G;234;10;117;17072;103615;158;51.863930984220964;-2.1975747495889664;Barnett Way, Barnwood, Gloucester, Gloucestershire, England, UK [Cornerstone];39448
@@ -19111,6 +19121,12 @@
 4G;234;10;130;49809;125757;34;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;6400
 4G;234;10;132;49809;125757;34;52.177276077899116;-2.1734972298145294;Brewers Lane, Whittington, Worcester, Worcestershire, England, UK;3725
 4G;234;10;130;49809;125758;464;52.13026550003235;-2.2018471732735634;M5 North, Bestmans Lane, Kempsey, Worcestershire, England, UK;6400
+4G;234;10;110;17072;125844;219;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];6400
+4G;234;10;112;17072;125844;219;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];3725
+4G;234;10;120;17072;125844;221;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];6400
+4G;234;10;122;17072;125844;221;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];3725
+4G;234;10;130;17072;125844;220;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];6400
+4G;234;10;132;17072;125844;220;51.896561405451706;-2.07557313144207;Oriel House, 1 Oriel Road A46, Montpellier, Cheltenham, Gloucestershire, England, UK [GL50 1XN];3725
 4G;234;10;114;16544;125942;215;51.596425083266546;-1.7543581500649452;Kingsdown Park, Swindon, Wiltshire, England, UK;347
 4G;234;10;115;16544;125942;215;51.596425083266546;-1.7543581500649452;Kingsdown Park, Swindon, Wiltshire, England, UK;39250
 4G;234;10;116;16544;125942;215;51.596425083266546;-1.7543581500649452;Kingsdown Park, Swindon, Wiltshire, England, UK;1226
@@ -24600,9 +24616,9 @@
 5G;234;10;217940493;116625;0;130;51.56497714739668;-2.649778425693512;Severn Road A403, Redwick, South Gloucestershire, West of England, England, UK [Cornerstone];152690
 5G;234;10;217940503;116625;0;131;51.56497714739668;-2.649778425693512;Severn Road A403, Redwick, South Gloucestershire, West of England, England, UK [Cornerstone];152690
 5G;234;10;219870598;104224;0;174;51.65078;-0.40159;Watford Football Club, Vicarage Road Stadium, Vicarage Road A4145, Holywell Estate, Watford, Hertfordshire, England, UK;648768
-5G;234;10;221544963;117072;0;null;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];152690
+5G;234;10;221544963;117072;0;985;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];152690
 5G;234;10;221544973;117072;0;986;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];152690
-5G;234;10;221544983;117072;0;null;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];152690
+5G;234;10;221544983;117072;0;984;51.846262361211636;-2.186792939901352;Green Lane Nature Reserve, Lobleys Drive, M5 North, Abbeymead, Gloucester, Gloucestershire, England, UK [Cornerstone] [GL3 3RW];152690
 5G;234;10;230326787;116624;0;6;51.7721786;-2.3645755;Bridge Road B4071, Frampton on Severn, Stroud, Gloucestershire, England, UK;152690
 5G;234;10;230326797;116624;0;8;51.7721786;-2.3645755;Bridge Road B4071, Frampton on Severn, Stroud, Gloucestershire, England, UK;152690
 5G;234;10;230326807;116624;0;7;51.7721786;-2.3645755;Bridge Road B4071, Frampton on Severn, Stroud, Gloucestershire, England, UK;152690
